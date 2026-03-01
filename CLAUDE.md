@@ -75,17 +75,42 @@ Each non-index page has a `← Calendar` back link as `position: absolute; top: 
 - Cabinet drawers are all uniform `linear-gradient(135deg, #8B5E3C, #6B3E1C)` — do NOT add nth-child color variations. Selected drawer shows orange overlay via `.drawer-inner { background: rgba(232, 120, 20, 0.55) }`.
 - Category cards show **2 per screen** (`height: calc((100vh - 8rem) / 2)`). Card layout is a flex column: author → text (natural height, scrolls if long) → media (`flex: 1`, fills remaining space, `height: 100%` on img/video) → footer. Do not add `flex: 1` to `.cat-card-text` or fixed heights to `.cat-card-images`.
 
-## Category Drag-and-Drop Pattern (categories.html)
-Cards can be dragged from the right panel onto a different drawer to refile a tweet. Key implementation details:
-- `dragState = { tweetId, sourceCategory, dropSucceeded }` is the shared state (scoped to `init()`)
-- `dragstart` builds a 1/4-size ghost with `setDragImage`, then collapses the card to `height:0` so the next card slides up — do NOT use `opacity` alone (keeps the space)
-- `dragend` with `dropSucceeded=false` restores by calling `renderCards()` — no need to un-collapse the DOM node, just re-render from unchanged `CATS`
-- Insertion into target always maintains `like_count` desc order (find first index where target tweet's count is lower, splice there)
-- Drag changes are **session-only** — `CATS` is mutated in memory; `categorize_bookmarks.py` resets everything
+## categories.html — Cabinet Management
+
+### Drawer building
+All drawers are built by `buildDrawer(cat)` (returns DOM node, attaches all listeners). The `+` drawer is built by `createAddDrawer()` (appended last, never a drag target). Always read the live category name from `drawer.dataset.cat` — it gets updated on rename, so closure `cat` variables go stale.
+
+### Drag-and-drop — shared `dragState`
+`dragState` has a `type` field distinguishing card and drawer drags:
+```js
+{ type: 'card',   tweetId, sourceCategory, dropSucceeded: false }
+{ type: 'drawer', sourceCategory, dropSucceeded: false }
+```
+- `dragstart` on a **card**: 1/4-size ghost, collapses card height→0
+- `dragstart` on a **`.drawer-handle`**: sets `type:'drawer'`; handle has `draggable="true"` and `e.stopPropagation()`
+- `dragover`/`drop` on drawers handle both types; skip `drawer-add` and source drawer
+- Card drop: splices tweet from source, inserts into target maintaining `like_count` desc order; re-renders source panel **preserving `cardsEl.scrollTop`**
+- Drawer drop (merge): all tweets pushed to target, re-sorted, source drawer removed from DOM + `delete CATS[src]`; if source panel was open, `selectCategory` switches to target
+- `dragend` on card: if `!dropSucceeded` → restore via `renderCards()` (saves/restores scroll)
+- `dragend` on handle: clears `dragState` (no restore needed — nothing mutated on failed drop)
+- Changes are **session-only** — `CATS` is mutated in memory; `categorize_bookmarks.py` resets everything
+
+### Add new category (`+` drawer)
+- `createAddDrawer()` appends a dark-green `+ New category` drawer at the bottom of the cabinet
+- Click → `activateAddDrawer(drawer)`: replaces label with `<input class="drawer-label-input">`, appends a fresh `+` below
+- Enter with unique name → `CATS[name] = []`, `buildDrawer(name)` inserted before editing drawer, editing drawer removed
+- Escape or blur-with-empty → editing drawer removed, fresh `+` remains
+- Duplicate name → `shake` animation (stays in edit mode)
+
+### Rename (double-click label)
+- `attachLabelListeners(labelEl, drawer)` adds `dblclick`: replaces label with input pre-filled with `drawer.dataset.cat`
+- Enter with new unique name → `CATS` key renamed, `drawer.dataset.cat` updated, `currentCat` updated if needed, new label built and `attachLabelListeners` re-called
+- Escape or blur → original label element restored
+- Duplicate name → `shake` animation
 
 ## Save categories.js Button (categories.html)
-After the first successful drag-and-drop, a "↡ Save categories.js" button appears in `.cat-top-bar` (hidden by default via `style="display:none"`). Clicking it downloads the current in-memory `CATS` as a ready-to-use `categories.js` via the Blob + object URL trick (works on `file://`). User replaces the project file with the download to make moves permanent.
-- `let hasMoves = false` flag in `init()` — flipped on first successful drop, shows button once
+After the first successful mutation (card refile, drawer merge, add category, or rename), a "↡ Save categories.js" button appears in `.cat-top-bar` (hidden by default via `style="display:none"`). Clicking it downloads the current in-memory `CATS` as a ready-to-use `categories.js` via the Blob + object URL trick (works on `file://`). User replaces the project file with the download to make mutations permanent.
+- `let hasMoves = false` flag in `init()` — flipped on first successful mutation, shows button once
 - `downloadCategories()` is a module-level function (outside `init()`) so it can reference `CATS`
 - Button styled as `.cat-save-btn` — muted gold, borderless ghost style matching the top-bar
 - `categorize_bookmarks.py` backs up existing `categories.js` → `categories_old.js` (via `shutil.copy2`) before overwriting; `categories_old.js` is in `.gitignore`

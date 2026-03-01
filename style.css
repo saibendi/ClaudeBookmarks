@@ -804,6 +804,51 @@ body.categories-view {
   background: rgba(255, 255, 255, 0.08);
 }
 
+/* ── Add-cabinet drawer ── */
+.drawer.drawer-add .drawer-front {
+  background: linear-gradient(135deg, #2D5A2D, #1A3D1A);
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+.drawer.drawer-add:hover .drawer-front {
+  opacity: 1;
+}
+.drawer.drawer-add .drawer-label {
+  color: rgba(160, 220, 160, 0.9);
+  letter-spacing: 0.06em;
+}
+
+/* ── Inline label input (add + rename) ── */
+.drawer-label-input {
+  width: calc(100% - 16px);
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 3px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  padding: 2px 5px;
+  outline: none;
+  text-align: center;
+}
+
+/* ── Drawer handle as drag grip ── */
+.drawer-handle {
+  cursor: grab;
+}
+.drawer-handle:active {
+  cursor: grabbing;
+}
+
+/* ── Shake animation for duplicate category name ── */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25%       { transform: translateX(-4px); }
+  75%       { transform: translateX(4px); }
+}
+
 /* ── Main layout: cabinet + panel ── */
 .cat-layout {
   display: flex;

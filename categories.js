@@ -799,314 +799,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "Design & Aesthetics": [
-    {
-      "id": "2026358864137032071",
-      "text": "I think about this image like constantly https://t.co/9HCnK2Nn7J",
-      "author_name": "Mister Pitjob",
-      "author_handle": "@notagopnik",
-      "created_at": "2026-02-24T18:09:35.000Z",
-      "url": "https://twitter.com/i/web/status/2026358864137032071",
-      "like_count": 144699,
-      "bookmark_count": 17407,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB8SoDkaMAA0Ylj.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025741297303323024",
-      "text": "I really love home decor like this https://t.co/Ql6rwEe9L1",
-      "author_name": "Sora Hikari",
-      "author_handle": "@SoraHikariii",
-      "created_at": "2026-02-23T01:15:36.000Z",
-      "url": "https://twitter.com/i/web/status/2025741297303323024",
-      "like_count": 49091,
-      "bookmark_count": 14942,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lQa8AAXFy6.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lhagAAhzm2.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lTaIAAR6Bv.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lRaYAAFRUH.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025596851047555492",
-      "text": "this is what happens when you blend brutalism with terracotta 🩶🤎 https://t.co/EsmarcBpfc",
-      "author_name": "⊹ ࣪ pam ˖✦",
-      "author_handle": "@pamvonhadder",
-      "created_at": "2026-02-22T15:41:37.000Z",
-      "url": "https://twitter.com/i/web/status/2025596851047555492",
-      "like_count": 16104,
-      "bookmark_count": 3066,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPnWcAEI-_P.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPLWQAALT6c.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPqW4AAlkKa.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPSXQAATBVP.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2026366781984588177",
-      "text": "https://t.co/fkI3F0OWd1",
-      "author_name": "RAW",
-      "author_handle": "@rawknuckle",
-      "created_at": "2026-02-24T18:41:03.000Z",
-      "url": "https://twitter.com/i/web/status/2026366781984588177",
-      "like_count": 11785,
-      "bookmark_count": 21735,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027863882853978464",
-      "text": "The 2026 Ford Mustang, combined with muscle car styling\n\nDo you like it? 🤔 https://t.co/92TqL8YQHE",
-      "author_name": "Connie 🇺🇸",
-      "author_handle": "@us_connie",
-      "created_at": "2026-02-28T21:50:00.000Z",
-      "url": "https://twitter.com/i/web/status/2027863882853978464",
-      "like_count": 6204,
-      "bookmark_count": 815,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2027848614408818692/img/ko1XUwqxfg5qgJJB.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2027848614408818692/vid/avc1/576x1024/2bkCyQ_gUYi5LfaL.mp4"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026386653464432643",
-      "text": "Taste is acquired through exposure and restraint, no amount of money can give you good taste https://t.co/O4OgeA2I7q https://t.co/4rh14TTmGZ",
-      "author_name": "ADONIS",
-      "author_handle": "@adonispara",
-      "created_at": "2026-02-24T20:00:01.000Z",
-      "url": "https://twitter.com/i/web/status/2026386653464432643",
-      "like_count": 5487,
-      "bookmark_count": 881,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB8nYf5XsAA_DP4.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB8nW-UWsAAY1KS.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026591020767379928",
-      "text": "Peak car design: Aimé Leon Dore‘s custom Porsche 993 Turbo https://t.co/dHaRyKzfqy",
-      "author_name": "Alexander 𖤓 Nietzschean Vitalist",
-      "author_handle": "@UbermenschMind",
-      "created_at": "2026-02-25T09:32:06.000Z",
-      "url": "https://twitter.com/i/web/status/2026591020767379928",
-      "like_count": 5383,
-      "bookmark_count": 780,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB_liIzW4AAzafv.png",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB_ljxFXUAAxy2k.png",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB_lmFcWoAAEosa.png",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB_lq5ZXsAAEOSl.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2027147363454697917",
-      "text": "This livingroom had so much character and aura https://t.co/6seQaRXROg",
-      "author_name": "lemón",
-      "author_handle": "@cigarettesummer",
-      "created_at": "2026-02-26T22:22:48.000Z",
-      "url": "https://twitter.com/i/web/status/2027147363454697917",
-      "like_count": 3025,
-      "bookmark_count": 280,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCHfyGWWQAA7zyy.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027520931191505005",
-      "text": "This ‘80s themed watch collab from Honda &amp; Citizen is just too good https://t.co/VNsNE2YL0i",
-      "author_name": "lusso",
-      "author_handle": "@luusssso",
-      "created_at": "2026-02-27T23:07:14.000Z",
-      "url": "https://twitter.com/i/web/status/2027520931191505005",
-      "like_count": 1704,
-      "bookmark_count": 424,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCMziPubEAAZzE1.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMziOsWUAAZI_R.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMziOnW4AA-pxT.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMziOUXcAEut3y.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027323003391086938",
-      "text": "Accessories for men:\n\nWatch &amp; cigarette/cigar https://t.co/TuGXvdEban",
-      "author_name": "Samantha",
-      "author_handle": "@alecttrona",
-      "created_at": "2026-02-27T10:00:44.000Z",
-      "url": "https://twitter.com/i/web/status/2027323003391086938",
-      "like_count": 793,
-      "bookmark_count": 148,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCJ_hmVa8AAE7K1.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCJ_hmSbsAAwm1D.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027531380243005927",
-      "text": "Burl Wood Dial Rolex Day-Date https://t.co/Stm388oFsS",
-      "author_name": "The Global Watch Club",
-      "author_handle": "@GlobalWatchClub",
-      "created_at": "2026-02-27T23:48:45.000Z",
-      "url": "https://twitter.com/i/web/status/2027531380243005927",
-      "like_count": 759,
-      "bookmark_count": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCM84Q4W0AEYOEP.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCM85XMWkAAsRSs.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027490551101046822",
-      "text": "Full Gold Jaeger-LeCoultre Reverso released last year https://t.co/Oh0rjuwKrP",
-      "author_name": "The Global Watch Club",
-      "author_handle": "@GlobalWatchClub",
-      "created_at": "2026-02-27T21:06:30.000Z",
-      "url": "https://twitter.com/i/web/status/2027490551101046822",
-      "like_count": 565,
-      "bookmark_count": 67,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCMXyEWbYAAdONg.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMXzk6XcAATQcx.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027132120779620787",
-      "text": "Designers get this wrong all the time.\n\nNew tech doesn't need opinionated design. We talk about Design as if it's one thing, but really it supports different purposes depending on a category's maturity.\n\nEarly tech = \"Undesigned\" (open & flexible)\nGrowth tech = Design to scale (universal & generic)\nMature tech = Design to differentiate (opinionated)",
-      "author_name": "Andy Allen",
-      "author_handle": "@asallen",
-      "created_at": "2026-02-26T21:22:14.000Z",
-      "url": "https://twitter.com/i/web/status/2027132120779620787",
-      "like_count": 522,
-      "bookmark_count": 334,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027488198310695169",
-      "text": "Vintage 1975 Rolex DateJust https://t.co/a6urVPDgIV",
-      "author_name": "Rolex Club",
-      "author_handle": "@Rolexclocks",
-      "created_at": "2026-02-27T20:57:10.000Z",
-      "url": "https://twitter.com/i/web/status/2027488198310695169",
-      "like_count": 327,
-      "bookmark_count": 22,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2027488086406688768/img/Dg2oqH9X3ZLK2J7P.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2027488086406688768/vid/avc1/1080x1920/atTiqa1gdM8jo1L5.mp4"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2025782990681346336",
-      "text": "FASHION GUYS with rizz I’ve noticed just tend to accessorize better than the regular guys. They know what’s what. A tasteful jewelry combo (chain or rings or bracelet - no more than 2 at once). Great sunglasses. (I have had the same Garrett Leight sunglasses for 5+ years - good gift idea btw.) Always with some sort of bag or tote (I literally don’t make the rules check Pinterest for yourself). A cool hat. A nice watch!! Heirloom. Vintage. Doesn’t have to be expensive but better than an Apple Watch or garmin.",
-      "author_name": "rachel",
-      "author_handle": "@rachcorrine",
-      "created_at": "2026-02-23T04:01:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025782990681346336",
-      "like_count": 283,
-      "bookmark_count": 154,
-      "images": [],
-      "_date": "2026-02-23"
-    }
-  ],
   "Entertainment & Media": [
     {
       "id": "2025800996744794380",
@@ -1440,6 +1132,18 @@ window.BOOKMARK_CATEGORIES = {
   ],
   "Lifestyle & Culture": [
     {
+      "id": "2025770405298921568",
+      "text": "most apocalyptic thing i’ve seen in a while https://t.co/SwBff3ZPKt",
+      "author_name": "vittorio",
+      "author_handle": "@IterIntellectus",
+      "created_at": "2026-02-23T03:11:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025770405298921568",
+      "like_count": 95365,
+      "bookmark_count": 6674,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
       "id": "2027652718869835855",
       "text": "This is how we live now https://t.co/9qcUSwP51k",
       "author_name": "Fľøkï",
@@ -1515,6 +1219,18 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-28"
     },
     {
+      "id": "2025620859315237319",
+      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
+      "author_name": "Jim",
+      "author_handle": "@Cackalacman",
+      "created_at": "2026-02-22T17:17:01.000Z",
+      "url": "https://twitter.com/i/web/status/2025620859315237319",
+      "like_count": 14151,
+      "bookmark_count": 1632,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
       "id": "2025484522352156812",
       "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
       "author_name": "Ananya",
@@ -1535,6 +1251,30 @@ window.BOOKMARK_CATEGORIES = {
       "url": "https://twitter.com/i/web/status/2026125293149163694",
       "like_count": 8899,
       "bookmark_count": 18283,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026067490766307414",
+      "text": "This is pure evil. First, Anthropic used torrent to download all the books and data for training on top of the internet, without asking permission from anyone. Second, the Chinese companies paid for the API and did not get the information for free, third it seems like Anthropic tracking people.",
+      "author_name": "Emily",
+      "author_handle": "@IamEmily2050",
+      "created_at": "2026-02-23T22:51:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026067490766307414",
+      "like_count": 6816,
+      "bookmark_count": 642,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026308962715660400",
+      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
+      "author_name": "Jeremy Carl",
+      "author_handle": "@realJeremyCarl",
+      "created_at": "2026-02-24T14:51:18.000Z",
+      "url": "https://twitter.com/i/web/status/2026308962715660400",
+      "like_count": 5388,
+      "bookmark_count": 625,
       "images": [],
       "_date": "2026-02-24"
     },
@@ -1621,6 +1361,18 @@ window.BOOKMARK_CATEGORIES = {
       "bookmark_count": 425,
       "images": [],
       "_date": "2026-02-26"
+    },
+    {
+      "id": "2026007460805304595",
+      "text": "Words cannot express how fucking angry this kind of statement is making me. This kind of of psychopathic public behavior should not be condoned for even one second. Are you fucking kidding me? Who even signed off on publishing something like this??? The only chance anthropic and the other closed labs have of redeeming themselves is open sourcing everything they have ever done. Fucking Hypocrites...",
+      "author_name": "Tommy Falkowski",
+      "author_handle": "@TommyFalkowski",
+      "created_at": "2026-02-23T18:53:14.000Z",
+      "url": "https://twitter.com/i/web/status/2026007460805304595",
+      "like_count": 1791,
+      "bookmark_count": 215,
+      "images": [],
+      "_date": "2026-02-23"
     },
     {
       "id": "2027537304319914483",
@@ -1991,68 +1743,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-03-01"
     }
   ],
-  "Politics & Society": [
-    {
-      "id": "2025770405298921568",
-      "text": "most apocalyptic thing i’ve seen in a while https://t.co/SwBff3ZPKt",
-      "author_name": "vittorio",
-      "author_handle": "@IterIntellectus",
-      "created_at": "2026-02-23T03:11:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025770405298921568",
-      "like_count": 95365,
-      "bookmark_count": 6674,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025620859315237319",
-      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
-      "author_name": "Jim",
-      "author_handle": "@Cackalacman",
-      "created_at": "2026-02-22T17:17:01.000Z",
-      "url": "https://twitter.com/i/web/status/2025620859315237319",
-      "like_count": 14151,
-      "bookmark_count": 1632,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2026067490766307414",
-      "text": "This is pure evil. First, Anthropic used torrent to download all the books and data for training on top of the internet, without asking permission from anyone. Second, the Chinese companies paid for the API and did not get the information for free, third it seems like Anthropic tracking people.",
-      "author_name": "Emily",
-      "author_handle": "@IamEmily2050",
-      "created_at": "2026-02-23T22:51:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026067490766307414",
-      "like_count": 6816,
-      "bookmark_count": 642,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026308962715660400",
-      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
-      "author_name": "Jeremy Carl",
-      "author_handle": "@realJeremyCarl",
-      "created_at": "2026-02-24T14:51:18.000Z",
-      "url": "https://twitter.com/i/web/status/2026308962715660400",
-      "like_count": 5388,
-      "bookmark_count": 625,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026007460805304595",
-      "text": "Words cannot express how fucking angry this kind of statement is making me. This kind of of psychopathic public behavior should not be condoned for even one second. Are you fucking kidding me? Who even signed off on publishing something like this??? The only chance anthropic and the other closed labs have of redeeming themselves is open sourcing everything they have ever done. Fucking Hypocrites...",
-      "author_name": "Tommy Falkowski",
-      "author_handle": "@TommyFalkowski",
-      "created_at": "2026-02-23T18:53:14.000Z",
-      "url": "https://twitter.com/i/web/status/2026007460805304595",
-      "like_count": 1791,
-      "bookmark_count": 215,
-      "images": [],
-      "_date": "2026-02-23"
-    }
-  ],
   "Productivity & Work": [
     {
       "id": "2025542084443382191",
@@ -2389,6 +2079,316 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-26"
+    }
+  ],
+  "Watches": [
+    {
+      "id": "2026386653464432643",
+      "text": "Taste is acquired through exposure and restraint, no amount of money can give you good taste https://t.co/O4OgeA2I7q https://t.co/4rh14TTmGZ",
+      "author_name": "ADONIS",
+      "author_handle": "@adonispara",
+      "created_at": "2026-02-24T20:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2026386653464432643",
+      "like_count": 5487,
+      "bookmark_count": 881,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB8nYf5XsAA_DP4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB8nW-UWsAAY1KS.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027520931191505005",
+      "text": "This ‘80s themed watch collab from Honda &amp; Citizen is just too good https://t.co/VNsNE2YL0i",
+      "author_name": "lusso",
+      "author_handle": "@luusssso",
+      "created_at": "2026-02-27T23:07:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027520931191505005",
+      "like_count": 1704,
+      "bookmark_count": 424,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCMziPubEAAZzE1.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMziOsWUAAZI_R.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMziOnW4AA-pxT.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMziOUXcAEut3y.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027323003391086938",
+      "text": "Accessories for men:\n\nWatch &amp; cigarette/cigar https://t.co/TuGXvdEban",
+      "author_name": "Samantha",
+      "author_handle": "@alecttrona",
+      "created_at": "2026-02-27T10:00:44.000Z",
+      "url": "https://twitter.com/i/web/status/2027323003391086938",
+      "like_count": 793,
+      "bookmark_count": 148,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCJ_hmVa8AAE7K1.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCJ_hmSbsAAwm1D.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027531380243005927",
+      "text": "Burl Wood Dial Rolex Day-Date https://t.co/Stm388oFsS",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-27T23:48:45.000Z",
+      "url": "https://twitter.com/i/web/status/2027531380243005927",
+      "like_count": 759,
+      "bookmark_count": 71,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCM84Q4W0AEYOEP.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCM85XMWkAAsRSs.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027490551101046822",
+      "text": "Full Gold Jaeger-LeCoultre Reverso released last year https://t.co/Oh0rjuwKrP",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-27T21:06:30.000Z",
+      "url": "https://twitter.com/i/web/status/2027490551101046822",
+      "like_count": 565,
+      "bookmark_count": 67,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCMXyEWbYAAdONg.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMXzk6XcAATQcx.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027488198310695169",
+      "text": "Vintage 1975 Rolex DateJust https://t.co/a6urVPDgIV",
+      "author_name": "Rolex Club",
+      "author_handle": "@Rolexclocks",
+      "created_at": "2026-02-27T20:57:10.000Z",
+      "url": "https://twitter.com/i/web/status/2027488198310695169",
+      "like_count": 327,
+      "bookmark_count": 22,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027488086406688768/img/Dg2oqH9X3ZLK2J7P.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027488086406688768/vid/avc1/1080x1920/atTiqa1gdM8jo1L5.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    }
+  ],
+  "Architecture & Interior Design": [
+    {
+      "id": "2026358864137032071",
+      "text": "I think about this image like constantly https://t.co/9HCnK2Nn7J",
+      "author_name": "Mister Pitjob",
+      "author_handle": "@notagopnik",
+      "created_at": "2026-02-24T18:09:35.000Z",
+      "url": "https://twitter.com/i/web/status/2026358864137032071",
+      "like_count": 144699,
+      "bookmark_count": 17407,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB8SoDkaMAA0Ylj.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2025741297303323024",
+      "text": "I really love home decor like this https://t.co/Ql6rwEe9L1",
+      "author_name": "Sora Hikari",
+      "author_handle": "@SoraHikariii",
+      "created_at": "2026-02-23T01:15:36.000Z",
+      "url": "https://twitter.com/i/web/status/2025741297303323024",
+      "like_count": 49091,
+      "bookmark_count": 14942,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBzg9lQa8AAXFy6.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzg9lhagAAhzm2.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzg9lTaIAAR6Bv.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzg9lRaYAAFRUH.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025596851047555492",
+      "text": "this is what happens when you blend brutalism with terracotta 🩶🤎 https://t.co/EsmarcBpfc",
+      "author_name": "⊹ ࣪ pam ˖✦",
+      "author_handle": "@pamvonhadder",
+      "created_at": "2026-02-22T15:41:37.000Z",
+      "url": "https://twitter.com/i/web/status/2025596851047555492",
+      "like_count": 16104,
+      "bookmark_count": 3066,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBxdmPnWcAEI-_P.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBxdmPLWQAALT6c.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBxdmPqW4AAlkKa.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBxdmPSXQAATBVP.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2026366781984588177",
+      "text": "https://t.co/fkI3F0OWd1",
+      "author_name": "RAW",
+      "author_handle": "@rawknuckle",
+      "created_at": "2026-02-24T18:41:03.000Z",
+      "url": "https://twitter.com/i/web/status/2026366781984588177",
+      "like_count": 11785,
+      "bookmark_count": 21735,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027863882853978464",
+      "text": "The 2026 Ford Mustang, combined with muscle car styling\n\nDo you like it? 🤔 https://t.co/92TqL8YQHE",
+      "author_name": "Connie 🇺🇸",
+      "author_handle": "@us_connie",
+      "created_at": "2026-02-28T21:50:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027863882853978464",
+      "like_count": 6204,
+      "bookmark_count": 815,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027848614408818692/img/ko1XUwqxfg5qgJJB.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027848614408818692/vid/avc1/576x1024/2bkCyQ_gUYi5LfaL.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026591020767379928",
+      "text": "Peak car design: Aimé Leon Dore‘s custom Porsche 993 Turbo https://t.co/dHaRyKzfqy",
+      "author_name": "Alexander 𖤓 Nietzschean Vitalist",
+      "author_handle": "@UbermenschMind",
+      "created_at": "2026-02-25T09:32:06.000Z",
+      "url": "https://twitter.com/i/web/status/2026591020767379928",
+      "like_count": 5383,
+      "bookmark_count": 780,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB_liIzW4AAzafv.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB_ljxFXUAAxy2k.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB_lmFcWoAAEosa.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB_lq5ZXsAAEOSl.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027147363454697917",
+      "text": "This livingroom had so much character and aura https://t.co/6seQaRXROg",
+      "author_name": "lemón",
+      "author_handle": "@cigarettesummer",
+      "created_at": "2026-02-26T22:22:48.000Z",
+      "url": "https://twitter.com/i/web/status/2027147363454697917",
+      "like_count": 3025,
+      "bookmark_count": 280,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCHfyGWWQAA7zyy.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027132120779620787",
+      "text": "Designers get this wrong all the time.\n\nNew tech doesn't need opinionated design. We talk about Design as if it's one thing, but really it supports different purposes depending on a category's maturity.\n\nEarly tech = \"Undesigned\" (open & flexible)\nGrowth tech = Design to scale (universal & generic)\nMature tech = Design to differentiate (opinionated)",
+      "author_name": "Andy Allen",
+      "author_handle": "@asallen",
+      "created_at": "2026-02-26T21:22:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027132120779620787",
+      "like_count": 522,
+      "bookmark_count": 334,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2025782990681346336",
+      "text": "FASHION GUYS with rizz I’ve noticed just tend to accessorize better than the regular guys. They know what’s what. A tasteful jewelry combo (chain or rings or bracelet - no more than 2 at once). Great sunglasses. (I have had the same Garrett Leight sunglasses for 5+ years - good gift idea btw.) Always with some sort of bag or tote (I literally don’t make the rules check Pinterest for yourself). A cool hat. A nice watch!! Heirloom. Vintage. Doesn’t have to be expensive but better than an Apple Watch or garmin.",
+      "author_name": "rachel",
+      "author_handle": "@rachcorrine",
+      "created_at": "2026-02-23T04:01:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025782990681346336",
+      "like_count": 283,
+      "bookmark_count": 154,
+      "images": [],
+      "_date": "2026-02-23"
     }
   ]
 };

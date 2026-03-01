@@ -60,18 +60,17 @@
     }
 
     function init() {
-      const catNames = Object.keys(CATS);
-      const cabinet  = document.getElementById("cabinet");
-      const panel    = document.getElementById("catPanel");
-      const cardsEl  = document.getElementById("catCards");
+      const cabinet   = document.getElementById("cabinet");
+      const panel     = document.getElementById("catPanel");
+      const cardsEl   = document.getElementById("catCards");
       const contentEl = document.getElementById("catPanelContent");
 
       let currentCat = null;
-      let dragState  = null; // { tweetId, sourceCategory }
+      let dragState  = null; // { type: 'card'|'drawer', sourceCategory, dropSucceeded, [tweetId] }
       let hasMoves   = false;
 
-      const saveBtn = document.getElementById('catSaveBtn');
-      saveBtn.addEventListener('click', downloadCategories);
+      const saveBtn = document.getElementById("catSaveBtn");
+      saveBtn.addEventListener("click", downloadCategories);
 
       // ── Update drawer count label ─────────────────────────────────────────────
       function updateDrawerCount(catName) {
@@ -83,135 +82,33 @@
         });
       }
 
-      // ── Build drawers ────────────────────────────────────────────────────────
-      catNames.forEach(cat => {
-        const count = CATS[cat].length;
-
-        const drawer = document.createElement("div");
-        drawer.className = "drawer";
-        drawer.dataset.cat = cat;
-
-        const front = document.createElement("div");
-        front.className = "drawer-front";
-
-        const handle = document.createElement("div");
-        handle.className = "drawer-handle";
-
-        const label = document.createElement("div");
-        label.className = "drawer-label";
-        label.textContent = cat;
-
-        const countEl = document.createElement("span");
-        countEl.className = "drawer-count";
-        countEl.textContent = `(${count})`;
-        label.appendChild(countEl);
-
-        front.appendChild(handle);
-        front.appendChild(label);
-
-        const inner = document.createElement("div");
-        inner.className = "drawer-inner";
-
-        drawer.appendChild(front);
-        drawer.appendChild(inner);
-        cabinet.appendChild(drawer);
-
-        drawer.addEventListener("click", () => selectCategory(cat, drawer));
-
-        // ── Drag-and-drop: receive tweets from other categories ──
-        drawer.addEventListener("dragover", e => {
-          if (!dragState || dragState.sourceCategory === cat) return;
-          e.preventDefault();
-          e.dataTransfer.dropEffect = "move";
-          drawer.classList.add("drag-over");
-        });
-
-        drawer.addEventListener("dragleave", e => {
-          if (!drawer.contains(e.relatedTarget)) {
-            drawer.classList.remove("drag-over");
-          }
-        });
-
-        drawer.addEventListener("drop", e => {
-          e.preventDefault();
-          drawer.classList.remove("drag-over");
-          if (!dragState || dragState.sourceCategory === cat) return;
-
-          dragState.dropSucceeded = true; // prevent dragend restore
-
-          if (!hasMoves) {
-            hasMoves = true;
-            saveBtn.style.display = '';
-          }
-
-          const { tweetId, sourceCategory } = dragState;
-
-          // Remove from source
-          const srcIdx = CATS[sourceCategory].findIndex(t => t.id === tweetId);
-          if (srcIdx === -1) return;
-          const [tweet] = CATS[sourceCategory].splice(srcIdx, 1);
-
-          // Insert into target maintaining like_count desc order
-          const insertIdx = CATS[cat].findIndex(t => (t.like_count || 0) < (tweet.like_count || 0));
-          if (insertIdx === -1) {
-            CATS[cat].push(tweet);
-          } else {
-            CATS[cat].splice(insertIdx, 0, tweet);
-          }
-
-          // Update both drawer count labels
-          updateDrawerCount(sourceCategory);
-          updateDrawerCount(cat);
-
-          // Re-render if the source category is currently open
-          if (currentCat === sourceCategory) {
-            if (CATS[sourceCategory].length === 0) {
-              // Source now empty — close panel
-              panel.classList.remove("visible");
-              document.getElementById("catPanelEmpty").style.display = "";
-              contentEl.style.display = "none";
-              currentCat = null;
-              cabinet.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
-            } else {
-              renderCards();
-            }
-          }
-        });
-      });
-
       // ── Select a category ────────────────────────────────────────────────────
       function selectCategory(cat, clickedDrawer) {
         document.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
         clickedDrawer.classList.add("open");
-
         currentCat = cat;
-
         panel.classList.add("visible");
         document.getElementById("catPanelEmpty").style.display = "none";
-        contentEl.style.display        = "flex";
-        contentEl.style.flexDirection  = "column";
-
+        contentEl.style.display      = "flex";
+        contentEl.style.flexDirection = "column";
         renderCards();
       }
 
       // ── Render all tweet cards ───────────────────────────────────────────────
       function renderCards() {
-        const tweets = CATS[currentCat];
-        const slice  = tweets;
-
+        const tweets = CATS[currentCat] || [];
         cardsEl.innerHTML = "";
         cardsEl.scrollTop = 0;
 
-        slice.forEach(tweet => {
+        tweets.forEach(tweet => {
           const card = document.createElement("div");
           card.className = "cat-card";
           card.setAttribute("draggable", "true");
 
           card.addEventListener("dragstart", e => {
-            const rect = card.getBoundingClientRect();
+            const rect  = card.getBoundingClientRect();
             const scale = 0.25;
 
-            // Small drag ghost: outer box at 1/4 size, inner clone scaled down
             const ghost = document.createElement("div");
             ghost.style.cssText = `position:fixed;top:-9999px;left:0;` +
               `width:${rect.width * scale}px;height:${rect.height * scale}px;` +
@@ -224,16 +121,15 @@
             document.body.appendChild(ghost);
             e.dataTransfer.setDragImage(ghost, rect.width * scale / 2, rect.height * scale / 2);
 
-            dragState = { tweetId: tweet.id, sourceCategory: currentCat, dropSucceeded: false };
+            dragState = { type: "card", tweetId: tweet.id, sourceCategory: currentCat, dropSucceeded: false };
             e.dataTransfer.effectAllowed = "move";
             e.dataTransfer.setData("text/plain", tweet.id);
 
             setTimeout(() => {
               document.body.removeChild(ghost);
-              // Collapse card height so next card slides up to fill its spot
               card.style.height   = rect.height + "px";
               card.style.overflow = "hidden";
-              card.getBoundingClientRect(); // force reflow before transition
+              card.getBoundingClientRect(); // force reflow
               card.style.transition = "height 0.25s ease, opacity 0.2s ease, padding 0.25s ease";
               card.style.height   = "0";
               card.style.opacity  = "0";
@@ -243,8 +139,7 @@
 
           card.addEventListener("dragend", () => {
             cabinet.querySelectorAll(".drawer").forEach(d => d.classList.remove("drag-over"));
-            if (dragState && !dragState.dropSucceeded) {
-              // Dropped outside any valid target — restore by re-rendering from unchanged CATS
+            if (dragState && dragState.type === "card" && !dragState.dropSucceeded) {
               const savedScroll = cardsEl.scrollTop;
               renderCards();
               cardsEl.scrollTop = savedScroll;
@@ -266,7 +161,7 @@
           text.textContent = tweet.text;
           card.appendChild(text);
 
-          // Media (images / videos / GIFs) — same approach as day.html
+          // Media (images / videos / GIFs)
           if (tweet.images && tweet.images.length > 0) {
             const mediaDiv = document.createElement("div");
             mediaDiv.className = "cat-card-images";
@@ -330,17 +225,306 @@
         });
       }
 
-    }
+      // ── Attach dblclick rename listener to a drawer label ────────────────────
+      function attachLabelListeners(labelEl, drawer) {
+        labelEl.addEventListener("dblclick", e => {
+          e.stopPropagation();
+
+          const input = document.createElement("input");
+          input.className = "drawer-label-input";
+          input.value = drawer.dataset.cat;
+          labelEl.replaceWith(input);
+          input.focus();
+          input.select();
+
+          let confirmed = false;
+
+          function confirm() {
+            if (confirmed) return;
+            const newName = input.value.trim();
+            if (!newName || newName === drawer.dataset.cat) { cancel(); return; }
+            if (CATS[newName] !== undefined) {
+              // Duplicate — shake and stay in edit mode
+              input.style.animation = "none";
+              input.getBoundingClientRect(); // force reflow to restart animation
+              input.style.animation = "shake 0.3s ease";
+              return;
+            }
+            confirmed = true;
+
+            const oldName = drawer.dataset.cat;
+            CATS[newName] = CATS[oldName];
+            delete CATS[oldName];
+            if (currentCat === oldName) currentCat = newName;
+            drawer.dataset.cat = newName;
+
+            const newLabel = document.createElement("div");
+            newLabel.className = "drawer-label";
+            newLabel.textContent = newName;
+            const newCount = document.createElement("span");
+            newCount.className = "drawer-count";
+            newCount.textContent = `(${CATS[newName].length})`;
+            newLabel.appendChild(newCount);
+            input.replaceWith(newLabel);
+            attachLabelListeners(newLabel, drawer);
+
+            if (!hasMoves) { hasMoves = true; saveBtn.style.display = ""; }
+          }
+
+          function cancel() {
+            if (confirmed) return;
+            input.replaceWith(labelEl);
+          }
+
+          input.addEventListener("keydown", e => {
+            if (e.key === "Enter")  { e.preventDefault(); confirm(); }
+            if (e.key === "Escape") { e.preventDefault(); cancel(); }
+          });
+          input.addEventListener("blur", cancel);
+        });
+      }
+
+      // ── Build a real drawer DOM node with all event listeners ─────────────────
+      function buildDrawer(cat) {
+        const drawer = document.createElement("div");
+        drawer.className  = "drawer";
+        drawer.dataset.cat = cat;
+
+        const front = document.createElement("div");
+        front.className = "drawer-front";
+
+        const handle = document.createElement("div");
+        handle.className = "drawer-handle";
+        handle.setAttribute("draggable", "true");
+
+        const label = document.createElement("div");
+        label.className  = "drawer-label";
+        label.textContent = cat;
+
+        const countEl = document.createElement("span");
+        countEl.className   = "drawer-count";
+        countEl.textContent = `(${CATS[cat].length})`;
+        label.appendChild(countEl);
+
+        front.appendChild(handle);
+        front.appendChild(label);
+
+        const inner = document.createElement("div");
+        inner.className = "drawer-inner";
+
+        drawer.appendChild(front);
+        drawer.appendChild(inner);
+
+        // Click opens panel (ignore clicks that originate on the handle)
+        drawer.addEventListener("click", e => {
+          if (e.target === handle) return;
+          selectCategory(drawer.dataset.cat, drawer);
+        });
+
+        // ── Handle drag: initiate drawer merge ──
+        handle.addEventListener("dragstart", e => {
+          e.stopPropagation();
+          dragState = { type: "drawer", sourceCategory: drawer.dataset.cat, dropSucceeded: false };
+          e.dataTransfer.effectAllowed = "move";
+          e.dataTransfer.setData("text/plain", drawer.dataset.cat);
+        });
+
+        handle.addEventListener("dragend", () => {
+          cabinet.querySelectorAll(".drawer").forEach(d => d.classList.remove("drag-over"));
+          dragState = null;
+        });
+
+        // ── Dragover: highlight target (card refile or drawer merge) ──
+        drawer.addEventListener("dragover", e => {
+          if (!dragState) return;
+          if (drawer.classList.contains("drawer-add")) return;
+          if (dragState.sourceCategory === drawer.dataset.cat) return;
+          e.preventDefault();
+          e.dataTransfer.dropEffect = "move";
+          drawer.classList.add("drag-over");
+        });
+
+        drawer.addEventListener("dragleave", e => {
+          if (!drawer.contains(e.relatedTarget)) {
+            drawer.classList.remove("drag-over");
+          }
+        });
+
+        // ── Drop: handle both card refile and drawer merge ──
+        drawer.addEventListener("drop", e => {
+          e.preventDefault();
+          drawer.classList.remove("drag-over");
+          if (!dragState) return;
+          if (drawer.classList.contains("drawer-add")) return;
+          const targetCat = drawer.dataset.cat;
+          if (dragState.sourceCategory === targetCat) return;
+
+          if (dragState.type === "drawer") {
+            // ── Drawer merge ──────────────────────────────────────────────────
+            dragState.dropSucceeded = true;
+            const src = dragState.sourceCategory;
+
+            CATS[targetCat].push(...CATS[src]);
+            CATS[targetCat].sort((a, b) => (b.like_count || 0) - (a.like_count || 0));
+            delete CATS[src];
+
+            // Remove source drawer from DOM
+            cabinet.querySelectorAll(".drawer").forEach(d => {
+              if (d.dataset.cat === src) d.remove();
+            });
+
+            updateDrawerCount(targetCat);
+
+            if (currentCat === src) {
+              selectCategory(targetCat, drawer);
+            } else if (currentCat === targetCat) {
+              renderCards();
+            }
+
+            if (!hasMoves) { hasMoves = true; saveBtn.style.display = ""; }
+            return;
+          }
+
+          // ── Card refile ───────────────────────────────────────────────────
+          dragState.dropSucceeded = true;
+          if (!hasMoves) { hasMoves = true; saveBtn.style.display = ""; }
+
+          const { tweetId, sourceCategory } = dragState;
+
+          const srcIdx = CATS[sourceCategory].findIndex(t => t.id === tweetId);
+          if (srcIdx === -1) return;
+          const [tweet] = CATS[sourceCategory].splice(srcIdx, 1);
+
+          const insertIdx = CATS[targetCat].findIndex(t => (t.like_count || 0) < (tweet.like_count || 0));
+          if (insertIdx === -1) {
+            CATS[targetCat].push(tweet);
+          } else {
+            CATS[targetCat].splice(insertIdx, 0, tweet);
+          }
+
+          updateDrawerCount(sourceCategory);
+          updateDrawerCount(targetCat);
+
+          if (currentCat === sourceCategory) {
+            if (CATS[sourceCategory].length === 0) {
+              panel.classList.remove("visible");
+              document.getElementById("catPanelEmpty").style.display = "";
+              contentEl.style.display = "none";
+              currentCat = null;
+              cabinet.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
+            } else {
+              const savedScroll = cardsEl.scrollTop;
+              renderCards();
+              cardsEl.scrollTop = savedScroll;
+            }
+          }
+        });
+
+        // Rename on double-click
+        attachLabelListeners(label, drawer);
+
+        return drawer;
+      }
+
+      // ── Activate a + drawer into editing mode ─────────────────────────────────
+      function activateAddDrawer(drawer) {
+        const front         = drawer.querySelector(".drawer-front");
+        const existingLabel = front.querySelector(".drawer-label");
+
+        const input = document.createElement("input");
+        input.className   = "drawer-label-input";
+        input.placeholder = "Category name\u2026";
+        existingLabel.replaceWith(input);
+
+        // Append a fresh + drawer below so there's always one at the bottom
+        createAddDrawer();
+
+        input.focus();
+
+        let done = false;
+
+        function confirmAdd() {
+          if (done) return;
+          const name = input.value.trim();
+          if (!name) { cancelAdd(); return; }
+          if (CATS[name] !== undefined) {
+            input.style.animation = "none";
+            input.getBoundingClientRect();
+            input.style.animation = "shake 0.3s ease";
+            return;
+          }
+          done = true;
+          CATS[name] = [];
+          const realDrawer = buildDrawer(name);
+          cabinet.insertBefore(realDrawer, drawer);
+          drawer.remove();
+          if (!hasMoves) { hasMoves = true; saveBtn.style.display = ""; }
+        }
+
+        function cancelAdd() {
+          if (done) return;
+          done = true;
+          drawer.remove();
+          // The fresh + drawer appended above remains as the sole + at the bottom
+        }
+
+        input.addEventListener("keydown", e => {
+          if (e.key === "Enter")  { e.preventDefault(); confirmAdd(); }
+          if (e.key === "Escape") { e.preventDefault(); cancelAdd(); }
+        });
+        input.addEventListener("blur", () => {
+          if (input.value.trim() === "") cancelAdd();
+          // Non-empty blur keeps editing state alive
+        });
+      }
+
+      // ── Create a + drawer and append to cabinet ───────────────────────────────
+      function createAddDrawer() {
+        const drawer = document.createElement("div");
+        drawer.className = "drawer drawer-add";
+
+        const front = document.createElement("div");
+        front.className = "drawer-front";
+
+        const handle = document.createElement("div");
+        handle.className = "drawer-handle";
+
+        const label = document.createElement("div");
+        label.className   = "drawer-label";
+        label.textContent = "+ New category";
+
+        front.appendChild(handle);
+        front.appendChild(label);
+
+        const inner = document.createElement("div");
+        drawer.appendChild(front);
+        drawer.appendChild(inner);
+
+        cabinet.appendChild(drawer);
+
+        drawer.addEventListener("click", () => activateAddDrawer(drawer));
+        return drawer;
+      }
+
+      // ── Build all initial drawers ─────────────────────────────────────────────
+      Object.keys(CATS).forEach(cat => {
+        cabinet.appendChild(buildDrawer(cat));
+      });
+
+      // ── Add the initial + drawer at the bottom ────────────────────────────────
+      createAddDrawer();
+
+    } // end init()
 
     // ── Download categories.js ────────────────────────────────────────────────
     function downloadCategories() {
-      const json = JSON.stringify(CATS, null, 2);
+      const json    = JSON.stringify(CATS, null, 2);
       const content = "// Auto-generated by categorize_bookmarks.py \u2014 do not edit manually.\nwindow.BOOKMARK_CATEGORIES = " + json + ";\n";
-      const blob = new Blob([content], { type: 'application/javascript' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'categories.js';
+      const blob    = new Blob([content], { type: "application/javascript" });
+      const url     = URL.createObjectURL(blob);
+      const a       = document.createElement("a");
+      a.href     = url;
+      a.download = "categories.js";
       a.click();
       URL.revokeObjectURL(url);
     }
