@@ -130,6 +130,20 @@
       }
 
       weeks.forEach(week => {
+        // Compute Sunday of this week
+        const firstDay = week.find(d => d !== null);
+        let sundayStr = null;
+        if (firstDay !== null) {
+          const d = new Date(year, monthIndex, firstDay);
+          d.setDate(d.getDate() - d.getDay());
+          sundayStr = `${d.getFullYear()}-${pad2(d.getMonth()+1)}-${pad2(d.getDate())}`;
+        }
+
+        // Check if any day in this week has bookmarks
+        const hasBookmarks = week
+          .filter(d => d !== null)
+          .some(d => BOOKMARK_DATA[formatDate(year, monthNum, d)]);
+
         const weekRow = document.createElement("div");
         weekRow.className = "week-row";
 
@@ -181,6 +195,20 @@
             weekRow.appendChild(tile);
           }
         });
+
+        // Stats button (floats outside card to the right)
+        if (hasBookmarks && sundayStr) {
+          const btn = document.createElement("a");
+          btn.className = "week-stats-btn";
+          btn.href = `stats.html?weekStart=${sundayStr}`;
+          btn.title = "Week stats";
+          btn.innerHTML = `<svg width="13" height="11" viewBox="0 0 13 11" aria-hidden="true">
+            <rect x="0" y="5" width="3" height="6" rx="1" fill="currentColor"/>
+            <rect x="5" y="2" width="3" height="9" rx="1" fill="currentColor"/>
+            <rect x="10" y="0" width="3" height="11" rx="1" fill="currentColor"/>
+          </svg>`;
+          weekRow.appendChild(btn);
+        }
 
         card.appendChild(weekRow);
       });

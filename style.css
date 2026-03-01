@@ -134,7 +134,6 @@ body.desk-view {
   background-color: var(--bg-calendar);
   border-radius: 4px 4px 6px 6px;
   box-shadow: 0 2px 8px rgba(61, 43, 31, 0.18), 0 1px 3px rgba(61, 43, 31, 0.12);
-  overflow: hidden;
   display: flex;
   flex-direction: column;
 }
@@ -146,6 +145,7 @@ body.desk-view {
   justify-content: space-evenly;
   align-items: center;
   padding: 10px 12px;
+  border-radius: 4px 4px 0 0;
 }
 
 .month-rings svg {
@@ -185,6 +185,7 @@ body.desk-view {
 
 /* ── Week rows ── */
 .week-row {
+  position: relative;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
   gap: 3px;
@@ -1141,6 +1142,320 @@ body.categories-view {
 
 .categories-portal:hover {
   color: #F5E6C8;
+  text-decoration: underline;
+}
+
+/* ── Week stats button (floats outside card to the right) ── */
+.week-stats-btn {
+  position: absolute;
+  right: -28px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  color: rgba(245, 230, 200, 0.45);
+  text-decoration: none;
+  border-radius: 4px;
+  transition: color 0.15s, background 0.15s;
+  z-index: 2;
+}
+.week-stats-btn:hover {
+  color: #F5E6C8;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* ══════════════════════════════════════
+   Stats page
+   ══════════════════════════════════════ */
+
+body.stats-view {
+  padding: 0;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+.desk--stats {
+  height: auto;
+  min-height: 100vh;
+  padding: 5rem 2rem 3rem;
+  position: relative;
+  justify-content: flex-start;
+  gap: 1.25rem;
+}
+
+.stats-top-bar {
+  position: absolute;
+  top: 1.8rem;
+  left: 1.8rem;
+  z-index: 5;
+}
+
+.stats-back-link {
+  color: rgba(245, 230, 200, 0.8);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.stats-back-link:hover {
+  color: #F5E6C8;
+  text-decoration: underline;
+}
+
+.stats-heading {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.stats-week-label {
+  color: #F5E6C8;
+  font-family: Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.stats-total {
+  color: rgba(245, 230, 200, 0.6);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.85rem;
+  margin-top: 0.2rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  width: 100%;
+  max-width: 760px;
+}
+
+.stats-card {
+  background: #F5F0E8;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.28);
+}
+
+.stats-card-title {
+  font-family: Georgia, serif;
+  font-size: 0.85rem;
+  font-weight: bold;
+  color: var(--header-red);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.9rem;
+  border-bottom: 1.5px solid var(--separator-gold);
+  padding-bottom: 0.45rem;
+}
+
+/* Horizontal bar chart (Top Categories) */
+.chart-hbar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.65rem;
+}
+.chart-hbar-label {
+  width: 120px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text-primary);
+}
+.chart-hbar-track {
+  flex: 1;
+  height: 14px;
+  background: rgba(0, 0, 0, 0.07);
+  border-radius: 7px;
+  overflow: hidden;
+}
+.chart-hbar-fill {
+  height: 100%;
+  border-radius: 7px;
+  background: linear-gradient(to right, #C0392B, #E8943A);
+  transition: width 0.5s ease;
+}
+.chart-hbar-value {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  width: 20px;
+  text-align: right;
+  flex-shrink: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Vertical bar chart (By Day) */
+.chart-vbars {
+  display: flex;
+  gap: 5px;
+  height: 120px;
+  align-items: flex-end;
+}
+.chart-vbar-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+.chart-vbar-count {
+  font-size: 0.58rem;
+  color: var(--text-muted);
+  font-family: Arial, Helvetica, sans-serif;
+  height: 13px;
+}
+.chart-vbar-track {
+  flex: 1;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.07);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+.chart-vbar-fill {
+  width: 100%;
+  background: linear-gradient(to top, #C0392B, #E8943A);
+  border-radius: 3px;
+}
+.chart-vbar-label {
+  font-size: 0.58rem;
+  color: var(--text-muted);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 3px;
+}
+
+/* Donut chart (Viral vs Niche) */
+.chart-donut-wrap {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+.chart-donut-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.chart-donut-legend-row {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.chart-donut-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.chart-donut-legend-label {
+  font-size: 0.73rem;
+  flex: 1;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text-primary);
+}
+.chart-donut-legend-pct {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Media richness */
+.chart-media-big {
+  font-family: Georgia, serif;
+  font-size: 2.8rem;
+  font-weight: bold;
+  color: var(--header-red);
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+.chart-media-sub {
+  font-size: 0.76rem;
+  color: var(--text-muted);
+  margin-bottom: 0.65rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.chart-media-bar-track {
+  height: 10px;
+  background: rgba(0, 0, 0, 0.07);
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 0.4rem;
+}
+.chart-media-bar-fill {
+  height: 100%;
+  background: linear-gradient(to right, #C0392B, #E8943A);
+  border-radius: 5px;
+  transition: width 0.5s ease;
+}
+.chart-media-counts {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Best of the Week */
+.stats-best-section {
+  width: 100%;
+  max-width: 760px;
+}
+.stats-best-label {
+  color: rgba(245, 230, 200, 0.75);
+  font-family: Georgia, serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+.stats-best-card {
+  background: #F5F0E8;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.28);
+  border-left: 4px solid var(--header-red);
+}
+.stats-best-author {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+.stats-best-author strong {
+  color: var(--text-primary);
+}
+.stats-best-text {
+  font-family: Georgia, serif;
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--text-primary);
+  margin-bottom: 0.65rem;
+}
+.stats-best-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--separator-gold);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.76rem;
+  color: var(--text-muted);
+}
+.stats-best-link {
+  color: var(--header-red);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.stats-best-link:hover {
+  color: var(--tile-hover);
   text-decoration: underline;
 }
 

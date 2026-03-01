@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Week Stats · Twitter Bookmarks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="stats-view">
+
+  <div class="desk desk--stats">
+
+    <div class="stats-top-bar">
+      <a class="stats-back-link" href="index.html">&larr; Calendar</a>
+    </div>
+
+    <div class="stats-heading" id="statsHeading">
+      <div class="stats-week-label" id="weekLabel">Loading&hellip;</div>
+      <div class="stats-total" id="totalLabel"></div>
+    </div>
+
+    <div class="stats-grid">
+
+      <!-- Top Categories -->
+      <div class="stats-card">
+        <div class="stats-card-title">Top Categories</div>
+        <div id="chartCategories"></div>
+      </div>
+
+      <!-- Bookmarks by Day -->
+      <div class="stats-card">
+        <div class="stats-card-title">Bookmarks by Day</div>
+        <div class="chart-vbars" id="chartByDay"></div>
+      </div>
+
+      <!-- Viral vs Niche -->
+      <div class="stats-card">
+        <div class="stats-card-title">Viral vs. Niche</div>
+        <div class="chart-donut-wrap" id="chartDonut"></div>
+      </div>
+
+      <!-- Media Richness -->
+      <div class="stats-card">
+        <div class="stats-card-title">Media Richness</div>
+        <div id="chartMedia"></div>
+      </div>
+
+    </div>
+
+    <!-- Best of the Week -->
+    <div class="stats-best-section">
+      <div class="stats-best-label">&#9733; Best of the Week</div>
+      <div id="bestTweet"></div>
+    </div>
+
+  </div>
+
+  <script src="data.js"></script>
+  <script src="categories.js" onerror="window.BOOKMARK_CATEGORIES = null;"></script>
+  <script>
+    // ── Parse query params ────────────────────────────────────────────────────
+    const params = new URLSearchParams(location.search);
+    const weekStart = params.get('weekStart'); // YYYY-MM-DD (Sunday)
+
+    function pad2(n) { return String(n).padStart(2, '0'); }
+
+    function formatDate(y, m, d) {
+      return `${y}-${pad2(m)}-${pad2(d)}`;
+    }
+
+    // Build the 7 date strings for Sun–Sat
+    function getWeekDates(sundayStr) {
+      const [y, m, d] = sundayStr.split('-').map(Number);
+      const dates = [];
+      for (let i = 0; i < 7; i++) {
+        const dt = new Date(y, m - 1, d + i);
+        dates.push(formatDate(dt.getFullYear(), dt.getMonth() + 1, dt.getDate()));
+      }
+      return dates;
+    }
+
+    // Format a date string like "Feb 24"
+    function fmtShort(dateStr) {
+      const [y, m, d] = dateStr.split('-').map(Number);
+      const dt = new Date(y, m - 1, d);
+      return dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    }
+
+    // Format a date string like "Feb 24, 2026"
+    function fmtFull(dateStr) {
+      const [y, m, d] = dateStr.split('-').map(Number);
+      const dt = new Date(y, m - 1, d);
+      return dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    }
+
+    function formatNum(n) {
+      if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+      if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+      return String(n);
+    }
+
+    // ── Guard: need weekStart ─────────────────────────────────────────────────
+    if (!weekStart) {
+      document.getElementById('weekLabel').textContent = 'No week specified';
+    } else {
+      const weekDates = getWeekDates(weekStart);
+      const lastDate = weekDates[6];
+
+      // Week label: "Feb 24 – Mar 1, 2026"
+      const [ly, lm, ld] = lastDate.split('-').map(Number);
+      const lastYear = ly;
+      document.getElementById('weekLabel').textContent =
+        `${fmtShort(weekStart)} \u2013 ${fmtShort(lastDate)}, ${lastYear}`;
+
+      // ── Collect all tweets for this week ───────────────────────────────────
+      const TWEETS = window.BOOKMARK_TWEETS || {};
+      const DATES  = window.BOOKMARK_DATES  || {};
+
+      const weekSet = new Set(weekDates);
+      const allTweets = [];
+      for (const date of weekDates) {
+        if (TWEETS[date]) {
+          for (const t of TWEETS[date]) {
+            allTweets.push({ ...t, _date: date });
+          }
+        }
+      }
+
+      const totalCount = allTweets.length;
+      document.getElementById('totalLabel').textContent =
+        totalCount === 1 ? '1 bookmark' : `${totalCount} bookmarks`;
+
+      // ── 1. Top Categories ──────────────────────────────────────────────────
+      const chartCats = document.getElementById('chartCategories');
+      const CATS = window.BOOKMARK_CATEGORIES;
+
+      if (!CATS) {
+        chartCats.innerHTML = '<div style="font-size:0.8rem;color:var(--text-muted);font-family:Arial;font-style:italic;padding:0.5rem 0;">Run <code>categorize_bookmarks.py</code> to see categories.</div>';
+      } else {
+        // Count tweets per category that fall in this week
+        const catCounts = [];
+        for (const [catName, tweets] of Object.entries(CATS)) {
+          const count = tweets.filter(t => weekSet.has(t._date)).length;
+          if (count > 0) catCounts.push({ name: catName, count });
+        }
+        catCounts.sort((a, b) => b.count - a.count);
+        const top3 = catCounts.slice(0, 3);
+
+        if (top3.length === 0) {
+          chartCats.innerHTML = '<div style="font-size:0.8rem;color:var(--text-muted);font-family:Arial;font-style:italic;padding:0.5rem 0;">No category data for this week.</div>';
+        } else {
+          const maxCount = top3[0].count;
+          const frag = document.createDocumentFragment();
+          for (const { name, count } of top3) {
+            const pct = maxCount > 0 ? (count / maxCount * 100) : 0;
+            const row = document.createElement('div');
+            row.className = 'chart-hbar-row';
+            row.innerHTML = `
+              <div class="chart-hbar-label" title="${name}">${name}</div>
+              <div class="chart-hbar-track">
+                <div class="chart-hbar-fill" style="width:${pct}%"></div>
+              </div>
+              <div class="chart-hbar-value">${count}</div>`;
+            frag.appendChild(row);
+          }
+          chartCats.appendChild(frag);
+        }
+      }
+
+      // ── 2. Bookmarks by Day ────────────────────────────────────────────────
+      const DOW_SHORT = ['S','M','T','W','T','F','S'];
+      const byDayCounts = weekDates.map(d => DATES[d] || 0);
+      const maxDay = Math.max(...byDayCounts, 1);
+
+      const chartByDay = document.getElementById('chartByDay');
+      for (let i = 0; i < 7; i++) {
+        const cnt = byDayCounts[i];
+        const heightPct = cnt > 0 ? Math.max(4, Math.round(cnt / maxDay * 100)) : 0;
+        const col = document.createElement('div');
+        col.className = 'chart-vbar-col';
+        col.innerHTML = `
+          <div class="chart-vbar-count">${cnt > 0 ? cnt : ''}</div>
+          <div class="chart-vbar-track">
+            <div class="chart-vbar-fill" style="height:${heightPct}%"></div>
+          </div>
+          <div class="chart-vbar-label">${DOW_SHORT[i]}</div>`;
+        chartByDay.appendChild(col);
+      }
+
+      // ── 3. Viral vs. Niche donut ───────────────────────────────────────────
+      const highTweets  = allTweets.filter(t => (t.like_count || 0) >= 10000);
+      const midTweets   = allTweets.filter(t => (t.like_count || 0) >= 1000 && (t.like_count || 0) < 10000);
+      const nicheTweets = allTweets.filter(t => (t.like_count || 0) < 1000);
+
+      const total3 = allTweets.length || 1;
+      const segments = [
+        { label: 'High (10k+ \u2665)',  count: highTweets.length,  color: '#C0392B' },
+        { label: 'Mid (1k\u201310k)',   count: midTweets.length,   color: '#E8943A' },
+        { label: 'Niche (<1k)',          count: nicheTweets.length, color: '#D4A843' },
+      ];
+
+      const C = 2 * Math.PI * 52; // circumference for r=52
+      let cumulative = 0;
+      const donutCircles = segments.map(seg => {
+        const f = seg.count / total3;
+        const offset = cumulative;
+        cumulative += f;
+        return { ...seg, f, offset };
+      });
+
+      const svgNS = 'http://www.w3.org/2000/svg';
+      const donutSvg = document.createElementNS(svgNS, 'svg');
+      donutSvg.setAttribute('width', '140');
+      donutSvg.setAttribute('height', '140');
+      donutSvg.setAttribute('viewBox', '0 0 140 140');
+
+      // Background ring
+      const bgCircle = document.createElementNS(svgNS, 'circle');
+      bgCircle.setAttribute('cx', '70'); bgCircle.setAttribute('cy', '70'); bgCircle.setAttribute('r', '52');
+      bgCircle.setAttribute('fill', 'none');
+      bgCircle.setAttribute('stroke', '#E0D8CC');
+      bgCircle.setAttribute('stroke-width', '24');
+      donutSvg.appendChild(bgCircle);
+
+      // Segment rings
+      for (const seg of donutCircles) {
+        if (seg.f <= 0) continue;
+        const circle = document.createElementNS(svgNS, 'circle');
+        circle.setAttribute('cx', '70'); circle.setAttribute('cy', '70'); circle.setAttribute('r', '52');
+        circle.setAttribute('fill', 'none');
+        circle.setAttribute('stroke', seg.color);
+        circle.setAttribute('stroke-width', '24');
+        circle.setAttribute('stroke-dasharray', `${seg.f * C} ${(1 - seg.f) * C}`);
+        circle.setAttribute('stroke-dashoffset', `${-seg.offset * C}`);
+        circle.setAttribute('transform', 'rotate(-90 70 70)');
+        donutSvg.appendChild(circle);
+      }
+
+      // Center label
+      const centerText = document.createElementNS(svgNS, 'text');
+      centerText.setAttribute('x', '70'); centerText.setAttribute('y', '70');
+      centerText.setAttribute('text-anchor', 'middle'); centerText.setAttribute('dominant-baseline', 'middle');
+      centerText.setAttribute('font-family', 'Georgia, serif');
+      centerText.setAttribute('font-size', '18');
+      centerText.setAttribute('font-weight', 'bold');
+      centerText.setAttribute('fill', '#3D2B1F');
+      centerText.textContent = String(allTweets.length);
+      donutSvg.appendChild(centerText);
+
+      const legendDiv = document.createElement('div');
+      legendDiv.className = 'chart-donut-legend';
+      for (const seg of segments) {
+        const pct = Math.round(seg.count / total3 * 100);
+        const row = document.createElement('div');
+        row.className = 'chart-donut-legend-row';
+        row.innerHTML = `
+          <div class="chart-donut-dot" style="background:${seg.color}"></div>
+          <div class="chart-donut-legend-label">${seg.label}</div>
+          <div class="chart-donut-legend-pct">${pct}%</div>`;
+        legendDiv.appendChild(row);
+      }
+
+      const donutWrap = document.getElementById('chartDonut');
+      donutWrap.appendChild(donutSvg);
+      donutWrap.appendChild(legendDiv);
+
+      // ── 4. Media Richness ──────────────────────────────────────────────────
+      const withMedia = allTweets.filter(t => t.images && t.images.length > 0).length;
+      const mediaPct = allTweets.length > 0 ? Math.round(withMedia / allTweets.length * 100) : 0;
+
+      document.getElementById('chartMedia').innerHTML = `
+        <div class="chart-media-big">${mediaPct}%</div>
+        <div class="chart-media-sub">of bookmarks have photos or videos</div>
+        <div class="chart-media-bar-track">
+          <div class="chart-media-bar-fill" style="width:${mediaPct}%"></div>
+        </div>
+        <div class="chart-media-counts">
+          <span>${withMedia} with media</span>
+          <span>${allTweets.length - withMedia} text-only</span>
+        </div>`;
+
+      // ── 5. Best of the Week ────────────────────────────────────────────────
+      const bestTweetEl = document.getElementById('bestTweet');
+      if (allTweets.length === 0) {
+        bestTweetEl.innerHTML = '<div style="color:rgba(245,230,200,0.5);font-family:Georgia;font-style:italic;padding:1rem 0;">No bookmarks found for this week.</div>';
+      } else {
+        const best = allTweets.reduce((a, b) => ((a.like_count || 0) >= (b.like_count || 0) ? a : b));
+        const bestDate = fmtFull(best._date);
+        const escapedText = (best.text || '')
+          .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        bestTweetEl.innerHTML = `
+          <div class="stats-best-card">
+            <div class="stats-best-author">
+              <strong>${best.author_name || ''}</strong>
+              &middot; @${best.author_handle || ''}
+              &middot; ${bestDate}
+            </div>
+            <div class="stats-best-text">${escapedText}</div>
+            <div class="stats-best-footer">
+              <span>\u2665 ${formatNum(best.like_count || 0)}&nbsp;&nbsp;&#128278; ${formatNum(best.bookmark_count || 0)}</span>
+              <a class="stats-best-link" href="${best.url || '#'}" target="_blank" rel="noopener">View on X &rarr;</a>
+            </div>
+          </div>`;
+      }
+    }
+  </script>
+
+</body>
+</html>
