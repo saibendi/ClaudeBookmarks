@@ -106,6 +106,16 @@
         updateDrawerBadge(drawerEl, cat);
       }
 
+      // ── Deselect (close open drawer + hide panel) ────────────────────────────
+      function deselectCategory() {
+        if (!currentCat) return;
+        document.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
+        panel.classList.remove("visible");
+        document.getElementById("catPanelEmpty").style.display = "";
+        contentEl.style.display = "none";
+        currentCat = null;
+      }
+
       // ── Select a category ────────────────────────────────────────────────────
       function selectCategory(cat, clickedDrawer) {
         document.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
@@ -603,6 +613,10 @@
 
       // ── Add the initial + drawer at the bottom ────────────────────────────────
       createAddDrawer();
+
+      // ── Close open drawer when clicking whitespace ────────────────────────────
+      document.addEventListener("click", deselectCategory);
+      document.getElementById("catLayout").addEventListener("click", e => e.stopPropagation());
 
     } // end init()
 
