@@ -843,17 +843,8 @@ body.categories-view {
   transform: translateZ(72px) translateY(-6px);
 }
 
-/* Drawer face colors top→bottom */
-.drawer:nth-child(1) .drawer-front { background: linear-gradient(135deg, #D4A86A, #B8844A); }
-.drawer:nth-child(2) .drawer-front { background: linear-gradient(135deg, #B8844A, #9A6835); }
-.drawer:nth-child(3) .drawer-front { background: linear-gradient(135deg, #9A6835, #7A5025); }
-.drawer:nth-child(4) .drawer-front { background: linear-gradient(135deg, #7A5025, #6A4018); }
-.drawer:nth-child(5) .drawer-front { background: linear-gradient(135deg, #6A4018, #5A3010); }
-.drawer:nth-child(6) .drawer-front { background: linear-gradient(135deg, #5A3010, #4A2208); }
-.drawer:nth-child(7) .drawer-front { background: linear-gradient(135deg, #4A2208, #3A1804); }
-.drawer:nth-child(8) .drawer-front { background: linear-gradient(135deg, #3A1804, #2A1000); }
-
 .drawer-front {
+  background: linear-gradient(135deg, #8B5E3C, #6B3E1C);
   position: absolute;
   inset: 0;
   border-radius: 4px;
@@ -893,17 +884,11 @@ body.categories-view {
   margin-left: 4px;
 }
 
-/* File tab texture inside open drawer */
+/* Orange highlight overlay on open drawer */
 .drawer-inner {
   position: absolute;
   inset: 0;
-  background: repeating-linear-gradient(
-    90deg,
-    transparent 0,
-    transparent 5px,
-    rgba(245, 240, 232, 0.85) 5px,
-    rgba(245, 240, 232, 0.85) 7px
-  );
+  background: rgba(232, 120, 20, 0.55);
   transform: translateZ(-2px);
   opacity: 0;
   transition: opacity 0.25s 0.15s;
