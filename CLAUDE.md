@@ -72,6 +72,7 @@ Each non-index page has a `← Calendar` back link as `position: absolute; top: 
 - Calendar card has NO `overflow: hidden` — removed so week stats buttons can float outside the card to the right. `.month-rings` uses `border-radius: 4px 4px 0 0` to re-clip its background.
 - Week stats buttons: `position: absolute; right: -28px` inside `position: relative` `.week-row`.
 - 3D effects: `.calendar-scene` (perspective 900px) → `.calendar-face` (rotateX 18deg). Categories cabinet: rotateY(-14deg) rotateX(3deg).
+- Category cards show **2 per screen** (`height: calc((100vh - 8rem) / 2)`). Card layout is a flex column: author → text (natural height, scrolls if long) → media (`flex: 1`, fills remaining space, `height: 100%` on img/video) → footer. Do not add `flex: 1` to `.cat-card-text` or fixed heights to `.cat-card-images`.
 
 ## JS Gotchas
 - `\uXXXX` escapes in JS template literals need exactly 4 hex digits — `\u2F` silently breaks, use `\u002F`.
