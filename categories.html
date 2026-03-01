@@ -72,6 +72,21 @@
       const saveBtn = document.getElementById("catSaveBtn");
       saveBtn.addEventListener("click", downloadCategories);
 
+      // ── Category notification snapshot (localStorage diff) ──────────────────────
+      const _catSnap = JSON.parse(localStorage.getItem("category_snapshot") || "{}");
+      const CAT_NOTIFS = {};  // catName → { type: "new-cat"|"new-tweets"|"seen", count? }
+      for (const [cat, tweets] of Object.entries(CATS)) {
+        if (!(cat in _catSnap)) {
+          CAT_NOTIFS[cat] = { type: "new-cat", count: tweets.length };
+        } else {
+          const prevIds = new Set(_catSnap[cat]);
+          const newCount = tweets.filter(t => !prevIds.has(t.id)).length;
+          CAT_NOTIFS[cat] = newCount > 0
+            ? { type: "new-tweets", count: newCount }
+            : { type: "seen" };
+        }
+      }
+
       // ── Update drawer count label ─────────────────────────────────────────────
       function updateDrawerCount(catName) {
         cabinet.querySelectorAll(".drawer").forEach(d => {
@@ -82,11 +97,21 @@
         });
       }
 
+      // ── Mark a category as seen in localStorage ───────────────────────────────
+      function markCatSeen(cat, drawerEl) {
+        const snap = JSON.parse(localStorage.getItem("category_snapshot") || "{}");
+        snap[cat] = (CATS[cat] || []).map(t => t.id);
+        localStorage.setItem("category_snapshot", JSON.stringify(snap));
+        CAT_NOTIFS[cat] = { type: "seen" };
+        updateDrawerBadge(drawerEl, cat);
+      }
+
       // ── Select a category ────────────────────────────────────────────────────
       function selectCategory(cat, clickedDrawer) {
         document.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
         clickedDrawer.classList.add("open");
         currentCat = cat;
+        markCatSeen(cat, clickedDrawer);
         panel.classList.add("visible");
         document.getElementById("catPanelEmpty").style.display = "none";
         contentEl.style.display      = "flex";
@@ -258,6 +283,12 @@
             if (currentCat === oldName) currentCat = newName;
             drawer.dataset.cat = newName;
 
+            // Keep localStorage snapshot and CAT_NOTIFS keys in sync with the renamed category
+            const _rSnap = JSON.parse(localStorage.getItem("category_snapshot") || "{}");
+            if (oldName in _rSnap) { _rSnap[newName] = _rSnap[oldName]; delete _rSnap[oldName]; }
+            localStorage.setItem("category_snapshot", JSON.stringify(_rSnap));
+            if (oldName in CAT_NOTIFS) { CAT_NOTIFS[newName] = CAT_NOTIFS[oldName]; delete CAT_NOTIFS[oldName]; }
+
             const newLabel = document.createElement("div");
             newLabel.className = "drawer-label";
             newLabel.textContent = newName;
@@ -282,6 +313,31 @@
           });
           input.addEventListener("blur", cancel);
         });
+      }
+
+      // ── Update (or flip) the badge on an existing drawer element ─────────────
+      function updateDrawerBadge(drawerEl, cat) {
+        const notif = CAT_NOTIFS[cat];
+        let badge = drawerEl.querySelector(".drawer-badge");
+
+        if (!notif || notif.type === "seen") {
+          drawerEl.classList.remove("drawer-new");
+          if (badge) {
+            badge.className = "drawer-badge drawer-badge--seen";
+            badge.textContent = "\u2713";
+          }
+          return;
+        }
+        // new-cat or new-tweets — only show if count > 0
+        if (notif.count > 0) {
+          if (!badge) {
+            badge = document.createElement("div");
+            drawerEl.appendChild(badge);
+          }
+          badge.className = "drawer-badge drawer-badge--new";
+          badge.textContent = `+${notif.count}`;
+          if (notif.type === "new-cat") drawerEl.classList.add("drawer-new");
+        }
       }
 
       // ── Build a real drawer DOM node with all event listeners ─────────────────
@@ -314,6 +370,25 @@
 
         drawer.appendChild(front);
         drawer.appendChild(inner);
+
+        // Notification badge — appended as third child of drawer (above inner in paint order)
+        {
+          const notif = CAT_NOTIFS[cat];
+          if (notif) {
+            if ((notif.type === "new-cat" || notif.type === "new-tweets") && notif.count > 0) {
+              const badge = document.createElement("div");
+              badge.className = "drawer-badge drawer-badge--new";
+              badge.textContent = `+${notif.count}`;
+              drawer.appendChild(badge);
+              if (notif.type === "new-cat") drawer.classList.add("drawer-new");
+            } else if (notif.type === "seen") {
+              const badge = document.createElement("div");
+              badge.className = "drawer-badge drawer-badge--seen";
+              badge.textContent = "\u2713";
+              drawer.appendChild(badge);
+            }
+          }
+        }
 
         // Click opens panel (ignore clicks that originate on the handle)
         drawer.addEventListener("click", e => {
@@ -367,6 +442,19 @@
             CATS[targetCat].push(...CATS[src]);
             CATS[targetCat].sort((a, b) => (b.like_count || 0) - (a.like_count || 0));
             delete CATS[src];
+
+            // Sync localStorage: source entry deleted; recompute target's new-tweet count
+            const _mSnap = JSON.parse(localStorage.getItem("category_snapshot") || "{}");
+            delete _mSnap[src];
+            localStorage.setItem("category_snapshot", JSON.stringify(_mSnap));
+
+            const _tgtPrev = new Set(_mSnap[targetCat] || []);
+            const _newAfterMerge = CATS[targetCat].filter(t => !_tgtPrev.has(t.id)).length;
+            CAT_NOTIFS[targetCat] = _newAfterMerge > 0
+              ? { type: "new-tweets", count: _newAfterMerge }
+              : (targetCat in _mSnap ? { type: "seen" } : { type: "new-cat", count: CATS[targetCat].length });
+            delete CAT_NOTIFS[src];
+            updateDrawerBadge(drawer, targetCat);  // 'drawer' is the target element in this closure
 
             // Remove source drawer from DOM
             cabinet.querySelectorAll(".drawer").forEach(d => {
@@ -506,10 +594,12 @@
         return drawer;
       }
 
-      // ── Build all initial drawers ─────────────────────────────────────────────
-      Object.keys(CATS).forEach(cat => {
-        cabinet.appendChild(buildDrawer(cat));
-      });
+      // ── Build all initial drawers (sorted by tweet count descending) ────────────
+      Object.keys(CATS)
+        .sort((a, b) => (CATS[b] || []).length - (CATS[a] || []).length)
+        .forEach(cat => {
+          cabinet.appendChild(buildDrawer(cat));
+        });
 
       // ── Add the initial + drawer at the bottom ────────────────────────────────
       createAddDrawer();
@@ -518,7 +608,10 @@
 
     // ── Download categories.js ────────────────────────────────────────────────
     function downloadCategories() {
-      const json    = JSON.stringify(CATS, null, 2);
+      const sorted  = Object.fromEntries(
+        Object.entries(CATS).sort(([, a], [, b]) => b.length - a.length)
+      );
+      const json    = JSON.stringify(sorted, null, 2);
       const content = "// Auto-generated by categorize_bookmarks.py \u2014 do not edit manually.\nwindow.BOOKMARK_CATEGORIES = " + json + ";\n";
       const blob    = new Blob([content], { type: "application/javascript" });
       const url     = URL.createObjectURL(blob);

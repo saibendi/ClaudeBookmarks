@@ -50,7 +50,8 @@ window.BOOKMARK_CATEGORIES = {
 PYTHONUNBUFFERED=1 python3 fetch_bookmarks.py           # last 7 days (default)
 PYTHONUNBUFFERED=1 python3 fetch_bookmarks.py --days 30
 PYTHONUNBUFFERED=1 python3 fetch_bookmarks.py --all
-python3 categorize_bookmarks.py                         # categorize after fetching
+python3 categorize_bookmarks.py                         # reconcile mode (only new tweets)
+python3 categorize_bookmarks.py --reclassify            # force full re-categorisation
 ```
 `PYTHONUNBUFFERED=1` is required — without it the OAuth URL never appears.
 
@@ -68,17 +69,31 @@ Every page uses `body.{page}-view` + `.desk.desk--{page}` for page-specific layo
 ## Page Navigation Pattern
 Each non-index page has a `← Calendar` back link as `position: absolute; top: 1.8rem; left: 1.8rem` (out of flow). This is `.day-top-bar` / `.cat-top-bar` / `.stats-top-bar` + corresponding back-link class.
 
+## categorize_bookmarks.py — Reconcile Mode
+
+Default behaviour (no flag): loads existing `categories.js`, extracts already-assigned tweet IDs, classifies only the genuinely new tweets, merges results into existing categories, then re-sorts everything by tweet count descending and rewrites the file.
+
+- `--reclassify` flag: ignores existing file, classifies all tweets from scratch (same as old behaviour)
+- If no new tweets found: prints "nothing to classify" and exits — **no API call, no file write**
+- Terminal output marks brand-new category names with `[NEW]`; prints a summary line at the end: `1 new category: Photography & Visual Arts` or `No new categories.`
+- `load_existing_categories()`: parses `categories.js` via regex (`[\s\S]*` greedy — file has one top-level statement), returns `(cats_dict, assigned_ids_set)` or `(None, set())` if absent/unparseable
+- `build_prompt_reconcile(batch, existing_cat_names)`: prompt variant that lists existing names and instructs Claude to reuse them exactly; only creates new names if no existing one fits
+- `classify_batch(tweet_batch, existing_cat_names=None)`: routes to the right prompt based on mode
+
 ## Key CSS Patterns
 - Calendar card has NO `overflow: hidden` — removed so week stats buttons can float outside the card to the right. `.month-rings` uses `border-radius: 4px 4px 0 0` to re-clip its background.
 - Week stats buttons: `position: absolute; right: -28px` inside `position: relative` `.week-row`.
 - 3D effects: `.calendar-scene` (perspective 900px) → `.calendar-face` (rotateX 18deg). Categories cabinet: rotateY(-14deg) rotateX(3deg).
 - Cabinet drawers are all uniform `linear-gradient(135deg, #8B5E3C, #6B3E1C)` — do NOT add nth-child color variations. Selected drawer shows orange overlay via `.drawer-inner { background: rgba(232, 120, 20, 0.55) }`.
+- Drawer notification badges: `.drawer-badge` (position absolute, top/right 6px, z-index 10); `.drawer-badge--new` (dark red `#C0392B` pill, 0.6rem); `.drawer-badge--seen` (green `#27AE60` checkmark, 0.75rem). Brand-new category drawer: `.drawer.drawer-new .drawer-front` gets a warm-red gradient `(#7A3030, #4A1A1A)`.
 - Category cards show **2 per screen** (`height: calc((100vh - 8rem) / 2)`). Card layout is a flex column: author → text (natural height, scrolls if long) → media (`flex: 1`, fills remaining space, `height: 100%` on img/video) → footer. Do not add `flex: 1` to `.cat-card-text` or fixed heights to `.cat-card-images`.
 
 ## categories.html — Cabinet Management
 
 ### Drawer building
 All drawers are built by `buildDrawer(cat)` (returns DOM node, attaches all listeners). The `+` drawer is built by `createAddDrawer()` (appended last, never a drag target). Always read the live category name from `drawer.dataset.cat` — it gets updated on rename, so closure `cat` variables go stale.
+
+Initial drawers are built with `Object.keys(CATS).sort((a, b) => CATS[b].length - CATS[a].length)` — sorted by tweet count descending on every load. This is defensive: the in-memory CATS object key order can get scrambled by rename/add mutations (`CATS[newName] = ...; delete CATS[oldName]` appends the key at the end of the object), so sorting on build ensures correct order regardless of file state.
 
 ### Drag-and-drop — shared `dragState`
 `dragState` has a `type` field distinguishing card and drawer drags:
@@ -112,8 +127,28 @@ All drawers are built by `buildDrawer(cat)` (returns DOM node, attaches all list
 After the first successful mutation (card refile, drawer merge, add category, or rename), a "↡ Save categories.js" button appears in `.cat-top-bar` (hidden by default via `style="display:none"`). Clicking it downloads the current in-memory `CATS` as a ready-to-use `categories.js` via the Blob + object URL trick (works on `file://`). User replaces the project file with the download to make mutations permanent.
 - `let hasMoves = false` flag in `init()` — flipped on first successful mutation, shows button once
 - `downloadCategories()` is a module-level function (outside `init()`) so it can reference `CATS`
+- **`downloadCategories()` sorts `CATS` entries by tweet count descending before serializing** — ensures the saved file always has correct order regardless of in-memory mutation order
 - Button styled as `.cat-save-btn` — muted gold, borderless ghost style matching the top-bar
 - `categorize_bookmarks.py` backs up existing `categories.js` → `categories_old.js` (via `shutil.copy2`) before overwriting; `categories_old.js` is in `.gitignore`
+
+## categories.html — Notification Badges
+
+**localStorage key**: `"category_snapshot"` — `{ "Category Name": ["tweetId1", ...], ... }`
+
+`CAT_NOTIFS` is computed once at `init()` time by diffing `CATS` against the snapshot:
+- Category not in snapshot → `{ type: "new-cat", count: tweets.length }` — dark-red tint on drawer
+- Category in snapshot with new IDs → `{ type: "new-tweets", count: N }` — `+N` red badge
+- Category in snapshot, no new IDs → `{ type: "seen" }` — `✓` green badge
+
+Key functions (all inside `init()`):
+- `updateDrawerBadge(drawerEl, cat)` — reads `CAT_NOTIFS[cat]`, updates/creates badge element in place
+- `markCatSeen(cat, drawerEl)` — writes all current tweet IDs to snapshot, sets `CAT_NOTIFS[cat] = {type:"seen"}`, calls `updateDrawerBadge`
+- `selectCategory` calls `markCatSeen` on every click — badge flips to `✓` immediately
+- Badge is the third child of `.drawer` (after `.drawer-front` and `.drawer-inner`) — sits above the orange open-overlay, `z-index: 10`
+
+Snapshot stays in sync through mutations:
+- Rename: `_rSnap[newName] = _rSnap[oldName]; delete _rSnap[oldName]` + same for `CAT_NOTIFS`
+- Drawer merge: delete source key from snapshot; recompute target's unseen count; call `updateDrawerBadge` on target
 
 ## JS Gotchas
 - `\uXXXX` escapes in JS template literals need exactly 4 hex digits — `\u2F` silently breaks, use `\u002F`.

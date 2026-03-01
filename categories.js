@@ -2,6 +2,18 @@
 window.BOOKMARK_CATEGORIES = {
   "AI & Technology": [
     {
+      "id": "2027873821785751916",
+      "text": "the fucking wildest 7 days in U.S. defense history \n\n- pentagon revealed they used Claude to capture venezuelan president Maduro\n\n- pentagon demands anthropic gives them unadulterated access to claude for mass surveillance and autonomous killing weapons \n\n- anthropic says “fuck you”\n\n- trump blacklists them calling them woke pussies, Pete Hegseth designates them a “supply-chain risk”\n\n- Openai swoops in with better terms stealing anthropic’s deal, securing ChatGPT as the military’s preferred ai model.\n\n*5 hours later*\n\n- U.S. starts war with Iran and kills supreme leader Khameini\n\ninsane timeline.",
+      "author_name": "Ejaaz",
+      "author_handle": "@cryptopunk7213",
+      "created_at": "2026-02-28T22:29:29.000Z",
+      "url": "https://twitter.com/i/web/status/2027873821785751916",
+      "like_count": 37821,
+      "bookmark_count": 7026,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
       "id": "2026731645169185220",
       "text": "It is hard to communicate how much programming has changed due to AI in the last 2 months: not gradually and over time in the \"progress as usual\" way, but specifically this last December. There are a number of asterisks but imo coding agents basically didn’t work before December and basically work since - the models have significantly higher quality, long-term coherence and tenacity and they can power through large and long tasks, well past enough that it is extremely disruptive to the default programming workflow.\n\nJust to give an example, over the weekend I was building a local video analysis dashboard for the cameras of my home so I wrote: “Here is the local IP and username/password of my DGX Spark. Log in, set up ssh keys, set up vLLM, download and bench Qwen3-VL, set up a server endpoint to inference videos, a basic web ui dashboard, test everything, set it up with systemd, record memory notes for yourself and write up a markdown report for me”. The agent went off for ~30 minutes, ran into multiple issues, researched solutions online, resolved them one by one, wrote the code, tested it, debugged it, set up the services, and came back with the report and it was just done. I didn’t touch anything. All of this could easily have been a weekend project just 3 months ago but today it’s something you kick off and forget about for 30 minutes.\n\nAs a result, programming is becoming unrecognizable. You’re not typing computer code into an editor like the way things were since computers were invented, that era is over. You're spinning up AI agents, giving them tasks *in English* and managing and reviewing their work in parallel. The biggest prize is in figuring out how you can keep ascending the layers of abstraction to set up long-running orchestrator Claws with all of the right tools, memory and instructions that productively manage multiple parallel Code instances for you. The leverage achievable via top tier \"agentic engineering\" feels very high right now.\n\nIt’s not perfect, it needs high-level direction, judgement, taste, oversight, iteration and hints and ideas. It works a lot better in some scenarios than others (e.g. especially for tasks that are well-specified and where you can verify/test functionality). The key is to build intuition to decompose the task just right to hand off the parts that work and help out around the edges. But imo, this is nowhere near \"business as usual\" time in software.",
       "author_name": "Andrej Karpathy",
@@ -202,6 +214,52 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-23"
     },
     {
+      "id": "2027738847056986163",
+      "text": "genAI was so much more fun when it could not do realistic things. Midjourney 2022-03 https://t.co/3yJLxAIZkk",
+      "author_name": "Marcin Ignac",
+      "author_handle": "@marcinignac",
+      "created_at": "2026-02-28T13:33:09.000Z",
+      "url": "https://twitter.com/i/web/status/2027738847056986163",
+      "like_count": 4278,
+      "bookmark_count": 635,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCP5oxeW8AE0gob.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027953432326197508",
+      "text": "this is what a company looks like in 2026.\n\nnot people. not offices. not salaries.\n\na folder.\n\n.claude/agents/\nengineering/\nmarketing/\ndesign/\nops/\ntesting/\n\nevery role. every department. every function.\n\nall .md files.\n\ni have 12 of these running in OpenClaw right now.\n\nthe org chart is dead. the directory is the new company.",
+      "author_name": "Vadim",
+      "author_handle": "@VadimStrizheus",
+      "created_at": "2026-03-01T03:45:50.000Z",
+      "url": "https://twitter.com/i/web/status/2027953432326197508",
+      "like_count": 4119,
+      "bookmark_count": 6327,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCS85dlXAAA2RSd.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027877082752290978",
+      "text": "so to have AI create good interfaces you need to… understand the building blocks and patterns that make up software… wondering if there’s a name for that https://t.co/P9Nwwzr15M",
+      "author_name": "Niko",
+      "author_handle": "@nikolasklein",
+      "created_at": "2026-02-28T22:42:27.000Z",
+      "url": "https://twitter.com/i/web/status/2027877082752290978",
+      "like_count": 3381,
+      "bookmark_count": 1536,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
       "id": "2026855836979531934",
       "text": "Codex-5.3 is that mid-level engineer who finishes work on time but needs you to specify every edge case in jira or they short circuit.\n\nOpus-4.6 is the staff engineer who 10xes revenue with killer features they invented but takes down prod every 5th Friday afternoon.",
       "author_name": "staysaasy",
@@ -212,6 +270,23 @@ window.BOOKMARK_CATEGORIES = {
       "bookmark_count": 527,
       "images": [],
       "_date": "2026-02-26"
+    },
+    {
+      "id": "2027659595599253892",
+      "text": "This is AMAZING.. someone just built an App Store for Claude Code.\n\nIt's called SkillsMP and there are 200,000+ agent skills that teach your AI exactly how to write PPTX files, review PRs, deploy to cloud, analyze data, and more.\n\n100% Opensource.\n\n(Link is in the comments) https://t.co/1g1KaJuIA6",
+      "author_name": "Alex Prompter",
+      "author_handle": "@alex_prompter",
+      "created_at": "2026-02-28T08:18:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027659595599253892",
+      "like_count": 3249,
+      "bookmark_count": 5680,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCOxqCta4AAXYbE.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
     },
     {
       "id": "2026801420872093708",
@@ -366,6 +441,18 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-25"
     },
     {
+      "id": "2028077803975930342",
+      "text": "this from the ceo of cursor is a must read. \n\nprobably one of the best articles i've read in the last few years and perfectly captures the changing landscape\n\nyou simply have to read this, read it right now. \n\nthe ground is shifting beneath us, be ready. https://t.co/S7IrS5rSqR",
+      "author_name": "🍓🍓🍓",
+      "author_handle": "@iruletheworldmo",
+      "created_at": "2026-03-01T12:00:02.000Z",
+      "url": "https://twitter.com/i/web/status/2028077803975930342",
+      "like_count": 1776,
+      "bookmark_count": 4044,
+      "images": [],
+      "_date": "2026-03-01"
+    },
+    {
       "id": "2026076069602939131",
       "text": "Solid Skills setup. https://t.co/37mLh4DhLk",
       "author_name": "Morgan",
@@ -482,6 +569,18 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-27"
     },
     {
+      "id": "2027936722185843148",
+      "text": "you can still use all our old models on our website - everything back to midjourney v1 https://t.co/MPF111wEwo",
+      "author_name": "David",
+      "author_handle": "@DavidSHolz",
+      "created_at": "2026-03-01T02:39:26.000Z",
+      "url": "https://twitter.com/i/web/status/2027936722185843148",
+      "like_count": 548,
+      "bookmark_count": 59,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
       "id": "2027267280086733118",
       "text": "Skills That Pay in the AI Era (2026)\n\nAI/ML: Python, PyTorch, Transformers, Fine-tuning, Evaluation\nAI Stack: RAG, Vector Databases, Embeddings, Prompt Engineering, Agents\nBackend: Node.js, Go, Rust, API Design, System Design\nFrontend: React, Next.js (for AI apps & dashboards)\nAPIs: REST, GraphQL, gRPC\nDatabases: PostgreSQL, Redis, Vector DBs\nDevOps: Docker, Kubernetes, CI/CD, Terraform\nCloud: AWS/GCP/Azure, Serverless, Edge (Cloudflare, Vercel)\nMLOps: Model serving, MLflow, Monitoring, Data pipelines\nSecurity: Auth, API Security, Zero Trust\nAI Productivity: Copilot, Cursor, Code review with AI\nCore CS: Data Structures, Networking, OS, Scalability",
       "author_name": "Vivo",
@@ -540,6 +639,1199 @@ window.BOOKMARK_CATEGORIES = {
       "bookmark_count": 41,
       "images": [],
       "_date": "2026-02-27"
+    }
+  ],
+  "Entertainment & Media": [
+    {
+      "id": "2025800996744794380",
+      "text": "Did not expect a question that starts out 'Do you think before you speak?' to go so well. A+ question from Charlotte Harpur A++ response from Eileen Gu. https://t.co/cvNJ6rSwl3",
+      "author_name": "sim",
+      "author_handle": "@simscircuit",
+      "created_at": "2026-02-23T05:12:49.000Z",
+      "url": "https://twitter.com/i/web/status/2025800996744794380",
+      "like_count": 155885,
+      "bookmark_count": 53467,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2025800888187867136/img/PN9qAkjL-uDOupVR.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2025800888187867136/vid/avc1/1080x712/F7EsR5sESJMJ9mc7.mp4"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027519116978827276",
+      "text": "The future was much cooler in the past https://t.co/IJEHnYSoWf",
+      "author_name": "定",
+      "author_handle": "@de3dsoul",
+      "created_at": "2026-02-27T23:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2027519116978827276",
+      "like_count": 79886,
+      "bookmark_count": 11156,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027411111771832320/img/1uTtho6wVdHDWD0I.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027411111771832320/vid/avc1/720x718/RGpzj4hI1a7ER5C0.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027676542311043130",
+      "text": "https://t.co/psTDfsrVCU",
+      "author_name": "☘︎",
+      "author_handle": "@vintageforestt",
+      "created_at": "2026-02-28T09:25:34.000Z",
+      "url": "https://twitter.com/i/web/status/2027676542311043130",
+      "like_count": 39767,
+      "bookmark_count": 4562,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027676478129709056/img/ey8aHVnTSOhfTBbz.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027676478129709056/vid/avc1/720x1280/cddxyoBw31MPkZWQ.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026668771830804924",
+      "text": "For years our stories pushed the limits of our canvas. Today we stretch it further. \n\nExcited to launch A&M MoCap Lab, \nIndia’s largest Motion Capture facility at @AnnapurnaStudios set up in collaboration with @mihiravisualabs and @Animatrik\n\nLooking forward for storytellers to explore its limitless potential in animation, live action, gaming and more.",
+      "author_name": "rajamouli ss",
+      "author_handle": "@ssrajamouli",
+      "created_at": "2026-02-25T14:41:03.000Z",
+      "url": "https://twitter.com/i/web/status/2026668771830804924",
+      "like_count": 22987,
+      "bookmark_count": 1259,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026668186486321160/img/HySNqAQ7Hl7-dxxc.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026668186486321160/vid/avc1/3840x2160/FCDd7hqFAOuazwbL.mp4"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027896603538034875",
+      "text": "https://t.co/hp4sFTaqt1",
+      "author_name": "定",
+      "author_handle": "@de3dsoul",
+      "created_at": "2026-03-01T00:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2027896603538034875",
+      "like_count": 16468,
+      "bookmark_count": 3300,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027782221986148353/img/pb2JAvBKpXU6LUvT.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027782221986148353/vid/avc1/720x950/ns9ck7Awe1Nbxz-1.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026663414311911704",
+      "text": "1978 wasn’t ready for zeenat aman. https://t.co/Llt7kiF2jF",
+      "author_name": "alina 🇪🇸",
+      "author_handle": "@90sAlinaa",
+      "created_at": "2026-02-25T14:19:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026663414311911704",
+      "like_count": 16172,
+      "bookmark_count": 3136,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCAnlNXWoAAZ4PD.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCAnlNUWIAAcXPb.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027455047987261697",
+      "text": "finally got my hands on the spider-man (2002) open matte 35mm scan https://t.co/RtVuRu1KTg",
+      "author_name": "arch 🕸",
+      "author_handle": "@vigilanthwip",
+      "created_at": "2026-02-27T18:45:26.000Z",
+      "url": "https://twitter.com/i/web/status/2027455047987261697",
+      "like_count": 15179,
+      "bookmark_count": 2348,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HCL3miFaoAEefyo.jpg",
+          "type": "animated_gif",
+          "video_url": "https://video.twimg.com/tweet_video/HCL3miFaoAEefyo.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2025965634475966676",
+      "text": "one of eileen’s journal entries that she posted! she’s as articulate and eloquent as a writer as she is an orator. https://t.co/AwxK9NJGHt https://t.co/fPzKernaVf",
+      "author_name": "rheaa",
+      "author_handle": "@srirachagod77",
+      "created_at": "2026-02-23T16:07:02.000Z",
+      "url": "https://twitter.com/i/web/status/2025965634475966676",
+      "like_count": 13903,
+      "bookmark_count": 6766,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB2tAT4XIAAVdbW.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2tAUPXkAA7jsb.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2tAUGX0AApOf5.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027737863681368438",
+      "text": "https://t.co/q819pNSm29",
+      "author_name": "kāne",
+      "author_handle": "@KaneOfLife",
+      "created_at": "2026-02-28T13:29:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027737863681368438",
+      "like_count": 11616,
+      "bookmark_count": 1023,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCP41zbXkAArxti.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027884968895017130",
+      "text": "There is a noticeable lack in ‘pulp’ in modern Star Wars and that honestly goes all the way back to the prequels. https://t.co/7BPoFS9TNC",
+      "author_name": "4EvilResident2",
+      "author_handle": "@4Evil_Resident2",
+      "created_at": "2026-02-28T23:13:47.000Z",
+      "url": "https://twitter.com/i/web/status/2027884968895017130",
+      "like_count": 8416,
+      "bookmark_count": 1022,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028026419603796311",
+      "text": "The dream &gt;&gt;&gt; https://t.co/yJyHdnFHYI",
+      "author_name": "femmenotes",
+      "author_handle": "@femmenote",
+      "created_at": "2026-03-01T08:35:51.000Z",
+      "url": "https://twitter.com/i/web/status/2028026419603796311",
+      "like_count": 7986,
+      "bookmark_count": 458,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCT_Ro8WYAAAaJA.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027771750864302202",
+      "text": "pov: you feel your prime coming back in 2026 https://t.co/lVzvewst2X",
+      "author_name": "alexei",
+      "author_handle": "@alexeixbt",
+      "created_at": "2026-02-28T15:43:54.000Z",
+      "url": "https://twitter.com/i/web/status/2027771750864302202",
+      "like_count": 7907,
+      "bookmark_count": 1663,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027771671642275840/img/Fi-C4US9AzT2g8I9.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027771671642275840/vid/avc1/1276x720/UPTa0YJKkj5u-gLp.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027892491522134053",
+      "text": "as it was foretold https://t.co/ROFdZomBxL https://t.co/tDacnuCqLZ",
+      "author_name": "Visakan Veerasamy",
+      "author_handle": "@visakanv",
+      "created_at": "2026-02-28T23:43:41.000Z",
+      "url": "https://twitter.com/i/web/status/2027892491522134053",
+      "like_count": 6106,
+      "bookmark_count": 1214,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCSFLokbAAAHuqw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027875072325894400",
+      "text": "https://t.co/cjcx3CtoXC",
+      "author_name": "11:11",
+      "author_handle": "@2025pics",
+      "created_at": "2026-02-28T22:34:27.000Z",
+      "url": "https://twitter.com/i/web/status/2027875072325894400",
+      "like_count": 5243,
+      "bookmark_count": 524,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCR1oaUbEAM7EZr.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027104143358259387",
+      "text": "Robert Eggers on trusting crew: “You are almost always, if you’re not Ridley Scott, the least experienced person on set. Because everyone's making many movies a year and you're making one every 2 or 3 years if you’re lucky. You literally have to listen to everyone around you…” https://t.co/ks68eEDFrH",
+      "author_name": "𝔚𝔢𝔯𝔴𝔲𝔩𝔣 • FC",
+      "author_handle": "@EggersGrimoire",
+      "created_at": "2026-02-26T19:31:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027104143358259387",
+      "like_count": 4513,
+      "bookmark_count": 398,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJta0AA2G4X.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJTWoAAIRsX.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJQXAAAEyZ3.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJMXsAAw_t5.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027856701928427539",
+      "text": "𝚜𝚒𝚕𝚒𝚌𝚒𝚞𝚖 https://t.co/5lBfPMJT8b",
+      "author_name": "hal",
+      "author_handle": "@HAL09999",
+      "created_at": "2026-02-28T21:21:28.000Z",
+      "url": "https://twitter.com/i/web/status/2027856701928427539",
+      "like_count": 3800,
+      "bookmark_count": 858,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCRk_oIXoAAqUto.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027856638988976128/vid/avc1/1080x1080/kqNU5wWcECeZZwMc.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025654592877256983",
+      "text": "Yearning for an Eric Rohmer summer https://t.co/Yw7n1MO8vX",
+      "author_name": "ol’ stocky ⛳️",
+      "author_handle": "@oldstocky",
+      "created_at": "2026-02-22T19:31:04.000Z",
+      "url": "https://twitter.com/i/web/status/2025654592877256983",
+      "like_count": 3333,
+      "bookmark_count": 761,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdSWcAAKoew.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdSWMAAnpd9.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdVXoAAbWaC.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdUXoAAEOHr.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2027679650873278772",
+      "text": "https://t.co/sh09vT5O2A",
+      "author_name": "౨ৎ",
+      "author_handle": "@desimusereverie",
+      "created_at": "2026-02-28T09:37:55.000Z",
+      "url": "https://twitter.com/i/web/status/2027679650873278772",
+      "like_count": 3165,
+      "bookmark_count": 307,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPD5aBW0AA2gb7.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027452685004251258",
+      "text": "https://t.co/w0wVV6ICqQ",
+      "author_name": "Archireum",
+      "author_handle": "@archi_reum",
+      "created_at": "2026-02-27T18:36:03.000Z",
+      "url": "https://twitter.com/i/web/status/2027452685004251258",
+      "like_count": 3064,
+      "bookmark_count": 397,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCL1eCZXAAAQnQL.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027794819637010733",
+      "text": "https://t.co/qUaWPMJSwT",
+      "author_name": "𝐍𝐄𝐌𝐎 𝐃𝐀𝐋𝐓𝐎𝐍",
+      "author_handle": "@NemoDalton",
+      "created_at": "2026-02-28T17:15:34.000Z",
+      "url": "https://twitter.com/i/web/status/2027794819637010733",
+      "like_count": 2908,
+      "bookmark_count": 963,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027794673608032256/img/LrDhpM79X5cY3eyR.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027794673608032256/vid/avc1/1280x720/VgE-j8BOvZhaL_JC.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027641587061428658",
+      "text": "this frame steals it all 🥹🤚🏻 https://t.co/9KPJgcTxDu",
+      "author_name": "keerthie",
+      "author_handle": "@DeverakondaFb",
+      "created_at": "2026-02-28T07:06:40.000Z",
+      "url": "https://twitter.com/i/web/status/2027641587061428658",
+      "like_count": 2885,
+      "bookmark_count": 490,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCOhRvpa4AALQDw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027823617858220148",
+      "text": "https://t.co/ZCZhqqW4TQ",
+      "author_name": "Cozy",
+      "author_handle": "@cozydreamvibes",
+      "created_at": "2026-02-28T19:10:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027823617858220148",
+      "like_count": 2690,
+      "bookmark_count": 209,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCMmhoSXwAAYvKK.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026699393341047213",
+      "text": "eileen gu’s archetype is not new, it is literally the exact stereotype of the typical chinese american girl:\n\n- excels in school\n- excels in an instrument (eg piano or violin) or a sport, in eileen’s case it’s a sport\n- well put together, conscientious, speaks sharply\n- main goal in life is go outperform, drilled into her since she was a kid\n\na large proportion of chinese american girls from middle class+ families are like that, eileen is just the best of the best. lower performing abcs (american born chinese) usually end up at mckinsey, a large tech firm or a law firm and work their way up the career ladder with unmatched ambition. they were best of class in high school an university and continued their excellence into the labor force\n\ni’ve seen so many of these, it’s literally stereotypical\n\nnow, let’s talk about her attractiveness. she looks pretty good, i’d give her a solid 7.5, she isn’t extraordinarily beautiful, she oryte but the problem most men have with her is her demeanor\n\nher high ambitions make her seem aggressive and manly. this is a problem that many women, not only abcs, have: they want to get to a position of leadership but they appear bossy and bitchy when they do. it is super hard for women to balance their feminity and performance an eileen is not doing it well, which is why men find her offputting\n\ni would say that as the socioeconomic status of a man increases, so does their preference towards eileen as opposed to the girl on the left. you gotta be pretty tough to date an asian tiger",
+      "author_name": "Squiggly Hair Shanks",
+      "author_handle": "@redhairshanks86",
+      "created_at": "2026-02-25T16:42:44.000Z",
+      "url": "https://twitter.com/i/web/status/2026699393341047213",
+      "like_count": 2649,
+      "bookmark_count": 1310,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027835865964179459",
+      "text": "https://t.co/1YJ7VwpRKO",
+      "author_name": "Girls therapy",
+      "author_handle": "@Girlstherapy222",
+      "created_at": "2026-02-28T19:58:40.000Z",
+      "url": "https://twitter.com/i/web/status/2027835865964179459",
+      "like_count": 2435,
+      "bookmark_count": 432,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027835824096653313/pu/img/LPptPIWB9_pbYOPu.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2027835824096653313/pu/vid/avc1/736x414/cgAB-oQg8MLns_Sx.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027944004130938891",
+      "text": "https://t.co/wHMei74pKo",
+      "author_name": "Hyperion",
+      "author_handle": "@Ortgeist",
+      "created_at": "2026-03-01T03:08:22.000Z",
+      "url": "https://twitter.com/i/web/status/2027944004130938891",
+      "like_count": 1962,
+      "bookmark_count": 182,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCS0UbwbEAIGQLG.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028138266340311056",
+      "text": "kingdom signal detected, 2025 https://t.co/SC2069ni7k",
+      "author_name": "pale kirill",
+      "author_handle": "@palekirill",
+      "created_at": "2026-03-01T16:00:18.000Z",
+      "url": "https://twitter.com/i/web/status/2028138266340311056",
+      "like_count": 1813,
+      "bookmark_count": 432,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2028117340512997376/img/Dhzyqe7eM-ySaSB9.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2028117340512997376/vid/avc1/1440x1080/Yx45RDAtMb2WM8k4.mp4"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2026445617925370330",
+      "text": "What do you think he thought of this? https://t.co/El5WahtOv3 https://t.co/gXPWsjmoT7",
+      "author_name": "shain 📚",
+      "author_handle": "@shainreads",
+      "created_at": "2026-02-24T23:54:19.000Z",
+      "url": "https://twitter.com/i/web/status/2026445617925370330",
+      "like_count": 1791,
+      "bookmark_count": 366,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB9hjBjWMAAp4n2.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB9hjLnWUAE5-Sk.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027700308697346481",
+      "text": "https://t.co/zvFHGbDHmo",
+      "author_name": "illustrarch • Architecture & Design",
+      "author_handle": "@illustrarch",
+      "created_at": "2026-02-28T11:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2027700308697346481",
+      "like_count": 1749,
+      "bookmark_count": 179,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HAt_SWUXYAAXnq5.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025525938964901934",
+      "text": "This is so real because I too would pause in the middle of a heist just to sit down, smoke a cigarette and ponder while my foid guards the hallway https://t.co/nOXQL0gq0c",
+      "author_name": "lemón",
+      "author_handle": "@cigarettesummer",
+      "created_at": "2026-02-22T10:59:50.000Z",
+      "url": "https://twitter.com/i/web/status/2025525938964901934",
+      "like_count": 1689,
+      "bookmark_count": 245,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBwdGpVXAAAGsxH.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2026286056589644086",
+      "text": "Tony Stark’s real superpower wasn’t intelligence.\n\nIt was:\n\n> infinite compute\n> unlimited API tokens\n> private LLM access\n> zero compliance reviews\n> prod deploys from localhost\n> no investor asking for MRR\n> no “we’ll circle back” emails\n> building SaaS at 3 AM on pure vibes\n> shipping MVPs before the villain monologue ends\n> turning napkin ideas into live products\n> vibe-coding features mid-fight\n> launching startups between explosions\nand if Tony existed today,\n> he’d be building on https://t.co/YwmIb6We6k",
+      "author_name": "sachin.",
+      "author_handle": "@sachinyadav699",
+      "created_at": "2026-02-24T13:20:17.000Z",
+      "url": "https://twitter.com/i/web/status/2026286056589644086",
+      "like_count": 1623,
+      "bookmark_count": 638,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026285994623062016/img/hmjUzSl1Vs9q-cl1.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026285994623062016/vid/avc1/1080x578/udPnK-wHzpuD5CAr.mp4"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027422186286305290",
+      "text": "https://t.co/kl2930nuPL",
+      "author_name": "Aesthetic",
+      "author_handle": "@Arthetec",
+      "created_at": "2026-02-27T16:34:51.000Z",
+      "url": "https://twitter.com/i/web/status/2027422186286305290",
+      "like_count": 1458,
+      "bookmark_count": 128,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCLZu-kXUAQaOZC.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027723497372586030",
+      "text": "Oozing Royalty is an understatement. \n\n@iamRashmika @TheDeverakonda https://t.co/X8DrgpXENL",
+      "author_name": "Likitha.",
+      "author_handle": "@SRKTweetDiary",
+      "created_at": "2026-02-28T12:32:09.000Z",
+      "url": "https://twitter.com/i/web/status/2027723497372586030",
+      "like_count": 1383,
+      "bookmark_count": 144,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrUwasAEQIc4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrVPbYAAQPWj.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrVdbEAQnchi.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrVKbEAEGkVC.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027116956331971047",
+      "text": "A Redditor compiled a list of the top 100 greatest films of all time based on ratings from major review aggregators like IMDb, Rotten Tomatoes, Metacritic, and Letterboxd.\n\nThey normalized all ratings to a single scale and updated positions according to the latest scores, resulting in the most current list.\n\nThe top ten is as follows:\n\n1. The Godfather (1972)\n\n2. 12 Angry Men (1957)\n\n3. Seven Samurai (1954)\n\n4. Schindler's List (1993)\n\n5. Casablanca (1942)\n\n6. Rear Window (1954)\n\n7. Spirited Away (2001)\n\n8. Singin' in the Rain (1952)\n\n9. The Godfather Part II (1974)\n\n10. Grave of the Fireflies (1988)",
+      "author_name": "NEXTA",
+      "author_handle": "@nexta_tv",
+      "created_at": "2026-02-26T20:21:59.000Z",
+      "url": "https://twitter.com/i/web/status/2027116956331971047",
+      "like_count": 1383,
+      "bookmark_count": 1494,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCHD5jvX0AAtXR4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCHD-VXWMAAlm2C.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCHEDxFX0AAs-_C.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCHEGOBWwAAErB2.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027491142627893398",
+      "text": "Spider-Man 2 (2004)\n https://t.co/zUN4XoawZC",
+      "author_name": "Marvel Perfect Gifs & Clips",
+      "author_handle": "@MCUPerfectGifs",
+      "created_at": "2026-02-27T21:08:52.000Z",
+      "url": "https://twitter.com/i/web/status/2027491142627893398",
+      "like_count": 1264,
+      "bookmark_count": 91,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/GUF1-q1W4AADESn.jpg",
+          "type": "animated_gif",
+          "video_url": "https://video.twimg.com/tweet_video/GUF1-q1W4AADESn.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027118348731895936",
+      "text": "I started a Mad Men Letterbox’d list https://t.co/O7nSWbrINe",
+      "author_name": "Nuanced Film Takes",
+      "author_handle": "@BadFilmTakes1",
+      "created_at": "2026-02-26T20:27:31.000Z",
+      "url": "https://twitter.com/i/web/status/2027118348731895936",
+      "like_count": 1256,
+      "bookmark_count": 484,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCHFZFoaQAAf6YN.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027369375058313587",
+      "text": "Spielberg wanted Daniel Day-Lewis to star in LINCOLN but after reading the script, DDL sent a letter saying no, so Spielberg had the script rewritten until he said yes. This is the rejection letter Day-Lewis sent Spielberg... https://t.co/ZfCh8TRIxe",
+      "author_name": "All The Right Movies",
+      "author_handle": "@ATRightMovies",
+      "created_at": "2026-02-27T13:05:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027369375058313587",
+      "like_count": 1160,
+      "bookmark_count": 462,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBlv6onXMAAsLoU.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027809608429903919",
+      "text": "https://t.co/hattswB8BL",
+      "author_name": "DEX",
+      "author_handle": "@kozalakscene",
+      "created_at": "2026-02-28T18:14:20.000Z",
+      "url": "https://twitter.com/i/web/status/2027809608429903919",
+      "like_count": 777,
+      "bookmark_count": 190,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027809579531157505/pu/img/7sgh5O07WrtYFlHS.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2027809579531157505/pu/vid/avc1/960x720/acK7uXwdYIkr1p18.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028120630848082080",
+      "text": "https://t.co/MvSdZzI5AA",
+      "author_name": "Prep Propaganda 👔",
+      "author_handle": "@prep_propaganda",
+      "created_at": "2026-03-01T14:50:13.000Z",
+      "url": "https://twitter.com/i/web/status/2028120630848082080",
+      "like_count": 769,
+      "bookmark_count": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCVU9scXkAAtUMA.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2026291643905888564",
+      "text": "Ee photo chusthe oka fun fact gurthocchindhi\n\nStraight 4 big hits paddaka thammudu occhindhi with blockbuster response. Fattumani 15 rojullo manodu 1st movie thoney avg talk tho kukkani kottinatlu kottyadu pawalani 😍\n\ne TFI seat naadhe anukunnodni kaalla Kindha yesi nalipesadu🙏 https://t.co/U4sZEBVc6G",
+      "author_name": "BATMAN 🦇",
+      "author_handle": "@BabuAnteBabuYe",
+      "created_at": "2026-02-24T13:42:29.000Z",
+      "url": "https://twitter.com/i/web/status/2026291643905888564",
+      "like_count": 710,
+      "bookmark_count": 38,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027951208368116172",
+      "text": "https://t.co/ZELHN0L3JC",
+      "author_name": "Spacesthetic",
+      "author_handle": "@interiorsuckerr",
+      "created_at": "2026-03-01T03:37:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027951208368116172",
+      "like_count": 640,
+      "bookmark_count": 159,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB2aUY7acAE4Oud.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2aVDBakAEl7BR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2aVmnbIAEz-10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2aWVzbkAAgmK4.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    }
+  ],
+  "Lifestyle & Culture": [
+    {
+      "id": "2025770405298921568",
+      "text": "most apocalyptic thing i’ve seen in a while https://t.co/SwBff3ZPKt",
+      "author_name": "vittorio",
+      "author_handle": "@IterIntellectus",
+      "created_at": "2026-02-23T03:11:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025770405298921568",
+      "like_count": 95365,
+      "bookmark_count": 6674,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027652718869835855",
+      "text": "This is how we live now https://t.co/9qcUSwP51k",
+      "author_name": "Fľøkï",
+      "author_handle": "@Dee_Floki",
+      "created_at": "2026-02-28T07:50:54.000Z",
+      "url": "https://twitter.com/i/web/status/2027652718869835855",
+      "like_count": 54762,
+      "bookmark_count": 14538,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCOrWd2aQAAAkST.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCOrWdbWQAA5dPT.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCOrWdcWUAAszAy.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCOrWiGXkAADQEd.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026756760539632115",
+      "text": "manifesting https://t.co/UKCRWyTQ3U",
+      "author_name": "tasha",
+      "author_handle": "@0304tasha",
+      "created_at": "2026-02-25T20:30:41.000Z",
+      "url": "https://twitter.com/i/web/status/2026756760539632115",
+      "like_count": 18117,
+      "bookmark_count": 2302,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCB8iCUW0AAnvGZ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCB8iCdWUAA4DUu.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCB8iCeWAAAnfVy.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCB8iCTXkAA5_7b.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027825077341806919",
+      "text": "Let's make a calm mind https://t.co/IclArubDma",
+      "author_name": "ᅠ ᅠ",
+      "author_handle": "@greenvibe",
+      "created_at": "2026-02-28T19:15:48.000Z",
+      "url": "https://twitter.com/i/web/status/2027825077341806919",
+      "like_count": 15860,
+      "bookmark_count": 2983,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027825050070523904/img/Bo3kTQXdRVaY1LZ_.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027825050070523904/vid/avc1/720x1280/EXWyQGqtYF8K2VeW.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027713819267551402",
+      "text": "\"The art of doing absolutely nothing, together.\" https://t.co/xSrCHVuKs5",
+      "author_name": "𝓅𝑜𝓋𝓂𝑒𝓂𝑜𝓇𝓎",
+      "author_handle": "@povmemory",
+      "created_at": "2026-02-28T11:53:42.000Z",
+      "url": "https://twitter.com/i/web/status/2027713819267551402",
+      "like_count": 15308,
+      "bookmark_count": 1035,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPi-JUXwAApFf8.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025620859315237319",
+      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
+      "author_name": "Jim",
+      "author_handle": "@Cackalacman",
+      "created_at": "2026-02-22T17:17:01.000Z",
+      "url": "https://twitter.com/i/web/status/2025620859315237319",
+      "like_count": 14151,
+      "bookmark_count": 1632,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2025484522352156812",
+      "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
+      "author_name": "Ananya",
+      "author_handle": "@uff_meri_adaa",
+      "created_at": "2026-02-22T08:15:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025484522352156812",
+      "like_count": 11754,
+      "bookmark_count": 1238,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2026125293149163694",
+      "text": "https://t.co/BH00Vpy4WF",
+      "author_name": "The Kobeissi Letter",
+      "author_handle": "@KobeissiLetter",
+      "created_at": "2026-02-24T02:41:28.000Z",
+      "url": "https://twitter.com/i/web/status/2026125293149163694",
+      "like_count": 8899,
+      "bookmark_count": 18283,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026067490766307414",
+      "text": "This is pure evil. First, Anthropic used torrent to download all the books and data for training on top of the internet, without asking permission from anyone. Second, the Chinese companies paid for the API and did not get the information for free, third it seems like Anthropic tracking people.",
+      "author_name": "Emily",
+      "author_handle": "@IamEmily2050",
+      "created_at": "2026-02-23T22:51:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026067490766307414",
+      "like_count": 6816,
+      "bookmark_count": 642,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027764981278847138",
+      "text": "the real luxury. https://t.co/DCtHs7fwat",
+      "author_name": "ᅠ",
+      "author_handle": "@artindetails",
+      "created_at": "2026-02-28T15:17:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027764981278847138",
+      "like_count": 5676,
+      "bookmark_count": 987,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2024503444418285572/img/kHVUTEXCJPMCLiZT.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2024503444418285572/vid/avc1/1280x704/6Rz5KHyQDkfzUuTK.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026308962715660400",
+      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
+      "author_name": "Jeremy Carl",
+      "author_handle": "@realJeremyCarl",
+      "created_at": "2026-02-24T14:51:18.000Z",
+      "url": "https://twitter.com/i/web/status/2026308962715660400",
+      "like_count": 5388,
+      "bookmark_count": 625,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027730514438664666",
+      "text": "Audi RS5🍷 https://t.co/QIfEFqpVqs",
+      "author_name": "Car Hub",
+      "author_handle": "@TheAutoHub",
+      "created_at": "2026-02-28T13:00:02.000Z",
+      "url": "https://twitter.com/i/web/status/2027730514438664666",
+      "like_count": 5261,
+      "bookmark_count": 529,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCNrVGLWAAEl-Ca.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCNrVG0aEAAKR6x.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCNrVGZWQAA4ioB.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCNrVH-XgAA5aI_.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027806229003678034",
+      "text": "peace 🍃💚 https://t.co/T1k6WbpN3X",
+      "author_name": "ᅠ ᅠ",
+      "author_handle": "@greenvibe",
+      "created_at": "2026-02-28T18:00:54.000Z",
+      "url": "https://twitter.com/i/web/status/2027806229003678034",
+      "like_count": 4944,
+      "bookmark_count": 1301,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027806190617473024/img/3FPVF0AJ4KBLirot.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027806190617473024/vid/avc1/720x1280/vcUT5dEXRwwV0Tjv.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027821101586452532",
+      "text": "Ferrari TESTAROSSA https://t.co/VR8RqG1knH",
+      "author_name": "Car Hub",
+      "author_handle": "@TheAutoHub",
+      "created_at": "2026-02-28T19:00:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027821101586452532",
+      "like_count": 4613,
+      "bookmark_count": 418,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCNwM0ZWYAAxr5G.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCNwM0zbEAAURxg.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCNwM0OX0AA46jd.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCNwM0NXgAAoJjc.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027461739206386034",
+      "text": "https://t.co/2hOOSa9afF",
+      "author_name": "Gibran’s Ghost",
+      "author_handle": "@gibransghost",
+      "created_at": "2026-02-27T19:12:01.000Z",
+      "url": "https://twitter.com/i/web/status/2027461739206386034",
+      "like_count": 4295,
+      "bookmark_count": 476,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCL9tMtXAAAeqcv.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027464267419484334",
+      "text": "\"Evening glow, slow tempo.\" https://t.co/SH4zyoeNf7",
+      "author_name": "Gitana",
+      "author_handle": "@Gitana1369877",
+      "created_at": "2026-02-27T19:22:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027464267419484334",
+      "like_count": 3994,
+      "bookmark_count": 314,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCMAARCbEAQNnYx.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027977071126098071",
+      "text": "Barbour jacket is a non-negotiable wardrobe essential for men https://t.co/ai8RLmuOiM",
+      "author_name": "Samantha",
+      "author_handle": "@alecttrona",
+      "created_at": "2026-03-01T05:19:46.000Z",
+      "url": "https://twitter.com/i/web/status/2027977071126098071",
+      "like_count": 3919,
+      "bookmark_count": 1817,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTSZRabEAUsTcv.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTSZRPbEAQ6efD.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026908000137756966",
+      "text": "You could literally just get a PhD in Meteorological Applications in Quantitative Finance, and work at 幻方量化 (DeepSeek Quant Fund) and buy this penthouse in Hong Kong, then dm that influencer with 3.5M followers on 抖音 (Chinese TikTok) who keeps liking all your pics, first dates at a cha chaan teng milk tea, then promenade at Victoria Harbour, Courtship at Rosary Church youth group or Sunday mass, start your own quant fund with their families funding, \n\n- but you will not.",
+      "author_name": "ₕₐₘₚₜₒₙ",
+      "author_handle": "@hamptonism",
+      "created_at": "2026-02-26T06:31:40.000Z",
+      "url": "https://twitter.com/i/web/status/2026908000137756966",
+      "like_count": 3557,
+      "bookmark_count": 1146,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCEGE9maMAIyQ5k.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2025924270673592406",
+      "text": "the normie mind cannot comprehend the fulfillment of a life characterized by long, intense bursts of hard work under the influence of obscure stimulants followed by a few unplanned weeks of leisure beyond their wildest imaginations. lukewarm is comfort, but intensity feeds the soul",
+      "author_name": "BasedBiohacker",
+      "author_handle": "@BasedBiohacker",
+      "created_at": "2026-02-23T13:22:40.000Z",
+      "url": "https://twitter.com/i/web/status/2025924270673592406",
+      "like_count": 2809,
+      "bookmark_count": 1038,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB2HFF_WIAALrP_.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2HPqRWwAAEW5F.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027050060178153600",
+      "text": "The image consultants have pivoted from \"MMA oversized shirt generic coastal elite but midwest relatable cool guy\" to \"quiet luxury front row at Prada wearing neutrals with a reservation at Enrico Bartolini al Mudec @ 10PM\"\n\nHaven't seen other photos but the fact that he's no longer wearing Meta Ray-Bans 24/7 after the facial detection outcry is saying something imho.",
+      "author_name": "Michael J. Miraflor",
+      "author_handle": "@michaelmiraflor",
+      "created_at": "2026-02-26T15:56:09.000Z",
+      "url": "https://twitter.com/i/web/status/2027050060178153600",
+      "like_count": 2326,
+      "bookmark_count": 425,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026007460805304595",
+      "text": "Words cannot express how fucking angry this kind of statement is making me. This kind of of psychopathic public behavior should not be condoned for even one second. Are you fucking kidding me? Who even signed off on publishing something like this??? The only chance anthropic and the other closed labs have of redeeming themselves is open sourcing everything they have ever done. Fucking Hypocrites...",
+      "author_name": "Tommy Falkowski",
+      "author_handle": "@TommyFalkowski",
+      "created_at": "2026-02-23T18:53:14.000Z",
+      "url": "https://twitter.com/i/web/status/2026007460805304595",
+      "like_count": 1791,
+      "bookmark_count": 215,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027537304319914483",
+      "text": "Never let them know ur next move https://t.co/o7X69d6foX",
+      "author_name": "lemón",
+      "author_handle": "@cigarettesummer",
+      "created_at": "2026-02-28T00:12:17.000Z",
+      "url": "https://twitter.com/i/web/status/2027537304319914483",
+      "like_count": 1597,
+      "bookmark_count": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCNCbjYWYAITq1R.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027690763799130389",
+      "text": "\"Parisian rooftops and wine-stained conversations” https://t.co/INwyUsSOga",
+      "author_name": "Gitana",
+      "author_handle": "@Gitana1369877",
+      "created_at": "2026-02-28T10:22:05.000Z",
+      "url": "https://twitter.com/i/web/status/2027690763799130389",
+      "like_count": 796,
+      "bookmark_count": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPOAKoXcAA1zZh.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026973227155919191",
+      "text": "Your highest creative expression is a dance between concentrated focus and expanded consciousness.\n\nGo to a rave solo. Smoke a joint. Let yourself get loose and dance for hours. New ideas and downloads will come through from the expanded state. Write these down. You’ll use the later.\n\nThen, go to the completely opposite end of the spectrum. Sit down at your computer the next day and organize everything that came through. Send the messages. Finish the article. Bring the project to completion. \n\nYou turn ideas into finished products by sitting down, narrowing your consciousness, and doing the work.\n\nMost people exist in only one of these two camps. \n\nSome only smoke weed, go to raves, or get downloads in meditation. But they never bring anything into material reality because they won’t narrow their consciousness into linear work.\n\nOthers only sit at the computer for 12 hours a day and never expand their mind or access new frequencies with seemingly strange or unproductive activities - and so their ideas stall out and they never create anything new.\n\nYou will be most creative in expanded states of consciousness. You will be most productive in narrowed states of consciousness. If you want to maximize your creative potential, you need both.\n\nLet loose yourself get loose. Then, sit down and do the work. \n\nAnd most importantly, whatever you do, do it fully.",
+      "author_name": "Jack Moses",
+      "author_handle": "@jackmoses0",
+      "created_at": "2026-02-26T10:50:51.000Z",
+      "url": "https://twitter.com/i/web/status/2026973227155919191",
+      "like_count": 272,
+      "bookmark_count": 146,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2025913540746330545",
+      "text": "8. The Therapist's Final Prescription: Reverse the Shifts Intentionally.\n\nShe said the couples who stay passionate are the ones who consciously reverse these shifts. They keep pursuing. They keep growing so they remain interesting. \n\nThey protect time for lover conversations, not just logistics. They stay vulnerable. They practice daily gratitude. They maintain their polarities. They put the screens down and actually look at each other. Passion is not a mystery. It is a practice. \n\nThe couples who stay passionate are not luckier. They are more intentional.",
+      "author_name": "Helen Casanova | Seduction Palace",
+      "author_handle": "@HelenCasanova_",
+      "created_at": "2026-02-23T12:40:02.000Z",
+      "url": "https://twitter.com/i/web/status/2025913540746330545",
+      "like_count": 188,
+      "bookmark_count": 171,
+      "images": [],
+      "_date": "2026-02-23"
     }
   ],
   "Career & Personal Growth": [
@@ -799,641 +2091,1049 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "Entertainment & Media": [
+  "Architecture & Interior Design": [
     {
-      "id": "2025800996744794380",
-      "text": "Did not expect a question that starts out 'Do you think before you speak?' to go so well. A+ question from Charlotte Harpur A++ response from Eileen Gu. https://t.co/cvNJ6rSwl3",
-      "author_name": "sim",
-      "author_handle": "@simscircuit",
-      "created_at": "2026-02-23T05:12:49.000Z",
-      "url": "https://twitter.com/i/web/status/2025800996744794380",
-      "like_count": 155885,
-      "bookmark_count": 53467,
+      "id": "2026358864137032071",
+      "text": "I think about this image like constantly https://t.co/9HCnK2Nn7J",
+      "author_name": "Mister Pitjob",
+      "author_handle": "@notagopnik",
+      "created_at": "2026-02-24T18:09:35.000Z",
+      "url": "https://twitter.com/i/web/status/2026358864137032071",
+      "like_count": 144699,
+      "bookmark_count": 17407,
       "images": [
         {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2025800888187867136/img/PN9qAkjL-uDOupVR.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2025800888187867136/vid/avc1/1080x712/F7EsR5sESJMJ9mc7.mp4"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026668771830804924",
-      "text": "For years our stories pushed the limits of our canvas. Today we stretch it further. \n\nExcited to launch A&M MoCap Lab, \nIndia’s largest Motion Capture facility at @AnnapurnaStudios set up in collaboration with @mihiravisualabs and @Animatrik\n\nLooking forward for storytellers to explore its limitless potential in animation, live action, gaming and more.",
-      "author_name": "rajamouli ss",
-      "author_handle": "@ssrajamouli",
-      "created_at": "2026-02-25T14:41:03.000Z",
-      "url": "https://twitter.com/i/web/status/2026668771830804924",
-      "like_count": 22987,
-      "bookmark_count": 1259,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026668186486321160/img/HySNqAQ7Hl7-dxxc.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026668186486321160/vid/avc1/3840x2160/FCDd7hqFAOuazwbL.mp4"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026663414311911704",
-      "text": "1978 wasn’t ready for zeenat aman. https://t.co/Llt7kiF2jF",
-      "author_name": "alina 🇪🇸",
-      "author_handle": "@90sAlinaa",
-      "created_at": "2026-02-25T14:19:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026663414311911704",
-      "like_count": 16172,
-      "bookmark_count": 3136,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCAnlNXWoAAZ4PD.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCAnlNUWIAAcXPb.jpg",
+          "url": "https://pbs.twimg.com/media/HB8SoDkaMAA0Ylj.png",
           "type": "photo"
         }
       ],
-      "_date": "2026-02-25"
+      "_date": "2026-02-24"
     },
     {
-      "id": "2025965634475966676",
-      "text": "one of eileen’s journal entries that she posted! she’s as articulate and eloquent as a writer as she is an orator. https://t.co/AwxK9NJGHt https://t.co/fPzKernaVf",
-      "author_name": "rheaa",
-      "author_handle": "@srirachagod77",
-      "created_at": "2026-02-23T16:07:02.000Z",
-      "url": "https://twitter.com/i/web/status/2025965634475966676",
-      "like_count": 13903,
-      "bookmark_count": 6766,
+      "id": "2025741297303323024",
+      "text": "I really love home decor like this https://t.co/Ql6rwEe9L1",
+      "author_name": "Sora Hikari",
+      "author_handle": "@SoraHikariii",
+      "created_at": "2026-02-23T01:15:36.000Z",
+      "url": "https://twitter.com/i/web/status/2025741297303323024",
+      "like_count": 49091,
+      "bookmark_count": 14942,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HB2tAT4XIAAVdbW.jpg",
+          "url": "https://pbs.twimg.com/media/HBzg9lQa8AAXFy6.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HB2tAUPXkAA7jsb.jpg",
+          "url": "https://pbs.twimg.com/media/HBzg9lhagAAhzm2.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HB2tAUGX0AApOf5.jpg",
+          "url": "https://pbs.twimg.com/media/HBzg9lTaIAAR6Bv.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzg9lRaYAAFRUH.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-23"
     },
     {
-      "id": "2027104143358259387",
-      "text": "Robert Eggers on trusting crew: “You are almost always, if you’re not Ridley Scott, the least experienced person on set. Because everyone's making many movies a year and you're making one every 2 or 3 years if you’re lucky. You literally have to listen to everyone around you…” https://t.co/ks68eEDFrH",
-      "author_name": "𝔚𝔢𝔯𝔴𝔲𝔩𝔣 • FC",
-      "author_handle": "@EggersGrimoire",
-      "created_at": "2026-02-26T19:31:04.000Z",
-      "url": "https://twitter.com/i/web/status/2027104143358259387",
-      "like_count": 4513,
-      "bookmark_count": 398,
+      "id": "2027987869529477340",
+      "text": "Not a big room, but it feels so alive https://t.co/cX8REUewXr",
+      "author_name": "Intermood",
+      "author_handle": "@Intermoodd",
+      "created_at": "2026-03-01T06:02:40.000Z",
+      "url": "https://twitter.com/i/web/status/2027987869529477340",
+      "like_count": 17297,
+      "bookmark_count": 4523,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCG4eJta0AA2G4X.jpg",
+          "url": "https://pbs.twimg.com/media/HCTcNcjbEAIJQd1.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HCG4eJTWoAAIRsX.jpg",
+          "url": "https://pbs.twimg.com/media/HCTcNmCbEAITzeh.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HCG4eJQXAAAEyZ3.jpg",
+          "url": "https://pbs.twimg.com/media/HCTcNmcbEAExiBy.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HCG4eJMXsAAw_t5.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2025654592877256983",
-      "text": "Yearning for an Eric Rohmer summer https://t.co/Yw7n1MO8vX",
-      "author_name": "ol’ stocky ⛳️",
-      "author_handle": "@oldstocky",
-      "created_at": "2026-02-22T19:31:04.000Z",
-      "url": "https://twitter.com/i/web/status/2025654592877256983",
-      "like_count": 3333,
-      "bookmark_count": 761,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdSWcAAKoew.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdSWMAAnpd9.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdVXoAAbWaC.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdUXoAAEOHr.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2027641587061428658",
-      "text": "this frame steals it all 🥹🤚🏻 https://t.co/9KPJgcTxDu",
-      "author_name": "keerthie",
-      "author_handle": "@DeverakondaFb",
-      "created_at": "2026-02-28T07:06:40.000Z",
-      "url": "https://twitter.com/i/web/status/2027641587061428658",
-      "like_count": 2885,
-      "bookmark_count": 490,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCOhRvpa4AALQDw.jpg",
+          "url": "https://pbs.twimg.com/media/HCTcNmZbEAQn2_4.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-28"
     },
     {
-      "id": "2026699393341047213",
-      "text": "eileen gu’s archetype is not new, it is literally the exact stereotype of the typical chinese american girl:\n\n- excels in school\n- excels in an instrument (eg piano or violin) or a sport, in eileen’s case it’s a sport\n- well put together, conscientious, speaks sharply\n- main goal in life is go outperform, drilled into her since she was a kid\n\na large proportion of chinese american girls from middle class+ families are like that, eileen is just the best of the best. lower performing abcs (american born chinese) usually end up at mckinsey, a large tech firm or a law firm and work their way up the career ladder with unmatched ambition. they were best of class in high school an university and continued their excellence into the labor force\n\ni’ve seen so many of these, it’s literally stereotypical\n\nnow, let’s talk about her attractiveness. she looks pretty good, i’d give her a solid 7.5, she isn’t extraordinarily beautiful, she oryte but the problem most men have with her is her demeanor\n\nher high ambitions make her seem aggressive and manly. this is a problem that many women, not only abcs, have: they want to get to a position of leadership but they appear bossy and bitchy when they do. it is super hard for women to balance their feminity and performance an eileen is not doing it well, which is why men find her offputting\n\ni would say that as the socioeconomic status of a man increases, so does their preference towards eileen as opposed to the girl on the left. you gotta be pretty tough to date an asian tiger",
-      "author_name": "Squiggly Hair Shanks",
-      "author_handle": "@redhairshanks86",
-      "created_at": "2026-02-25T16:42:44.000Z",
-      "url": "https://twitter.com/i/web/status/2026699393341047213",
-      "like_count": 2649,
-      "bookmark_count": 1310,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026445617925370330",
-      "text": "What do you think he thought of this? https://t.co/El5WahtOv3 https://t.co/gXPWsjmoT7",
-      "author_name": "shain 📚",
-      "author_handle": "@shainreads",
-      "created_at": "2026-02-24T23:54:19.000Z",
-      "url": "https://twitter.com/i/web/status/2026445617925370330",
-      "like_count": 1791,
-      "bookmark_count": 366,
+      "id": "2025596851047555492",
+      "text": "this is what happens when you blend brutalism with terracotta 🩶🤎 https://t.co/EsmarcBpfc",
+      "author_name": "⊹ ࣪ pam ˖✦",
+      "author_handle": "@pamvonhadder",
+      "created_at": "2026-02-22T15:41:37.000Z",
+      "url": "https://twitter.com/i/web/status/2025596851047555492",
+      "like_count": 16104,
+      "bookmark_count": 3066,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HB9hjBjWMAAp4n2.jpg",
+          "url": "https://pbs.twimg.com/media/HBxdmPnWcAEI-_P.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HB9hjLnWUAE5-Sk.jpg",
+          "url": "https://pbs.twimg.com/media/HBxdmPLWQAALT6c.jpg",
           "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025525938964901934",
-      "text": "This is so real because I too would pause in the middle of a heist just to sit down, smoke a cigarette and ponder while my foid guards the hallway https://t.co/nOXQL0gq0c",
-      "author_name": "lemón",
-      "author_handle": "@cigarettesummer",
-      "created_at": "2026-02-22T10:59:50.000Z",
-      "url": "https://twitter.com/i/web/status/2025525938964901934",
-      "like_count": 1689,
-      "bookmark_count": 245,
-      "images": [
+        },
         {
-          "url": "https://pbs.twimg.com/media/HBwdGpVXAAAGsxH.jpg",
+          "url": "https://pbs.twimg.com/media/HBxdmPqW4AAlkKa.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBxdmPSXQAATBVP.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-22"
     },
     {
-      "id": "2026286056589644086",
-      "text": "Tony Stark’s real superpower wasn’t intelligence.\n\nIt was:\n\n> infinite compute\n> unlimited API tokens\n> private LLM access\n> zero compliance reviews\n> prod deploys from localhost\n> no investor asking for MRR\n> no “we’ll circle back” emails\n> building SaaS at 3 AM on pure vibes\n> shipping MVPs before the villain monologue ends\n> turning napkin ideas into live products\n> vibe-coding features mid-fight\n> launching startups between explosions\nand if Tony existed today,\n> he’d be building on https://t.co/YwmIb6We6k",
-      "author_name": "sachin.",
-      "author_handle": "@sachinyadav699",
-      "created_at": "2026-02-24T13:20:17.000Z",
-      "url": "https://twitter.com/i/web/status/2026286056589644086",
-      "like_count": 1623,
-      "bookmark_count": 638,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026285994623062016/img/hmjUzSl1Vs9q-cl1.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026285994623062016/vid/avc1/1080x578/udPnK-wHzpuD5CAr.mp4"
-        }
-      ],
+      "id": "2026366781984588177",
+      "text": "https://t.co/fkI3F0OWd1",
+      "author_name": "RAW",
+      "author_handle": "@rawknuckle",
+      "created_at": "2026-02-24T18:41:03.000Z",
+      "url": "https://twitter.com/i/web/status/2026366781984588177",
+      "like_count": 11785,
+      "bookmark_count": 21735,
+      "images": [],
       "_date": "2026-02-24"
     },
     {
-      "id": "2027723497372586030",
-      "text": "Oozing Royalty is an understatement. \n\n@iamRashmika @TheDeverakonda https://t.co/X8DrgpXENL",
-      "author_name": "Likitha.",
-      "author_handle": "@SRKTweetDiary",
-      "created_at": "2026-02-28T12:32:09.000Z",
-      "url": "https://twitter.com/i/web/status/2027723497372586030",
-      "like_count": 1383,
+      "id": "2027863882853978464",
+      "text": "The 2026 Ford Mustang, combined with muscle car styling\n\nDo you like it? 🤔 https://t.co/92TqL8YQHE",
+      "author_name": "Connie 🇺🇸",
+      "author_handle": "@us_connie",
+      "created_at": "2026-02-28T21:50:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027863882853978464",
+      "like_count": 6204,
+      "bookmark_count": 815,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027848614408818692/img/ko1XUwqxfg5qgJJB.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027848614408818692/vid/avc1/576x1024/2bkCyQ_gUYi5LfaL.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026591020767379928",
+      "text": "Peak car design: Aimé Leon Dore‘s custom Porsche 993 Turbo https://t.co/dHaRyKzfqy",
+      "author_name": "Alexander 𖤓 Nietzschean Vitalist",
+      "author_handle": "@UbermenschMind",
+      "created_at": "2026-02-25T09:32:06.000Z",
+      "url": "https://twitter.com/i/web/status/2026591020767379928",
+      "like_count": 5383,
+      "bookmark_count": 780,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB_liIzW4AAzafv.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB_ljxFXUAAxy2k.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB_lmFcWoAAEosa.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB_lq5ZXsAAEOSl.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027147363454697917",
+      "text": "This livingroom had so much character and aura https://t.co/6seQaRXROg",
+      "author_name": "lemón",
+      "author_handle": "@cigarettesummer",
+      "created_at": "2026-02-26T22:22:48.000Z",
+      "url": "https://twitter.com/i/web/status/2027147363454697917",
+      "like_count": 3025,
+      "bookmark_count": 280,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCHfyGWWQAA7zyy.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2028025809915830627",
+      "text": "Home inspo with a splash of brown https://t.co/vneuULPOXQ",
+      "author_name": "Intermood",
+      "author_handle": "@Intermoodd",
+      "created_at": "2026-03-01T08:33:26.000Z",
+      "url": "https://twitter.com/i/web/status/2028025809915830627",
+      "like_count": 2804,
+      "bookmark_count": 643,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCT-tTzbEAIKPYS.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCT-tTrboAAm0jH.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCT-tTqa8AENmWl.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCT-tTpbEAgu_gD.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027762669986472409",
+      "text": "There are industrial cathedrals https://t.co/Izfuwjxpoh",
+      "author_name": "Jacob Titus",
+      "author_handle": "@jacob__titus",
+      "created_at": "2026-02-28T15:07:49.000Z",
+      "url": "https://twitter.com/i/web/status/2027762669986472409",
+      "like_count": 1561,
+      "bookmark_count": 345,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQPAybXkAA34We.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQPAy9asAARkbR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQPAycWwAAQKhN.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQPAyhWcAAGJ4d.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027981346061357435",
+      "text": "New York apartment by Jay Spectre, 1987 https://t.co/PvLEYzNtZM",
+      "author_name": "Hyperion",
+      "author_handle": "@Ortgeist",
+      "created_at": "2026-03-01T05:36:45.000Z",
+      "url": "https://twitter.com/i/web/status/2027981346061357435",
+      "like_count": 770,
       "bookmark_count": 144,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCPrrUwasAEQIc4.jpg",
+          "url": "https://pbs.twimg.com/media/HCTWSKdbMAAk40S.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HCPrrVPbYAAQPWj.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCPrrVdbEAQnchi.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCPrrVKbEAEGkVC.jpg",
+          "url": "https://pbs.twimg.com/media/HCTWSKgbEAcVad1.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-28"
     },
     {
-      "id": "2027116956331971047",
-      "text": "A Redditor compiled a list of the top 100 greatest films of all time based on ratings from major review aggregators like IMDb, Rotten Tomatoes, Metacritic, and Letterboxd.\n\nThey normalized all ratings to a single scale and updated positions according to the latest scores, resulting in the most current list.\n\nThe top ten is as follows:\n\n1. The Godfather (1972)\n\n2. 12 Angry Men (1957)\n\n3. Seven Samurai (1954)\n\n4. Schindler's List (1993)\n\n5. Casablanca (1942)\n\n6. Rear Window (1954)\n\n7. Spirited Away (2001)\n\n8. Singin' in the Rain (1952)\n\n9. The Godfather Part II (1974)\n\n10. Grave of the Fireflies (1988)",
-      "author_name": "NEXTA",
-      "author_handle": "@nexta_tv",
-      "created_at": "2026-02-26T20:21:59.000Z",
-      "url": "https://twitter.com/i/web/status/2027116956331971047",
-      "like_count": 1383,
-      "bookmark_count": 1494,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCHD5jvX0AAtXR4.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCHD-VXWMAAlm2C.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCHEDxFX0AAs-_C.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCHEGOBWwAAErB2.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027118348731895936",
-      "text": "I started a Mad Men Letterbox’d list https://t.co/O7nSWbrINe",
-      "author_name": "Nuanced Film Takes",
-      "author_handle": "@BadFilmTakes1",
-      "created_at": "2026-02-26T20:27:31.000Z",
-      "url": "https://twitter.com/i/web/status/2027118348731895936",
-      "like_count": 1256,
-      "bookmark_count": 484,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCHFZFoaQAAf6YN.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027369375058313587",
-      "text": "Spielberg wanted Daniel Day-Lewis to star in LINCOLN but after reading the script, DDL sent a letter saying no, so Spielberg had the script rewritten until he said yes. This is the rejection letter Day-Lewis sent Spielberg... https://t.co/ZfCh8TRIxe",
-      "author_name": "All The Right Movies",
-      "author_handle": "@ATRightMovies",
-      "created_at": "2026-02-27T13:05:00.000Z",
-      "url": "https://twitter.com/i/web/status/2027369375058313587",
-      "like_count": 1160,
-      "bookmark_count": 462,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBlv6onXMAAsLoU.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2026291643905888564",
-      "text": "Ee photo chusthe oka fun fact gurthocchindhi\n\nStraight 4 big hits paddaka thammudu occhindhi with blockbuster response. Fattumani 15 rojullo manodu 1st movie thoney avg talk tho kukkani kottinatlu kottyadu pawalani 😍\n\ne TFI seat naadhe anukunnodni kaalla Kindha yesi nalipesadu🙏 https://t.co/U4sZEBVc6G",
-      "author_name": "BATMAN 🦇",
-      "author_handle": "@BabuAnteBabuYe",
-      "created_at": "2026-02-24T13:42:29.000Z",
-      "url": "https://twitter.com/i/web/status/2026291643905888564",
-      "like_count": 710,
-      "bookmark_count": 38,
+      "id": "2027132120779620787",
+      "text": "Designers get this wrong all the time.\n\nNew tech doesn't need opinionated design. We talk about Design as if it's one thing, but really it supports different purposes depending on a category's maturity.\n\nEarly tech = \"Undesigned\" (open & flexible)\nGrowth tech = Design to scale (universal & generic)\nMature tech = Design to differentiate (opinionated)",
+      "author_name": "Andy Allen",
+      "author_handle": "@asallen",
+      "created_at": "2026-02-26T21:22:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027132120779620787",
+      "like_count": 522,
+      "bookmark_count": 334,
       "images": [],
-      "_date": "2026-02-24"
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2028188019333661146",
+      "text": "Stone, sun, and lime-washed walls: inside the Menorcan farmhouse where art, craft, and architecture quietly collide. https://t.co/9GMwOzTsOz",
+      "author_name": "Art of Architecture",
+      "author_handle": "@artofarchitect",
+      "created_at": "2026-03-01T19:18:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028188019333661146",
+      "like_count": 425,
+      "bookmark_count": 91,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCL25ITWAAAHo-Z.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCL25H2X0AE5oza.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCL25I1bMAAvTKe.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCL25IQX0AApbx_.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2025782990681346336",
+      "text": "FASHION GUYS with rizz I’ve noticed just tend to accessorize better than the regular guys. They know what’s what. A tasteful jewelry combo (chain or rings or bracelet - no more than 2 at once). Great sunglasses. (I have had the same Garrett Leight sunglasses for 5+ years - good gift idea btw.) Always with some sort of bag or tote (I literally don’t make the rules check Pinterest for yourself). A cool hat. A nice watch!! Heirloom. Vintage. Doesn’t have to be expensive but better than an Apple Watch or garmin.",
+      "author_name": "rachel",
+      "author_handle": "@rachcorrine",
+      "created_at": "2026-02-23T04:01:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025782990681346336",
+      "like_count": 283,
+      "bookmark_count": 154,
+      "images": [],
+      "_date": "2026-02-23"
     }
   ],
-  "Lifestyle & Culture": [
+  "Travel & Nature": [
     {
-      "id": "2025770405298921568",
-      "text": "most apocalyptic thing i’ve seen in a while https://t.co/SwBff3ZPKt",
-      "author_name": "vittorio",
-      "author_handle": "@IterIntellectus",
-      "created_at": "2026-02-23T03:11:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025770405298921568",
-      "like_count": 95365,
-      "bookmark_count": 6674,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2027652718869835855",
-      "text": "This is how we live now https://t.co/9qcUSwP51k",
-      "author_name": "Fľøkï",
-      "author_handle": "@Dee_Floki",
-      "created_at": "2026-02-28T07:50:54.000Z",
-      "url": "https://twitter.com/i/web/status/2027652718869835855",
-      "like_count": 54762,
-      "bookmark_count": 14538,
+      "id": "2026135304437154046",
+      "text": "River close to my house in Sweden froze over for the first time in long. https://t.co/rvLUO4gFB8",
+      "author_name": "·𐑯𐑧𐑝𐑦𐑤 🇸🇪〽️",
+      "author_handle": "@NevilleVoda",
+      "created_at": "2026-02-24T03:21:15.000Z",
+      "url": "https://twitter.com/i/web/status/2026135304437154046",
+      "like_count": 87660,
+      "bookmark_count": 7172,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCOrWd2aQAAAkST.jpg",
+          "url": "https://pbs.twimg.com/media/HB5HUQDaIAAeRi3.jpg",
           "type": "photo"
-        },
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027844259563389422",
+      "text": "Kyoto, Japan. https://t.co/SDlQV0UyTd",
+      "author_name": "JAPAN 🇯🇵",
+      "author_handle": "@japanvistamedia",
+      "created_at": "2026-02-28T20:32:01.000Z",
+      "url": "https://twitter.com/i/web/status/2027844259563389422",
+      "like_count": 47181,
+      "bookmark_count": 2283,
+      "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCOrWdbWQAA5dPT.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCOrWdcWUAAszAy.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCOrWiGXkAADQEd.jpg",
+          "url": "https://pbs.twimg.com/media/HCRZmw4bEAInwb-.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-28"
     },
     {
-      "id": "2026756760539632115",
-      "text": "manifesting https://t.co/UKCRWyTQ3U",
-      "author_name": "tasha",
-      "author_handle": "@0304tasha",
-      "created_at": "2026-02-25T20:30:41.000Z",
-      "url": "https://twitter.com/i/web/status/2026756760539632115",
-      "like_count": 18117,
-      "bookmark_count": 2302,
+      "id": "2026392875949240819",
+      "text": "I am quite literally at the Grand Budapest Hotel. There’s a mini tram that blows a steam whistle that goes through town. https://t.co/UVq0ObKTgo",
+      "author_name": "Annicka",
+      "author_handle": "@expectedcheddar",
+      "created_at": "2026-02-24T20:24:44.000Z",
+      "url": "https://twitter.com/i/web/status/2026392875949240819",
+      "like_count": 25127,
+      "bookmark_count": 2767,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCB8iCUW0AAnvGZ.jpg",
+          "url": "https://pbs.twimg.com/media/HB8xjsFWYAEPdzs.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HCB8iCdWUAA4DUu.jpg",
+          "url": "https://pbs.twimg.com/media/HB8xjsGWAAA1uw6.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HCB8iCeWAAAnfVy.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCB8iCTXkAA5_7b.jpg",
+          "url": "https://pbs.twimg.com/media/HB8xjsFXwAAWlO5.jpg",
           "type": "photo"
         }
       ],
-      "_date": "2026-02-25"
+      "_date": "2026-02-24"
     },
     {
-      "id": "2027713819267551402",
-      "text": "\"The art of doing absolutely nothing, together.\" https://t.co/xSrCHVuKs5",
-      "author_name": "𝓅𝑜𝓋𝓂𝑒𝓂𝑜𝓇𝓎",
-      "author_handle": "@povmemory",
-      "created_at": "2026-02-28T11:53:42.000Z",
-      "url": "https://twitter.com/i/web/status/2027713819267551402",
-      "like_count": 15308,
-      "bookmark_count": 1035,
+      "id": "2027759208083427769",
+      "text": "summer in europe https://t.co/8N6PKigU32",
+      "author_name": "𝒍𝒖𝒏𝒂",
+      "author_handle": "@naturaholic",
+      "created_at": "2026-02-28T14:54:03.000Z",
+      "url": "https://twitter.com/i/web/status/2027759208083427769",
+      "like_count": 4818,
+      "bookmark_count": 430,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCPi-JUXwAApFf8.jpg",
+          "url": "https://pbs.twimg.com/media/HCQMQGcXAAEbWzW.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQLFbEAQdWru.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQMcWEAAldzJ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQRfXkAEuKUp.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-28"
     },
     {
-      "id": "2025620859315237319",
-      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
-      "author_name": "Jim",
-      "author_handle": "@Cackalacman",
-      "created_at": "2026-02-22T17:17:01.000Z",
-      "url": "https://twitter.com/i/web/status/2025620859315237319",
-      "like_count": 14151,
-      "bookmark_count": 1632,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2025484522352156812",
-      "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
-      "author_name": "Ananya",
-      "author_handle": "@uff_meri_adaa",
-      "created_at": "2026-02-22T08:15:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025484522352156812",
-      "like_count": 11754,
-      "bookmark_count": 1238,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2026125293149163694",
-      "text": "https://t.co/BH00Vpy4WF",
-      "author_name": "The Kobeissi Letter",
-      "author_handle": "@KobeissiLetter",
-      "created_at": "2026-02-24T02:41:28.000Z",
-      "url": "https://twitter.com/i/web/status/2026125293149163694",
-      "like_count": 8899,
-      "bookmark_count": 18283,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026067490766307414",
-      "text": "This is pure evil. First, Anthropic used torrent to download all the books and data for training on top of the internet, without asking permission from anyone. Second, the Chinese companies paid for the API and did not get the information for free, third it seems like Anthropic tracking people.",
-      "author_name": "Emily",
-      "author_handle": "@IamEmily2050",
-      "created_at": "2026-02-23T22:51:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026067490766307414",
-      "like_count": 6816,
-      "bookmark_count": 642,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026308962715660400",
-      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
-      "author_name": "Jeremy Carl",
-      "author_handle": "@realJeremyCarl",
-      "created_at": "2026-02-24T14:51:18.000Z",
-      "url": "https://twitter.com/i/web/status/2026308962715660400",
-      "like_count": 5388,
-      "bookmark_count": 625,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027461739206386034",
-      "text": "https://t.co/2hOOSa9afF",
-      "author_name": "Gibran’s Ghost",
-      "author_handle": "@gibransghost",
-      "created_at": "2026-02-27T19:12:01.000Z",
-      "url": "https://twitter.com/i/web/status/2027461739206386034",
-      "like_count": 4295,
-      "bookmark_count": 476,
+      "id": "2027756355256242654",
+      "text": "Tuscany, Italy https://t.co/PnWZiDTTS5",
+      "author_name": "✶",
+      "author_handle": "@echoesofworld",
+      "created_at": "2026-02-28T14:42:43.000Z",
+      "url": "https://twitter.com/i/web/status/2027756355256242654",
+      "like_count": 4526,
+      "bookmark_count": 410,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCL9tMtXAAAeqcv.jpg",
+          "url": "https://pbs.twimg.com/media/HCQJqCNawAAMFqp.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqBybkAAlHr9.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqHsXgAAQgrW.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqLnWEAATUmN.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027826701062049869",
+      "text": "True love is the open sky https://t.co/Xr8sjjKpWn",
+      "author_name": "Blue.",
+      "author_handle": "@bluedreamvibes",
+      "created_at": "2026-02-28T19:22:15.000Z",
+      "url": "https://twitter.com/i/web/status/2027826701062049869",
+      "like_count": 3281,
+      "bookmark_count": 516,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027826676680560640/img/pL6iJcwrZlhDvP8C.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027826676680560640/vid/avc1/1276x720/vcS_OQ1RgsUP3lUp.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027388594873385091",
+      "text": "Periodic reminder that you control what content you see!\n\nIf you want to see more original travel and architecture photography, then interact with this post by liking and sharing and the algorithm will give you more content like this ;) https://t.co/KupsrKcYwl",
+      "author_name": "Raphael Barberi📷",
+      "author_handle": "@itsrapha83",
+      "created_at": "2026-02-27T14:21:22.000Z",
+      "url": "https://twitter.com/i/web/status/2027388594873385091",
+      "like_count": 2543,
+      "bookmark_count": 194,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KuEW0AA_TkD.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KtxX0AAjp48.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KtxWwAAD6OL.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KtuXEAACjDx.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-27"
     },
     {
-      "id": "2027464267419484334",
-      "text": "\"Evening glow, slow tempo.\" https://t.co/SH4zyoeNf7",
-      "author_name": "Gitana",
-      "author_handle": "@Gitana1369877",
-      "created_at": "2026-02-27T19:22:04.000Z",
-      "url": "https://twitter.com/i/web/status/2027464267419484334",
-      "like_count": 3994,
-      "bookmark_count": 314,
+      "id": "2028002268113686859",
+      "text": "Somewhere in Kamakura https://t.co/EQOe8YLVjr https://t.co/vunL6e26wy",
+      "author_name": "Sora Hikari",
+      "author_handle": "@SoraHikariii",
+      "created_at": "2026-03-01T06:59:53.000Z",
+      "url": "https://twitter.com/i/web/status/2028002268113686859",
+      "like_count": 2412,
+      "bookmark_count": 201,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCMAARCbEAQNnYx.jpg",
+          "url": "https://pbs.twimg.com/media/HCTpTn9bEAEpkii.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTpToQbwAANtix.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTpTn_bEAM0GZh.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTpTn9aMAAEWdt.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027994744966811711",
+      "text": "Golden hour in the city of Ram. https://t.co/20kDHi9ZYQ",
+      "author_name": "Sidharth II सिद्धार्थ",
+      "author_handle": "@sidharthgehlot",
+      "created_at": "2026-03-01T06:30:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027994744966811711",
+      "like_count": 845,
+      "bookmark_count": 38,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCLraC4aoAA9S41.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCLraCwbgAAAXiJ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCLraCuaYAADTW4.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027666481547514099",
+      "text": "Peak District National Park https://t.co/GyWheHgfd9",
+      "author_name": "𝘄𝗮𝗻𝗱𝗲𝗿𝘁𝗿𝗮𝘃𝗲𝗹𝘀",
+      "author_handle": "@visualsofearth1",
+      "created_at": "2026-02-28T08:45:36.000Z",
+      "url": "https://twitter.com/i/web/status/2027666481547514099",
+      "like_count": 753,
+      "bookmark_count": 38,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCO36qybEAEUGMP.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027904670237397006",
+      "text": "Manhattan apartment, New York City, 1992 https://t.co/PdpSekx28X",
+      "author_name": "Hyperion",
+      "author_handle": "@Ortgeist",
+      "created_at": "2026-03-01T00:32:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027904670237397006",
+      "like_count": 463,
+      "bookmark_count": 73,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCSQeDJasAAsCF8.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCSQen7bEAE3kPh.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    }
+  ],
+  "Watches": [
+    {
+      "id": "2026386653464432643",
+      "text": "Taste is acquired through exposure and restraint, no amount of money can give you good taste https://t.co/O4OgeA2I7q https://t.co/4rh14TTmGZ",
+      "author_name": "ADONIS",
+      "author_handle": "@adonispara",
+      "created_at": "2026-02-24T20:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2026386653464432643",
+      "like_count": 5487,
+      "bookmark_count": 881,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB8nYf5XsAA_DP4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB8nW-UWsAAY1KS.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027520931191505005",
+      "text": "This ‘80s themed watch collab from Honda &amp; Citizen is just too good https://t.co/VNsNE2YL0i",
+      "author_name": "lusso",
+      "author_handle": "@luusssso",
+      "created_at": "2026-02-27T23:07:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027520931191505005",
+      "like_count": 1704,
+      "bookmark_count": 424,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCMziPubEAAZzE1.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMziOsWUAAZI_R.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMziOnW4AA-pxT.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMziOUXcAEut3y.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-27"
     },
     {
-      "id": "2026908000137756966",
-      "text": "You could literally just get a PhD in Meteorological Applications in Quantitative Finance, and work at 幻方量化 (DeepSeek Quant Fund) and buy this penthouse in Hong Kong, then dm that influencer with 3.5M followers on 抖音 (Chinese TikTok) who keeps liking all your pics, first dates at a cha chaan teng milk tea, then promenade at Victoria Harbour, Courtship at Rosary Church youth group or Sunday mass, start your own quant fund with their families funding, \n\n- but you will not.",
-      "author_name": "ₕₐₘₚₜₒₙ",
-      "author_handle": "@hamptonism",
-      "created_at": "2026-02-26T06:31:40.000Z",
-      "url": "https://twitter.com/i/web/status/2026908000137756966",
-      "like_count": 3557,
-      "bookmark_count": 1146,
+      "id": "2027323003391086938",
+      "text": "Accessories for men:\n\nWatch &amp; cigarette/cigar https://t.co/TuGXvdEban",
+      "author_name": "Samantha",
+      "author_handle": "@alecttrona",
+      "created_at": "2026-02-27T10:00:44.000Z",
+      "url": "https://twitter.com/i/web/status/2027323003391086938",
+      "like_count": 793,
+      "bookmark_count": 148,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCEGE9maMAIyQ5k.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2025924270673592406",
-      "text": "the normie mind cannot comprehend the fulfillment of a life characterized by long, intense bursts of hard work under the influence of obscure stimulants followed by a few unplanned weeks of leisure beyond their wildest imaginations. lukewarm is comfort, but intensity feeds the soul",
-      "author_name": "BasedBiohacker",
-      "author_handle": "@BasedBiohacker",
-      "created_at": "2026-02-23T13:22:40.000Z",
-      "url": "https://twitter.com/i/web/status/2025924270673592406",
-      "like_count": 2809,
-      "bookmark_count": 1038,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB2HFF_WIAALrP_.jpg",
+          "url": "https://pbs.twimg.com/media/HCJ_hmVa8AAE7K1.jpg",
           "type": "photo"
         },
         {
-          "url": "https://pbs.twimg.com/media/HB2HPqRWwAAEW5F.jpg",
+          "url": "https://pbs.twimg.com/media/HCJ_hmSbsAAwm1D.jpg",
           "type": "photo"
         }
       ],
-      "_date": "2026-02-23"
+      "_date": "2026-02-27"
     },
     {
-      "id": "2027050060178153600",
-      "text": "The image consultants have pivoted from \"MMA oversized shirt generic coastal elite but midwest relatable cool guy\" to \"quiet luxury front row at Prada wearing neutrals with a reservation at Enrico Bartolini al Mudec @ 10PM\"\n\nHaven't seen other photos but the fact that he's no longer wearing Meta Ray-Bans 24/7 after the facial detection outcry is saying something imho.",
-      "author_name": "Michael J. Miraflor",
-      "author_handle": "@michaelmiraflor",
-      "created_at": "2026-02-26T15:56:09.000Z",
-      "url": "https://twitter.com/i/web/status/2027050060178153600",
-      "like_count": 2326,
-      "bookmark_count": 425,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026007460805304595",
-      "text": "Words cannot express how fucking angry this kind of statement is making me. This kind of of psychopathic public behavior should not be condoned for even one second. Are you fucking kidding me? Who even signed off on publishing something like this??? The only chance anthropic and the other closed labs have of redeeming themselves is open sourcing everything they have ever done. Fucking Hypocrites...",
-      "author_name": "Tommy Falkowski",
-      "author_handle": "@TommyFalkowski",
-      "created_at": "2026-02-23T18:53:14.000Z",
-      "url": "https://twitter.com/i/web/status/2026007460805304595",
-      "like_count": 1791,
-      "bookmark_count": 215,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2027537304319914483",
-      "text": "Never let them know ur next move https://t.co/o7X69d6foX",
-      "author_name": "lemón",
-      "author_handle": "@cigarettesummer",
-      "created_at": "2026-02-28T00:12:17.000Z",
-      "url": "https://twitter.com/i/web/status/2027537304319914483",
-      "like_count": 1597,
-      "bookmark_count": 89,
+      "id": "2027531380243005927",
+      "text": "Burl Wood Dial Rolex Day-Date https://t.co/Stm388oFsS",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-27T23:48:45.000Z",
+      "url": "https://twitter.com/i/web/status/2027531380243005927",
+      "like_count": 759,
+      "bookmark_count": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCNCbjYWYAITq1R.jpg",
+          "url": "https://pbs.twimg.com/media/HCM84Q4W0AEYOEP.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCM85XMWkAAsRSs.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027490551101046822",
+      "text": "Full Gold Jaeger-LeCoultre Reverso released last year https://t.co/Oh0rjuwKrP",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-27T21:06:30.000Z",
+      "url": "https://twitter.com/i/web/status/2027490551101046822",
+      "like_count": 565,
+      "bookmark_count": 67,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCMXyEWbYAAdONg.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCMXzk6XcAATQcx.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2028124406552092769",
+      "text": "It's hard to ignore this deep olive take on the Tissot PRX Automatic Chronograph.\n\nThe watch keeps the signature 1970s PRX case in 42mm along with the waffle-textured green dial and added chronograph functionality. Powering it is the Valjoux-based A05.H31 calibre with up to 68 hours of power reserve.\n\nLet us know your current favorite chronograph in the replies.",
+      "author_name": "Teddy Baldassarre",
+      "author_handle": "@baldassarreted",
+      "created_at": "2026-03-01T15:05:13.000Z",
+      "url": "https://twitter.com/i/web/status/2028124406552092769",
+      "like_count": 483,
+      "bookmark_count": 107,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCVYZX1WEAAN6aS.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCVYZYhWoAEGxj-.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCVYZYQX0AAcEa-.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCVYZXkXwAAN-VH.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027740180497764516",
+      "text": "Grand Seiko SLBG001 with their new UFA movement https://t.co/rQwUsZh5rC",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-28T13:38:27.000Z",
+      "url": "https://twitter.com/i/web/status/2027740180497764516",
+      "like_count": 411,
+      "bookmark_count": 27,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCP64sVW4AAqSUR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCP65l0WwAIV3sT.jpg",
           "type": "photo"
         }
       ],
       "_date": "2026-02-28"
     },
     {
-      "id": "2027690763799130389",
-      "text": "\"Parisian rooftops and wine-stained conversations” https://t.co/INwyUsSOga",
-      "author_name": "Gitana",
-      "author_handle": "@Gitana1369877",
-      "created_at": "2026-02-28T10:22:05.000Z",
-      "url": "https://twitter.com/i/web/status/2027690763799130389",
-      "like_count": 796,
-      "bookmark_count": 65,
+      "id": "2027488198310695169",
+      "text": "Vintage 1975 Rolex DateJust https://t.co/a6urVPDgIV",
+      "author_name": "Rolex Club",
+      "author_handle": "@Rolexclocks",
+      "created_at": "2026-02-27T20:57:10.000Z",
+      "url": "https://twitter.com/i/web/status/2027488198310695169",
+      "like_count": 327,
+      "bookmark_count": 22,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCPOAKoXcAA1zZh.jpg",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027488086406688768/img/Dg2oqH9X3ZLK2J7P.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027488086406688768/vid/avc1/1080x1920/atTiqa1gdM8jo1L5.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027867499878920503",
+      "text": "Superman wearing the Longines Flagship Heritage Moonphase in stainless steel https://t.co/whW5b6XlNo",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-28T22:04:22.000Z",
+      "url": "https://twitter.com/i/web/status/2027867499878920503",
+      "like_count": 327,
+      "bookmark_count": 27,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCRuqKGWsAE_60L.png",
           "type": "photo"
         }
       ],
       "_date": "2026-02-28"
     },
     {
-      "id": "2026973227155919191",
-      "text": "Your highest creative expression is a dance between concentrated focus and expanded consciousness.\n\nGo to a rave solo. Smoke a joint. Let yourself get loose and dance for hours. New ideas and downloads will come through from the expanded state. Write these down. You’ll use the later.\n\nThen, go to the completely opposite end of the spectrum. Sit down at your computer the next day and organize everything that came through. Send the messages. Finish the article. Bring the project to completion. \n\nYou turn ideas into finished products by sitting down, narrowing your consciousness, and doing the work.\n\nMost people exist in only one of these two camps. \n\nSome only smoke weed, go to raves, or get downloads in meditation. But they never bring anything into material reality because they won’t narrow their consciousness into linear work.\n\nOthers only sit at the computer for 12 hours a day and never expand their mind or access new frequencies with seemingly strange or unproductive activities - and so their ideas stall out and they never create anything new.\n\nYou will be most creative in expanded states of consciousness. You will be most productive in narrowed states of consciousness. If you want to maximize your creative potential, you need both.\n\nLet loose yourself get loose. Then, sit down and do the work. \n\nAnd most importantly, whatever you do, do it fully.",
-      "author_name": "Jack Moses",
-      "author_handle": "@jackmoses0",
-      "created_at": "2026-02-26T10:50:51.000Z",
-      "url": "https://twitter.com/i/web/status/2026973227155919191",
-      "like_count": 272,
-      "bookmark_count": 146,
-      "images": [],
+      "id": "2027784962708013286",
+      "text": "\"O fiyata çıkarsam başka marka alırım\" cümlesini literatüre sokan saat; Marinemaster 🌊 \n#seiko #marinemaster https://t.co/QOGU5OI9Au",
+      "author_name": "Watches of Achtung",
+      "author_handle": "@woachtung",
+      "created_at": "2026-02-28T16:36:24.000Z",
+      "url": "https://twitter.com/i/web/status/2027784962708013286",
+      "like_count": 225,
+      "bookmark_count": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQjq59XIAAGvsI.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQjq6WbEAAfmXf.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQjq5YXMAArZdI.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027934288965210299",
+      "text": "——\nThis is how Omega earned its name. No flash just real character https://t.co/40ic7FczDq",
+      "author_name": "Gama",
+      "author_handle": "@GamaCahaya",
+      "created_at": "2026-03-01T02:29:46.000Z",
+      "url": "https://twitter.com/i/web/status/2027934288965210299",
+      "like_count": 57,
+      "bookmark_count": 5,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027934227166359552/pu/img/P3ZLVdWcQcLeJpnE.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2027934227166359552/pu/vid/avc1/720x1280/Z9WTleUwrZx4VBN1.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    }
+  ],
+  "Art & Culture": [
+    {
+      "id": "2027721812839375146",
+      "text": "me agains the world https://t.co/4nnoEwr2fP",
+      "author_name": "Hectoroz 🏴‍☠️",
+      "author_handle": "@hectoroz_",
+      "created_at": "2026-02-28T12:25:28.000Z",
+      "url": "https://twitter.com/i/web/status/2027721812839375146",
+      "like_count": 45887,
+      "bookmark_count": 6398,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HCPqGWsbEAY6BTq.jpg",
+          "type": "animated_gif",
+          "video_url": "https://video.twimg.com/tweet_video/HCPqGWsbEAY6BTq.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025515415141532081",
+      "text": "“Two dancers” by Salvador Dalí https://t.co/1prQC5bHiE",
+      "author_name": "Ramin Nasibov",
+      "author_handle": "@RaminNasibov",
+      "created_at": "2026-02-22T10:18:01.000Z",
+      "url": "https://twitter.com/i/web/status/2025515415141532081",
+      "like_count": 17309,
+      "bookmark_count": 1172,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBwTiTDXYAEglRb.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2027055186460492178",
+      "text": "And of course an ominous Alex Colville painting will be hanging in the living room https://t.co/GSPRhdlXAP https://t.co/GodhJ4RlfP",
+      "author_name": "ً",
+      "author_handle": "@chanellique",
+      "created_at": "2026-02-26T16:16:31.000Z",
+      "url": "https://twitter.com/i/web/status/2027055186460492178",
+      "like_count": 10948,
+      "bookmark_count": 2042,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCGLr__XUAEGoxR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCGL5AfWMAAjzIu.jpg",
+          "type": "photo"
+        }
+      ],
       "_date": "2026-02-26"
     },
     {
-      "id": "2025913540746330545",
-      "text": "8. The Therapist's Final Prescription: Reverse the Shifts Intentionally.\n\nShe said the couples who stay passionate are the ones who consciously reverse these shifts. They keep pursuing. They keep growing so they remain interesting. \n\nThey protect time for lover conversations, not just logistics. They stay vulnerable. They practice daily gratitude. They maintain their polarities. They put the screens down and actually look at each other. Passion is not a mystery. It is a practice. \n\nThe couples who stay passionate are not luckier. They are more intentional.",
-      "author_name": "Helen Casanova | Seduction Palace",
-      "author_handle": "@HelenCasanova_",
-      "created_at": "2026-02-23T12:40:02.000Z",
-      "url": "https://twitter.com/i/web/status/2025913540746330545",
-      "like_count": 188,
-      "bookmark_count": 171,
-      "images": [],
-      "_date": "2026-02-23"
+      "id": "2027822108152098959",
+      "text": "Is the bird pulling the tree, or is the tree holding the bird back? https://t.co/Pc3GrizX2r",
+      "author_name": "MiraRuido",
+      "author_handle": "@MiraRuido",
+      "created_at": "2026-02-28T19:04:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027822108152098959",
+      "like_count": 10317,
+      "bookmark_count": 2443,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027782443336425472/img/CPadxH_tYc9oW37L.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027782443336425472/vid/avc1/1080x1080/mxTMgeVQs-R8Zo_u.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027860942617559244",
+      "text": "Løtus • @niftymonkee \nhttps://t.co/Xphh3cxQDV",
+      "author_name": "Brian",
+      "author_handle": "@Inspector_9",
+      "created_at": "2026-02-28T21:38:19.000Z",
+      "url": "https://twitter.com/i/web/status/2027860942617559244",
+      "like_count": 4902,
+      "bookmark_count": 418,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/FpMZY8caUAAAXrn.jpg",
+          "type": "animated_gif",
+          "video_url": "https://video.twimg.com/tweet_video/FpMZY8caUAAAXrn.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027721100554121391",
+      "text": "Mes photos sur film qui ressemblent à un rêve https://t.co/xdCodH069S https://t.co/9Dl4C7JxB2",
+      "author_name": "Maxime Visticot",
+      "author_handle": "@maximevisticot",
+      "created_at": "2026-02-28T12:22:38.000Z",
+      "url": "https://twitter.com/i/web/status/2027721100554121391",
+      "like_count": 4788,
+      "bookmark_count": 581,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPplwSWwAAqLFD.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPplwhW0AAmKPW.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPplwVXUAA82-n.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPplw8bEAYZuWh.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027718660857503870",
+      "text": "Rainlit Windows 🌧️ https://t.co/O0jvlpQbHG",
+      "author_name": "Classic Wallpaper 🥷",
+      "author_handle": "@Classisco123",
+      "created_at": "2026-02-28T12:12:56.000Z",
+      "url": "https://twitter.com/i/web/status/2027718660857503870",
+      "like_count": 2518,
+      "bookmark_count": 315,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPnWQCW0AAyFl4.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027906413138186389",
+      "text": "Cityscapes by Daisuke Tajima https://t.co/LFK25AZ9vj",
+      "author_name": "Sci-Fi Archives",
+      "author_handle": "@SciFiArchives",
+      "created_at": "2026-03-01T00:39:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027906413138186389",
+      "like_count": 1859,
+      "bookmark_count": 465,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBHZejUXwAASI91.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBHZej0boAAbaCC.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBHZej7akAQ0f8T.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBHZejXXEAEPh2j.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027648600097054727",
+      "text": "Design websites that should be illegal to know:\n\nBackgrounds → grainient. supply\nInspiration → curated. design\nFonts → fontshare. com\nRemove image bg → remove. bg\nAnimate anything → klingai. com\nImage gen → midjourney. com\nBento → bentogrids. com\nImage/Figma conversion → figmify. ai\n\nDrop your favourite one 👇🏻",
+      "author_name": "Albia",
+      "author_handle": "@AlbiaHossain",
+      "created_at": "2026-02-28T07:34:32.000Z",
+      "url": "https://twitter.com/i/web/status/2027648600097054727",
+      "like_count": 1448,
+      "bookmark_count": 2125,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCOnp6DaQAAi6Kz.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027700499294879927",
+      "text": "Gradients + noise overlays for free!! Enjoy! https://t.co/wp6QxjShku",
+      "author_name": "Albia",
+      "author_handle": "@AlbiaHossain",
+      "created_at": "2026-02-28T11:00:46.000Z",
+      "url": "https://twitter.com/i/web/status/2027700499294879927",
+      "like_count": 1215,
+      "bookmark_count": 940,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPW2xlawAAawYO.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPW2vvbsAAbOZ0.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPW2zWbEAUBsEx.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPW275acAAUtKF.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
     }
   ],
   "Business & Marketing": [
+    {
+      "id": "2027836899260498270",
+      "text": "Being able to kidnap a head of state, and decapitate a regional military power back to back without taking a single american casualty is such a wild spectacle of power i don't think it has any other historic precedent",
+      "author_name": "Charles Curran",
+      "author_handle": "@charliebcurran",
+      "created_at": "2026-02-28T20:02:46.000Z",
+      "url": "https://twitter.com/i/web/status/2027836899260498270",
+      "like_count": 38077,
+      "bookmark_count": 2517,
+      "images": [],
+      "_date": "2026-02-28"
+    },
     {
       "id": "2027146933136150867",
       "text": "This is the first AI cut.\nAnd it will send shockwaves.\n\nRemember: Jack is one of the greatest founders of all time. He created this platform that we’re all on, and has been early to many technological shifts. And Block was doing very well as a business.\n\nSo, for him to cut 40% of headcount in this way is a signal to everyone in tech: get good now. Become indispensable. Work nights and weekends. Learn the AI tools and raise your game. Or you might not make the cut, as an employee or as a company.\n\nI know. That sucks. But capitalism is natural selection. The market is unforgiving, because you are the market. After all, it’s not like you’re buying some random gallon of milk from the store; you’re always buying the best product at the best price.\n\nSo too for apps: your customers are always installing the best piece of code they can get. And because AI is going to create new winners, if you aren’t the best in your market, someone may become better with AI. Particularly with the new agentic workflows.\n\nTo be clear: Block’s severance is generous by any measure. 20 weeks of pay, six months of health insurance and vested equity, all of that goes far beyond any typical package. Jack did his level best to cushion the disruption. The laid off are a temporarily unfortunate class, as opposed to a permanent underclass.\n\nBut had he not leaned into the AI transition, he might have had to lay off more people, slowly, and over time, as faster competitors went after his market share.\n\nHow would they do that? Sure, AI isn’t a panacea by any means, but the closer you are to software engineering the more aggressively you need to embrace agentic workflows. The AI companies are already doing that, and places like Stripe, Shopify, Coinbase, and now Block are pushing hard on this area.\n\nThere will be overcorrection. But the fundamental technical innovation is real. And you need to either disrupt yourself or get disrupted.",
@@ -1632,117 +3332,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "Travel & Nature": [
-    {
-      "id": "2026135304437154046",
-      "text": "River close to my house in Sweden froze over for the first time in long. https://t.co/rvLUO4gFB8",
-      "author_name": "·𐑯𐑧𐑝𐑦𐑤 🇸🇪〽️",
-      "author_handle": "@NevilleVoda",
-      "created_at": "2026-02-24T03:21:15.000Z",
-      "url": "https://twitter.com/i/web/status/2026135304437154046",
-      "like_count": 87660,
-      "bookmark_count": 7172,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB5HUQDaIAAeRi3.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026392875949240819",
-      "text": "I am quite literally at the Grand Budapest Hotel. There’s a mini tram that blows a steam whistle that goes through town. https://t.co/UVq0ObKTgo",
-      "author_name": "Annicka",
-      "author_handle": "@expectedcheddar",
-      "created_at": "2026-02-24T20:24:44.000Z",
-      "url": "https://twitter.com/i/web/status/2026392875949240819",
-      "like_count": 25127,
-      "bookmark_count": 2767,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB8xjsFWYAEPdzs.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB8xjsGWAAA1uw6.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB8xjsFXwAAWlO5.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027388594873385091",
-      "text": "Periodic reminder that you control what content you see!\n\nIf you want to see more original travel and architecture photography, then interact with this post by liking and sharing and the algorithm will give you more content like this ;) https://t.co/KupsrKcYwl",
-      "author_name": "Raphael Barberi📷",
-      "author_handle": "@itsrapha83",
-      "created_at": "2026-02-27T14:21:22.000Z",
-      "url": "https://twitter.com/i/web/status/2027388594873385091",
-      "like_count": 2543,
-      "bookmark_count": 194,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KuEW0AA_TkD.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KtxX0AAjp48.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KtxWwAAD6OL.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KtuXEAACjDx.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027666481547514099",
-      "text": "Peak District National Park https://t.co/GyWheHgfd9",
-      "author_name": "𝘄𝗮𝗻𝗱𝗲𝗿𝘁𝗿𝗮𝘃𝗲𝗹𝘀",
-      "author_handle": "@visualsofearth1",
-      "created_at": "2026-02-28T08:45:36.000Z",
-      "url": "https://twitter.com/i/web/status/2027666481547514099",
-      "like_count": 753,
-      "bookmark_count": 38,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCO36qybEAEUGMP.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027904670237397006",
-      "text": "Manhattan apartment, New York City, 1992 https://t.co/PdpSekx28X",
-      "author_name": "Hyperion",
-      "author_handle": "@Ortgeist",
-      "created_at": "2026-03-01T00:32:04.000Z",
-      "url": "https://twitter.com/i/web/status/2027904670237397006",
-      "like_count": 463,
-      "bookmark_count": 73,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCSQeDJasAAsCF8.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCSQen7bEAE3kPh.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    }
-  ],
   "Productivity & Work": [
     {
       "id": "2025542084443382191",
@@ -1810,6 +3399,30 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-24"
+    },
+    {
+      "id": "2028040114908135575",
+      "text": "25 signs your vibe-coded app is a TICKING BOMB !\n\n1. API keys hardcoded “for now”\n2. No /health endpoint, you just hit the homepage\n3. Schema changes live in your head, not migrations\n4. Every query is SELECT * and vibes\n5. Error handling = console.log(e) and hope\n6. No rate limit on auth or writes\n7. UTC, local time, and “JS default” all mixed\n8. README is empty or wrong\n9. No staging env, just “dev” and “prod-ish”\n10. One god component owns the whole screen\n11. No analytics, just “feels like people use it”\n12. You say “we’ll clean this up after launch” every week\n13. Env vars live only on your laptop, nowhere else documented\n14. Frontend talks directly to 5 different third-party APIs with no wrapper\n15. No monitoring or alerts – you find out it’s down from a DM\n16. Logs only exist in your local terminal history\n17. DB backups are “automatic”… but you’ve never tested a restore\n18. Feature flags = commenting code in and out\n19. Deploys are done from your local machine with one random script\n20. No input validation, you trust whatever the client sends\n21. CORS is set to * because “it fixed the error”\n22. CI is “I ran it once locally and it worked”\n23. Same API token reused across staging, prod, and local\n24. Only one person actually knows how to run or deploy the app\n\nBookmark this to defuse today LOL",
+      "author_name": "Harshil Tomar",
+      "author_handle": "@Hartdrawss",
+      "created_at": "2026-03-01T09:30:17.000Z",
+      "url": "https://twitter.com/i/web/status/2028040114908135575",
+      "like_count": 523,
+      "bookmark_count": 1035,
+      "images": [],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027910475984605652",
+      "text": "We are returning to early 90's software era. People stopped building personal projects, fun whimsical things, because they couldn't bring to do the same thing they did under their boring manager's endless drones\n\nA lot of people will find their day jobs much more enjoyable as a result, big firms should offer personal API credit to keep their engineers happy",
+      "author_name": "Varunram Ganesh",
+      "author_handle": "@varunram",
+      "created_at": "2026-03-01T00:55:08.000Z",
+      "url": "https://twitter.com/i/web/status/2027910475984605652",
+      "like_count": 183,
+      "bookmark_count": 54,
+      "images": [],
+      "_date": "2026-02-28"
     }
   ],
   "Startup & Entrepreneurship": [
@@ -1872,6 +3485,55 @@ window.BOOKMARK_CATEGORIES = {
       "bookmark_count": 119,
       "images": [],
       "_date": "2026-02-26"
+    }
+  ],
+  "Education & Learning": [
+    {
+      "id": "2027698813591601425",
+      "text": "Technical interview question:\n\nSuppose you have 5 TB worth of text data and you want to count the total number of words, how will you do this?",
+      "author_name": "Raj Dabre",
+      "author_handle": "@prajdabre",
+      "created_at": "2026-02-28T10:54:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027698813591601425",
+      "like_count": 2051,
+      "bookmark_count": 1238,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027735898000134441",
+      "text": "I still think about those who got a job by just learning HTML, CSS &amp; JS https://t.co/Mss9MPcN6B",
+      "author_name": "Giyu",
+      "author_handle": "@rutu_3",
+      "created_at": "2026-02-28T13:21:26.000Z",
+      "url": "https://twitter.com/i/web/status/2027735898000134441",
+      "like_count": 1949,
+      "bookmark_count": 124,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027735864647028738/pu/img/COt07vVFp9bQFMLT.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2027735864647028738/pu/vid/avc1/1276x720/rhd4-W4MLByNXsdc.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025986497338613976",
+      "text": "The computer science major is going through an identity crisis.\n\nChatGPT can finish any programming assignment with a single prompt so what's the value of teaching students how to write a function in Python?\n\nHere’s the point: we still need architects, not button-pushers.\n\nThe next decade will belong to people who understand theory and how to break complex systems into smaller components even without Wifi.\n\nImagine a degree that drills algorithmic thinking. Weekly closed-book exams. CLRS becomes the most important book in the major.\n\nAnd coding? You’ll exercise that muscle only at internships and real jobs.\n\nThe computer science major will look more and more like a math degree.",
+      "author_name": "Mihail Eric",
+      "author_handle": "@mihail_eric",
+      "created_at": "2026-02-23T17:29:56.000Z",
+      "url": "https://twitter.com/i/web/status/2025986497338613976",
+      "like_count": 1780,
+      "bookmark_count": 1352,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB2_9Pda8AAFkVG.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
     }
   ],
   "Health & Science": [
@@ -1992,6 +3654,23 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-26"
+    },
+    {
+      "id": "2027790991605055603",
+      "text": "Do you know which Data Structure is being used for browser’s Back/Forward navigation history??? https://t.co/QWMsgJetjb",
+      "author_name": "Ojas Sharma",
+      "author_handle": "@OjasSharma276",
+      "created_at": "2026-02-28T17:00:21.000Z",
+      "url": "https://twitter.com/i/web/status/2027790991605055603",
+      "like_count": 1049,
+      "bookmark_count": 373,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQospMbEAUGY4k.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
     }
   ],
   "Sports & Performance": [
@@ -2008,25 +3687,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "Education & Learning": [
-    {
-      "id": "2025986497338613976",
-      "text": "The computer science major is going through an identity crisis.\n\nChatGPT can finish any programming assignment with a single prompt so what's the value of teaching students how to write a function in Python?\n\nHere’s the point: we still need architects, not button-pushers.\n\nThe next decade will belong to people who understand theory and how to break complex systems into smaller components even without Wifi.\n\nImagine a degree that drills algorithmic thinking. Weekly closed-book exams. CLRS becomes the most important book in the major.\n\nAnd coding? You’ll exercise that muscle only at internships and real jobs.\n\nThe computer science major will look more and more like a math degree.",
-      "author_name": "Mihail Eric",
-      "author_handle": "@mihail_eric",
-      "created_at": "2026-02-23T17:29:56.000Z",
-      "url": "https://twitter.com/i/web/status/2025986497338613976",
-      "like_count": 1780,
-      "bookmark_count": 1352,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB2_9Pda8AAFkVG.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    }
-  ],
   "Psychology & Philosophy": [
     {
       "id": "2025495168351441382",
@@ -2041,354 +3701,24 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-22"
     }
   ],
-  "Art & Culture": [
+  "Photography & Visual Arts": [
     {
-      "id": "2025515415141532081",
-      "text": "“Two dancers” by Salvador Dalí https://t.co/1prQC5bHiE",
-      "author_name": "Ramin Nasibov",
-      "author_handle": "@RaminNasibov",
-      "created_at": "2026-02-22T10:18:01.000Z",
-      "url": "https://twitter.com/i/web/status/2025515415141532081",
-      "like_count": 17309,
-      "bookmark_count": 1172,
+      "id": "2027678113413697742",
+      "text": "見てるだけでこんなに涼しい気持ちになれるのは初めてだ... https://t.co/pEko1TwrLy",
+      "author_name": "最多情報局",
+      "author_handle": "@tyomateee",
+      "created_at": "2026-02-28T09:31:49.000Z",
+      "url": "https://twitter.com/i/web/status/2027678113413697742",
+      "like_count": 115959,
+      "bookmark_count": 18502,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HBwTiTDXYAEglRb.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2027055186460492178",
-      "text": "And of course an ominous Alex Colville painting will be hanging in the living room https://t.co/GSPRhdlXAP https://t.co/GodhJ4RlfP",
-      "author_name": "ً",
-      "author_handle": "@chanellique",
-      "created_at": "2026-02-26T16:16:31.000Z",
-      "url": "https://twitter.com/i/web/status/2027055186460492178",
-      "like_count": 10948,
-      "bookmark_count": 2042,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCGLr__XUAEGoxR.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCGL5AfWMAAjzIu.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    }
-  ],
-  "Watches": [
-    {
-      "id": "2026386653464432643",
-      "text": "Taste is acquired through exposure and restraint, no amount of money can give you good taste https://t.co/O4OgeA2I7q https://t.co/4rh14TTmGZ",
-      "author_name": "ADONIS",
-      "author_handle": "@adonispara",
-      "created_at": "2026-02-24T20:00:01.000Z",
-      "url": "https://twitter.com/i/web/status/2026386653464432643",
-      "like_count": 5487,
-      "bookmark_count": 881,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB8nYf5XsAA_DP4.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB8nW-UWsAAY1KS.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027520931191505005",
-      "text": "This ‘80s themed watch collab from Honda &amp; Citizen is just too good https://t.co/VNsNE2YL0i",
-      "author_name": "lusso",
-      "author_handle": "@luusssso",
-      "created_at": "2026-02-27T23:07:14.000Z",
-      "url": "https://twitter.com/i/web/status/2027520931191505005",
-      "like_count": 1704,
-      "bookmark_count": 424,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCMziPubEAAZzE1.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMziOsWUAAZI_R.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMziOnW4AA-pxT.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMziOUXcAEut3y.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027323003391086938",
-      "text": "Accessories for men:\n\nWatch &amp; cigarette/cigar https://t.co/TuGXvdEban",
-      "author_name": "Samantha",
-      "author_handle": "@alecttrona",
-      "created_at": "2026-02-27T10:00:44.000Z",
-      "url": "https://twitter.com/i/web/status/2027323003391086938",
-      "like_count": 793,
-      "bookmark_count": 148,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCJ_hmVa8AAE7K1.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCJ_hmSbsAAwm1D.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027531380243005927",
-      "text": "Burl Wood Dial Rolex Day-Date https://t.co/Stm388oFsS",
-      "author_name": "The Global Watch Club",
-      "author_handle": "@GlobalWatchClub",
-      "created_at": "2026-02-27T23:48:45.000Z",
-      "url": "https://twitter.com/i/web/status/2027531380243005927",
-      "like_count": 759,
-      "bookmark_count": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCM84Q4W0AEYOEP.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCM85XMWkAAsRSs.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027490551101046822",
-      "text": "Full Gold Jaeger-LeCoultre Reverso released last year https://t.co/Oh0rjuwKrP",
-      "author_name": "The Global Watch Club",
-      "author_handle": "@GlobalWatchClub",
-      "created_at": "2026-02-27T21:06:30.000Z",
-      "url": "https://twitter.com/i/web/status/2027490551101046822",
-      "like_count": 565,
-      "bookmark_count": 67,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCMXyEWbYAAdONg.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCMXzk6XcAATQcx.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027488198310695169",
-      "text": "Vintage 1975 Rolex DateJust https://t.co/a6urVPDgIV",
-      "author_name": "Rolex Club",
-      "author_handle": "@Rolexclocks",
-      "created_at": "2026-02-27T20:57:10.000Z",
-      "url": "https://twitter.com/i/web/status/2027488198310695169",
-      "like_count": 327,
-      "bookmark_count": 22,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2027488086406688768/img/Dg2oqH9X3ZLK2J7P.jpg",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027428511015964673/pu/img/dypts83Y7TeBhD2V.jpg",
           "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2027488086406688768/vid/avc1/1080x1920/atTiqa1gdM8jo1L5.mp4"
-        }
-      ],
-      "_date": "2026-02-27"
-    }
-  ],
-  "Architecture & Interior Design": [
-    {
-      "id": "2026358864137032071",
-      "text": "I think about this image like constantly https://t.co/9HCnK2Nn7J",
-      "author_name": "Mister Pitjob",
-      "author_handle": "@notagopnik",
-      "created_at": "2026-02-24T18:09:35.000Z",
-      "url": "https://twitter.com/i/web/status/2026358864137032071",
-      "like_count": 144699,
-      "bookmark_count": 17407,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB8SoDkaMAA0Ylj.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025741297303323024",
-      "text": "I really love home decor like this https://t.co/Ql6rwEe9L1",
-      "author_name": "Sora Hikari",
-      "author_handle": "@SoraHikariii",
-      "created_at": "2026-02-23T01:15:36.000Z",
-      "url": "https://twitter.com/i/web/status/2025741297303323024",
-      "like_count": 49091,
-      "bookmark_count": 14942,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lQa8AAXFy6.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lhagAAhzm2.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lTaIAAR6Bv.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzg9lRaYAAFRUH.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025596851047555492",
-      "text": "this is what happens when you blend brutalism with terracotta 🩶🤎 https://t.co/EsmarcBpfc",
-      "author_name": "⊹ ࣪ pam ˖✦",
-      "author_handle": "@pamvonhadder",
-      "created_at": "2026-02-22T15:41:37.000Z",
-      "url": "https://twitter.com/i/web/status/2025596851047555492",
-      "like_count": 16104,
-      "bookmark_count": 3066,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPnWcAEI-_P.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPLWQAALT6c.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPqW4AAlkKa.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBxdmPSXQAATBVP.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2026366781984588177",
-      "text": "https://t.co/fkI3F0OWd1",
-      "author_name": "RAW",
-      "author_handle": "@rawknuckle",
-      "created_at": "2026-02-24T18:41:03.000Z",
-      "url": "https://twitter.com/i/web/status/2026366781984588177",
-      "like_count": 11785,
-      "bookmark_count": 21735,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027863882853978464",
-      "text": "The 2026 Ford Mustang, combined with muscle car styling\n\nDo you like it? 🤔 https://t.co/92TqL8YQHE",
-      "author_name": "Connie 🇺🇸",
-      "author_handle": "@us_connie",
-      "created_at": "2026-02-28T21:50:00.000Z",
-      "url": "https://twitter.com/i/web/status/2027863882853978464",
-      "like_count": 6204,
-      "bookmark_count": 815,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2027848614408818692/img/ko1XUwqxfg5qgJJB.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2027848614408818692/vid/avc1/576x1024/2bkCyQ_gUYi5LfaL.mp4"
+          "video_url": "https://video.twimg.com/ext_tw_video/2027428511015964673/pu/vid/avc1/720x1280/nDE96CSHrQewYMdI.mp4"
         }
       ],
       "_date": "2026-02-28"
-    },
-    {
-      "id": "2026591020767379928",
-      "text": "Peak car design: Aimé Leon Dore‘s custom Porsche 993 Turbo https://t.co/dHaRyKzfqy",
-      "author_name": "Alexander 𖤓 Nietzschean Vitalist",
-      "author_handle": "@UbermenschMind",
-      "created_at": "2026-02-25T09:32:06.000Z",
-      "url": "https://twitter.com/i/web/status/2026591020767379928",
-      "like_count": 5383,
-      "bookmark_count": 780,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB_liIzW4AAzafv.png",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB_ljxFXUAAxy2k.png",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB_lmFcWoAAEosa.png",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB_lq5ZXsAAEOSl.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2027147363454697917",
-      "text": "This livingroom had so much character and aura https://t.co/6seQaRXROg",
-      "author_name": "lemón",
-      "author_handle": "@cigarettesummer",
-      "created_at": "2026-02-26T22:22:48.000Z",
-      "url": "https://twitter.com/i/web/status/2027147363454697917",
-      "like_count": 3025,
-      "bookmark_count": 280,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCHfyGWWQAA7zyy.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027132120779620787",
-      "text": "Designers get this wrong all the time.\n\nNew tech doesn't need opinionated design. We talk about Design as if it's one thing, but really it supports different purposes depending on a category's maturity.\n\nEarly tech = \"Undesigned\" (open & flexible)\nGrowth tech = Design to scale (universal & generic)\nMature tech = Design to differentiate (opinionated)",
-      "author_name": "Andy Allen",
-      "author_handle": "@asallen",
-      "created_at": "2026-02-26T21:22:14.000Z",
-      "url": "https://twitter.com/i/web/status/2027132120779620787",
-      "like_count": 522,
-      "bookmark_count": 334,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2025782990681346336",
-      "text": "FASHION GUYS with rizz I’ve noticed just tend to accessorize better than the regular guys. They know what’s what. A tasteful jewelry combo (chain or rings or bracelet - no more than 2 at once). Great sunglasses. (I have had the same Garrett Leight sunglasses for 5+ years - good gift idea btw.) Always with some sort of bag or tote (I literally don’t make the rules check Pinterest for yourself). A cool hat. A nice watch!! Heirloom. Vintage. Doesn’t have to be expensive but better than an Apple Watch or garmin.",
-      "author_name": "rachel",
-      "author_handle": "@rachcorrine",
-      "created_at": "2026-02-23T04:01:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025782990681346336",
-      "like_count": 283,
-      "bookmark_count": 154,
-      "images": [],
-      "_date": "2026-02-23"
     }
   ]
 };
