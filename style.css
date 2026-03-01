@@ -783,6 +783,27 @@ body.categories-view {
   text-decoration: underline;
 }
 
+.cat-save-btn {
+  display: block;
+  margin-top: 0.5rem;
+  background: none;
+  border: 1px solid rgba(245, 230, 200, 0.35);
+  border-radius: 4px;
+  color: rgba(245, 230, 200, 0.75);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  padding: 0.3rem 0.65rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  text-align: left;
+}
+
+.cat-save-btn:hover {
+  color: #F5E6C8;
+  border-color: rgba(245, 230, 200, 0.7);
+  background: rgba(255, 255, 255, 0.08);
+}
+
 /* ── Main layout: cabinet + panel ── */
 .cat-layout {
   display: flex;

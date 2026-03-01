@@ -888,27 +888,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     },
     {
-      "id": "2027055186460492178",
-      "text": "And of course an ominous Alex Colville painting will be hanging in the living room https://t.co/GSPRhdlXAP https://t.co/GodhJ4RlfP",
-      "author_name": "ً",
-      "author_handle": "@chanellique",
-      "created_at": "2026-02-26T16:16:31.000Z",
-      "url": "https://twitter.com/i/web/status/2027055186460492178",
-      "like_count": 10948,
-      "bookmark_count": 2042,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCGLr__XUAEGoxR.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCGL5AfWMAAjzIu.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
       "id": "2027863882853978464",
       "text": "The 2026 Ford Mustang, combined with muscle car styling\n\nDo you like it? 🤔 https://t.co/92TqL8YQHE",
       "author_name": "Connie 🇺🇸",
@@ -2389,6 +2368,27 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-22"
+    },
+    {
+      "id": "2027055186460492178",
+      "text": "And of course an ominous Alex Colville painting will be hanging in the living room https://t.co/GSPRhdlXAP https://t.co/GodhJ4RlfP",
+      "author_name": "ً",
+      "author_handle": "@chanellique",
+      "created_at": "2026-02-26T16:16:31.000Z",
+      "url": "https://twitter.com/i/web/status/2027055186460492178",
+      "like_count": 10948,
+      "bookmark_count": 2042,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCGLr__XUAEGoxR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCGL5AfWMAAjzIu.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
     }
   ]
 };

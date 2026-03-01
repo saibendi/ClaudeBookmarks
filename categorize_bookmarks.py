@@ -187,9 +187,17 @@ for cat, tweets in categories.items():
     print(f"  {cat}: {len(tweets)} tweets")
 
 
+# ── Backup existing categories.js ────────────────────────────────────────────
+import shutil
+OUT_JS = os.path.join(os.path.dirname(__file__), "categories.js")
+OLD_JS = os.path.join(os.path.dirname(__file__), "categories_old.js")
+if os.path.exists(OUT_JS):
+    shutil.copy2(OUT_JS, OLD_JS)
+    print(f"Backed up existing categories.js → categories_old.js")
+
+
 # ── Write categories.js ───────────────────────────────────────────────────────
 
-OUT_JS = os.path.join(os.path.dirname(__file__), "categories.js")
 categories_json = json.dumps(categories, ensure_ascii=False, indent=2)
 
 with open(OUT_JS, "w", encoding="utf-8") as f:

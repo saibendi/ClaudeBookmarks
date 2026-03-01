@@ -83,11 +83,18 @@ Cards can be dragged from the right panel onto a different drawer to refile a tw
 - Insertion into target always maintains `like_count` desc order (find first index where target tweet's count is lower, splice there)
 - Drag changes are **session-only** — `CATS` is mutated in memory; `categorize_bookmarks.py` resets everything
 
+## Save categories.js Button (categories.html)
+After the first successful drag-and-drop, a "↡ Save categories.js" button appears in `.cat-top-bar` (hidden by default via `style="display:none"`). Clicking it downloads the current in-memory `CATS` as a ready-to-use `categories.js` via the Blob + object URL trick (works on `file://`). User replaces the project file with the download to make moves permanent.
+- `let hasMoves = false` flag in `init()` — flipped on first successful drop, shows button once
+- `downloadCategories()` is a module-level function (outside `init()`) so it can reference `CATS`
+- Button styled as `.cat-save-btn` — muted gold, borderless ghost style matching the top-bar
+- `categorize_bookmarks.py` backs up existing `categories.js` → `categories_old.js` (via `shutil.copy2`) before overwriting; `categories_old.js` is in `.gitignore`
+
 ## JS Gotchas
 - `\uXXXX` escapes in JS template literals need exactly 4 hex digits — `\u2F` silently breaks, use `\u002F`.
 - All pages guard against missing data with `window.BOOKMARK_TWEETS || {}` etc.
 - `categories.js` is optional — all pages that use it must handle the case where it's absent.
 
 ## Git
-- Initialized. `.gitignore` covers `.env`, `tokens.json`, `.DS_Store`, `*.png`, `.claude/`.
+- Initialized. `.gitignore` covers `.env`, `tokens.json`, `.DS_Store`, `*.png`, `.claude/`, `categories_old.js`.
 - Checkpoint commit exists: `"Checkpoint: pre-stats feature"` — revert with `git checkout HEAD -- <file>`.
