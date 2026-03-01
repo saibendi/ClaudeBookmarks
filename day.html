@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmarks — Day View</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="day-view">
+
+  <div class="desk desk--day">
+
+    <div class="day-top-bar">
+      <a class="back-link day-back-link" href="index.html">&#8592; Calendar</a>
+      <div class="day-info">
+        <span class="day-title" id="dayTitle"></span>
+        <span class="day-count" id="dayCount"></span>
+      </div>
+    </div>
+
+    <div class="stack-row">
+      <button class="stack-nav-btn" id="prevBtn" aria-label="Previous tweet">&#8592;</button>
+      <div class="page-scene">
+        <div class="page page-back-3"></div>
+        <div class="page page-back-2"></div>
+        <div class="page page-back-1"></div>
+        <div class="page page-front" id="pageFront"></div>
+      </div>
+      <button class="stack-nav-btn" id="nextBtn" aria-label="Next tweet">&#8594;</button>
+    </div>
+
+    <div class="page-counter" id="pageCounter"></div>
+
+  </div>
+
+  <script src="data.js"></script>
+  <script>
+    const TWEETS = window.BOOKMARK_TWEETS || {};
+
+    // ── Helpers ───────────────────────────────────────────────────────────────
+    function formatTweetTime(isoStr) {
+      const d = new Date(isoStr);
+      const date = d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+      const time = d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+      return `${date} \u00b7 ${time}`;
+    }
+
+    function formatFullDate(dateStr) {
+      const [y, m, d] = dateStr.split("-").map(Number);
+      return new Date(y, m - 1, d).toLocaleDateString("en-US", {
+        weekday: "long", year: "numeric", month: "long", day: "numeric"
+      });
+    }
+
+    // ── Init ──────────────────────────────────────────────────────────────────
+    const params  = new URLSearchParams(window.location.search);
+    const dateStr = params.get("date");
+    if (dateStr) document.title = `Bookmarks \u2014 ${dateStr}`;
+
+    const rawTweets = (dateStr && TWEETS[dateStr]) ? TWEETS[dateStr] : [];
+    const tweets    = [...rawTweets].sort((a, b) => (b.like_count || 0) - (a.like_count || 0));
+
+    const titleEl   = document.getElementById("dayTitle");
+    const countEl   = document.getElementById("dayCount");
+    const counterEl = document.getElementById("pageCounter");
+    const pageFront = document.getElementById("pageFront");
+    const prevBtn   = document.getElementById("prevBtn");
+    const nextBtn   = document.getElementById("nextBtn");
+
+    if (dateStr) titleEl.textContent = formatFullDate(dateStr);
+
+    let currentIdx = 0;
+
+    // ── Render one tweet into the front page ──────────────────────────────────
+    function renderTweet(tweet) {
+      pageFront.innerHTML = "";
+
+      // Header: author + timestamp
+      const header = document.createElement("div");
+      header.className = "tweet-header";
+
+      const authorBlock = document.createElement("div");
+      const nameEl = document.createElement("div");
+      nameEl.className = "tweet-author-name";
+      nameEl.textContent = tweet.author_name;
+      const handleEl = document.createElement("div");
+      handleEl.className = "tweet-author-handle";
+      handleEl.textContent = tweet.author_handle;
+      authorBlock.appendChild(nameEl);
+      authorBlock.appendChild(handleEl);
+
+      const timeEl = document.createElement("div");
+      timeEl.className = "tweet-time";
+      timeEl.textContent = formatTweetTime(tweet.created_at);
+
+      header.appendChild(authorBlock);
+      header.appendChild(timeEl);
+      pageFront.appendChild(header);
+
+      // Body: tweet text, sentence-split
+      const body = document.createElement("div");
+      body.className = "tweet-body";
+
+      const sentences = tweet.text
+        .replace(/https?:\/\/\S+/g, m => m.replace(/\./g, "\x00"))
+        .split(/(?<=\.)\s+/)
+        .map(s => s.replace(/\x00/g, ".").trim())
+        .filter(s => s.length > 0);
+
+      if (sentences.length > 1) {
+        sentences.forEach(s => {
+          const p = document.createElement("p");
+          p.textContent = s;
+          body.appendChild(p);
+        });
+      } else {
+        body.textContent = tweet.text;
+      }
+      pageFront.appendChild(body);
+
+      // Images (photos, video thumbnails, GIF thumbnails)
+      if (tweet.images && tweet.images.length > 0) {
+        const imgGrid = document.createElement("div");
+        imgGrid.className = "tweet-images";
+        tweet.images.forEach(img => {
+          const wrapper = document.createElement("div");
+          wrapper.className = "tweet-image-wrapper";
+
+          if (img.type !== "photo" && img.video_url) {
+            // Render actual video — hover to play, hover-off to reset
+            const videoEl = document.createElement("video");
+            videoEl.className = "tweet-video";
+            videoEl.src = img.video_url;
+            if (img.url) videoEl.poster = img.url;
+            videoEl.muted = true;
+            videoEl.loop = true;
+            videoEl.playsInline = true;
+            videoEl.autoplay = true;
+            videoEl.addEventListener("mouseenter", () => {
+              videoEl.muted = false;
+            });
+            videoEl.addEventListener("mouseleave", () => {
+              videoEl.muted = true;
+            });
+            wrapper.appendChild(videoEl);
+
+            const hint = document.createElement("div");
+            hint.className = "tweet-video-hint";
+            hint.textContent = img.type === "animated_gif" ? "GIF  hover for audio" : "\u25B6  hover for audio";
+            wrapper.appendChild(hint);
+          } else {
+            // Photo, or video with no playable URL — show thumbnail
+            const imgEl = document.createElement("img");
+            imgEl.src = img.url;
+            imgEl.className = "tweet-image";
+            imgEl.alt = "";
+            imgEl.loading = "lazy";
+            wrapper.appendChild(imgEl);
+
+            if (img.type !== "photo") {
+              const label = document.createElement("div");
+              label.className = "tweet-image-label";
+              label.textContent = img.type === "video" ? "\u25B6 Video" : "GIF";
+              wrapper.appendChild(label);
+            }
+          }
+
+          imgGrid.appendChild(wrapper);
+        });
+        pageFront.appendChild(imgGrid);
+      }
+
+      // Footer: stats + link
+      const footer = document.createElement("div");
+      footer.className = "tweet-footer";
+
+      const stats = document.createElement("span");
+      stats.className = "tweet-stats-line";
+      stats.textContent = `\u2665 ${tweet.like_count.toLocaleString()}  \uD83D\uDD16 ${tweet.bookmark_count.toLocaleString()}`;
+
+      const link = document.createElement("a");
+      link.className = "tweet-view-link";
+      link.href = tweet.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "View on X \u2192";
+
+      footer.appendChild(stats);
+      footer.appendChild(link);
+      pageFront.appendChild(footer);
+    }
+
+    // ── Nav state ─────────────────────────────────────────────────────────────
+    function updateNav() {
+      prevBtn.disabled = currentIdx === 0;
+      nextBtn.disabled = currentIdx === tweets.length - 1;
+      counterEl.textContent = tweets.length > 0 ? `${currentIdx + 1} / ${tweets.length}` : "";
+    }
+
+    // ── Back pages: show 0/1/2/3 depending on current position ───────────────
+    const backPages = [
+      document.querySelector(".page-back-1"),
+      document.querySelector(".page-back-2"),
+      document.querySelector(".page-back-3"),
+    ];
+
+    function updateBackPages() {
+      backPages.forEach((el, i) => {
+        el.style.visibility = currentIdx > i ? "visible" : "hidden";
+      });
+    }
+
+    // ── Animated navigation ───────────────────────────────────────────────────
+    function navigate(dir) {
+      const outClass = dir === 1 ? "slide-out-left"  : "slide-out-right";
+      const inClass  = dir === 1 ? "slide-in-right"  : "slide-in-left";
+
+      pageFront.classList.add(outClass);
+      setTimeout(() => {
+        pageFront.classList.remove(outClass);
+        currentIdx += dir;
+        renderTweet(tweets[currentIdx]);
+        updateNav();
+        updateBackPages();
+        void pageFront.offsetWidth; // force reflow so in-animation restarts
+        pageFront.classList.add(inClass);
+        setTimeout(() => pageFront.classList.remove(inClass), 220);
+      }, 200);
+    }
+
+    prevBtn.addEventListener("click", () => { if (currentIdx > 0) navigate(-1); });
+    nextBtn.addEventListener("click", () => { if (currentIdx < tweets.length - 1) navigate(1); });
+
+    document.addEventListener("keydown", e => {
+      if (e.key === "ArrowLeft"  && currentIdx > 0)                    navigate(-1);
+      if (e.key === "ArrowRight" && currentIdx < tweets.length - 1)    navigate(1);
+    });
+
+    // ── Initial render ────────────────────────────────────────────────────────
+    if (tweets.length > 0) {
+      countEl.textContent = `${tweets.length} bookmark${tweets.length !== 1 ? "s" : ""}`;
+      renderTweet(tweets[0]);
+      updateNav();
+      updateBackPages();
+    } else {
+      countEl.textContent = "";
+      counterEl.textContent = "";
+      pageFront.innerHTML = `
+        <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;
+                    height:100%;gap:0.75rem;color:var(--text-muted);text-align:center;padding:2rem;">
+          <div style="font-size:2.5rem;opacity:0.5;">&#128278;</div>
+          <p style="font-size:0.95rem;color:var(--text-primary);font-family:Georgia,serif;">No bookmarks on this day</p>
+          <p style="font-size:0.82rem;font-family:Arial,sans-serif;">Bookmarks you save on X will appear here.</p>
+        </div>`;
+      prevBtn.style.visibility = "hidden";
+      nextBtn.style.visibility = "hidden";
+    }
+  </script>
+
+</body>
+</html>

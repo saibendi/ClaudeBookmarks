@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmarks — Categories</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="categories-view">
+
+  <div class="desk desk--categories">
+
+    <div class="cat-top-bar">
+      <a class="cat-back-link" href="index.html">&#8592; Calendar</a>
+    </div>
+
+    <div class="cat-layout" id="catLayout">
+
+      <!-- 3D File Cabinet -->
+      <div class="cabinet-scene">
+        <div class="cabinet" id="cabinet">
+          <div class="cabinet-top"></div>
+          <!-- Drawers injected by JS -->
+        </div>
+      </div>
+
+      <!-- Right panel -->
+      <div class="cat-panel" id="catPanel">
+        <div class="cat-panel-empty" id="catPanelEmpty">&#8592; Select a category</div>
+        <div id="catPanelContent" style="display:none">
+          <div class="cat-cards" id="catCards"></div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="categories.js" onerror="window._catLoadError=true"></script>
+  <script>
+    const CATS = window.BOOKMARK_CATEGORIES || null;
+
+    // ── No data state ─────────────────────────────────────────────────────────
+    if (!CATS || window._catLoadError) {
+      document.getElementById("catLayout").innerHTML = `
+        <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;
+                    gap:1rem;color:#F5E6C8;font-family:Georgia,serif;text-align:center;padding:3rem;">
+          <div style="font-size:3rem;opacity:0.5;">&#128193;</div>
+          <p style="font-size:1.1rem;">No categories found.</p>
+          <p style="font-size:0.85rem;font-family:Arial,sans-serif;color:rgba(245,230,200,0.6);">
+            Run <code style="background:rgba(0,0,0,0.25);padding:2px 6px;border-radius:3px;">python3 categorize_bookmarks.py</code>
+            to generate categories.js
+          </p>
+        </div>`;
+    } else {
+      init();
+    }
+
+    function init() {
+      const catNames = Object.keys(CATS);
+      const cabinet  = document.getElementById("cabinet");
+      const panel    = document.getElementById("catPanel");
+      const cardsEl  = document.getElementById("catCards");
+      const contentEl = document.getElementById("catPanelContent");
+
+      let currentCat = null;
+
+      // ── Build drawers ────────────────────────────────────────────────────────
+      catNames.forEach(cat => {
+        const count = CATS[cat].length;
+
+        const drawer = document.createElement("div");
+        drawer.className = "drawer";
+        drawer.dataset.cat = cat;
+
+        const front = document.createElement("div");
+        front.className = "drawer-front";
+
+        const handle = document.createElement("div");
+        handle.className = "drawer-handle";
+
+        const label = document.createElement("div");
+        label.className = "drawer-label";
+        label.textContent = cat;
+
+        const countEl = document.createElement("span");
+        countEl.className = "drawer-count";
+        countEl.textContent = `(${count})`;
+        label.appendChild(countEl);
+
+        front.appendChild(handle);
+        front.appendChild(label);
+
+        const inner = document.createElement("div");
+        inner.className = "drawer-inner";
+
+        drawer.appendChild(front);
+        drawer.appendChild(inner);
+        cabinet.appendChild(drawer);
+
+        drawer.addEventListener("click", () => selectCategory(cat, drawer));
+      });
+
+      // ── Select a category ────────────────────────────────────────────────────
+      function selectCategory(cat, clickedDrawer) {
+        document.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
+        clickedDrawer.classList.add("open");
+
+        currentCat = cat;
+
+        panel.classList.add("visible");
+        document.getElementById("catPanelEmpty").style.display = "none";
+        contentEl.style.display        = "flex";
+        contentEl.style.flexDirection  = "column";
+
+        renderCards();
+      }
+
+      // ── Render all tweet cards ───────────────────────────────────────────────
+      function renderCards() {
+        const tweets = CATS[currentCat];
+        const slice  = tweets;
+
+        cardsEl.innerHTML = "";
+        cardsEl.scrollTop = 0;
+
+        slice.forEach(tweet => {
+          const card = document.createElement("div");
+          card.className = "cat-card";
+
+          // Author line
+          const author = document.createElement("div");
+          author.className = "cat-card-author";
+          author.innerHTML =
+            `<strong>${escHtml(tweet.author_name)}</strong> &middot; ` +
+            `${escHtml(tweet.author_handle)} &middot; ${formatDate(tweet._date)}`;
+          card.appendChild(author);
+
+          // Tweet text
+          const text = document.createElement("div");
+          text.className = "cat-card-text";
+          text.textContent = tweet.text;
+          card.appendChild(text);
+
+          // Media (images / videos / GIFs) — same approach as day.html
+          if (tweet.images && tweet.images.length > 0) {
+            const mediaDiv = document.createElement("div");
+            mediaDiv.className = "cat-card-images";
+
+            tweet.images.slice(0, 2).forEach(img => {
+              const wrapper = document.createElement("div");
+              wrapper.className = "cat-card-media-wrapper";
+
+              if (img.type !== "photo" && img.video_url) {
+                const video = document.createElement("video");
+                video.src       = img.video_url;
+                if (img.url) video.poster = img.url;
+                video.muted     = true;
+                video.loop      = true;
+                video.playsInline = true;
+                video.autoplay  = true;
+                video.addEventListener("mouseenter", () => { video.muted = false; });
+                video.addEventListener("mouseleave", () => { video.muted = true; });
+                wrapper.appendChild(video);
+
+                const hint = document.createElement("div");
+                hint.className   = "cat-card-video-hint";
+                hint.textContent = img.type === "animated_gif"
+                  ? "GIF \u25B6 hover for audio"
+                  : "\u25B6 hover for audio";
+                wrapper.appendChild(hint);
+              } else {
+                const imgEl = document.createElement("img");
+                imgEl.src     = img.url;
+                imgEl.alt     = "";
+                imgEl.loading = "lazy";
+                wrapper.appendChild(imgEl);
+              }
+
+              mediaDiv.appendChild(wrapper);
+            });
+
+            card.appendChild(mediaDiv);
+          }
+
+          // Footer: stats + link
+          const footer = document.createElement("div");
+          footer.className = "cat-card-footer";
+
+          const stats = document.createElement("span");
+          stats.textContent =
+            `\u2665 ${(tweet.like_count || 0).toLocaleString()}  ` +
+            `\uD83D\uDD16 ${(tweet.bookmark_count || 0).toLocaleString()}`;
+
+          const link = document.createElement("a");
+          link.className   = "cat-card-link";
+          link.href        = tweet.url;
+          link.target      = "_blank";
+          link.rel         = "noopener noreferrer";
+          link.textContent = "View on X \u2192";
+
+          footer.appendChild(stats);
+          footer.appendChild(link);
+          card.appendChild(footer);
+          cardsEl.appendChild(card);
+        });
+      }
+
+    }
+
+    // ── Utilities ─────────────────────────────────────────────────────────────
+    function escHtml(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function formatDate(dateStr) {
+      if (!dateStr) return "";
+      const [y, m, d] = dateStr.split("-").map(Number);
+      return new Date(y, m - 1, d).toLocaleDateString("en-US", {
+        month: "short", day: "numeric", year: "numeric"
+      });
+    }
+  </script>
+
+</body>
+</html>

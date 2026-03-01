@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Twitter Bookmarks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="desk-view">
+
+  <div class="desk">
+    <div class="calendar-scene">
+      <div class="calendar-face" id="calendarFace"></div>
+    </div>
+    <div class="month-nav">
+      <button id="prevBtn" aria-label="Previous month">&#8592;</button>
+      <span id="navLabel"></span>
+      <button id="nextBtn" aria-label="Next month">&#8594;</button>
+    </div>
+    <a class="categories-portal" href="categories.html">&#128193; Categories</a>
+  </div>
+
+  <script src="data.js"></script>
+  <script>
+    const BOOKMARK_DATA = window.BOOKMARK_DATES || {};
+
+    // ── Notification snapshot (localStorage diff) ─────────────────────────────
+    // NEW_COUNTS[date] = how many new bookmarks since the snapshot was saved.
+    // If undefined, the day has no new bookmarks (show green checkmark instead).
+    const _snap = JSON.parse(localStorage.getItem('bookmark_snapshot') || '{}');
+    const NEW_COUNTS = {};
+    for (const [date, count] of Object.entries(BOOKMARK_DATA)) {
+      const prev = _snap[date] || 0;
+      if (count > prev) NEW_COUNTS[date] = count - prev;
+    }
+
+    // ── Constants ─────────────────────────────────────────────────────────────
+    const YEAR = 2026;
+    const MONTH_NAMES = [
+      "January","February","March","April","May","June",
+      "July","August","September","October","November","December"
+    ];
+    const DOW_LABELS = ["S","M","T","W","T","F","S"];
+
+    // Today's date string
+    const today = new Date();
+    const todayStr = formatDate(today.getFullYear(), today.getMonth() + 1, today.getDate());
+
+    // Current month: default to today's month if same year, else January
+    let currentMonth = (today.getFullYear() === YEAR) ? today.getMonth() : 0;
+
+    // ── Helper: zero-pad to 2 digits ──────────────────────────────────────────
+    function pad2(n) { return String(n).padStart(2, '0'); }
+
+    function formatDate(y, m, d) {
+      return `${y}-${pad2(m)}-${pad2(d)}`;
+    }
+
+    // ── SVG spiral ring ───────────────────────────────────────────────────────
+    function makeSpiralRingSVG() {
+      const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+      svg.setAttribute("width", "20");
+      svg.setAttribute("height", "30");
+      svg.setAttribute("viewBox", "0 0 14 22");
+      svg.setAttribute("aria-hidden", "true");
+
+      const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+      path.setAttribute("d", [
+        "M 7 2",
+        "C 13 2, 13 6, 7 6",
+        "C 1 6, 1 10, 7 10",
+        "C 13 10, 13 14, 7 14",
+        "C 1 14, 1 18, 7 18",
+        "C 13 18, 13 20, 7 20"
+      ].join(" "));
+      path.setAttribute("stroke", "#B0B0B0");
+      path.setAttribute("stroke-width", "1.8");
+      path.setAttribute("fill", "none");
+      path.setAttribute("stroke-linecap", "round");
+
+      svg.appendChild(path);
+      return svg;
+    }
+
+    // ── Build one month card ──────────────────────────────────────────────────
+    function buildMonthCard(year, monthIndex) {
+      const monthNum = monthIndex + 1;
+
+      const card = document.createElement("div");
+      card.className = "month-card";
+
+      // ── Rings strip ──
+      const ringsRow = document.createElement("div");
+      ringsRow.className = "month-rings";
+      for (let i = 0; i < 13; i++) {
+        ringsRow.appendChild(makeSpiralRingSVG());
+      }
+      card.appendChild(ringsRow);
+
+      // ── Red header ──
+      const header = document.createElement("div");
+      header.className = "month-header";
+      header.textContent = `${MONTH_NAMES[monthIndex].toUpperCase()} ${year} \u00b7 Bookmarks`;
+      card.appendChild(header);
+
+      // ── Day-of-week labels ──
+      const dowRow = document.createElement("div");
+      dowRow.className = "dow-row";
+      DOW_LABELS.forEach(label => {
+        const cell = document.createElement("div");
+        cell.className = "dow-cell";
+        cell.textContent = label;
+        dowRow.appendChild(cell);
+      });
+      card.appendChild(dowRow);
+
+      // ── Calendar body ──
+      const firstDay = new Date(year, monthIndex, 1);
+      const startDow = firstDay.getDay();
+      const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
+
+      const cells = [];
+      for (let i = 0; i < startDow; i++) cells.push(null);
+      for (let d = 1; d <= daysInMonth; d++) cells.push(d);
+      while (cells.length % 7 !== 0) cells.push(null);
+
+      const weeks = [];
+      for (let i = 0; i < cells.length; i += 7) {
+        weeks.push(cells.slice(i, i + 7));
+      }
+
+      weeks.forEach(week => {
+        const weekRow = document.createElement("div");
+        weekRow.className = "week-row";
+
+        week.forEach(day => {
+          if (day === null) {
+            const empty = document.createElement("div");
+            empty.className = "day-tile empty";
+            weekRow.appendChild(empty);
+          } else {
+            const dateStr = formatDate(year, monthNum, day);
+            const tile = document.createElement("a");
+            tile.className = "day-tile";
+            tile.href = `day.html?date=${dateStr}`;
+            tile.textContent = day;
+
+            if (dateStr === todayStr) {
+              tile.classList.add("today");
+            }
+
+            const count = BOOKMARK_DATA[dateStr];
+            if (count !== undefined) {
+              if (count >= 10) {
+                tile.classList.add("density-high");
+              } else if (count >= 4) {
+                tile.classList.add("density-mid");
+              } else {
+                tile.classList.add("density-low");
+              }
+
+              // Notification indicator: +N badge if new, checkmark if seen
+              const indicator = document.createElement("span");
+              if (NEW_COUNTS[dateStr]) {
+                indicator.className = "new-badge";
+                indicator.textContent = `+${NEW_COUNTS[dateStr]}`;
+              } else {
+                indicator.className = "seen-check";
+                indicator.textContent = "\u2713";
+              }
+              tile.appendChild(indicator);
+
+              // Mark this day as seen on click (before navigation)
+              tile.addEventListener("click", () => {
+                const snap = JSON.parse(localStorage.getItem('bookmark_snapshot') || '{}');
+                snap[dateStr] = BOOKMARK_DATA[dateStr];
+                localStorage.setItem('bookmark_snapshot', JSON.stringify(snap));
+              });
+            }
+
+            weekRow.appendChild(tile);
+          }
+        });
+
+        card.appendChild(weekRow);
+      });
+
+      return card;
+    }
+
+    // ── Render current month ──────────────────────────────────────────────────
+    function render() {
+      const face = document.getElementById("calendarFace");
+      face.innerHTML = "";
+      face.appendChild(buildMonthCard(YEAR, currentMonth));
+      document.getElementById("navLabel").textContent =
+        `${MONTH_NAMES[currentMonth]} ${YEAR}`;
+    }
+
+    function changeMonth(delta) {
+      currentMonth = Math.max(0, Math.min(11, currentMonth + delta));
+      render();
+    }
+
+    document.getElementById("prevBtn").addEventListener("click", () => changeMonth(-1));
+    document.getElementById("nextBtn").addEventListener("click", () => changeMonth(1));
+
+    render();
+  </script>
+
+</body>
+</html>
