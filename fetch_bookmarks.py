@@ -362,7 +362,7 @@ def group_by_date(tweets, users_by_id, media_by_key):
         except ValueError:
             continue
 
-        date_str = dt.strftime("%Y-%m-%d")
+        date_str = dt.astimezone().strftime("%Y-%m-%d")
 
         author_id = t.get("author_id", "")
         user      = users_by_id.get(author_id, {})

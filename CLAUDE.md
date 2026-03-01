@@ -95,6 +95,9 @@ After the first successful drag-and-drop, a "↡ Save categories.js" button appe
 - All pages guard against missing data with `window.BOOKMARK_TWEETS || {}` etc.
 - `categories.js` is optional — all pages that use it must handle the case where it's absent.
 
+## fetch_bookmarks.py — Timezone Gotcha
+`group_by_date` converts `created_at` (UTC) to a date string using `dt.astimezone().strftime("%Y-%m-%d")` — the `.astimezone()` call (no argument) converts to the system local timezone before extracting the date. Without it, tweets created late in the day local time but past midnight UTC get filed under the wrong (next) day. The `since` cutoff comparison in `fetch_all_bookmarks` stays in UTC — that's correct and should not be changed.
+
 ## Git
 - Initialized. `.gitignore` covers `.env`, `tokens.json`, `.DS_Store`, `*.png`, `.claude/`, `categories_old.js`.
 - Checkpoint commit exists: `"Checkpoint: pre-stats feature"` — revert with `git checkout HEAD -- <file>`.
