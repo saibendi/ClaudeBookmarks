@@ -986,6 +986,12 @@ body.categories-view {
   overflow-y: auto;
 }
 
+.cat-card[draggable="true"] { cursor: grab; }
+
+.drawer.drag-over .drawer-front {
+  box-shadow: inset 0 0 0 3px rgba(232, 120, 20, 0.9), 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
 .cat-card::-webkit-scrollbar { width: 4px; }
 .cat-card::-webkit-scrollbar-thumb {
   background: rgba(139, 75, 50, 0.35);

@@ -64,6 +64,17 @@
       const contentEl = document.getElementById("catPanelContent");
 
       let currentCat = null;
+      let dragState  = null; // { tweetId, sourceCategory }
+
+      // ── Update drawer count label ─────────────────────────────────────────────
+      function updateDrawerCount(catName) {
+        cabinet.querySelectorAll(".drawer").forEach(d => {
+          if (d.dataset.cat === catName) {
+            const el = d.querySelector(".drawer-count");
+            if (el) el.textContent = `(${CATS[catName].length})`;
+          }
+        });
+      }
 
       // ── Build drawers ────────────────────────────────────────────────────────
       catNames.forEach(cat => {
@@ -99,6 +110,61 @@
         cabinet.appendChild(drawer);
 
         drawer.addEventListener("click", () => selectCategory(cat, drawer));
+
+        // ── Drag-and-drop: receive tweets from other categories ──
+        drawer.addEventListener("dragover", e => {
+          if (!dragState || dragState.sourceCategory === cat) return;
+          e.preventDefault();
+          e.dataTransfer.dropEffect = "move";
+          drawer.classList.add("drag-over");
+        });
+
+        drawer.addEventListener("dragleave", e => {
+          if (!drawer.contains(e.relatedTarget)) {
+            drawer.classList.remove("drag-over");
+          }
+        });
+
+        drawer.addEventListener("drop", e => {
+          e.preventDefault();
+          drawer.classList.remove("drag-over");
+          if (!dragState || dragState.sourceCategory === cat) return;
+
+          dragState.dropSucceeded = true; // prevent dragend restore
+
+          const { tweetId, sourceCategory } = dragState;
+
+          // Remove from source
+          const srcIdx = CATS[sourceCategory].findIndex(t => t.id === tweetId);
+          if (srcIdx === -1) return;
+          const [tweet] = CATS[sourceCategory].splice(srcIdx, 1);
+
+          // Insert into target maintaining like_count desc order
+          const insertIdx = CATS[cat].findIndex(t => (t.like_count || 0) < (tweet.like_count || 0));
+          if (insertIdx === -1) {
+            CATS[cat].push(tweet);
+          } else {
+            CATS[cat].splice(insertIdx, 0, tweet);
+          }
+
+          // Update both drawer count labels
+          updateDrawerCount(sourceCategory);
+          updateDrawerCount(cat);
+
+          // Re-render if the source category is currently open
+          if (currentCat === sourceCategory) {
+            if (CATS[sourceCategory].length === 0) {
+              // Source now empty — close panel
+              panel.classList.remove("visible");
+              document.getElementById("catPanelEmpty").style.display = "";
+              contentEl.style.display = "none";
+              currentCat = null;
+              cabinet.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
+            } else {
+              renderCards();
+            }
+          }
+        });
       });
 
       // ── Select a category ────────────────────────────────────────────────────
@@ -127,6 +193,50 @@
         slice.forEach(tweet => {
           const card = document.createElement("div");
           card.className = "cat-card";
+          card.setAttribute("draggable", "true");
+
+          card.addEventListener("dragstart", e => {
+            const rect = card.getBoundingClientRect();
+            const scale = 0.25;
+
+            // Small drag ghost: outer box at 1/4 size, inner clone scaled down
+            const ghost = document.createElement("div");
+            ghost.style.cssText = `position:fixed;top:-9999px;left:0;` +
+              `width:${rect.width * scale}px;height:${rect.height * scale}px;` +
+              `overflow:hidden;border-radius:6px;border-left:3px solid #C0392B;` +
+              `background:#F5F0E8;pointer-events:none;`;
+            const ghostInner = card.cloneNode(true);
+            ghostInner.style.cssText = `transform:scale(${scale});transform-origin:top left;` +
+              `width:${rect.width}px;height:${rect.height}px;`;
+            ghost.appendChild(ghostInner);
+            document.body.appendChild(ghost);
+            e.dataTransfer.setDragImage(ghost, rect.width * scale / 2, rect.height * scale / 2);
+
+            dragState = { tweetId: tweet.id, sourceCategory: currentCat, dropSucceeded: false };
+            e.dataTransfer.effectAllowed = "move";
+            e.dataTransfer.setData("text/plain", tweet.id);
+
+            setTimeout(() => {
+              document.body.removeChild(ghost);
+              // Collapse card height so next card slides up to fill its spot
+              card.style.height   = rect.height + "px";
+              card.style.overflow = "hidden";
+              card.getBoundingClientRect(); // force reflow before transition
+              card.style.transition = "height 0.25s ease, opacity 0.2s ease, padding 0.25s ease";
+              card.style.height   = "0";
+              card.style.opacity  = "0";
+              card.style.padding  = "0";
+            }, 0);
+          });
+
+          card.addEventListener("dragend", () => {
+            cabinet.querySelectorAll(".drawer").forEach(d => d.classList.remove("drag-over"));
+            if (dragState && !dragState.dropSucceeded) {
+              // Dropped outside any valid target — restore by re-rendering from unchanged CATS
+              renderCards();
+            }
+            dragState = null;
+          });
 
           // Author line
           const author = document.createElement("div");

@@ -75,6 +75,14 @@ Each non-index page has a `← Calendar` back link as `position: absolute; top: 
 - Cabinet drawers are all uniform `linear-gradient(135deg, #8B5E3C, #6B3E1C)` — do NOT add nth-child color variations. Selected drawer shows orange overlay via `.drawer-inner { background: rgba(232, 120, 20, 0.55) }`.
 - Category cards show **2 per screen** (`height: calc((100vh - 8rem) / 2)`). Card layout is a flex column: author → text (natural height, scrolls if long) → media (`flex: 1`, fills remaining space, `height: 100%` on img/video) → footer. Do not add `flex: 1` to `.cat-card-text` or fixed heights to `.cat-card-images`.
 
+## Category Drag-and-Drop Pattern (categories.html)
+Cards can be dragged from the right panel onto a different drawer to refile a tweet. Key implementation details:
+- `dragState = { tweetId, sourceCategory, dropSucceeded }` is the shared state (scoped to `init()`)
+- `dragstart` builds a 1/4-size ghost with `setDragImage`, then collapses the card to `height:0` so the next card slides up — do NOT use `opacity` alone (keeps the space)
+- `dragend` with `dropSucceeded=false` restores by calling `renderCards()` — no need to un-collapse the DOM node, just re-render from unchanged `CATS`
+- Insertion into target always maintains `like_count` desc order (find first index where target tweet's count is lower, splice there)
+- Drag changes are **session-only** — `CATS` is mutated in memory; `categorize_bookmarks.py` resets everything
+
 ## JS Gotchas
 - `\uXXXX` escapes in JS template literals need exactly 4 hex digits — `\u2F` silently breaks, use `\u002F`.
 - All pages guard against missing data with `window.BOOKMARK_TWEETS || {}` etc.
