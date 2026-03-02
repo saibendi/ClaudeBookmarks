@@ -55,6 +55,8 @@ python3 categorize_bookmarks.py --reclassify            # force full re-categori
 ```
 `PYTHONUNBUFFERED=1` is required — without it the OAuth URL never appears.
 
+**Fetch window**: default is last 7 days (`since = now - timedelta(days=7)`). Fetcher paginates 100/page and stops early once a page has no tweets within the date window — so it typically takes 2–3 API calls for a weekly run. The 7-day window intentionally overlaps with the previous run so no bookmarks are missed.
+
 ## Visual Design System
 All pages share the same "wood desk" aesthetic:
 - **Background**: `linear-gradient(160deg, #D4A96A 0%, #8B5E3C 100%)`
@@ -94,6 +96,9 @@ Default behaviour (no flag): loads existing `categories.js`, extracts already-as
 All drawers are built by `buildDrawer(cat)` (returns DOM node, attaches all listeners). The `+` drawer is built by `createAddDrawer()` (appended last, never a drag target). Always read the live category name from `drawer.dataset.cat` — it gets updated on rename, so closure `cat` variables go stale.
 
 Initial drawers are built with `Object.keys(CATS).sort((a, b) => CATS[b].length - CATS[a].length)` — sorted by tweet count descending on every load. This is defensive: the in-memory CATS object key order can get scrambled by rename/add mutations (`CATS[newName] = ...; delete CATS[oldName]` appends the key at the end of the object), so sorting on build ensures correct order regardless of file state.
+
+### Closing the open drawer
+`deselectCategory()` removes `.open` from all drawers, hides the right panel, and resets `currentCat = null`. It is a no-op when nothing is open (`if (!currentCat) return`). Triggered by a `document` click listener added at the end of `init()`. Clicks inside `#catLayout` (cabinet + panel) call `e.stopPropagation()` so they never reach the document listener.
 
 ### Drag-and-drop — shared `dragState`
 `dragState` has a `type` field distinguishing card and drawer drags:
