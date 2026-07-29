@@ -178,6 +178,7 @@
               if (NEW_COUNTS[dateStr]) {
                 indicator.className = "new-badge";
                 indicator.textContent = `+${NEW_COUNTS[dateStr]}`;
+                tile.classList.add("tile-new");
               } else {
                 indicator.className = "seen-check";
                 indicator.textContent = "\u2713";
@@ -189,6 +190,13 @@
                 const snap = JSON.parse(localStorage.getItem('bookmark_snapshot') || '{}');
                 snap[dateStr] = BOOKMARK_DATA[dateStr];
                 localStorage.setItem('bookmark_snapshot', JSON.stringify(snap));
+                tile.classList.remove("tile-new");
+
+                // Save current tweet IDs so day.html can diff for new-tweet tinting
+                const TWEETS = window.BOOKMARK_TWEETS || {};
+                const daySnap = JSON.parse(localStorage.getItem('day_tweet_snapshot') || '{}');
+                daySnap[dateStr] = (TWEETS[dateStr] || []).map(t => t.id);
+                localStorage.setItem('day_tweet_snapshot', JSON.stringify(daySnap));
               });
             }
 

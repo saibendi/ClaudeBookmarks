@@ -75,6 +75,7 @@
       // ── Category notification snapshot (localStorage diff) ──────────────────────
       const _catSnap = JSON.parse(localStorage.getItem("category_snapshot") || "{}");
       const CAT_NOTIFS = {};  // catName → { type: "new-cat"|"new-tweets"|"seen", count? }
+      const seenThisSession = new Set();
       for (const [cat, tweets] of Object.entries(CATS)) {
         if (!(cat in _catSnap)) {
           CAT_NOTIFS[cat] = { type: "new-cat", count: tweets.length };
@@ -121,16 +122,24 @@
         document.querySelectorAll(".drawer").forEach(d => d.classList.remove("open"));
         clickedDrawer.classList.add("open");
         currentCat = cat;
+
+        const newTweetIds = new Set();
+        if (!seenThisSession.has(cat)) {
+          const prevIds = new Set(_catSnap[cat] || []);
+          (CATS[cat] || []).filter(t => !prevIds.has(t.id)).forEach(t => newTweetIds.add(t.id));
+        }
+        seenThisSession.add(cat);
+
         markCatSeen(cat, clickedDrawer);
         panel.classList.add("visible");
         document.getElementById("catPanelEmpty").style.display = "none";
         contentEl.style.display      = "flex";
         contentEl.style.flexDirection = "column";
-        renderCards();
+        renderCards(newTweetIds);
       }
 
       // ── Render all tweet cards ───────────────────────────────────────────────
-      function renderCards() {
+      function renderCards(newTweetIds = new Set()) {
         const tweets = CATS[currentCat] || [];
         cardsEl.innerHTML = "";
         cardsEl.scrollTop = 0;
@@ -138,6 +147,7 @@
         tweets.forEach(tweet => {
           const card = document.createElement("div");
           card.className = "cat-card";
+          if (newTweetIds.has(tweet.id)) card.classList.add("cat-card--new");
           card.setAttribute("draggable", "true");
 
           card.addEventListener("dragstart", e => {
@@ -332,6 +342,7 @@
 
         if (!notif || notif.type === "seen") {
           drawerEl.classList.remove("drawer-new");
+          drawerEl.classList.remove("drawer-new-tweets");
           if (badge) {
             badge.className = "drawer-badge drawer-badge--seen";
             badge.textContent = "\u2713";
@@ -347,6 +358,7 @@
           badge.className = "drawer-badge drawer-badge--new";
           badge.textContent = `+${notif.count}`;
           if (notif.type === "new-cat") drawerEl.classList.add("drawer-new");
+          else if (notif.type === "new-tweets") drawerEl.classList.add("drawer-new-tweets");
         }
       }
 
@@ -391,6 +403,7 @@
               badge.textContent = `+${notif.count}`;
               drawer.appendChild(badge);
               if (notif.type === "new-cat") drawer.classList.add("drawer-new");
+              else if (notif.type === "new-tweets") drawer.classList.add("drawer-new-tweets");
             } else if (notif.type === "seen") {
               const badge = document.createElement("div");
               badge.className = "drawer-badge drawer-badge--seen";

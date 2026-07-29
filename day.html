@@ -60,6 +60,13 @@
     const rawTweets = (dateStr && TWEETS[dateStr]) ? TWEETS[dateStr] : [];
     const tweets    = [...rawTweets].sort((a, b) => (b.like_count || 0) - (a.like_count || 0));
 
+    // ── New-tweet tinting: compare against day_tweet_snapshot ────────────────
+    // The snapshot is written by index.html's tile click handler before navigation,
+    // so _prevIds reflects what was seen before this fetch.
+    const _daySnap = JSON.parse(localStorage.getItem("day_tweet_snapshot") || "{}");
+    const _prevIds = new Set(_daySnap[dateStr] || []);
+    const newIds   = new Set(tweets.filter(t => !_prevIds.has(t.id)).map(t => t.id));
+
     const titleEl   = document.getElementById("dayTitle");
     const countEl   = document.getElementById("dayCount");
     const counterEl = document.getElementById("pageCounter");
@@ -73,6 +80,9 @@
 
     // ── Render one tweet into the front page ──────────────────────────────────
     function renderTweet(tweet) {
+      const isNew = newIds.has(tweet.id);
+      pageFront.classList.toggle("page--new", isNew);
+      if (isNew) newIds.delete(tweet.id); // clear tint on revisit
       pageFront.innerHTML = "";
 
       // Header: author + timestamp

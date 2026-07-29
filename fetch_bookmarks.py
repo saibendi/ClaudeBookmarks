@@ -19,6 +19,7 @@ import base64
 import hashlib
 import json
 import os
+import re
 import secrets
 import sys
 import time
@@ -290,6 +291,11 @@ def fetch_all_bookmarks(access_token, user_id, since=None):
             time.sleep(wait)
             continue
 
+        # ── 402: API tier limit hit — stop gracefully with what we have ───────
+        if resp.status_code == 402:
+            print(f"  API tier limit reached on page {page} — saving {len(all_tweets)} tweets fetched so far.")
+            break
+
         check_api_error(resp)
         resp.raise_for_status()
         body = resp.json()
@@ -407,6 +413,41 @@ def group_by_date(tweets, users_by_id, media_by_key):
     return dates, tweets_by_date
 
 
+# ── Merge with existing data.js ───────────────────────────────────────────────
+
+def load_existing_data():
+    """Load window.BOOKMARK_TWEETS from the current data.js, if present.
+    Returns {} if the file doesn't exist or can't be parsed."""
+    if not DATA_JS.exists():
+        return {}
+    try:
+        raw = DATA_JS.read_text(encoding="utf-8")
+        match = re.search(r"window\.BOOKMARK_TWEETS\s*=\s*(\{[\s\S]*?\});", raw)
+        if not match:
+            return {}
+        return json.loads(match.group(1))
+    except Exception:
+        return {}
+
+
+def merge_tweets_by_date(old_by_date, new_by_date):
+    """Merge newly-fetched tweets into existing tweets_by_date, deduping by tweet id.
+    New data wins on id conflicts (fresher like/bookmark counts). Existing tweets
+    outside the current fetch window are preserved rather than dropped.
+    Returns (merged_tweets_by_date, count_of_newly_added_tweets)."""
+    merged = {date: {t["id"]: t for t in tweets} for date, tweets in old_by_date.items()}
+
+    added = 0
+    for date, tweets in new_by_date.items():
+        bucket = merged.setdefault(date, {})
+        for t in tweets:
+            if t["id"] not in bucket:
+                added += 1
+            bucket[t["id"]] = t
+
+    return {date: list(id_map.values()) for date, id_map in merged.items()}, added
+
+
 # ── Write data.js ─────────────────────────────────────────────────────────────
 
 def write_data_js(dates, tweets_by_date):
@@ -471,7 +512,16 @@ def main():
     print(f"Total tweets fetched: {len(tweets)}")
 
     # Group
-    dates, tweets_by_date = group_by_date(tweets, users_by_id, media_by_key)
+    new_dates, new_tweets_by_date = group_by_date(tweets, users_by_id, media_by_key)
+
+    # Merge with whatever is already in data.js so this run doesn't wipe out
+    # bookmarks outside the current fetch window
+    existing_tweets_by_date = load_existing_data()
+    existing_total = sum(len(v) for v in existing_tweets_by_date.values())
+    tweets_by_date, added = merge_tweets_by_date(existing_tweets_by_date, new_tweets_by_date)
+    dates = {date: len(v) for date, v in tweets_by_date.items()}
+    print(f"\nMerged with existing data.js: {existing_total} previously stored, "
+          f"{added} new, {sum(dates.values())} total after merge.")
 
     # Write
     write_data_js(dates, tweets_by_date)

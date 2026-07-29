@@ -258,6 +258,13 @@ body.desk-view {
   color: var(--text-light);
 }
 
+.day-tile.tile-new {
+  background-color: rgba(192, 57, 43, 0.22);
+}
+.day-tile.tile-new.density-high {
+  background-color: rgba(192, 57, 43, 0.45);
+}
+
 /* ── Notification indicators ── */
 .new-badge {
   position: absolute;
@@ -467,6 +474,10 @@ body.day-view {
   display: flex;
   flex-direction: column;
   overflow-y: auto;
+}
+
+.page-front.page--new {
+  background-color: #EACBC2;
 }
 
 /* ── Slide animations ── */
@@ -881,6 +892,10 @@ body.categories-view {
   background: linear-gradient(135deg, #7A3030, #4A1A1A);
 }
 
+.drawer.drawer-new-tweets .drawer-front {
+  background: linear-gradient(135deg, #8B3A2A, #5A1F14);
+}
+
 /* ── Main layout: cabinet + panel ── */
 .cat-layout {
   display: flex;
@@ -1082,6 +1097,11 @@ body.categories-view {
   display: flex;
   flex-direction: column;
   overflow-y: auto;
+}
+
+.cat-card.cat-card--new {
+  border-left: 3px solid var(--header-red);
+  background: rgba(192, 57, 43, 0.07);
 }
 
 .cat-card[draggable="true"] { cursor: grab; }

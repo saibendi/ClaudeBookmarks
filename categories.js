@@ -80,6 +80,23 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-23"
     },
     {
+      "id": "2081009299346559054",
+      "text": "Watching short-form videos is associated with decreased cognition and increased anxiety. https://t.co/6QmQmjFwdJ",
+      "author_name": "Nicholas Fabiano, MD",
+      "author_handle": "@NTFabiano",
+      "created_at": "2026-07-25T13:30:54.000Z",
+      "url": "https://twitter.com/i/web/status/2081009299346559054",
+      "like_count": 9681,
+      "bookmark_count": 3863,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOE6nxDWwAEWhho.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
       "id": "2027146933136150867",
       "text": "This is the first AI cut.\nAnd it will send shockwaves.\n\nRemember: Jack is one of the greatest founders of all time. He created this platform that we’re all on, and has been early to many technological shifts. And Block was doing very well as a business.\n\nSo, for him to cut 40% of headcount in this way is a signal to everyone in tech: get good now. Become indispensable. Work nights and weekends. Learn the AI tools and raise your game. Or you might not make the cut, as an employee or as a company.\n\nI know. That sucks. But capitalism is natural selection. The market is unforgiving, because you are the market. After all, it’s not like you’re buying some random gallon of milk from the store; you’re always buying the best product at the best price.\n\nSo too for apps: your customers are always installing the best piece of code they can get. And because AI is going to create new winners, if you aren’t the best in your market, someone may become better with AI. Particularly with the new agentic workflows.\n\nTo be clear: Block’s severance is generous by any measure. 20 weeks of pay, six months of health insurance and vested equity, all of that goes far beyond any typical package. Jack did his level best to cushion the disruption. The laid off are a temporarily unfortunate class, as opposed to a permanent underclass.\n\nBut had he not leaned into the AI transition, he might have had to lay off more people, slowly, and over time, as faster competitors went after his market share.\n\nHow would they do that? Sure, AI isn’t a panacea by any means, but the closer you are to software engineering the more aggressively you need to embrace agentic workflows. The AI companies are already doing that, and places like Stripe, Shopify, Coinbase, and now Block are pushing hard on this area.\n\nThere will be overcorrection. But the fundamental technical innovation is real. And you need to either disrupt yourself or get disrupted.",
       "author_name": "Balaji",
@@ -879,6 +896,1537 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-27"
     }
   ],
+  "Lifestyle & Culture": [
+    {
+      "id": "2080002820040696171",
+      "text": "If we were two little snails I would reach over from my cherry to your cherry just to give you a kiss https://t.co/Xt38WavuVg",
+      "author_name": "mia",
+      "author_handle": "@httpsosweet",
+      "created_at": "2026-07-22T18:51:31.000Z",
+      "url": "https://twitter.com/i/web/status/2080002820040696171",
+      "like_count": 265595,
+      "bookmark_count": 17451,
+      "images": [],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2081740718393983405",
+      "text": "He’s not even lying 😭 https://t.co/KC4TUkCFo1 https://t.co/7FdBZR8RU8",
+      "author_name": "𝐄𝐑",
+      "author_handle": "@ErlingRoIe",
+      "created_at": "2026-07-27T13:57:18.000Z",
+      "url": "https://twitter.com/i/web/status/2081740718393983405",
+      "like_count": 197199,
+      "bookmark_count": 8285,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOPUJgyXMAAwIKL.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-27"
+    },
+    {
+      "id": "2080677090744266770",
+      "text": "out. This is my last decision. I’m not going for money. I’m not going for family. What am I really playing for at this point? \n\nI still want to sacrifice. I still want to work. I still want to grind. I still want to compete, to win and to have a chance at the feeling of winning",
+      "author_name": "LeBron James",
+      "author_handle": "@KingJames",
+      "created_at": "2026-07-24T15:30:50.000Z",
+      "url": "https://twitter.com/i/web/status/2080677090744266770",
+      "like_count": 107136,
+      "bookmark_count": 1854,
+      "images": [],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2081545881828905325",
+      "text": "https://t.co/USbw4qwlav https://t.co/gcZwM2vLxr",
+      "author_name": "Rune",
+      "author_handle": "@RuneCrypto_",
+      "created_at": "2026-07-27T01:03:06.000Z",
+      "url": "https://twitter.com/i/web/status/2081545881828905325",
+      "like_count": 68880,
+      "bookmark_count": 4606,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O0WYAAKacb.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O0WMAIo22c.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O1WEAEqXLR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O3WkAAcXdl.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2080045751741137069",
+      "text": "Subway https://t.co/zmh78nCzsd",
+      "author_name": "Gitana",
+      "author_handle": "@Gitana1369877",
+      "created_at": "2026-07-22T21:42:07.000Z",
+      "url": "https://twitter.com/i/web/status/2080045751741137069",
+      "like_count": 62952,
+      "bookmark_count": 2084,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN3OleWWgAEUIF_.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2080330498401055027",
+      "text": "https://t.co/HJlalRdpAO",
+      "author_name": "Cine Vichaar",
+      "author_handle": "@Cine_vichaar",
+      "created_at": "2026-07-23T16:33:36.000Z",
+      "url": "https://twitter.com/i/web/status/2080330498401055027",
+      "like_count": 46569,
+      "bookmark_count": 5207,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN7RjXpbMAQIsgU.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081838991028924876",
+      "text": "I’ve always maintained that this is genuinely a sign of intelligence, if not genius https://t.co/6TJVFkCDuP",
+      "author_name": "Grace Cathedral Park",
+      "author_handle": "@gracecthdralprk",
+      "created_at": "2026-07-27T20:27:48.000Z",
+      "url": "https://twitter.com/i/web/status/2081838991028924876",
+      "like_count": 43728,
+      "bookmark_count": 3581,
+      "images": [],
+      "_date": "2026-07-27"
+    },
+    {
+      "id": "2080036080590397857",
+      "text": "words can’t describe how much i love this video https://t.co/htrWponHpn https://t.co/ApjKgSEWik",
+      "author_name": "Hammillionaire",
+      "author_handle": "@Hammilionaire",
+      "created_at": "2026-07-22T21:03:41.000Z",
+      "url": "https://twitter.com/i/web/status/2080036080590397857",
+      "like_count": 42265,
+      "bookmark_count": 13621,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2079565704937021440/img/Erz5PnUOA-JEE7EL.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2079565704937021440/vid/avc1/576x1024/XhdJtB-32QGWNraH.mp4"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2081103509743686092",
+      "text": "Hava bir anda şundan oldu https://t.co/fps3ItOVZS",
+      "author_name": "ömer",
+      "author_handle": "@feanoroglu",
+      "created_at": "2026-07-25T19:45:16.000Z",
+      "url": "https://twitter.com/i/web/status/2081103509743686092",
+      "like_count": 31855,
+      "bookmark_count": 7556,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081103490433044480/img/QvsAe5fyhu4m36Rb.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081103490433044480/vid/avc1/952x718/7bmOxt3xCAdlNAap.mp4"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081029985893052425",
+      "text": "Major cheat code for life: Always assume things will work out, then do the work to make it true. It’s a mindset of active optimism. Earned faith. It creates a quiet confidence that allows you to tolerate the uncertainty of life better than anything else.",
+      "author_name": "Sahil Bloom",
+      "author_handle": "@SahilBloom",
+      "created_at": "2026-07-25T14:53:06.000Z",
+      "url": "https://twitter.com/i/web/status/2081029985893052425",
+      "like_count": 27559,
+      "bookmark_count": 7101,
+      "images": [],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2026449047163179449",
+      "text": "This is why shy introverts &amp; low agency people have worse outcomes in life. So simple, yet most wouldn’t do this bc they’d have talked themselves out of asking &amp; made up reasons why it wouldn’t work.\n\nAudacity compounds like this in so many invisible ways. Most rules are illusory https://t.co/0igIOZIaJb",
+      "author_name": "BONESAW 🕊️",
+      "author_handle": "@BonesawMD",
+      "created_at": "2026-02-25T00:07:57.000Z",
+      "url": "https://twitter.com/i/web/status/2026449047163179449",
+      "like_count": 16493,
+      "bookmark_count": 5766,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027713819267551402",
+      "text": "\"The art of doing absolutely nothing, together.\" https://t.co/xSrCHVuKs5",
+      "author_name": "𝓅𝑜𝓋𝓂𝑒𝓂𝑜𝓇𝓎",
+      "author_handle": "@povmemory",
+      "created_at": "2026-02-28T11:53:42.000Z",
+      "url": "https://twitter.com/i/web/status/2027713819267551402",
+      "like_count": 15308,
+      "bookmark_count": 1035,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPi-JUXwAApFf8.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025620859315237319",
+      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
+      "author_name": "Jim",
+      "author_handle": "@Cackalacman",
+      "created_at": "2026-02-22T17:17:01.000Z",
+      "url": "https://twitter.com/i/web/status/2025620859315237319",
+      "like_count": 14151,
+      "bookmark_count": 1632,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2080681902688678398",
+      "text": "Top 5 most American photo of all time. https://t.co/GFio5f61RX https://t.co/BTdf8VxA47",
+      "author_name": "YIMBYLAND",
+      "author_handle": "@YIMBYLAND",
+      "created_at": "2026-07-24T15:49:57.000Z",
+      "url": "https://twitter.com/i/web/status/2080681902688678398",
+      "like_count": 12752,
+      "bookmark_count": 1121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOARKeFXcAA-qSK.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2025484522352156812",
+      "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
+      "author_name": "Ananya",
+      "author_handle": "@uff_meri_adaa",
+      "created_at": "2026-02-22T08:15:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025484522352156812",
+      "like_count": 11754,
+      "bookmark_count": 1238,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2080303525674795203",
+      "text": "He’s the perfect distillation of all Zoomer foid’s desires: Tall, handsome, Ivy League educated, works in finance, non-problematically ethnically ambiguous but still white-presenting, and from old family money (“Croonenberghs” mhm, dropped your Von a few generations ago pal). https://t.co/vJn4qDDsHW",
+      "author_name": "Shrimp Billionaire",
+      "author_handle": "@fentanylbrownie",
+      "created_at": "2026-07-23T14:46:25.000Z",
+      "url": "https://twitter.com/i/web/status/2080303525674795203",
+      "like_count": 10081,
+      "bookmark_count": 2239,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2026125293149163694",
+      "text": "https://t.co/BH00Vpy4WF",
+      "author_name": "The Kobeissi Letter",
+      "author_handle": "@KobeissiLetter",
+      "created_at": "2026-02-24T02:41:28.000Z",
+      "url": "https://twitter.com/i/web/status/2026125293149163694",
+      "like_count": 8899,
+      "bookmark_count": 18283,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2081466061010898976",
+      "text": "Cooking for yourself is where you find out if you actually give a shit about your own life. because nobody is watching, nobody will know, nobody will thank you, and it still takes time and attention. and if you cannot do this one small thing for yourself, then everything else you claim is probably a lie",
+      "author_name": "🕊️",
+      "author_handle": "@lichthauch",
+      "created_at": "2026-07-26T19:45:55.000Z",
+      "url": "https://twitter.com/i/web/status/2081466061010898976",
+      "like_count": 8664,
+      "bookmark_count": 1551,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2028026419603796311",
+      "text": "The dream &gt;&gt;&gt; https://t.co/yJyHdnFHYI",
+      "author_name": "femmenotes",
+      "author_handle": "@femmenote",
+      "created_at": "2026-03-01T08:35:51.000Z",
+      "url": "https://twitter.com/i/web/status/2028026419603796311",
+      "like_count": 7986,
+      "bookmark_count": 458,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCT_Ro8WYAAAaJA.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2025542084443382191",
+      "text": "Slowmaxxing is my new favorite thing to think about\n\n- Read a physical book\n- Go for a walk w/o listening to a podcast\n- Eat food w/o watching a tv show\n- Write using a pen and paper\n- Get a pot plant or 10; tend to a garden\n- Work hard on a single task\n- Watch a movie w/o looking at your phone\n\n2026 is the year of being slow",
+      "author_name": "Your Best Version",
+      "author_handle": "@YourPrimePath",
+      "created_at": "2026-02-22T12:04:00.000Z",
+      "url": "https://twitter.com/i/web/status/2025542084443382191",
+      "like_count": 6694,
+      "bookmark_count": 2086,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2025799591199969635",
+      "text": "Most people will read this and think optimists live longer because they eat better and exercise more. The study says something wilder.\n\nLee et al. controlled for smoking, diet, exercise, alcohol, depression, BMI, and socioeconomic status. The longevity effect still held. The most optimistic quartile lived 11 to 15% longer and had 1.5 to 1.7x odds of reaching 85 even after removing every behavioral difference.\n\nWhich means something is happening at the level of biology, not just habits.\n\nRozanski’s meta-analysis across 229,391 participants found optimists carry 35% lower cardiovascular event risk. Blackburn’s Nobel Prize-winning lab at UCSF found pessimistic attitudes are associated with accelerated telomere shortening. Cortisol suppresses telomerase, the enzyme that rebuilds the protective caps on your chromosomes. So chronic negative expectation literally erodes the structures that keep your cells from aging.\n\nThe loop runs: pessimistic cognitive style → sustained HPA axis activation → elevated cortisol → telomere degradation → accelerated cellular senescence. Optimists interrupt that loop at the top. They show less emotional reactivity to stressors, faster recovery from acute stress, and they default to reframing threats as challenges rather than catastrophizing.\n\nThe part nobody talks about from this paper: the authors explicitly state optimism is modifiable. This isn’t a personality trait you’re born with. Cognitive reappraisal training, morning sunlight for cortisol rhythm regulation, deliberate breathing protocols for vagal tone, structured gratitude practices. All of these shift the prefrontal cortex patterns that determine where you sit on the optimism spectrum.\n\nA 35% reduction in cardiac events from a trainable psychological variable is a bigger effect size than most supplements on the market. That’s the real story buried in this abstract.",
+      "author_name": "Aakash Gupta",
+      "author_handle": "@aakashgupta",
+      "created_at": "2026-02-23T05:07:14.000Z",
+      "url": "https://twitter.com/i/web/status/2025799591199969635",
+      "like_count": 6550,
+      "bookmark_count": 5510,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2080190890476486751",
+      "text": "🤣🤣🤣 https://t.co/4qSRMREVI2",
+      "author_name": "అతడు",
+      "author_handle": "@vinays_369",
+      "created_at": "2026-07-23T07:18:51.000Z",
+      "url": "https://twitter.com/i/web/status/2080190890476486751",
+      "like_count": 6270,
+      "bookmark_count": 546,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN5SlOObAAA7uML.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2027892491522134053",
+      "text": "as it was foretold https://t.co/ROFdZomBxL https://t.co/tDacnuCqLZ",
+      "author_name": "Visakan Veerasamy",
+      "author_handle": "@visakanv",
+      "created_at": "2026-02-28T23:43:41.000Z",
+      "url": "https://twitter.com/i/web/status/2027892491522134053",
+      "like_count": 6106,
+      "bookmark_count": 1214,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCSFLokbAAAHuqw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028118798893486192",
+      "text": "Act accordingly this summer https://t.co/XVaZyoQYK5",
+      "author_name": "Nationalist",
+      "author_handle": "@euronationalizt",
+      "created_at": "2026-03-01T14:42:56.000Z",
+      "url": "https://twitter.com/i/web/status/2028118798893486192",
+      "like_count": 5842,
+      "bookmark_count": 1391,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCVTTA0XgAIAJWq.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027997679012217151",
+      "text": "Goals https://t.co/frtzdDlVS4",
+      "author_name": "𝐒𝐜𝐫𝐨𝐥𝐥 𝐩𝐢𝐜𝐬",
+      "author_handle": "@scrollpics",
+      "created_at": "2026-03-01T06:41:39.000Z",
+      "url": "https://twitter.com/i/web/status/2027997679012217151",
+      "like_count": 5818,
+      "bookmark_count": 444,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTlJE4W4AAHuah.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026563128373494268",
+      "text": "This is probably one of the most painful truths I've learned in life.\n\nFor probably a decade I thought my lack of discipline and focus was something innate—bad wiring, bad genes, \"ADHD\", etc. and that I would never achieve my goals because I was \"broken\".\n\nBut then for whatever reason I just decided to try getting better at them. Do the thing I don't want to do, keep working on the thing when I want to stop, etc. Not all the time. Not burning myself out. just making the slightly less pleasant choice a few times per day. \n\nI \"magically\" went from 20th percentile levels of discipline and focus to at least 80th percentile. Turns out it's just a skill like everything else and all I needed was a little practice.",
+      "author_name": "Max",
+      "author_handle": "@minordissent",
+      "created_at": "2026-02-25T07:41:16.000Z",
+      "url": "https://twitter.com/i/web/status/2026563128373494268",
+      "like_count": 5652,
+      "bookmark_count": 3164,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2079950908478075387",
+      "text": "https://t.co/XsrolqcaLK",
+      "author_name": "Hellenic History",
+      "author_handle": "@HellenicHist0ry",
+      "created_at": "2026-07-22T15:25:14.000Z",
+      "url": "https://twitter.com/i/web/status/2079950908478075387",
+      "like_count": 5409,
+      "bookmark_count": 297,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN14U8RXcAANnKW.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2026308962715660400",
+      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
+      "author_name": "Jeremy Carl",
+      "author_handle": "@realJeremyCarl",
+      "created_at": "2026-02-24T14:51:18.000Z",
+      "url": "https://twitter.com/i/web/status/2026308962715660400",
+      "like_count": 5388,
+      "bookmark_count": 625,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2081088258306392239",
+      "text": "My final dating take is you either marry your college sweetheart and ride off into the sunset or you spend your 20s searching for the perfect puzzle piece that fits you and hopefully you get lucky.",
+      "author_name": "saila",
+      "author_handle": "@sailaunderscore",
+      "created_at": "2026-07-25T18:44:40.000Z",
+      "url": "https://twitter.com/i/web/status/2081088258306392239",
+      "like_count": 4625,
+      "bookmark_count": 495,
+      "images": [],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2025924270673592406",
+      "text": "the normie mind cannot comprehend the fulfillment of a life characterized by long, intense bursts of hard work under the influence of obscure stimulants followed by a few unplanned weeks of leisure beyond their wildest imaginations. lukewarm is comfort, but intensity feeds the soul",
+      "author_name": "BasedBiohacker",
+      "author_handle": "@BasedBiohacker",
+      "created_at": "2026-02-23T13:22:40.000Z",
+      "url": "https://twitter.com/i/web/status/2025924270673592406",
+      "like_count": 2809,
+      "bookmark_count": 1038,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB2HFF_WIAALrP_.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2HPqRWwAAEW5F.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025495168351441382",
+      "text": "When we endure long periods of inactivity, the experienced time is heavy, slow, and boring. But because nothing novel or meaningful occurs, our brain records no new data. Therefore, the remembered time shrinks to almost nothing. We lived through a massive stretch of time, but retrospectively, it vanishes. Each individual moment of waiting or doing nothing may have felt like a drag, but the problem is that such larger extents of time are almost reduced to nothing when we introspect. The time was spent, but we have nothing to show for it. \n\nConversely, when we are active and enjoying ourselves, the experienced time flies by. Yet, because we are laying down a dense track of new memories, the remembered time expands. Looking back, that brief, fast period feels rich, substantial, and long.\n\nUltimately, our perception of how much time we have lived is at the mercy of our memory. If nothing happens, the time essentially did not exist.\n\nThomas Mann discusses this phenomenon in depth in his book, The Magic Mountain. One of my favorite passages from the book:\n\n\"Vacuity, monotony, have, indeed, the property of lingering out  the moment and the hour and of making them tiresome. But they  are capable of contracting and dissipating the larger, the very large \ntime-units, to the point of reducing them to nothing at all. And  conversely, a full and interesting content can put wings to the  hour and the day; yet it will lend to the general passage of time a  weightiness, a breadth and solidity which cause the eventful years  to flow far more slowly than those poor, bare, empty ones over \nwhich the wind passes and they are gone. \n\nThus what we call tedium is rather an abnormal shortening of the time consequent  upon monotony. Great spaces of time passed in unbroken uniformity tend to shrink together in a way to make the heart stop beating for fear; when one day is like all the others, then they are \nall like one; complete uniformity would make the longest life seem short, and as though it had stolen away from us unawares.\"",
+      "author_name": "PS",
+      "author_handle": "@dostoevesque",
+      "created_at": "2026-02-22T08:57:34.000Z",
+      "url": "https://twitter.com/i/web/status/2025495168351441382",
+      "like_count": 2324,
+      "bookmark_count": 1435,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2081401438547382765",
+      "text": "The Canteloupe rule https://t.co/M02EzHg8Xh",
+      "author_name": "HANS LOREI",
+      "author_handle": "@hanslorei",
+      "created_at": "2026-07-26T15:29:08.000Z",
+      "url": "https://twitter.com/i/web/status/2081401438547382765",
+      "like_count": 2123,
+      "bookmark_count": 1540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081401386064035840/img/xlGLJclYjaxwC-xH.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081401386064035840/vid/avc1/1080x1920/I208wQDpXuwo-4UW.mp4"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2028100594750165212",
+      "text": "https://t.co/wn7k7WpgUR",
+      "author_name": "Artzchillect",
+      "author_handle": "@Artzchillect",
+      "created_at": "2026-03-01T13:30:36.000Z",
+      "url": "https://twitter.com/i/web/status/2028100594750165212",
+      "like_count": 1660,
+      "bookmark_count": 77,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCVCvXxboAAi3lv.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028056149912629399",
+      "text": "https://t.co/txcYholE9j",
+      "author_name": "Ayesha",
+      "author_handle": "@ayeshatravel",
+      "created_at": "2026-03-01T10:34:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028056149912629399",
+      "like_count": 1607,
+      "bookmark_count": 100,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQgKliaQAAAVz0.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027537304319914483",
+      "text": "Never let them know ur next move https://t.co/o7X69d6foX",
+      "author_name": "lemón",
+      "author_handle": "@cigarettesummer",
+      "created_at": "2026-02-28T00:12:17.000Z",
+      "url": "https://twitter.com/i/web/status/2027537304319914483",
+      "like_count": 1597,
+      "bookmark_count": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCNCbjYWYAITq1R.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028086852482138352",
+      "text": "never be fat https://t.co/ggFWgDM9ts",
+      "author_name": "Gentlemen's Aesthetics",
+      "author_handle": "@Gmen_Aesthetics",
+      "created_at": "2026-03-01T12:36:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028086852482138352",
+      "like_count": 1508,
+      "bookmark_count": 109,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTWKJYbEAIDcKj.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2026156573936976082",
+      "text": "Never met a single interesting person who had any sort of “balance” in their life. Tip the scale. All the way. Throw caution to the wind. Sink or swim. Take massive swings. Leap into the abyss. Stay up nights. If you’re going to “fail” then fail miserably and spectacularly. Get up and try again. See how far you can go. Go even further. Give them something to talk about. Give yourself something to talk about. Give a damn. Make it worth your while. \n\nLife really is all or nothing.",
+      "author_name": "rachel",
+      "author_handle": "@rachcorrine",
+      "created_at": "2026-02-24T04:45:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026156573936976082",
+      "like_count": 1424,
+      "bookmark_count": 447,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2025768860805476412",
+      "text": "How much do you need to make to live an \"upper middle class\" lifestyle in a major city?\n\nIndia: ₹1.9-4.1cr/yr ($210k-$450k/yr)\nUS: $670k-$1.4M/yr\n\nThe bar has never been higher.\n\nAssumes:\n–Household income\n–Own a 4bed house\n–2 kids + private school + US college\n–1 intl trip/yr https://t.co/od3V9bTE8n",
+      "author_name": "Deedy",
+      "author_handle": "@deedydas",
+      "created_at": "2026-02-23T03:05:08.000Z",
+      "url": "https://twitter.com/i/web/status/2025768860805476412",
+      "like_count": 1207,
+      "bookmark_count": 1193,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBz6CvSaUAAWt21.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2028171638249001397",
+      "text": "Rate this Setup https://t.co/z7kGJCeTVd",
+      "author_name": "Minimaldex",
+      "author_handle": "@Minimaldex",
+      "created_at": "2026-03-01T18:12:54.000Z",
+      "url": "https://twitter.com/i/web/status/2028171638249001397",
+      "like_count": 1126,
+      "bookmark_count": 153,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCWDW2ebQAEXdNt.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028096920246177928",
+      "text": "part of my soul longs for this aesthetic https://t.co/7gjfRt59hJ",
+      "author_name": "𝓟𝓻𝓪𝓲𝓼𝓮 🕷️",
+      "author_handle": "@tufpraise",
+      "created_at": "2026-03-01T13:16:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028096920246177928",
+      "like_count": 1036,
+      "bookmark_count": 230,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X0ZWwAA_UPH.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X00XYAESqme.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X02WEAApAK-.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X0aWYAEXrcG.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2080743664070861212",
+      "text": "does he pull off the receding hairline because he's blonde? how does he do it? https://t.co/RKAe0L8Hty",
+      "author_name": "henry",
+      "author_handle": "@trappedkrinkle",
+      "created_at": "2026-07-24T19:55:22.000Z",
+      "url": "https://twitter.com/i/web/status/2080743664070861212",
+      "like_count": 1026,
+      "bookmark_count": 148,
+      "images": [],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2027690763799130389",
+      "text": "\"Parisian rooftops and wine-stained conversations” https://t.co/INwyUsSOga",
+      "author_name": "Gitana",
+      "author_handle": "@Gitana1369877",
+      "created_at": "2026-02-28T10:22:05.000Z",
+      "url": "https://twitter.com/i/web/status/2027690763799130389",
+      "like_count": 796,
+      "bookmark_count": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPOAKoXcAA1zZh.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028090447915089970",
+      "text": "https://t.co/WTh05JlqGc",
+      "author_name": "𝒆𝒍𝒚𝒓𝒂",
+      "author_handle": "@elyradream",
+      "created_at": "2026-03-01T12:50:17.000Z",
+      "url": "https://twitter.com/i/web/status/2028090447915089970",
+      "like_count": 499,
+      "bookmark_count": 46,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2028090419058180096/pu/img/Ek8EaisAYNFT7-zf.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2028090419058180096/pu/vid/avc1/720x1278/SBv2IdiqtFZv3RRj.mp4"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028010551394373821",
+      "text": "March📅\n#desksetup https://t.co/02DrAxBU2p",
+      "author_name": "たついち| ミニメモ！",
+      "author_handle": "@4YIns",
+      "created_at": "2026-03-01T07:32:48.000Z",
+      "url": "https://twitter.com/i/web/status/2028010551394373821",
+      "like_count": 376,
+      "bookmark_count": 74,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsYwbEAMdbpe.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsY1boAA2jLZ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsY4bEAUgxqr.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsY2bsAAHK4s.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026973227155919191",
+      "text": "Your highest creative expression is a dance between concentrated focus and expanded consciousness.\n\nGo to a rave solo. Smoke a joint. Let yourself get loose and dance for hours. New ideas and downloads will come through from the expanded state. Write these down. You’ll use the later.\n\nThen, go to the completely opposite end of the spectrum. Sit down at your computer the next day and organize everything that came through. Send the messages. Finish the article. Bring the project to completion. \n\nYou turn ideas into finished products by sitting down, narrowing your consciousness, and doing the work.\n\nMost people exist in only one of these two camps. \n\nSome only smoke weed, go to raves, or get downloads in meditation. But they never bring anything into material reality because they won’t narrow their consciousness into linear work.\n\nOthers only sit at the computer for 12 hours a day and never expand their mind or access new frequencies with seemingly strange or unproductive activities - and so their ideas stall out and they never create anything new.\n\nYou will be most creative in expanded states of consciousness. You will be most productive in narrowed states of consciousness. If you want to maximize your creative potential, you need both.\n\nLet loose yourself get loose. Then, sit down and do the work. \n\nAnd most importantly, whatever you do, do it fully.",
+      "author_name": "Jack Moses",
+      "author_handle": "@jackmoses0",
+      "created_at": "2026-02-26T10:50:51.000Z",
+      "url": "https://twitter.com/i/web/status/2026973227155919191",
+      "like_count": 272,
+      "bookmark_count": 146,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2028073502830645348",
+      "text": "Orange Lamps🧡\n#desksetup https://t.co/BjI4ARRQqE",
+      "author_name": "ぶらっく",
+      "author_handle": "@XxCode_BlackxX",
+      "created_at": "2026-03-01T11:42:57.000Z",
+      "url": "https://twitter.com/i/web/status/2028073502830645348",
+      "like_count": 254,
+      "bookmark_count": 17,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCUpwr6b0AAsWBp.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028263013032345868",
+      "text": "https://t.co/hcO3VkEXPv",
+      "author_name": "Spacesthetic",
+      "author_handle": "@interiorsuckerr",
+      "created_at": "2026-03-02T00:16:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028263013032345868",
+      "like_count": 219,
+      "bookmark_count": 43,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB7sGn0bMAAU7mF.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB7sHjjagAAewON.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB7sIC3aYAAkfUL.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB7sIf8bEAAsb4n.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2025913540746330545",
+      "text": "8. The Therapist's Final Prescription: Reverse the Shifts Intentionally.\n\nShe said the couples who stay passionate are the ones who consciously reverse these shifts. They keep pursuing. They keep growing so they remain interesting. \n\nThey protect time for lover conversations, not just logistics. They stay vulnerable. They practice daily gratitude. They maintain their polarities. They put the screens down and actually look at each other. Passion is not a mystery. It is a practice. \n\nThe couples who stay passionate are not luckier. They are more intentional.",
+      "author_name": "Helen Casanova | Seduction Palace",
+      "author_handle": "@HelenCasanova_",
+      "created_at": "2026-02-23T12:40:02.000Z",
+      "url": "https://twitter.com/i/web/status/2025913540746330545",
+      "like_count": 188,
+      "bookmark_count": 171,
+      "images": [],
+      "_date": "2026-02-23"
+    }
+  ],
+  "Movies": [
+    {
+      "id": "2080073426283237886",
+      "text": "This movie makes me yearn for the age of DVD behind the scenes extras https://t.co/aJMdwUIcKA",
+      "author_name": "Dylan",
+      "author_handle": "@DudeSkipper",
+      "created_at": "2026-07-22T23:32:05.000Z",
+      "url": "https://twitter.com/i/web/status/2080073426283237886",
+      "like_count": 117599,
+      "bookmark_count": 2458,
+      "images": [],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2080502741890105763",
+      "text": "Exemplo didático de uma carreira  que foi arruinada (criativamente) pela falta do uso de droga. https://t.co/ICJ8oOsyQ2",
+      "author_name": "Gabinete de Produtividade ltda.",
+      "author_handle": "@gabinete_ltda",
+      "created_at": "2026-07-24T03:58:02.000Z",
+      "url": "https://twitter.com/i/web/status/2080502741890105763",
+      "like_count": 88695,
+      "bookmark_count": 4148,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081303144491839711",
+      "text": "You can tell something inside him broke when The Nice Guys and Blade Runner 2049 flopped https://t.co/7i09IKaEjJ",
+      "author_name": "☀️AliquisNovus☀️",
+      "author_handle": "@PalmyrPar",
+      "created_at": "2026-07-26T08:58:33.000Z",
+      "url": "https://twitter.com/i/web/status/2081303144491839711",
+      "like_count": 49642,
+      "bookmark_count": 2431,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2080081101259788614",
+      "text": "i miss when letterboxd was actual reviews https://t.co/DX9F7yM5N6",
+      "author_name": "maddox 🦇",
+      "author_handle": "@selinasboot",
+      "created_at": "2026-07-23T00:02:35.000Z",
+      "url": "https://twitter.com/i/web/status/2080081101259788614",
+      "like_count": 44642,
+      "bookmark_count": 1801,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN3uvHcW4AAFnbO.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2081507336519086177",
+      "text": "the best 8.5 minutes ever shot with IMAX cameras.\n\npresented in its original 1.43 expanded ratio. https://t.co/kb26JAv5Ea",
+      "author_name": "patrick.",
+      "author_handle": "@imPatrickT",
+      "created_at": "2026-07-26T22:29:56.000Z",
+      "url": "https://twitter.com/i/web/status/2081507336519086177",
+      "like_count": 41699,
+      "bookmark_count": 17438,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081501616205627393/img/O1BlDrY29ykhJSUj.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081501616205627393/vid/avc1/1920x1080/rqXJsqKA9YGviub-.mp4"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2081139912414544296",
+      "text": "mogged that blade runner trailer my god https://t.co/wZh9GMUfkp",
+      "author_name": "Neb | 🏳️‍🌈",
+      "author_handle": "@NebsGoodTakes",
+      "created_at": "2026-07-25T22:09:55.000Z",
+      "url": "https://twitter.com/i/web/status/2081139912414544296",
+      "like_count": 27386,
+      "bookmark_count": 5044,
+      "images": [],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081193403220382092",
+      "text": "how many times is Ryan Gosling gonna play a stunt driver with a cool jacket",
+      "author_name": "carly 🚀🍂",
+      "author_handle": "@narliebirds",
+      "created_at": "2026-07-26T01:42:28.000Z",
+      "url": "https://twitter.com/i/web/status/2081193403220382092",
+      "like_count": 26550,
+      "bookmark_count": 421,
+      "images": [],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2080058305343619553",
+      "text": "Matt Damon says he accepted Christopher Nolan’s next movie before Nolan even told him it was The Odyssey\n\n“About 15 minutes into the call, he said, ‘I’m thinking of going back to work, and I’d like to offer you the central role’ So I just said yes right away”\n\n“He goes, ‘Don’t you want to hear what it is?’ I was like, sure”\n\n“It’s a two word pitch: The Odyssey. My heart skipped a beat. It’s the role of a lifetime”",
+      "author_name": "Yonan",
+      "author_handle": "@yonann",
+      "created_at": "2026-07-22T22:32:00.000Z",
+      "url": "https://twitter.com/i/web/status/2080058305343619553",
+      "like_count": 22305,
+      "bookmark_count": 887,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080031525278457856/img/WlqbO22VLsRDb7IQ.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2080031525278457856/vid/avc1/1920x1080/maYSFvjXBN6_-xsy.mp4"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2080465444637430200",
+      "text": "Nolan is lowkey right tho https://t.co/04kllu7LeS",
+      "author_name": "Punch Drunk Luke",
+      "author_handle": "@WwwLukethoughts",
+      "created_at": "2026-07-24T01:29:49.000Z",
+      "url": "https://twitter.com/i/web/status/2080465444637430200",
+      "like_count": 20101,
+      "bookmark_count": 337,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080010317078401304",
+      "text": "Matt Damon's highest-rated films on Rotten Tomatoes 🍅 https://t.co/xIRG3GJEdp",
+      "author_name": "Culture Crave 🍿",
+      "author_handle": "@CultureCrave",
+      "created_at": "2026-07-22T19:21:18.000Z",
+      "url": "https://twitter.com/i/web/status/2080010317078401304",
+      "like_count": 19358,
+      "bookmark_count": 3282,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN2uJ_UaAAEWSxS.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2080286189769118089",
+      "text": "1st hour of this film is the most beautiful montage ever\n\n2nd hour of this film is the most tense and dramatic flick ever\n\n3rd hour of this film is a courtroom drama on the level of 12 Angry men \n\nGenuinely in awe about this film for 3 years now https://t.co/6Mb1OkfZa7",
+      "author_name": "𝐣𝐢𝐝𝐝𝐚 #GraciasLeo",
+      "author_handle": "@notheclann",
+      "created_at": "2026-07-23T13:37:32.000Z",
+      "url": "https://twitter.com/i/web/status/2080286189769118089",
+      "like_count": 18844,
+      "bookmark_count": 1801,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081047726306017354",
+      "text": "Ludwig Göransson 🛐 https://t.co/nYYvMDVixc",
+      "author_name": "koreanoli",
+      "author_handle": "@koreanoli",
+      "created_at": "2026-07-25T16:03:36.000Z",
+      "url": "https://twitter.com/i/web/status/2081047726306017354",
+      "like_count": 18813,
+      "bookmark_count": 4562,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081047582202331136/img/h5jlmxq0ScDz-BzH.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081047582202331136/vid/avc1/1080x1080/-ZTJH-hgxiQ7C0V6.mp4"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2080463967714185439",
+      "text": "What I learned from this chart is that Dolby Vision needs better marketing. https://t.co/3iS55BP9f5",
+      "author_name": "Michael J. Miraflor",
+      "author_handle": "@michaelmiraflor",
+      "created_at": "2026-07-24T01:23:57.000Z",
+      "url": "https://twitter.com/i/web/status/2080463967714185439",
+      "like_count": 16039,
+      "bookmark_count": 1919,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081756594862502198",
+      "text": "#SpiderManBrandNewDay https://t.co/NcIdeeNRrk",
+      "author_name": "Kepler",
+      "author_handle": "@kepleravocado",
+      "created_at": "2026-07-27T15:00:24.000Z",
+      "url": "https://twitter.com/i/web/status/2081756594862502198",
+      "like_count": 15595,
+      "bookmark_count": 2415,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HOPhQs_aUAAMOhC.jpg",
+          "type": "animated_gif",
+          "video_url": "https://video.twimg.com/tweet_video/HOPhQs_aUAAMOhC.mp4"
+        }
+      ],
+      "_date": "2026-07-27"
+    },
+    {
+      "id": "2081242170997330380",
+      "text": "Gosling’s resume for the past decade makes a lot more sense if you consider he became a nihilist after Angry Birds trounced The Nice Guys opening weekend https://t.co/eRKKIsXMXr",
+      "author_name": "Brendan Fraser Crane",
+      "author_handle": "@bf_crane",
+      "created_at": "2026-07-26T04:56:15.000Z",
+      "url": "https://twitter.com/i/web/status/2081242170997330380",
+      "like_count": 15285,
+      "bookmark_count": 780,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2080341857209581685",
+      "text": ".@Vulture ranks the most powerful directors in Hollywood:\n\n1.  Christopher Nolan \n2. Ryan Coogler\n3. Denis Villeneuve\n4. Greta Gerwig\n5. Quentin Tarantino\n6. James Cameron\n7. Steven Spielberg\n8. Martin Scorsese\n9. Jordan Peele\n10. Paul Thomas Anderson\n11. Phil Lord & Christopher Miller\n12. Rian Johnson\n13. David Fincher\n14. Alejandro Iñárritu\n15. Bong Joon Ho\n16. Guillermo del Toro\n17. Zach Cregger\n18. Emerald Fennell\n19. James Gunn\n20. James Mangold\n\n🔗 https://t.co/PqWsqqJ4kT",
+      "author_name": "Film Updates",
+      "author_handle": "@FilmUpdates",
+      "created_at": "2026-07-23T17:18:44.000Z",
+      "url": "https://twitter.com/i/web/status/2080341857209581685",
+      "like_count": 13237,
+      "bookmark_count": 2754,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN7b4lXbcAABvuI.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080374895272186014",
+      "text": "The way Nolan uses Damon to pivot the entire movie into something else is fantastic https://t.co/qTMv4YCI7k",
+      "author_name": "Immortan Joe Mazzulla",
+      "author_handle": "@normal_jake_",
+      "created_at": "2026-07-23T19:30:01.000Z",
+      "url": "https://twitter.com/i/web/status/2080374895272186014",
+      "like_count": 11547,
+      "bookmark_count": 1491,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080416989462548755",
+      "text": "The is the best style to make mythological epics imo https://t.co/KZ60dTnbYz",
+      "author_name": "b°rk 🇳🇿",
+      "author_handle": "@boomborks",
+      "created_at": "2026-07-23T22:17:17.000Z",
+      "url": "https://twitter.com/i/web/status/2080416989462548755",
+      "like_count": 10958,
+      "bookmark_count": 617,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080662429487579293",
+      "text": "Matt Damon has worked with:\n\n• Martin Scorsese\n• Christopher Nolan (x3)\n• Coen Brothers\n• Steven Spielberg\n• Francis Ford Coppola (x2)\n• Clint Eastwood (x2)\n• Ridley Scott (x2)\n• Steven Soderbergh (x7)\n• Gus Van Sant (x3)\n\nsilently one of the best working right now.",
+      "author_name": "m 🦇",
+      "author_handle": "@imperatoranya",
+      "created_at": "2026-07-24T14:32:34.000Z",
+      "url": "https://twitter.com/i/web/status/2080662429487579293",
+      "like_count": 10769,
+      "bookmark_count": 753,
+      "images": [],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2080287416968155237",
+      "text": "After seeing this art, I really feel the Scylla sequence in the movie was quite underwhelming. #TheOdyssey https://t.co/foY2iC2P62",
+      "author_name": "Sky Frames",
+      "author_handle": "@sky_0707s",
+      "created_at": "2026-07-23T13:42:24.000Z",
+      "url": "https://twitter.com/i/web/status/2080287416968155237",
+      "like_count": 8171,
+      "bookmark_count": 622,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN6psbcboAAIvd0.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081154259249185075",
+      "text": "Inspiration for my volumetric lighting.\n\"Kagemusha\", by Akira Kurosawa, 1980.\nOne of the most beautiful shots ever filmed. https://t.co/Nmd33yiYqg",
+      "author_name": "Tim Soret",
+      "author_handle": "@timsoret",
+      "created_at": "2026-07-25T23:06:56.000Z",
+      "url": "https://twitter.com/i/web/status/2081154259249185075",
+      "like_count": 7414,
+      "bookmark_count": 2246,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081153890750189571/img/a4OYKUYozDScEDGh.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081153890750189571/vid/avc1/1920x1080/7_ne40okjXQZKX-k.mp4"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081588024517796353",
+      "text": "Of course it's hard for Nolan because:\n1. He treats his movies like engineering problems that require a lot of money and manpower to pull off\n2. The greatest rom-coms have the best blocking and shot compositions, something he's never been good at it\n3. He can't write women https://t.co/6n5frE5WZO",
+      "author_name": "Uchimama",
+      "author_handle": "@Uchimamalul",
+      "created_at": "2026-07-27T03:50:33.000Z",
+      "url": "https://twitter.com/i/web/status/2081588024517796353",
+      "like_count": 7270,
+      "bookmark_count": 501,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2081430253050773957",
+      "text": "Have to point out that Christopher Nolan gets away with making huge movies like this for like $100 million less than most blockbusters because the ensemble cast isn’t full of money ghouls\n\nMCU slop will have a $400,000,000 budget but a literal quarter of it goes to 3 actors https://t.co/mf9B4Ygn3P",
+      "author_name": "gislain 🌞🌱",
+      "author_handle": "@cheeeselain",
+      "created_at": "2026-07-26T17:23:38.000Z",
+      "url": "https://twitter.com/i/web/status/2081430253050773957",
+      "like_count": 5999,
+      "bookmark_count": 205,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2081109426195542483",
+      "text": "Most people don't realize that Nolan cuts quicker than most directors. Over the years, I've calculated the Average Shot Length (ASL) of all films by director. Some eye-opening info: https://t.co/PAiwGupuUk https://t.co/vT9dA5fctV",
+      "author_name": "Vashi Nedomansky, ACE",
+      "author_handle": "@vashikoo",
+      "created_at": "2026-07-25T20:08:47.000Z",
+      "url": "https://twitter.com/i/web/status/2081109426195542483",
+      "like_count": 5342,
+      "bookmark_count": 2219,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOGVzmBaYAAfXwb.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2027104143358259387",
+      "text": "Robert Eggers on trusting crew: “You are almost always, if you’re not Ridley Scott, the least experienced person on set. Because everyone's making many movies a year and you're making one every 2 or 3 years if you’re lucky. You literally have to listen to everyone around you…” https://t.co/ks68eEDFrH",
+      "author_name": "𝔚𝔢𝔯𝔴𝔲𝔩𝔣 • FC",
+      "author_handle": "@EggersGrimoire",
+      "created_at": "2026-02-26T19:31:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027104143358259387",
+      "like_count": 4513,
+      "bookmark_count": 398,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJta0AA2G4X.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJTWoAAIRsX.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJQXAAAEyZ3.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCG4eJMXsAAw_t5.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2080100995774713869",
+      "text": "baffling. what more could you want from a movie https://t.co/Bfx6Uvk6CW https://t.co/DD5KzkxhAD",
+      "author_name": "zoë rose bryant",
+      "author_handle": "@zoerosebryant",
+      "created_at": "2026-07-23T01:21:38.000Z",
+      "url": "https://twitter.com/i/web/status/2080100995774713869",
+      "like_count": 4266,
+      "bookmark_count": 150,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN4A1IjWYAA2FQX.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2025654592877256983",
+      "text": "Yearning for an Eric Rohmer summer https://t.co/Yw7n1MO8vX",
+      "author_name": "ol’ stocky ⛳️",
+      "author_handle": "@oldstocky",
+      "created_at": "2026-02-22T19:31:04.000Z",
+      "url": "https://twitter.com/i/web/status/2025654592877256983",
+      "like_count": 3333,
+      "bookmark_count": 761,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdSWcAAKoew.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdSWMAAnpd9.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdVXoAAbWaC.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBySHdUXoAAEOHr.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2081706300400885967",
+      "text": "Rocks that a complete bozo with awful opinions can make such a riotously funny, luminous and poignant masterpiece. https://t.co/QU1rqFDWOS",
+      "author_name": "Steven",
+      "author_handle": "@StevenWallaby",
+      "created_at": "2026-07-27T11:40:32.000Z",
+      "url": "https://twitter.com/i/web/status/2081706300400885967",
+      "like_count": 2895,
+      "bookmark_count": 169,
+      "images": [],
+      "_date": "2026-07-27"
+    },
+    {
+      "id": "2081722583465001060",
+      "text": "The term “LieMAX” is used too loosely. Certain people will use that term for any theater that isn't 70mm IMAX. \n\nIMAX is IMAX as long as it either has an IMAX film and/or a dual laser projector. Even 1.90:1 is still IMAX as long as it’s through dual laser projection.",
+      "author_name": "Barto",
+      "author_handle": "@bartonovopolis",
+      "created_at": "2026-07-27T12:45:15.000Z",
+      "url": "https://twitter.com/i/web/status/2081722583465001060",
+      "like_count": 2225,
+      "bookmark_count": 198,
+      "images": [],
+      "_date": "2026-07-27"
+    },
+    {
+      "id": "2080675686117781831",
+      "text": "Christopher Nolan has now scaled that peak of populist mystique shared by only a few directors in movie history: Spielberg, Hitchcock, Kubrick, Tarantino. \n\nA Christopher Nolan film is inevitably an Event, and that extends to the way we watch it. The audience — our anticipation and excitement, the afterglow of our response — is woven into the Event. \n\nIn that sense, every Nolan film is a self-fulfilling prophecy — not a masterpiece, necessarily, but a work so singular in its vision that it creates the big-swing aura of a masterpiece, each with its own world-building majesty. \n\nWhether or not any given Nolan film totally “works” is, in a way, almost irrelevant. He’s making head trips for the masses, and so every Nolan film automatically qualifies as his new Ultimate Trip.\n\nRead the full column from @OwenGleiberman: https://t.co/tF4FocjAO8",
+      "author_name": "Variety",
+      "author_handle": "@Variety",
+      "created_at": "2026-07-24T15:25:15.000Z",
+      "url": "https://twitter.com/i/web/status/2080675686117781831",
+      "like_count": 2189,
+      "bookmark_count": 385,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOALNTvXkAAPbGu.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2081145842220900794",
+      "text": "This is by far the most insightful review of The Odyssey I've read--it meets the movie on it's own terms and genuinely engages with the theme of civilizational collapse that Nolan is addressing. https://t.co/MfwELntYlc https://t.co/2XwYQwOipN",
+      "author_name": "Aatif Rashid",
+      "author_handle": "@Aatif_Rashid",
+      "created_at": "2026-07-25T22:33:29.000Z",
+      "url": "https://twitter.com/i/web/status/2081145842220900794",
+      "like_count": 2132,
+      "bookmark_count": 1531,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOG2wTMbsAApmGd.png",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOG3Ei3aUAAt1W8.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081028752428224837",
+      "text": "if u guys like The Odyssey go watch The Thin Red Line https://t.co/Usu8g7DXF9 https://t.co/bMuxeTT5o3",
+      "author_name": "Sardines",
+      "author_handle": "@LeonardCoh37662",
+      "created_at": "2026-07-25T14:48:12.000Z",
+      "url": "https://twitter.com/i/web/status/2081028752428224837",
+      "like_count": 1886,
+      "bookmark_count": 529,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOFMaXvawAA3_Gu.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOFMemObQAAUmK-.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOFMlB1aIAAnUul.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOFMnZfaMAA4Jsz.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081069298387181702",
+      "text": "the \"obscure\" movies btw https://t.co/bhLBB7vnS9 https://t.co/h3YpzTWswh",
+      "author_name": "j-ess",
+      "author_handle": "@jess_grit",
+      "created_at": "2026-07-25T17:29:19.000Z",
+      "url": "https://twitter.com/i/web/status/2081069298387181702",
+      "like_count": 1877,
+      "bookmark_count": 1372,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOFxfxNWMAA5hzw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2079927189806444730",
+      "text": "I think the smartest thing about The Odyssey is that Nolan frames his biggest departure from the source—Odysseus regretting Troy—as a speculative supposal: “what if the Odysseus you knew lost his way?” it seems to acknowledge that it’s imagining something for sake of reflection.",
+      "author_name": "Georgia Coley",
+      "author_handle": "@artwithinpod",
+      "created_at": "2026-07-22T13:50:59.000Z",
+      "url": "https://twitter.com/i/web/status/2079927189806444730",
+      "like_count": 1699,
+      "bookmark_count": 179,
+      "images": [],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2027116956331971047",
+      "text": "A Redditor compiled a list of the top 100 greatest films of all time based on ratings from major review aggregators like IMDb, Rotten Tomatoes, Metacritic, and Letterboxd.\n\nThey normalized all ratings to a single scale and updated positions according to the latest scores, resulting in the most current list.\n\nThe top ten is as follows:\n\n1. The Godfather (1972)\n\n2. 12 Angry Men (1957)\n\n3. Seven Samurai (1954)\n\n4. Schindler's List (1993)\n\n5. Casablanca (1942)\n\n6. Rear Window (1954)\n\n7. Spirited Away (2001)\n\n8. Singin' in the Rain (1952)\n\n9. The Godfather Part II (1974)\n\n10. Grave of the Fireflies (1988)",
+      "author_name": "NEXTA",
+      "author_handle": "@nexta_tv",
+      "created_at": "2026-02-26T20:21:59.000Z",
+      "url": "https://twitter.com/i/web/status/2027116956331971047",
+      "like_count": 1383,
+      "bookmark_count": 1494,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCHD5jvX0AAtXR4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCHD-VXWMAAlm2C.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCHEDxFX0AAs-_C.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCHEGOBWwAAErB2.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2080722652906373137",
+      "text": "I do think an all IMAX movie was an interesting experiment but I do think Nolan should probably go back to the 65mm/IMAX split he uses for his prior movies",
+      "author_name": "collin",
+      "author_handle": "@fiendformojitos",
+      "created_at": "2026-07-24T18:31:53.000Z",
+      "url": "https://twitter.com/i/web/status/2080722652906373137",
+      "like_count": 1338,
+      "bookmark_count": 47,
+      "images": [],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2027491142627893398",
+      "text": "Spider-Man 2 (2004)\n https://t.co/zUN4XoawZC",
+      "author_name": "Marvel Perfect Gifs & Clips",
+      "author_handle": "@MCUPerfectGifs",
+      "created_at": "2026-02-27T21:08:52.000Z",
+      "url": "https://twitter.com/i/web/status/2027491142627893398",
+      "like_count": 1264,
+      "bookmark_count": 91,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/tweet_video_thumb/GUF1-q1W4AADESn.jpg",
+          "type": "animated_gif",
+          "video_url": "https://video.twimg.com/tweet_video/GUF1-q1W4AADESn.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027118348731895936",
+      "text": "I started a Mad Men Letterbox’d list https://t.co/O7nSWbrINe",
+      "author_name": "Nuanced Film Takes",
+      "author_handle": "@BadFilmTakes1",
+      "created_at": "2026-02-26T20:27:31.000Z",
+      "url": "https://twitter.com/i/web/status/2027118348731895936",
+      "like_count": 1256,
+      "bookmark_count": 484,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCHFZFoaQAAf6YN.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027369375058313587",
+      "text": "Spielberg wanted Daniel Day-Lewis to star in LINCOLN but after reading the script, DDL sent a letter saying no, so Spielberg had the script rewritten until he said yes. This is the rejection letter Day-Lewis sent Spielberg... https://t.co/ZfCh8TRIxe",
+      "author_name": "All The Right Movies",
+      "author_handle": "@ATRightMovies",
+      "created_at": "2026-02-27T13:05:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027369375058313587",
+      "like_count": 1160,
+      "bookmark_count": 462,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBlv6onXMAAsLoU.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2080467861953232897",
+      "text": "Them saying they bullied Timothée and he was a Colombia art nerd is frying me. 🤣🤣 https://t.co/1HSOBliSd6",
+      "author_name": "khris",
+      "author_handle": "@khris409",
+      "created_at": "2026-07-24T01:39:26.000Z",
+      "url": "https://twitter.com/i/web/status/2080467861953232897",
+      "like_count": 1045,
+      "bookmark_count": 290,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080467770207031296/img/tQi8tQthpOxJSZVM.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2080467770207031296/vid/avc1/720x1280/PLima8-BgqYE2TEj.mp4"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081107253441015851",
+      "text": "This is so good on why Nolan sucks and why I'll never watch this movie; almost good enough to make up for 'a cinematic genius — an Andrei Tarkovsky, say, or Akira Kurosawa, or David Lynch, or *Bong Joon Ho*' https://t.co/bUWKKnmx1R",
+      "author_name": "Nathan Wisnicki",
+      "author_handle": "@LimedIBagels",
+      "created_at": "2026-07-25T20:00:08.000Z",
+      "url": "https://twitter.com/i/web/status/2081107253441015851",
+      "like_count": 839,
+      "bookmark_count": 428,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOGMXYvXgAA85as.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081078731872039343",
+      "text": "Editing Masterclass: Christopher Nolan talks about intercutting scenes to \"get around\" imprecise direction and lack of coverage. https://t.co/U5eHBjgQpo",
+      "author_name": "Vincent Gallo Respecter",
+      "author_handle": "@GalloRespecter",
+      "created_at": "2026-07-25T18:06:48.000Z",
+      "url": "https://twitter.com/i/web/status/2081078731872039343",
+      "like_count": 805,
+      "bookmark_count": 689,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081076587412484096/img/ySPJXDDQYXL_SMCT.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081076587412484096/vid/avc1/1920x1080/E7wsqxAmDdSw9dhT.mp4"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2080396792156520478",
+      "text": "For the record, here's where I landed with my personal Nolan rankings. \n\nhttps://t.co/xvgR9dPXsz https://t.co/aVytTv4WLE",
+      "author_name": "Sean Fennessey",
+      "author_handle": "@SeanFennessey",
+      "created_at": "2026-07-23T20:57:01.000Z",
+      "url": "https://twitter.com/i/web/status/2080396792156520478",
+      "like_count": 796,
+      "bookmark_count": 105,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080329595203567743",
+      "text": "Christopher Nolan reveals his method for adapting the Odyssey: write down what you remember first, then bury yourself in the text, then treat it like something you made up\n\n“I buried myself in the text and read a lot of different translations a number of times, put that to one side, and then just sort of worked from intuition as if, frankly, it's something I'm making up.”\n\n“That's what you kind of have to do to own the adaptation really.”",
+      "author_name": "Rezy",
+      "author_handle": "@RezyWeb3",
+      "created_at": "2026-07-23T16:30:00.000Z",
+      "url": "https://twitter.com/i/web/status/2080329595203567743",
+      "like_count": 768,
+      "bookmark_count": 284,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2080282953708388352/img/nzDadN6NS8la1EEb.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2080282953708388352/vid/avc1/1920x1080/LvJws-LdrlYcuh6-.mp4"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080454844020609172",
+      "text": "@CopaExMachina In Nolan's version, Circe looks like a gender studies professor about to retire.",
+      "author_name": "Luis Ortiz",
+      "author_handle": "@luisito1234338",
+      "created_at": "2026-07-24T00:47:42.000Z",
+      "url": "https://twitter.com/i/web/status/2080454844020609172",
+      "like_count": 266,
+      "bookmark_count": 4,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2080593058131841317",
+      "text": "Nolan is a realism kanni. He's got a borderline autistic obsession with it.\n\nI get what he was trying to do with Scylla,  grounded creature, basically a giant deformed, cave octopus snatching men off ships. \n\nBut sometimes mofos just wanna see a big-ass mythical monster. https://t.co/FhE70Fd6Sl",
+      "author_name": "Mystic Tamil",
+      "author_handle": "@Mystic_Tamil",
+      "created_at": "2026-07-24T09:56:55.000Z",
+      "url": "https://twitter.com/i/web/status/2080593058131841317",
+      "like_count": 106,
+      "bookmark_count": 10,
+      "images": [],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2079986364049940790",
+      "text": "@NolanAnalyst This is the current list btw. The most for a living director in the top 500 tied with a legend like Tarkovsky and just behind two of the most influential and best directors of all time with Kurosawa and Bergman wow https://t.co/rgGOHKreU1",
+      "author_name": "EDS 🌹",
+      "author_handle": "@Avatar_Sherlock",
+      "created_at": "2026-07-22T17:46:08.000Z",
+      "url": "https://twitter.com/i/web/status/2079986364049940790",
+      "like_count": 39,
+      "bookmark_count": 38,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN2YkSLasAAtrca.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    }
+  ],
   "Art & Culture": [
     {
       "id": "2026358864137032071",
@@ -944,6 +2492,23 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-27"
+    },
+    {
+      "id": "2080921679790772536",
+      "text": "Tigers look orange to humans because we are trichromats, but they appear green to deer and wild boars because they are dichromats. https://t.co/fUYtKPmD8M",
+      "author_name": "Puppies & Positivity",
+      "author_handle": "@Puppieslover",
+      "created_at": "2026-07-25T07:42:44.000Z",
+      "url": "https://twitter.com/i/web/status/2080921679790772536",
+      "like_count": 52483,
+      "bookmark_count": 10023,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HODrOtrWwAAb7V-.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
     },
     {
       "id": "2027721812839375146",
@@ -1308,6 +2873,27 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-28"
     },
     {
+      "id": "2080323288606392602",
+      "text": "some people are just meant to create art together like it’s destiny. https://t.co/oK6pioTFn5",
+      "author_name": "m 🦇",
+      "author_handle": "@imperatoranya",
+      "created_at": "2026-07-23T16:04:57.000Z",
+      "url": "https://twitter.com/i/web/status/2080323288606392602",
+      "like_count": 2341,
+      "bookmark_count": 189,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN7LAHybMAAZ4MU.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HN7LAHubcAIhl9e.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
       "id": "2027944004130938891",
       "text": "https://t.co/wHMei74pKo",
       "author_name": "Hyperion",
@@ -1472,9 +3058,38 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-28"
+    },
+    {
+      "id": "2081308466854166609",
+      "text": "Seals of Ancient India https://t.co/wr8PlrQmrq",
+      "author_name": "Yadu",
+      "author_handle": "@Yaduvam",
+      "created_at": "2026-07-26T09:19:41.000Z",
+      "url": "https://twitter.com/i/web/status/2081308466854166609",
+      "like_count": 689,
+      "bookmark_count": 144,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOJLA2taoAAOvzz.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-26"
     }
   ],
   "Architecture & Interior Design": [
+    {
+      "id": "2081417165228683473",
+      "text": "having an open-earth courtyard in the middle of the house is all fun and games until your rooms are crawling with the most ominous insects and half the floor space is painted with the insides of centipedes and earthworms https://t.co/doBEUfde2P",
+      "author_name": "az",
+      "author_handle": "@dfetsz",
+      "created_at": "2026-07-26T16:31:37.000Z",
+      "url": "https://twitter.com/i/web/status/2081417165228683473",
+      "like_count": 144208,
+      "bookmark_count": 5517,
+      "images": [],
+      "_date": "2026-07-26"
+    },
     {
       "id": "2027652718869835855",
       "text": "This is how we live now https://t.co/9qcUSwP51k",
@@ -2003,275 +3618,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-23"
     }
   ],
-  "Lifestyle & Culture": [
-    {
-      "id": "2026449047163179449",
-      "text": "This is why shy introverts &amp; low agency people have worse outcomes in life. So simple, yet most wouldn’t do this bc they’d have talked themselves out of asking &amp; made up reasons why it wouldn’t work.\n\nAudacity compounds like this in so many invisible ways. Most rules are illusory https://t.co/0igIOZIaJb",
-      "author_name": "BONESAW 🕊️",
-      "author_handle": "@BonesawMD",
-      "created_at": "2026-02-25T00:07:57.000Z",
-      "url": "https://twitter.com/i/web/status/2026449047163179449",
-      "like_count": 16493,
-      "bookmark_count": 5766,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2027713819267551402",
-      "text": "\"The art of doing absolutely nothing, together.\" https://t.co/xSrCHVuKs5",
-      "author_name": "𝓅𝑜𝓋𝓂𝑒𝓂𝑜𝓇𝓎",
-      "author_handle": "@povmemory",
-      "created_at": "2026-02-28T11:53:42.000Z",
-      "url": "https://twitter.com/i/web/status/2027713819267551402",
-      "like_count": 15308,
-      "bookmark_count": 1035,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCPi-JUXwAApFf8.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2025620859315237319",
-      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
-      "author_name": "Jim",
-      "author_handle": "@Cackalacman",
-      "created_at": "2026-02-22T17:17:01.000Z",
-      "url": "https://twitter.com/i/web/status/2025620859315237319",
-      "like_count": 14151,
-      "bookmark_count": 1632,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2025484522352156812",
-      "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
-      "author_name": "Ananya",
-      "author_handle": "@uff_meri_adaa",
-      "created_at": "2026-02-22T08:15:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025484522352156812",
-      "like_count": 11754,
-      "bookmark_count": 1238,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2026125293149163694",
-      "text": "https://t.co/BH00Vpy4WF",
-      "author_name": "The Kobeissi Letter",
-      "author_handle": "@KobeissiLetter",
-      "created_at": "2026-02-24T02:41:28.000Z",
-      "url": "https://twitter.com/i/web/status/2026125293149163694",
-      "like_count": 8899,
-      "bookmark_count": 18283,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2028026419603796311",
-      "text": "The dream &gt;&gt;&gt; https://t.co/yJyHdnFHYI",
-      "author_name": "femmenotes",
-      "author_handle": "@femmenote",
-      "created_at": "2026-03-01T08:35:51.000Z",
-      "url": "https://twitter.com/i/web/status/2028026419603796311",
-      "like_count": 7986,
-      "bookmark_count": 458,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCT_Ro8WYAAAaJA.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2025542084443382191",
-      "text": "Slowmaxxing is my new favorite thing to think about\n\n- Read a physical book\n- Go for a walk w/o listening to a podcast\n- Eat food w/o watching a tv show\n- Write using a pen and paper\n- Get a pot plant or 10; tend to a garden\n- Work hard on a single task\n- Watch a movie w/o looking at your phone\n\n2026 is the year of being slow",
-      "author_name": "Your Best Version",
-      "author_handle": "@YourPrimePath",
-      "created_at": "2026-02-22T12:04:00.000Z",
-      "url": "https://twitter.com/i/web/status/2025542084443382191",
-      "like_count": 6694,
-      "bookmark_count": 2086,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2025799591199969635",
-      "text": "Most people will read this and think optimists live longer because they eat better and exercise more. The study says something wilder.\n\nLee et al. controlled for smoking, diet, exercise, alcohol, depression, BMI, and socioeconomic status. The longevity effect still held. The most optimistic quartile lived 11 to 15% longer and had 1.5 to 1.7x odds of reaching 85 even after removing every behavioral difference.\n\nWhich means something is happening at the level of biology, not just habits.\n\nRozanski’s meta-analysis across 229,391 participants found optimists carry 35% lower cardiovascular event risk. Blackburn’s Nobel Prize-winning lab at UCSF found pessimistic attitudes are associated with accelerated telomere shortening. Cortisol suppresses telomerase, the enzyme that rebuilds the protective caps on your chromosomes. So chronic negative expectation literally erodes the structures that keep your cells from aging.\n\nThe loop runs: pessimistic cognitive style → sustained HPA axis activation → elevated cortisol → telomere degradation → accelerated cellular senescence. Optimists interrupt that loop at the top. They show less emotional reactivity to stressors, faster recovery from acute stress, and they default to reframing threats as challenges rather than catastrophizing.\n\nThe part nobody talks about from this paper: the authors explicitly state optimism is modifiable. This isn’t a personality trait you’re born with. Cognitive reappraisal training, morning sunlight for cortisol rhythm regulation, deliberate breathing protocols for vagal tone, structured gratitude practices. All of these shift the prefrontal cortex patterns that determine where you sit on the optimism spectrum.\n\nA 35% reduction in cardiac events from a trainable psychological variable is a bigger effect size than most supplements on the market. That’s the real story buried in this abstract.",
-      "author_name": "Aakash Gupta",
-      "author_handle": "@aakashgupta",
-      "created_at": "2026-02-23T05:07:14.000Z",
-      "url": "https://twitter.com/i/web/status/2025799591199969635",
-      "like_count": 6550,
-      "bookmark_count": 5510,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2027892491522134053",
-      "text": "as it was foretold https://t.co/ROFdZomBxL https://t.co/tDacnuCqLZ",
-      "author_name": "Visakan Veerasamy",
-      "author_handle": "@visakanv",
-      "created_at": "2026-02-28T23:43:41.000Z",
-      "url": "https://twitter.com/i/web/status/2027892491522134053",
-      "like_count": 6106,
-      "bookmark_count": 1214,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCSFLokbAAAHuqw.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026563128373494268",
-      "text": "This is probably one of the most painful truths I've learned in life.\n\nFor probably a decade I thought my lack of discipline and focus was something innate—bad wiring, bad genes, \"ADHD\", etc. and that I would never achieve my goals because I was \"broken\".\n\nBut then for whatever reason I just decided to try getting better at them. Do the thing I don't want to do, keep working on the thing when I want to stop, etc. Not all the time. Not burning myself out. just making the slightly less pleasant choice a few times per day. \n\nI \"magically\" went from 20th percentile levels of discipline and focus to at least 80th percentile. Turns out it's just a skill like everything else and all I needed was a little practice.",
-      "author_name": "Max",
-      "author_handle": "@minordissent",
-      "created_at": "2026-02-25T07:41:16.000Z",
-      "url": "https://twitter.com/i/web/status/2026563128373494268",
-      "like_count": 5652,
-      "bookmark_count": 3164,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026308962715660400",
-      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
-      "author_name": "Jeremy Carl",
-      "author_handle": "@realJeremyCarl",
-      "created_at": "2026-02-24T14:51:18.000Z",
-      "url": "https://twitter.com/i/web/status/2026308962715660400",
-      "like_count": 5388,
-      "bookmark_count": 625,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025924270673592406",
-      "text": "the normie mind cannot comprehend the fulfillment of a life characterized by long, intense bursts of hard work under the influence of obscure stimulants followed by a few unplanned weeks of leisure beyond their wildest imaginations. lukewarm is comfort, but intensity feeds the soul",
-      "author_name": "BasedBiohacker",
-      "author_handle": "@BasedBiohacker",
-      "created_at": "2026-02-23T13:22:40.000Z",
-      "url": "https://twitter.com/i/web/status/2025924270673592406",
-      "like_count": 2809,
-      "bookmark_count": 1038,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB2HFF_WIAALrP_.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB2HPqRWwAAEW5F.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025495168351441382",
-      "text": "When we endure long periods of inactivity, the experienced time is heavy, slow, and boring. But because nothing novel or meaningful occurs, our brain records no new data. Therefore, the remembered time shrinks to almost nothing. We lived through a massive stretch of time, but retrospectively, it vanishes. Each individual moment of waiting or doing nothing may have felt like a drag, but the problem is that such larger extents of time are almost reduced to nothing when we introspect. The time was spent, but we have nothing to show for it. \n\nConversely, when we are active and enjoying ourselves, the experienced time flies by. Yet, because we are laying down a dense track of new memories, the remembered time expands. Looking back, that brief, fast period feels rich, substantial, and long.\n\nUltimately, our perception of how much time we have lived is at the mercy of our memory. If nothing happens, the time essentially did not exist.\n\nThomas Mann discusses this phenomenon in depth in his book, The Magic Mountain. One of my favorite passages from the book:\n\n\"Vacuity, monotony, have, indeed, the property of lingering out  the moment and the hour and of making them tiresome. But they  are capable of contracting and dissipating the larger, the very large \ntime-units, to the point of reducing them to nothing at all. And  conversely, a full and interesting content can put wings to the  hour and the day; yet it will lend to the general passage of time a  weightiness, a breadth and solidity which cause the eventful years  to flow far more slowly than those poor, bare, empty ones over \nwhich the wind passes and they are gone. \n\nThus what we call tedium is rather an abnormal shortening of the time consequent  upon monotony. Great spaces of time passed in unbroken uniformity tend to shrink together in a way to make the heart stop beating for fear; when one day is like all the others, then they are \nall like one; complete uniformity would make the longest life seem short, and as though it had stolen away from us unawares.\"",
-      "author_name": "PS",
-      "author_handle": "@dostoevesque",
-      "created_at": "2026-02-22T08:57:34.000Z",
-      "url": "https://twitter.com/i/web/status/2025495168351441382",
-      "like_count": 2324,
-      "bookmark_count": 1435,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2027537304319914483",
-      "text": "Never let them know ur next move https://t.co/o7X69d6foX",
-      "author_name": "lemón",
-      "author_handle": "@cigarettesummer",
-      "created_at": "2026-02-28T00:12:17.000Z",
-      "url": "https://twitter.com/i/web/status/2027537304319914483",
-      "like_count": 1597,
-      "bookmark_count": 89,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCNCbjYWYAITq1R.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026156573936976082",
-      "text": "Never met a single interesting person who had any sort of “balance” in their life. Tip the scale. All the way. Throw caution to the wind. Sink or swim. Take massive swings. Leap into the abyss. Stay up nights. If you’re going to “fail” then fail miserably and spectacularly. Get up and try again. See how far you can go. Go even further. Give them something to talk about. Give yourself something to talk about. Give a damn. Make it worth your while. \n\nLife really is all or nothing.",
-      "author_name": "rachel",
-      "author_handle": "@rachcorrine",
-      "created_at": "2026-02-24T04:45:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026156573936976082",
-      "like_count": 1424,
-      "bookmark_count": 447,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025768860805476412",
-      "text": "How much do you need to make to live an \"upper middle class\" lifestyle in a major city?\n\nIndia: ₹1.9-4.1cr/yr ($210k-$450k/yr)\nUS: $670k-$1.4M/yr\n\nThe bar has never been higher.\n\nAssumes:\n–Household income\n–Own a 4bed house\n–2 kids + private school + US college\n–1 intl trip/yr https://t.co/od3V9bTE8n",
-      "author_name": "Deedy",
-      "author_handle": "@deedydas",
-      "created_at": "2026-02-23T03:05:08.000Z",
-      "url": "https://twitter.com/i/web/status/2025768860805476412",
-      "like_count": 1207,
-      "bookmark_count": 1193,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBz6CvSaUAAWt21.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2027690763799130389",
-      "text": "\"Parisian rooftops and wine-stained conversations” https://t.co/INwyUsSOga",
-      "author_name": "Gitana",
-      "author_handle": "@Gitana1369877",
-      "created_at": "2026-02-28T10:22:05.000Z",
-      "url": "https://twitter.com/i/web/status/2027690763799130389",
-      "like_count": 796,
-      "bookmark_count": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCPOAKoXcAA1zZh.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026973227155919191",
-      "text": "Your highest creative expression is a dance between concentrated focus and expanded consciousness.\n\nGo to a rave solo. Smoke a joint. Let yourself get loose and dance for hours. New ideas and downloads will come through from the expanded state. Write these down. You’ll use the later.\n\nThen, go to the completely opposite end of the spectrum. Sit down at your computer the next day and organize everything that came through. Send the messages. Finish the article. Bring the project to completion. \n\nYou turn ideas into finished products by sitting down, narrowing your consciousness, and doing the work.\n\nMost people exist in only one of these two camps. \n\nSome only smoke weed, go to raves, or get downloads in meditation. But they never bring anything into material reality because they won’t narrow their consciousness into linear work.\n\nOthers only sit at the computer for 12 hours a day and never expand their mind or access new frequencies with seemingly strange or unproductive activities - and so their ideas stall out and they never create anything new.\n\nYou will be most creative in expanded states of consciousness. You will be most productive in narrowed states of consciousness. If you want to maximize your creative potential, you need both.\n\nLet loose yourself get loose. Then, sit down and do the work. \n\nAnd most importantly, whatever you do, do it fully.",
-      "author_name": "Jack Moses",
-      "author_handle": "@jackmoses0",
-      "created_at": "2026-02-26T10:50:51.000Z",
-      "url": "https://twitter.com/i/web/status/2026973227155919191",
-      "like_count": 272,
-      "bookmark_count": 146,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2025913540746330545",
-      "text": "8. The Therapist's Final Prescription: Reverse the Shifts Intentionally.\n\nShe said the couples who stay passionate are the ones who consciously reverse these shifts. They keep pursuing. They keep growing so they remain interesting. \n\nThey protect time for lover conversations, not just logistics. They stay vulnerable. They practice daily gratitude. They maintain their polarities. They put the screens down and actually look at each other. Passion is not a mystery. It is a practice. \n\nThe couples who stay passionate are not luckier. They are more intentional.",
-      "author_name": "Helen Casanova | Seduction Palace",
-      "author_handle": "@HelenCasanova_",
-      "created_at": "2026-02-23T12:40:02.000Z",
-      "url": "https://twitter.com/i/web/status/2025913540746330545",
-      "like_count": 188,
-      "bookmark_count": 171,
-      "images": [],
-      "_date": "2026-02-23"
-    }
-  ],
   "Programming & Building": [
     {
       "id": "2025988777781407898",
@@ -2505,6 +3851,357 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-28"
     }
   ],
+  "Travel & Nature": [
+    {
+      "id": "2026135304437154046",
+      "text": "River close to my house in Sweden froze over for the first time in long. https://t.co/rvLUO4gFB8",
+      "author_name": "·𐑯𐑧𐑝𐑦𐑤 🇸🇪〽️",
+      "author_handle": "@NevilleVoda",
+      "created_at": "2026-02-24T03:21:15.000Z",
+      "url": "https://twitter.com/i/web/status/2026135304437154046",
+      "like_count": 87660,
+      "bookmark_count": 7172,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB5HUQDaIAAeRi3.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2027844259563389422",
+      "text": "Kyoto, Japan. https://t.co/SDlQV0UyTd",
+      "author_name": "JAPAN 🇯🇵",
+      "author_handle": "@japanvistamedia",
+      "created_at": "2026-02-28T20:32:01.000Z",
+      "url": "https://twitter.com/i/web/status/2027844259563389422",
+      "like_count": 47181,
+      "bookmark_count": 2283,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCRZmw4bEAInwb-.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026392875949240819",
+      "text": "I am quite literally at the Grand Budapest Hotel. There’s a mini tram that blows a steam whistle that goes through town. https://t.co/UVq0ObKTgo",
+      "author_name": "Annicka",
+      "author_handle": "@expectedcheddar",
+      "created_at": "2026-02-24T20:24:44.000Z",
+      "url": "https://twitter.com/i/web/status/2026392875949240819",
+      "like_count": 25127,
+      "bookmark_count": 2767,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB8xjsFWYAEPdzs.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB8xjsGWAAA1uw6.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB8xjsFXwAAWlO5.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2081385248840122730",
+      "text": "Dick Proenneke was 51 when he walked into Twin Lakes, Alaska, with hand tools and built himself a cabin. \n\nFilmed the whole thing on his own and stayed almost thirty years. https://t.co/driDwxgnyT",
+      "author_name": "Patrick J. Wolf",
+      "author_handle": "@PatWolf",
+      "created_at": "2026-07-26T14:24:48.000Z",
+      "url": "https://twitter.com/i/web/status/2081385248840122730",
+      "like_count": 20584,
+      "bookmark_count": 3459,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081385209958944768/img/pE2l2ZkW2yRctpCU.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081385209958944768/vid/avc1/960x720/1hhZRiZ19ONkrhd4.mp4"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2027759208083427769",
+      "text": "summer in europe https://t.co/8N6PKigU32",
+      "author_name": "𝒍𝒖𝒏𝒂",
+      "author_handle": "@naturaholic",
+      "created_at": "2026-02-28T14:54:03.000Z",
+      "url": "https://twitter.com/i/web/status/2027759208083427769",
+      "like_count": 4818,
+      "bookmark_count": 430,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQGcXAAEbWzW.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQLFbEAQdWru.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQMcWEAAldzJ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQMQRfXkAEuKUp.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027756355256242654",
+      "text": "Tuscany, Italy https://t.co/PnWZiDTTS5",
+      "author_name": "✶",
+      "author_handle": "@echoesofworld",
+      "created_at": "2026-02-28T14:42:43.000Z",
+      "url": "https://twitter.com/i/web/status/2027756355256242654",
+      "like_count": 4526,
+      "bookmark_count": 410,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqCNawAAMFqp.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqBybkAAlHr9.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqHsXgAAQgrW.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCQJqLnWEAATUmN.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028229072296312908",
+      "text": "La dolce vita https://t.co/8KioTLpYaN",
+      "author_name": "Matias Alonso Revelli",
+      "author_handle": "@matialonsor",
+      "created_at": "2026-03-01T22:01:08.000Z",
+      "url": "https://twitter.com/i/web/status/2028229072296312908",
+      "like_count": 4342,
+      "bookmark_count": 547,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCW3lsMbUAA2LWo.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCW3l2yXYAALVTM.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCW3l5UXkAA0gW-.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCW3l3sWQAAv01X.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028030659537535095",
+      "text": "Hawaii https://t.co/gsKhvFAG0F",
+      "author_name": "✨",
+      "author_handle": "@countrydiariess",
+      "created_at": "2026-03-01T08:52:42.000Z",
+      "url": "https://twitter.com/i/web/status/2028030659537535095",
+      "like_count": 4071,
+      "bookmark_count": 360,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCUDId-XAAEOZFY.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCUDIeCXQAA51a4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCUDIeKWQAAV4Uv.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCUDIeebsAAv5z_.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027794306942324913",
+      "text": "Seattle, Washington https://t.co/HjKbpGOtj7",
+      "author_name": "sera",
+      "author_handle": "@seraphicxc",
+      "created_at": "2026-02-28T17:13:32.000Z",
+      "url": "https://twitter.com/i/web/status/2027794306942324913",
+      "like_count": 3575,
+      "bookmark_count": 180,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQsK6wacAATNwK.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027826701062049869",
+      "text": "True love is the open sky https://t.co/Xr8sjjKpWn",
+      "author_name": "Blue.",
+      "author_handle": "@bluedreamvibes",
+      "created_at": "2026-02-28T19:22:15.000Z",
+      "url": "https://twitter.com/i/web/status/2027826701062049869",
+      "like_count": 3281,
+      "bookmark_count": 516,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027826676680560640/img/pL6iJcwrZlhDvP8C.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027826676680560640/vid/avc1/1276x720/vcS_OQ1RgsUP3lUp.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027388594873385091",
+      "text": "Periodic reminder that you control what content you see!\n\nIf you want to see more original travel and architecture photography, then interact with this post by liking and sharing and the algorithm will give you more content like this ;) https://t.co/KupsrKcYwl",
+      "author_name": "Raphael Barberi📷",
+      "author_handle": "@itsrapha83",
+      "created_at": "2026-02-27T14:21:22.000Z",
+      "url": "https://twitter.com/i/web/status/2027388594873385091",
+      "like_count": 2543,
+      "bookmark_count": 194,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KuEW0AA_TkD.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KtxX0AAjp48.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KtxWwAAD6OL.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCK7KtuXEAACjDx.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2028002268113686859",
+      "text": "Somewhere in Kamakura https://t.co/EQOe8YLVjr https://t.co/vunL6e26wy",
+      "author_name": "Sora Hikari",
+      "author_handle": "@SoraHikariii",
+      "created_at": "2026-03-01T06:59:53.000Z",
+      "url": "https://twitter.com/i/web/status/2028002268113686859",
+      "like_count": 2412,
+      "bookmark_count": 201,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTpTn9bEAEpkii.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTpToQbwAANtix.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTpTn_bEAM0GZh.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTpTn9aMAAEWdt.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028177860259655783",
+      "text": "Tuscany, Italy https://t.co/knDlYqOZ7E",
+      "author_name": "✶",
+      "author_handle": "@echoesofworld",
+      "created_at": "2026-03-01T18:37:38.000Z",
+      "url": "https://twitter.com/i/web/status/2028177860259655783",
+      "like_count": 2326,
+      "bookmark_count": 223,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCWJAt3WYAARk-q.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCWJA0FbgAElwRa.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCWJA6BXwAAT3Du.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCWJA_kWsAAIlQ9.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027666481547514099",
+      "text": "Peak District National Park https://t.co/GyWheHgfd9",
+      "author_name": "𝘄𝗮𝗻𝗱𝗲𝗿𝘁𝗿𝗮𝘃𝗲𝗹𝘀",
+      "author_handle": "@visualsofearth1",
+      "created_at": "2026-02-28T08:45:36.000Z",
+      "url": "https://twitter.com/i/web/status/2027666481547514099",
+      "like_count": 753,
+      "bookmark_count": 38,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCO36qybEAEUGMP.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2082109348302745645",
+      "text": "Some guys taking a walk in Princeton, New Jersey. https://t.co/C6RrORTFSO",
+      "author_name": "Brian Roemmele",
+      "author_handle": "@BrianRoemmele",
+      "created_at": "2026-07-28T14:22:07.000Z",
+      "url": "https://twitter.com/i/web/status/2082109348302745645",
+      "like_count": 173,
+      "bookmark_count": 13,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOUjavDbkAAyJaw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-28"
+    }
+  ],
   "Watches": [
     {
       "id": "2026386653464432643",
@@ -2670,6 +4367,23 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-28"
     },
     {
+      "id": "2027798532317425830",
+      "text": "Decent 3 watch collection here, I'd maybe add a leather strap watch in but that's it https://t.co/yDzue1DSAJ",
+      "author_name": "The Global Watch Club",
+      "author_handle": "@GlobalWatchClub",
+      "created_at": "2026-02-28T17:30:19.000Z",
+      "url": "https://twitter.com/i/web/status/2027798532317425830",
+      "like_count": 331,
+      "bookmark_count": 14,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQv4J8XYAEbcd5.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
       "id": "2027488198310695169",
       "text": "Vintage 1975 Rolex DateJust https://t.co/a6urVPDgIV",
       "author_name": "Rolex Club",
@@ -2730,6 +4444,23 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-28"
     },
     {
+      "id": "2027952695936495964",
+      "text": "An unpolished Heuer Camaro available now on https://t.co/Q41ytuWm8g https://t.co/HRcseYeJYq",
+      "author_name": "Eric Wind",
+      "author_handle": "@ericwind",
+      "created_at": "2026-03-01T03:42:54.000Z",
+      "url": "https://twitter.com/i/web/status/2027952695936495964",
+      "like_count": 92,
+      "bookmark_count": 9,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCS8OpfWUAI78IX.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
       "id": "2027934288965210299",
       "text": "——\nThis is how Omega earned its name. No flash just real character https://t.co/40ic7FczDq",
       "author_name": "Gama",
@@ -2749,6 +4480,27 @@ window.BOOKMARK_CATEGORIES = {
     }
   ],
   "Books & Literature": [
+    {
+      "id": "2081440328863592571",
+      "text": "Ian Fleming’s typical day at his estate in Jamaica where he wrote all his James Bond stories, need to emulate this https://t.co/d43RdMtS0U",
+      "author_name": "ol’ stocky ⛳️",
+      "author_handle": "@oldstocky",
+      "created_at": "2026-07-26T18:03:40.000Z",
+      "url": "https://twitter.com/i/web/status/2081440328863592571",
+      "like_count": 80115,
+      "bookmark_count": 18585,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOLC8nPXYAA_oMd.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOLC8nPXgAAuPgV.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
     {
       "id": "2025781416814883303",
       "text": "Vincent van Gogh, 1882, in a letter to his brother Theo. https://t.co/TQqoOM3Ioc",
@@ -2782,6 +4534,24 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-23"
+    },
+    {
+      "id": "2081884286953885709",
+      "text": "This is what Homer was actually like btw https://t.co/MhvoL9C4Rw",
+      "author_name": "Hogarthian Wastrel",
+      "author_handle": "@yunghogarthian",
+      "created_at": "2026-07-27T23:27:48.000Z",
+      "url": "https://twitter.com/i/web/status/2081884286953885709",
+      "like_count": 14648,
+      "bookmark_count": 3758,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081884240288141312/img/dXKqgrUX0wMggKvX.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081884240288141312/vid/avc1/1090x720/Oc_IKvDoThSHb-Gy.mp4"
+        }
+      ],
+      "_date": "2026-07-27"
     },
     {
       "id": "2025965634475966676",
@@ -2924,216 +4694,137 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "Travel & Nature": [
+  "News": [
     {
-      "id": "2026135304437154046",
-      "text": "River close to my house in Sweden froze over for the first time in long. https://t.co/rvLUO4gFB8",
-      "author_name": "·𐑯𐑧𐑝𐑦𐑤 🇸🇪〽️",
-      "author_handle": "@NevilleVoda",
-      "created_at": "2026-02-24T03:21:15.000Z",
-      "url": "https://twitter.com/i/web/status/2026135304437154046",
-      "like_count": 87660,
-      "bookmark_count": 7172,
+      "id": "2025800996744794380",
+      "text": "Did not expect a question that starts out 'Do you think before you speak?' to go so well. A+ question from Charlotte Harpur A++ response from Eileen Gu. https://t.co/cvNJ6rSwl3",
+      "author_name": "sim",
+      "author_handle": "@simscircuit",
+      "created_at": "2026-02-23T05:12:49.000Z",
+      "url": "https://twitter.com/i/web/status/2025800996744794380",
+      "like_count": 155885,
+      "bookmark_count": 53467,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HB5HUQDaIAAeRi3.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027844259563389422",
-      "text": "Kyoto, Japan. https://t.co/SDlQV0UyTd",
-      "author_name": "JAPAN 🇯🇵",
-      "author_handle": "@japanvistamedia",
-      "created_at": "2026-02-28T20:32:01.000Z",
-      "url": "https://twitter.com/i/web/status/2027844259563389422",
-      "like_count": 47181,
-      "bookmark_count": 2283,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCRZmw4bEAInwb-.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026392875949240819",
-      "text": "I am quite literally at the Grand Budapest Hotel. There’s a mini tram that blows a steam whistle that goes through town. https://t.co/UVq0ObKTgo",
-      "author_name": "Annicka",
-      "author_handle": "@expectedcheddar",
-      "created_at": "2026-02-24T20:24:44.000Z",
-      "url": "https://twitter.com/i/web/status/2026392875949240819",
-      "like_count": 25127,
-      "bookmark_count": 2767,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB8xjsFWYAEPdzs.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB8xjsGWAAA1uw6.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB8xjsFXwAAWlO5.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2027759208083427769",
-      "text": "summer in europe https://t.co/8N6PKigU32",
-      "author_name": "𝒍𝒖𝒏𝒂",
-      "author_handle": "@naturaholic",
-      "created_at": "2026-02-28T14:54:03.000Z",
-      "url": "https://twitter.com/i/web/status/2027759208083427769",
-      "like_count": 4818,
-      "bookmark_count": 430,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCQMQGcXAAEbWzW.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCQMQLFbEAQdWru.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCQMQMcWEAAldzJ.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCQMQRfXkAEuKUp.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027756355256242654",
-      "text": "Tuscany, Italy https://t.co/PnWZiDTTS5",
-      "author_name": "✶",
-      "author_handle": "@echoesofworld",
-      "created_at": "2026-02-28T14:42:43.000Z",
-      "url": "https://twitter.com/i/web/status/2027756355256242654",
-      "like_count": 4526,
-      "bookmark_count": 410,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCQJqCNawAAMFqp.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCQJqBybkAAlHr9.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCQJqHsXgAAQgrW.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCQJqLnWEAATUmN.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027826701062049869",
-      "text": "True love is the open sky https://t.co/Xr8sjjKpWn",
-      "author_name": "Blue.",
-      "author_handle": "@bluedreamvibes",
-      "created_at": "2026-02-28T19:22:15.000Z",
-      "url": "https://twitter.com/i/web/status/2027826701062049869",
-      "like_count": 3281,
-      "bookmark_count": 516,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2027826676680560640/img/pL6iJcwrZlhDvP8C.jpg",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2025800888187867136/img/PN9qAkjL-uDOupVR.jpg",
           "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2027826676680560640/vid/avc1/1276x720/vcS_OQ1RgsUP3lUp.mp4"
+          "video_url": "https://video.twimg.com/amplify_video/2025800888187867136/vid/avc1/1080x712/F7EsR5sESJMJ9mc7.mp4"
         }
       ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027836899260498270",
+      "text": "Being able to kidnap a head of state, and decapitate a regional military power back to back without taking a single american casualty is such a wild spectacle of power i don't think it has any other historic precedent",
+      "author_name": "Charles Curran",
+      "author_handle": "@charliebcurran",
+      "created_at": "2026-02-28T20:02:46.000Z",
+      "url": "https://twitter.com/i/web/status/2027836899260498270",
+      "like_count": 38077,
+      "bookmark_count": 2517,
+      "images": [],
       "_date": "2026-02-28"
     },
     {
-      "id": "2027388594873385091",
-      "text": "Periodic reminder that you control what content you see!\n\nIf you want to see more original travel and architecture photography, then interact with this post by liking and sharing and the algorithm will give you more content like this ;) https://t.co/KupsrKcYwl",
-      "author_name": "Raphael Barberi📷",
-      "author_handle": "@itsrapha83",
-      "created_at": "2026-02-27T14:21:22.000Z",
-      "url": "https://twitter.com/i/web/status/2027388594873385091",
-      "like_count": 2543,
-      "bookmark_count": 194,
+      "id": "2081367398695760165",
+      "text": "This got me IN TEARS lmao. The difference between being the best player on the Brooklyn Nets and the best player on the New York Knicks…\n\nMichael Porter Jr: Are you on the list? \n\nJalen Brunson: Go right in Mr. Brunson. \n\n https://t.co/0AuDHM55Te",
+      "author_name": "Hater Report",
+      "author_handle": "@HaterReport",
+      "created_at": "2026-07-26T13:13:52.000Z",
+      "url": "https://twitter.com/i/web/status/2081367398695760165",
+      "like_count": 34294,
+      "bookmark_count": 3803,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCK7KuEW0AA_TkD.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KtxX0AAjp48.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KtxWwAAD6OL.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCK7KtuXEAACjDx.jpg",
-          "type": "photo"
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081281547324289024/img/ly7mjkkdhbocdvT1.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081281547324289024/vid/avc1/1126x1126/U01ulZ85FaaoKlki.mp4"
         }
       ],
-      "_date": "2026-02-27"
+      "_date": "2026-07-26"
     },
     {
-      "id": "2028002268113686859",
-      "text": "Somewhere in Kamakura https://t.co/EQOe8YLVjr https://t.co/vunL6e26wy",
-      "author_name": "Sora Hikari",
-      "author_handle": "@SoraHikariii",
-      "created_at": "2026-03-01T06:59:53.000Z",
-      "url": "https://twitter.com/i/web/status/2028002268113686859",
-      "like_count": 2412,
-      "bookmark_count": 201,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCTpTn9bEAEpkii.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCTpToQbwAANtix.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCTpTn_bEAM0GZh.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCTpTn9aMAAEWdt.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
+      "id": "2081725541225570616",
+      "text": "Americans spend more on sports bets than movies, arts, museums, and music combined, per FORTUNE",
+      "author_name": "unusual_whales",
+      "author_handle": "@unusual_whales",
+      "created_at": "2026-07-27T12:57:00.000Z",
+      "url": "https://twitter.com/i/web/status/2081725541225570616",
+      "like_count": 26279,
+      "bookmark_count": 2581,
+      "images": [],
+      "_date": "2026-07-27"
     },
     {
-      "id": "2027666481547514099",
-      "text": "Peak District National Park https://t.co/GyWheHgfd9",
-      "author_name": "𝘄𝗮𝗻𝗱𝗲𝗿𝘁𝗿𝗮𝘃𝗲𝗹𝘀",
-      "author_handle": "@visualsofearth1",
-      "created_at": "2026-02-28T08:45:36.000Z",
-      "url": "https://twitter.com/i/web/status/2027666481547514099",
-      "like_count": 753,
-      "bookmark_count": 38,
+      "id": "2081092816944717872",
+      "text": "July 23, 2026, was the busiest day for commercial air travel ever, according to data from @flightradar24.\n\nA whopping 153,359 commercial flights were tracked worldwide. https://t.co/0fJ9mcjZkY",
+      "author_name": "Colin McCarthy",
+      "author_handle": "@US_Stormwatch",
+      "created_at": "2026-07-25T19:02:47.000Z",
+      "url": "https://twitter.com/i/web/status/2081092816944717872",
+      "like_count": 14328,
+      "bookmark_count": 2917,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCO36qybEAEUGMP.jpg",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081092602355646464/img/PhHiiXGCXWwoj_ue.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081092602355646464/vid/avc1/1740x1080/g7f4zD9lBgBzHZIm.mp4"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2025978974858559796",
+      "text": "Eileen Gu is actually a human 2.0 prototype:\n\n- IQ: aced SAT 1580, went to stanford\n- aesthetic: supermodel(features in Louis Vuitton, Tiffany & Co, Fendi, Gucci campaigns)\n- physical: Olympic gold medalist(elite at skiing)\n- genetic: biracial optimization (chinese american)\n- cultural: multilingual, dual-market value\n- financial: mega generational wealth\n- longevity: 120-150 years projected\n- permanent underclass score: 0.00\n\nthis is a glimpse of what humans look like in a few decades\n\nbio/acc",
+      "author_name": "Mgoes (bio/acc 🤖💉)",
+      "author_handle": "@m_goes_distance",
+      "created_at": "2026-02-23T17:00:03.000Z",
+      "url": "https://twitter.com/i/web/status/2025978974858559796",
+      "like_count": 12627,
+      "bookmark_count": 5945,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026136687731228679",
+      "text": "Biggest takeaway from Eileen Gu is that she only had 45 days on the mountain up to age 16. She was mainly a competitive runner. Biggest case for cross-training your kids in different sports since Jannik Sinner, for whom tennis was his third best sport all through his teens.",
+      "author_name": "Zhu Su",
+      "author_handle": "@zhusu",
+      "created_at": "2026-02-24T03:26:44.000Z",
+      "url": "https://twitter.com/i/web/status/2026136687731228679",
+      "like_count": 3917,
+      "bookmark_count": 509,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2025827844543447341",
+      "text": "Eileen Gu is essentially a lab-grown Übermensch. \nThe next step of human evolution.\nShe outstats normal homosapiens by large margins in every category.\n\nShe is the result of\nIVFmaxxing + top Asian parenting + Western individualism + Chinese steel + money + tasteful plastic surgery \n\nWe will see more members of the new Übermensch race in the future, and they'll all be Asians and Hapas.",
+      "author_name": "LinaHua",
+      "author_handle": "@Linahuaa",
+      "created_at": "2026-02-23T06:59:30.000Z",
+      "url": "https://twitter.com/i/web/status/2025827844543447341",
+      "like_count": 3056,
+      "bookmark_count": 1669,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB0vr3CaUAA57E0.jpg",
           "type": "photo"
         }
       ],
-      "_date": "2026-02-28"
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026699393341047213",
+      "text": "eileen gu’s archetype is not new, it is literally the exact stereotype of the typical chinese american girl:\n\n- excels in school\n- excels in an instrument (eg piano or violin) or a sport, in eileen’s case it’s a sport\n- well put together, conscientious, speaks sharply\n- main goal in life is go outperform, drilled into her since she was a kid\n\na large proportion of chinese american girls from middle class+ families are like that, eileen is just the best of the best. lower performing abcs (american born chinese) usually end up at mckinsey, a large tech firm or a law firm and work their way up the career ladder with unmatched ambition. they were best of class in high school an university and continued their excellence into the labor force\n\ni’ve seen so many of these, it’s literally stereotypical\n\nnow, let’s talk about her attractiveness. she looks pretty good, i’d give her a solid 7.5, she isn’t extraordinarily beautiful, she oryte but the problem most men have with her is her demeanor\n\nher high ambitions make her seem aggressive and manly. this is a problem that many women, not only abcs, have: they want to get to a position of leadership but they appear bossy and bitchy when they do. it is super hard for women to balance their feminity and performance an eileen is not doing it well, which is why men find her offputting\n\ni would say that as the socioeconomic status of a man increases, so does their preference towards eileen as opposed to the girl on the left. you gotta be pretty tough to date an asian tiger",
+      "author_name": "Squiggly Hair Shanks",
+      "author_handle": "@redhairshanks86",
+      "created_at": "2026-02-25T16:42:44.000Z",
+      "url": "https://twitter.com/i/web/status/2026699393341047213",
+      "like_count": 2649,
+      "bookmark_count": 1310,
+      "images": [],
+      "_date": "2026-02-25"
     }
   ],
   "Tollywood & Bollywood": [
@@ -3277,233 +4968,19 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "Movies": [
-    {
-      "id": "2027104143358259387",
-      "text": "Robert Eggers on trusting crew: “You are almost always, if you’re not Ridley Scott, the least experienced person on set. Because everyone's making many movies a year and you're making one every 2 or 3 years if you’re lucky. You literally have to listen to everyone around you…” https://t.co/ks68eEDFrH",
-      "author_name": "𝔚𝔢𝔯𝔴𝔲𝔩𝔣 • FC",
-      "author_handle": "@EggersGrimoire",
-      "created_at": "2026-02-26T19:31:04.000Z",
-      "url": "https://twitter.com/i/web/status/2027104143358259387",
-      "like_count": 4513,
-      "bookmark_count": 398,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCG4eJta0AA2G4X.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCG4eJTWoAAIRsX.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCG4eJQXAAAEyZ3.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCG4eJMXsAAw_t5.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2025654592877256983",
-      "text": "Yearning for an Eric Rohmer summer https://t.co/Yw7n1MO8vX",
-      "author_name": "ol’ stocky ⛳️",
-      "author_handle": "@oldstocky",
-      "created_at": "2026-02-22T19:31:04.000Z",
-      "url": "https://twitter.com/i/web/status/2025654592877256983",
-      "like_count": 3333,
-      "bookmark_count": 761,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdSWcAAKoew.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdSWMAAnpd9.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdVXoAAbWaC.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBySHdUXoAAEOHr.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2027116956331971047",
-      "text": "A Redditor compiled a list of the top 100 greatest films of all time based on ratings from major review aggregators like IMDb, Rotten Tomatoes, Metacritic, and Letterboxd.\n\nThey normalized all ratings to a single scale and updated positions according to the latest scores, resulting in the most current list.\n\nThe top ten is as follows:\n\n1. The Godfather (1972)\n\n2. 12 Angry Men (1957)\n\n3. Seven Samurai (1954)\n\n4. Schindler's List (1993)\n\n5. Casablanca (1942)\n\n6. Rear Window (1954)\n\n7. Spirited Away (2001)\n\n8. Singin' in the Rain (1952)\n\n9. The Godfather Part II (1974)\n\n10. Grave of the Fireflies (1988)",
-      "author_name": "NEXTA",
-      "author_handle": "@nexta_tv",
-      "created_at": "2026-02-26T20:21:59.000Z",
-      "url": "https://twitter.com/i/web/status/2027116956331971047",
-      "like_count": 1383,
-      "bookmark_count": 1494,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCHD5jvX0AAtXR4.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCHD-VXWMAAlm2C.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCHEDxFX0AAs-_C.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCHEGOBWwAAErB2.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027491142627893398",
-      "text": "Spider-Man 2 (2004)\n https://t.co/zUN4XoawZC",
-      "author_name": "Marvel Perfect Gifs & Clips",
-      "author_handle": "@MCUPerfectGifs",
-      "created_at": "2026-02-27T21:08:52.000Z",
-      "url": "https://twitter.com/i/web/status/2027491142627893398",
-      "like_count": 1264,
-      "bookmark_count": 91,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/tweet_video_thumb/GUF1-q1W4AADESn.jpg",
-          "type": "animated_gif",
-          "video_url": "https://video.twimg.com/tweet_video/GUF1-q1W4AADESn.mp4"
-        }
-      ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027118348731895936",
-      "text": "I started a Mad Men Letterbox’d list https://t.co/O7nSWbrINe",
-      "author_name": "Nuanced Film Takes",
-      "author_handle": "@BadFilmTakes1",
-      "created_at": "2026-02-26T20:27:31.000Z",
-      "url": "https://twitter.com/i/web/status/2027118348731895936",
-      "like_count": 1256,
-      "bookmark_count": 484,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCHFZFoaQAAf6YN.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027369375058313587",
-      "text": "Spielberg wanted Daniel Day-Lewis to star in LINCOLN but after reading the script, DDL sent a letter saying no, so Spielberg had the script rewritten until he said yes. This is the rejection letter Day-Lewis sent Spielberg... https://t.co/ZfCh8TRIxe",
-      "author_name": "All The Right Movies",
-      "author_handle": "@ATRightMovies",
-      "created_at": "2026-02-27T13:05:00.000Z",
-      "url": "https://twitter.com/i/web/status/2027369375058313587",
-      "like_count": 1160,
-      "bookmark_count": 462,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBlv6onXMAAsLoU.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-27"
-    }
-  ],
-  "News": [
-    {
-      "id": "2025800996744794380",
-      "text": "Did not expect a question that starts out 'Do you think before you speak?' to go so well. A+ question from Charlotte Harpur A++ response from Eileen Gu. https://t.co/cvNJ6rSwl3",
-      "author_name": "sim",
-      "author_handle": "@simscircuit",
-      "created_at": "2026-02-23T05:12:49.000Z",
-      "url": "https://twitter.com/i/web/status/2025800996744794380",
-      "like_count": 155885,
-      "bookmark_count": 53467,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2025800888187867136/img/PN9qAkjL-uDOupVR.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2025800888187867136/vid/avc1/1080x712/F7EsR5sESJMJ9mc7.mp4"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2027836899260498270",
-      "text": "Being able to kidnap a head of state, and decapitate a regional military power back to back without taking a single american casualty is such a wild spectacle of power i don't think it has any other historic precedent",
-      "author_name": "Charles Curran",
-      "author_handle": "@charliebcurran",
-      "created_at": "2026-02-28T20:02:46.000Z",
-      "url": "https://twitter.com/i/web/status/2027836899260498270",
-      "like_count": 38077,
-      "bookmark_count": 2517,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2025978974858559796",
-      "text": "Eileen Gu is actually a human 2.0 prototype:\n\n- IQ: aced SAT 1580, went to stanford\n- aesthetic: supermodel(features in Louis Vuitton, Tiffany & Co, Fendi, Gucci campaigns)\n- physical: Olympic gold medalist(elite at skiing)\n- genetic: biracial optimization (chinese american)\n- cultural: multilingual, dual-market value\n- financial: mega generational wealth\n- longevity: 120-150 years projected\n- permanent underclass score: 0.00\n\nthis is a glimpse of what humans look like in a few decades\n\nbio/acc",
-      "author_name": "Mgoes (bio/acc 🤖💉)",
-      "author_handle": "@m_goes_distance",
-      "created_at": "2026-02-23T17:00:03.000Z",
-      "url": "https://twitter.com/i/web/status/2025978974858559796",
-      "like_count": 12627,
-      "bookmark_count": 5945,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026136687731228679",
-      "text": "Biggest takeaway from Eileen Gu is that she only had 45 days on the mountain up to age 16. She was mainly a competitive runner. Biggest case for cross-training your kids in different sports since Jannik Sinner, for whom tennis was his third best sport all through his teens.",
-      "author_name": "Zhu Su",
-      "author_handle": "@zhusu",
-      "created_at": "2026-02-24T03:26:44.000Z",
-      "url": "https://twitter.com/i/web/status/2026136687731228679",
-      "like_count": 3917,
-      "bookmark_count": 509,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025827844543447341",
-      "text": "Eileen Gu is essentially a lab-grown Übermensch. \nThe next step of human evolution.\nShe outstats normal homosapiens by large margins in every category.\n\nShe is the result of\nIVFmaxxing + top Asian parenting + Western individualism + Chinese steel + money + tasteful plastic surgery \n\nWe will see more members of the new Übermensch race in the future, and they'll all be Asians and Hapas.",
-      "author_name": "LinaHua",
-      "author_handle": "@Linahuaa",
-      "created_at": "2026-02-23T06:59:30.000Z",
-      "url": "https://twitter.com/i/web/status/2025827844543447341",
-      "like_count": 3056,
-      "bookmark_count": 1669,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB0vr3CaUAA57E0.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026699393341047213",
-      "text": "eileen gu’s archetype is not new, it is literally the exact stereotype of the typical chinese american girl:\n\n- excels in school\n- excels in an instrument (eg piano or violin) or a sport, in eileen’s case it’s a sport\n- well put together, conscientious, speaks sharply\n- main goal in life is go outperform, drilled into her since she was a kid\n\na large proportion of chinese american girls from middle class+ families are like that, eileen is just the best of the best. lower performing abcs (american born chinese) usually end up at mckinsey, a large tech firm or a law firm and work their way up the career ladder with unmatched ambition. they were best of class in high school an university and continued their excellence into the labor force\n\ni’ve seen so many of these, it’s literally stereotypical\n\nnow, let’s talk about her attractiveness. she looks pretty good, i’d give her a solid 7.5, she isn’t extraordinarily beautiful, she oryte but the problem most men have with her is her demeanor\n\nher high ambitions make her seem aggressive and manly. this is a problem that many women, not only abcs, have: they want to get to a position of leadership but they appear bossy and bitchy when they do. it is super hard for women to balance their feminity and performance an eileen is not doing it well, which is why men find her offputting\n\ni would say that as the socioeconomic status of a man increases, so does their preference towards eileen as opposed to the girl on the left. you gotta be pretty tough to date an asian tiger",
-      "author_name": "Squiggly Hair Shanks",
-      "author_handle": "@redhairshanks86",
-      "created_at": "2026-02-25T16:42:44.000Z",
-      "url": "https://twitter.com/i/web/status/2026699393341047213",
-      "like_count": 2649,
-      "bookmark_count": 1310,
-      "images": [],
-      "_date": "2026-02-25"
-    }
-  ],
   "Business & Marketing": [
+    {
+      "id": "2081907786456457299",
+      "text": "\"Sorry for the late reply\" makes you look junior.\n\nSenior leaders never say it.\n\nHere are 6 things they say instead:",
+      "author_name": "Jaxon",
+      "author_handle": "@jaxoncoder",
+      "created_at": "2026-07-28T01:01:10.000Z",
+      "url": "https://twitter.com/i/web/status/2081907786456457299",
+      "like_count": 6972,
+      "bookmark_count": 14370,
+      "images": [],
+      "_date": "2026-07-27"
+    },
     {
       "id": "2026752282143216102",
       "text": "Pinterest has 480 million monthly users, the audience is 85% female with household income above $75k, and 87% of them have literally bought something from content they saw on the platform\n\nAnd every marketer has completely written it off because they think it's a mood board app. Which makes it possibly the most underpriced distribution channel on the internet right now…\n\nMost people have no idea what's happening on Pinterest right now. It's going through the exact same phase TikTok went through in 2020. Shopping features just went live. Shopify integration is active. AI is matching users to purchasable products automatically. But because every brand and agency is fighting over TikTok and Instagram, Pinterest has basically zero competition for organic eyeballs\n\nOrganic CPM equivalent on Pinterest right now is roughly $0.12\n\nFor comparison. TikTok organic is running $2-4. Instagram organic $6-12. Facebook paid $40-60+ in most verticals\n\nYou're getting 50-400x more reach per piece of content on Pinterest. With a higher income audience. And the content takes 15 minutes to make in Canva\n\nBut the thing that makes Pinterest actually stupid compared to everything else is content lifespan\n\nTwitter content dies in 18 minutes. Instagram maybe 48 hours. TikTok 3-7 days on a good run\n\nPinterest content drives traffic for 4-6 months. Some pins still pull clicks after 2 years\n\nEvery piece you post is a compounding asset instead of disposable content. A slideshow you make today in Canva can drive traffic for the next year without you ever touching it again. I know someone running a home decor affiliate account making about $7k/month who hasn't posted new content in 4 months. Old pins just keep working. That's physically impossible on any other platform\n\nThe demographics are ridiculous for selling stuff too. Pinterest users go there to DISCOVER and PLAN PURCHASES. Not scroll mindlessly. Not argue with strangers. Highest purchase-intent commercial audience on any social platform and nobody is competing for it\n\nContent that prints on Pinterest is dead simple. Aesthetic slideshows with 5-7 images and text overlay. \"Best [product] for [specific use case]\" roundup pins that get saved to boards by thousands of people planning purchases. Before/after transformations. The Pinterest audience is obsessed with transformation content. Home renovations, skincare results, closet organization, fitness progress\n\nSome mf I follow built 6 Pinterest accounts in the home decor niche and does $30k+/month in affiliate revenue. Total effort is maybe 10 hours a month of making slideshows\n\n(Works for men's niches too btw, just way less competition in women's verticals because all the \"alpha male marketing bros\" refuse to touch Pinterest. Their loss)\n\nThe same playbook that works on TikTok Shop works even better here. Faceless accounts, high volume native content, affiliate structures. Competition is nonexistent and the content compounds forever instead of dying in a week. We're already testing this as a secondary channel for some of our TT Shop brands and the early numbers are kind of absurd for the effort involved\n\nThe window is probably 12-18 months before everyone figures this out. Same window TikTok had in 2020-2021 before brands flooded in. Attention moves somewhere new, early movers build distribution cheap, masses arrive, costs go up, and the early movers have infrastructure everyone else is scrambling to build\n\nI'll probably regret pointing this out because the whole advantage is that nobody's paying attention yet\n\nRun the numbers",
@@ -3527,6 +5004,30 @@ window.BOOKMARK_CATEGORIES = {
       "bookmark_count": 512,
       "images": [],
       "_date": "2026-02-23"
+    },
+    {
+      "id": "2081479762741019007",
+      "text": "Anecdotally all my 25-30yo friends who bought a small flat in Paris / London ended up regretting it.\n\nThose who bought to “climb the property ladder” realised 2-3 years later that their life had moved faster than the ladder. New job, new city, new girlfriend, breakup, suddenly need another room etc. Now they’re trying to sell the same 35sqm flat for less than they paid, after years of interest, taxes, service charges and random repairs.\n\nThose who bought to rent it out discovered they hadn’t bought \"passive income\" but a heavily regulated small business with one customer, huge concentration risk and a boiler that only breaks at the worst time. Some now have tenants they can barely remove while renting somewhere else themselves.\n\nOur parents’ advice was built for another world: cheap debt, prices that basically only went up and people staying in the same city for 20 years.\n\nThe property ladder was designed for lives that moved slower than property transactions. At 25 your life can completely change before you’ve even recovered the buying costs.\n\nOwning the long-term family home can obviously make sense. But the random 35sqm “starter flat” bought at 27 because rent is supposedly dead money increasingly feels like a leveraged subscription to admin.\n\nRenting isn’t always throwing money away. Sometimes you’re paying for the right to change your mind.",
+      "author_name": "Aporia",
+      "author_handle": "@aporia9n",
+      "created_at": "2026-07-26T20:40:22.000Z",
+      "url": "https://twitter.com/i/web/status/2081479762741019007",
+      "like_count": 2669,
+      "bookmark_count": 1111,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2081120561762271522",
+      "text": "Second homes are the classic rich-person trap, the thing that looks great on paper but that you end up regretting for a long long while.\n\nI’ve never understood the idea of becoming extremely rich only to accumulate 10 properties, 30 cars and endless material assets that need to be maintained, insured, staffed and constantly thought about. At some point you’ve basically created a small company whose only job is managing your stuff.\n\nAnd then the assets start dictating your life. You bought the house in Tuscany so now you feel like you should spend every summer there. You own the London flat so you keep going back even if somewhere else would be more fun. The things you bought to give yourself more options end up reducing them.\n\nIf I had that level of money, I’d want the exact opposite: maximum optionality and as little dependence as possible. Spend three months in London, winter in Dubai, summer in Italy, stay in the best places and leave the second the weather, politics or taxes become annoying.\n\nOwn the very few things that genuinely anchor my life, rent almost everything else and remain dependent on no asset, city or government.\n\nThe economics are even more absurd here: nearly £1m of stamp duty on a £5m London flat, before service charges, repairs and exposure to whatever tax the next government invents. That alone can fund years of renting somewhere better.\n\nOwnership makes sense when it gives you stability. Beyond that, every additional asset is another small administrative job.\n\nThe ultimate luxury isn’t owning everything. It’s being able to access almost anything while being trapped by almost nothing.",
+      "author_name": "Aporia",
+      "author_handle": "@aporia9n",
+      "created_at": "2026-07-25T20:53:01.000Z",
+      "url": "https://twitter.com/i/web/status/2081120561762271522",
+      "like_count": 2660,
+      "bookmark_count": 1201,
+      "images": [],
+      "_date": "2026-07-25"
     },
     {
       "id": "2025982593968263471",
@@ -3593,6 +5094,35 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-26"
     },
     {
+      "id": "2027989291738013696",
+      "text": "korean couple’s fashion https://t.co/YJRQhJEQwh",
+      "author_name": "Cee☆",
+      "author_handle": "@ceelune_",
+      "created_at": "2026-03-01T06:08:20.000Z",
+      "url": "https://twitter.com/i/web/status/2027989291738013696",
+      "like_count": 1856,
+      "bookmark_count": 554,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTdgGMWsAAvGGi.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTdgGvbEAEAFTF.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTdgGvaEAAK8ir.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTdgGSXoAAgMgc.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
       "id": "2027754019536408858",
       "text": "What’s a cortisol? https://t.co/wumwT04T0B https://t.co/jltjwQLhwB",
       "author_name": "Alexander 𖤓 Nietzschean Vitalist",
@@ -3629,6 +5159,27 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-03-01"
+    },
+    {
+      "id": "2081838619103273280",
+      "text": "Me heading into Buck Mason (I'm just going for a quick look—don't even need to talk to anybody) https://t.co/jwqlUki7Jo",
+      "author_name": "R.F. Kenmore",
+      "author_handle": "@rfkenmore",
+      "created_at": "2026-07-27T20:26:20.000Z",
+      "url": "https://twitter.com/i/web/status/2081838619103273280",
+      "like_count": 566,
+      "bookmark_count": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOQrjddXUAACLMh.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOQs4OuXUAE0_Mr.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-27"
     }
   ],
   "Cars": [
