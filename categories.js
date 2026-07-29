@@ -896,780 +896,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-27"
     }
   ],
-  "Lifestyle & Culture": [
-    {
-      "id": "2080002820040696171",
-      "text": "If we were two little snails I would reach over from my cherry to your cherry just to give you a kiss https://t.co/Xt38WavuVg",
-      "author_name": "mia",
-      "author_handle": "@httpsosweet",
-      "created_at": "2026-07-22T18:51:31.000Z",
-      "url": "https://twitter.com/i/web/status/2080002820040696171",
-      "like_count": 265595,
-      "bookmark_count": 17451,
-      "images": [],
-      "_date": "2026-07-22"
-    },
-    {
-      "id": "2081740718393983405",
-      "text": "He’s not even lying 😭 https://t.co/KC4TUkCFo1 https://t.co/7FdBZR8RU8",
-      "author_name": "𝐄𝐑",
-      "author_handle": "@ErlingRoIe",
-      "created_at": "2026-07-27T13:57:18.000Z",
-      "url": "https://twitter.com/i/web/status/2081740718393983405",
-      "like_count": 197199,
-      "bookmark_count": 8285,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HOPUJgyXMAAwIKL.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-27"
-    },
-    {
-      "id": "2080677090744266770",
-      "text": "out. This is my last decision. I’m not going for money. I’m not going for family. What am I really playing for at this point? \n\nI still want to sacrifice. I still want to work. I still want to grind. I still want to compete, to win and to have a chance at the feeling of winning",
-      "author_name": "LeBron James",
-      "author_handle": "@KingJames",
-      "created_at": "2026-07-24T15:30:50.000Z",
-      "url": "https://twitter.com/i/web/status/2080677090744266770",
-      "like_count": 107136,
-      "bookmark_count": 1854,
-      "images": [],
-      "_date": "2026-07-24"
-    },
-    {
-      "id": "2081545881828905325",
-      "text": "https://t.co/USbw4qwlav https://t.co/gcZwM2vLxr",
-      "author_name": "Rune",
-      "author_handle": "@RuneCrypto_",
-      "created_at": "2026-07-27T01:03:06.000Z",
-      "url": "https://twitter.com/i/web/status/2081545881828905325",
-      "like_count": 68880,
-      "bookmark_count": 4606,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HOMi8O0WYAAKacb.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HOMi8O0WMAIo22c.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HOMi8O1WEAEqXLR.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HOMi8O3WkAAcXdl.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-26"
-    },
-    {
-      "id": "2080045751741137069",
-      "text": "Subway https://t.co/zmh78nCzsd",
-      "author_name": "Gitana",
-      "author_handle": "@Gitana1369877",
-      "created_at": "2026-07-22T21:42:07.000Z",
-      "url": "https://twitter.com/i/web/status/2080045751741137069",
-      "like_count": 62952,
-      "bookmark_count": 2084,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HN3OleWWgAEUIF_.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-22"
-    },
-    {
-      "id": "2080330498401055027",
-      "text": "https://t.co/HJlalRdpAO",
-      "author_name": "Cine Vichaar",
-      "author_handle": "@Cine_vichaar",
-      "created_at": "2026-07-23T16:33:36.000Z",
-      "url": "https://twitter.com/i/web/status/2080330498401055027",
-      "like_count": 46569,
-      "bookmark_count": 5207,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HN7RjXpbMAQIsgU.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-23"
-    },
-    {
-      "id": "2081838991028924876",
-      "text": "I’ve always maintained that this is genuinely a sign of intelligence, if not genius https://t.co/6TJVFkCDuP",
-      "author_name": "Grace Cathedral Park",
-      "author_handle": "@gracecthdralprk",
-      "created_at": "2026-07-27T20:27:48.000Z",
-      "url": "https://twitter.com/i/web/status/2081838991028924876",
-      "like_count": 43728,
-      "bookmark_count": 3581,
-      "images": [],
-      "_date": "2026-07-27"
-    },
-    {
-      "id": "2080036080590397857",
-      "text": "words can’t describe how much i love this video https://t.co/htrWponHpn https://t.co/ApjKgSEWik",
-      "author_name": "Hammillionaire",
-      "author_handle": "@Hammilionaire",
-      "created_at": "2026-07-22T21:03:41.000Z",
-      "url": "https://twitter.com/i/web/status/2080036080590397857",
-      "like_count": 42265,
-      "bookmark_count": 13621,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2079565704937021440/img/Erz5PnUOA-JEE7EL.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2079565704937021440/vid/avc1/576x1024/XhdJtB-32QGWNraH.mp4"
-        }
-      ],
-      "_date": "2026-07-22"
-    },
-    {
-      "id": "2081103509743686092",
-      "text": "Hava bir anda şundan oldu https://t.co/fps3ItOVZS",
-      "author_name": "ömer",
-      "author_handle": "@feanoroglu",
-      "created_at": "2026-07-25T19:45:16.000Z",
-      "url": "https://twitter.com/i/web/status/2081103509743686092",
-      "like_count": 31855,
-      "bookmark_count": 7556,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2081103490433044480/img/QvsAe5fyhu4m36Rb.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2081103490433044480/vid/avc1/952x718/7bmOxt3xCAdlNAap.mp4"
-        }
-      ],
-      "_date": "2026-07-25"
-    },
-    {
-      "id": "2081029985893052425",
-      "text": "Major cheat code for life: Always assume things will work out, then do the work to make it true. It’s a mindset of active optimism. Earned faith. It creates a quiet confidence that allows you to tolerate the uncertainty of life better than anything else.",
-      "author_name": "Sahil Bloom",
-      "author_handle": "@SahilBloom",
-      "created_at": "2026-07-25T14:53:06.000Z",
-      "url": "https://twitter.com/i/web/status/2081029985893052425",
-      "like_count": 27559,
-      "bookmark_count": 7101,
-      "images": [],
-      "_date": "2026-07-25"
-    },
-    {
-      "id": "2026449047163179449",
-      "text": "This is why shy introverts &amp; low agency people have worse outcomes in life. So simple, yet most wouldn’t do this bc they’d have talked themselves out of asking &amp; made up reasons why it wouldn’t work.\n\nAudacity compounds like this in so many invisible ways. Most rules are illusory https://t.co/0igIOZIaJb",
-      "author_name": "BONESAW 🕊️",
-      "author_handle": "@BonesawMD",
-      "created_at": "2026-02-25T00:07:57.000Z",
-      "url": "https://twitter.com/i/web/status/2026449047163179449",
-      "like_count": 16493,
-      "bookmark_count": 5766,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2027713819267551402",
-      "text": "\"The art of doing absolutely nothing, together.\" https://t.co/xSrCHVuKs5",
-      "author_name": "𝓅𝑜𝓋𝓂𝑒𝓂𝑜𝓇𝓎",
-      "author_handle": "@povmemory",
-      "created_at": "2026-02-28T11:53:42.000Z",
-      "url": "https://twitter.com/i/web/status/2027713819267551402",
-      "like_count": 15308,
-      "bookmark_count": 1035,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCPi-JUXwAApFf8.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2025620859315237319",
-      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
-      "author_name": "Jim",
-      "author_handle": "@Cackalacman",
-      "created_at": "2026-02-22T17:17:01.000Z",
-      "url": "https://twitter.com/i/web/status/2025620859315237319",
-      "like_count": 14151,
-      "bookmark_count": 1632,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2080681902688678398",
-      "text": "Top 5 most American photo of all time. https://t.co/GFio5f61RX https://t.co/BTdf8VxA47",
-      "author_name": "YIMBYLAND",
-      "author_handle": "@YIMBYLAND",
-      "created_at": "2026-07-24T15:49:57.000Z",
-      "url": "https://twitter.com/i/web/status/2080681902688678398",
-      "like_count": 12752,
-      "bookmark_count": 1121,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HOARKeFXcAA-qSK.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-24"
-    },
-    {
-      "id": "2025484522352156812",
-      "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
-      "author_name": "Ananya",
-      "author_handle": "@uff_meri_adaa",
-      "created_at": "2026-02-22T08:15:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025484522352156812",
-      "like_count": 11754,
-      "bookmark_count": 1238,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2080303525674795203",
-      "text": "He’s the perfect distillation of all Zoomer foid’s desires: Tall, handsome, Ivy League educated, works in finance, non-problematically ethnically ambiguous but still white-presenting, and from old family money (“Croonenberghs” mhm, dropped your Von a few generations ago pal). https://t.co/vJn4qDDsHW",
-      "author_name": "Shrimp Billionaire",
-      "author_handle": "@fentanylbrownie",
-      "created_at": "2026-07-23T14:46:25.000Z",
-      "url": "https://twitter.com/i/web/status/2080303525674795203",
-      "like_count": 10081,
-      "bookmark_count": 2239,
-      "images": [],
-      "_date": "2026-07-23"
-    },
-    {
-      "id": "2026125293149163694",
-      "text": "https://t.co/BH00Vpy4WF",
-      "author_name": "The Kobeissi Letter",
-      "author_handle": "@KobeissiLetter",
-      "created_at": "2026-02-24T02:41:28.000Z",
-      "url": "https://twitter.com/i/web/status/2026125293149163694",
-      "like_count": 8899,
-      "bookmark_count": 18283,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2081466061010898976",
-      "text": "Cooking for yourself is where you find out if you actually give a shit about your own life. because nobody is watching, nobody will know, nobody will thank you, and it still takes time and attention. and if you cannot do this one small thing for yourself, then everything else you claim is probably a lie",
-      "author_name": "🕊️",
-      "author_handle": "@lichthauch",
-      "created_at": "2026-07-26T19:45:55.000Z",
-      "url": "https://twitter.com/i/web/status/2081466061010898976",
-      "like_count": 8664,
-      "bookmark_count": 1551,
-      "images": [],
-      "_date": "2026-07-26"
-    },
-    {
-      "id": "2028026419603796311",
-      "text": "The dream &gt;&gt;&gt; https://t.co/yJyHdnFHYI",
-      "author_name": "femmenotes",
-      "author_handle": "@femmenote",
-      "created_at": "2026-03-01T08:35:51.000Z",
-      "url": "https://twitter.com/i/web/status/2028026419603796311",
-      "like_count": 7986,
-      "bookmark_count": 458,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCT_Ro8WYAAAaJA.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2025542084443382191",
-      "text": "Slowmaxxing is my new favorite thing to think about\n\n- Read a physical book\n- Go for a walk w/o listening to a podcast\n- Eat food w/o watching a tv show\n- Write using a pen and paper\n- Get a pot plant or 10; tend to a garden\n- Work hard on a single task\n- Watch a movie w/o looking at your phone\n\n2026 is the year of being slow",
-      "author_name": "Your Best Version",
-      "author_handle": "@YourPrimePath",
-      "created_at": "2026-02-22T12:04:00.000Z",
-      "url": "https://twitter.com/i/web/status/2025542084443382191",
-      "like_count": 6694,
-      "bookmark_count": 2086,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2025799591199969635",
-      "text": "Most people will read this and think optimists live longer because they eat better and exercise more. The study says something wilder.\n\nLee et al. controlled for smoking, diet, exercise, alcohol, depression, BMI, and socioeconomic status. The longevity effect still held. The most optimistic quartile lived 11 to 15% longer and had 1.5 to 1.7x odds of reaching 85 even after removing every behavioral difference.\n\nWhich means something is happening at the level of biology, not just habits.\n\nRozanski’s meta-analysis across 229,391 participants found optimists carry 35% lower cardiovascular event risk. Blackburn’s Nobel Prize-winning lab at UCSF found pessimistic attitudes are associated with accelerated telomere shortening. Cortisol suppresses telomerase, the enzyme that rebuilds the protective caps on your chromosomes. So chronic negative expectation literally erodes the structures that keep your cells from aging.\n\nThe loop runs: pessimistic cognitive style → sustained HPA axis activation → elevated cortisol → telomere degradation → accelerated cellular senescence. Optimists interrupt that loop at the top. They show less emotional reactivity to stressors, faster recovery from acute stress, and they default to reframing threats as challenges rather than catastrophizing.\n\nThe part nobody talks about from this paper: the authors explicitly state optimism is modifiable. This isn’t a personality trait you’re born with. Cognitive reappraisal training, morning sunlight for cortisol rhythm regulation, deliberate breathing protocols for vagal tone, structured gratitude practices. All of these shift the prefrontal cortex patterns that determine where you sit on the optimism spectrum.\n\nA 35% reduction in cardiac events from a trainable psychological variable is a bigger effect size than most supplements on the market. That’s the real story buried in this abstract.",
-      "author_name": "Aakash Gupta",
-      "author_handle": "@aakashgupta",
-      "created_at": "2026-02-23T05:07:14.000Z",
-      "url": "https://twitter.com/i/web/status/2025799591199969635",
-      "like_count": 6550,
-      "bookmark_count": 5510,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2080190890476486751",
-      "text": "🤣🤣🤣 https://t.co/4qSRMREVI2",
-      "author_name": "అతడు",
-      "author_handle": "@vinays_369",
-      "created_at": "2026-07-23T07:18:51.000Z",
-      "url": "https://twitter.com/i/web/status/2080190890476486751",
-      "like_count": 6270,
-      "bookmark_count": 546,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HN5SlOObAAA7uML.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-23"
-    },
-    {
-      "id": "2027892491522134053",
-      "text": "as it was foretold https://t.co/ROFdZomBxL https://t.co/tDacnuCqLZ",
-      "author_name": "Visakan Veerasamy",
-      "author_handle": "@visakanv",
-      "created_at": "2026-02-28T23:43:41.000Z",
-      "url": "https://twitter.com/i/web/status/2027892491522134053",
-      "like_count": 6106,
-      "bookmark_count": 1214,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCSFLokbAAAHuqw.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2028118798893486192",
-      "text": "Act accordingly this summer https://t.co/XVaZyoQYK5",
-      "author_name": "Nationalist",
-      "author_handle": "@euronationalizt",
-      "created_at": "2026-03-01T14:42:56.000Z",
-      "url": "https://twitter.com/i/web/status/2028118798893486192",
-      "like_count": 5842,
-      "bookmark_count": 1391,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCVTTA0XgAIAJWq.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2027997679012217151",
-      "text": "Goals https://t.co/frtzdDlVS4",
-      "author_name": "𝐒𝐜𝐫𝐨𝐥𝐥 𝐩𝐢𝐜𝐬",
-      "author_handle": "@scrollpics",
-      "created_at": "2026-03-01T06:41:39.000Z",
-      "url": "https://twitter.com/i/web/status/2027997679012217151",
-      "like_count": 5818,
-      "bookmark_count": 444,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCTlJE4W4AAHuah.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026563128373494268",
-      "text": "This is probably one of the most painful truths I've learned in life.\n\nFor probably a decade I thought my lack of discipline and focus was something innate—bad wiring, bad genes, \"ADHD\", etc. and that I would never achieve my goals because I was \"broken\".\n\nBut then for whatever reason I just decided to try getting better at them. Do the thing I don't want to do, keep working on the thing when I want to stop, etc. Not all the time. Not burning myself out. just making the slightly less pleasant choice a few times per day. \n\nI \"magically\" went from 20th percentile levels of discipline and focus to at least 80th percentile. Turns out it's just a skill like everything else and all I needed was a little practice.",
-      "author_name": "Max",
-      "author_handle": "@minordissent",
-      "created_at": "2026-02-25T07:41:16.000Z",
-      "url": "https://twitter.com/i/web/status/2026563128373494268",
-      "like_count": 5652,
-      "bookmark_count": 3164,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2079950908478075387",
-      "text": "https://t.co/XsrolqcaLK",
-      "author_name": "Hellenic History",
-      "author_handle": "@HellenicHist0ry",
-      "created_at": "2026-07-22T15:25:14.000Z",
-      "url": "https://twitter.com/i/web/status/2079950908478075387",
-      "like_count": 5409,
-      "bookmark_count": 297,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HN14U8RXcAANnKW.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-22"
-    },
-    {
-      "id": "2026308962715660400",
-      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
-      "author_name": "Jeremy Carl",
-      "author_handle": "@realJeremyCarl",
-      "created_at": "2026-02-24T14:51:18.000Z",
-      "url": "https://twitter.com/i/web/status/2026308962715660400",
-      "like_count": 5388,
-      "bookmark_count": 625,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2081088258306392239",
-      "text": "My final dating take is you either marry your college sweetheart and ride off into the sunset or you spend your 20s searching for the perfect puzzle piece that fits you and hopefully you get lucky.",
-      "author_name": "saila",
-      "author_handle": "@sailaunderscore",
-      "created_at": "2026-07-25T18:44:40.000Z",
-      "url": "https://twitter.com/i/web/status/2081088258306392239",
-      "like_count": 4625,
-      "bookmark_count": 495,
-      "images": [],
-      "_date": "2026-07-25"
-    },
-    {
-      "id": "2025924270673592406",
-      "text": "the normie mind cannot comprehend the fulfillment of a life characterized by long, intense bursts of hard work under the influence of obscure stimulants followed by a few unplanned weeks of leisure beyond their wildest imaginations. lukewarm is comfort, but intensity feeds the soul",
-      "author_name": "BasedBiohacker",
-      "author_handle": "@BasedBiohacker",
-      "created_at": "2026-02-23T13:22:40.000Z",
-      "url": "https://twitter.com/i/web/status/2025924270673592406",
-      "like_count": 2809,
-      "bookmark_count": 1038,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB2HFF_WIAALrP_.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB2HPqRWwAAEW5F.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025495168351441382",
-      "text": "When we endure long periods of inactivity, the experienced time is heavy, slow, and boring. But because nothing novel or meaningful occurs, our brain records no new data. Therefore, the remembered time shrinks to almost nothing. We lived through a massive stretch of time, but retrospectively, it vanishes. Each individual moment of waiting or doing nothing may have felt like a drag, but the problem is that such larger extents of time are almost reduced to nothing when we introspect. The time was spent, but we have nothing to show for it. \n\nConversely, when we are active and enjoying ourselves, the experienced time flies by. Yet, because we are laying down a dense track of new memories, the remembered time expands. Looking back, that brief, fast period feels rich, substantial, and long.\n\nUltimately, our perception of how much time we have lived is at the mercy of our memory. If nothing happens, the time essentially did not exist.\n\nThomas Mann discusses this phenomenon in depth in his book, The Magic Mountain. One of my favorite passages from the book:\n\n\"Vacuity, monotony, have, indeed, the property of lingering out  the moment and the hour and of making them tiresome. But they  are capable of contracting and dissipating the larger, the very large \ntime-units, to the point of reducing them to nothing at all. And  conversely, a full and interesting content can put wings to the  hour and the day; yet it will lend to the general passage of time a  weightiness, a breadth and solidity which cause the eventful years  to flow far more slowly than those poor, bare, empty ones over \nwhich the wind passes and they are gone. \n\nThus what we call tedium is rather an abnormal shortening of the time consequent  upon monotony. Great spaces of time passed in unbroken uniformity tend to shrink together in a way to make the heart stop beating for fear; when one day is like all the others, then they are \nall like one; complete uniformity would make the longest life seem short, and as though it had stolen away from us unawares.\"",
-      "author_name": "PS",
-      "author_handle": "@dostoevesque",
-      "created_at": "2026-02-22T08:57:34.000Z",
-      "url": "https://twitter.com/i/web/status/2025495168351441382",
-      "like_count": 2324,
-      "bookmark_count": 1435,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2081401438547382765",
-      "text": "The Canteloupe rule https://t.co/M02EzHg8Xh",
-      "author_name": "HANS LOREI",
-      "author_handle": "@hanslorei",
-      "created_at": "2026-07-26T15:29:08.000Z",
-      "url": "https://twitter.com/i/web/status/2081401438547382765",
-      "like_count": 2123,
-      "bookmark_count": 1540,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2081401386064035840/img/xlGLJclYjaxwC-xH.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2081401386064035840/vid/avc1/1080x1920/I208wQDpXuwo-4UW.mp4"
-        }
-      ],
-      "_date": "2026-07-26"
-    },
-    {
-      "id": "2028100594750165212",
-      "text": "https://t.co/wn7k7WpgUR",
-      "author_name": "Artzchillect",
-      "author_handle": "@Artzchillect",
-      "created_at": "2026-03-01T13:30:36.000Z",
-      "url": "https://twitter.com/i/web/status/2028100594750165212",
-      "like_count": 1660,
-      "bookmark_count": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCVCvXxboAAi3lv.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2028056149912629399",
-      "text": "https://t.co/txcYholE9j",
-      "author_name": "Ayesha",
-      "author_handle": "@ayeshatravel",
-      "created_at": "2026-03-01T10:34:00.000Z",
-      "url": "https://twitter.com/i/web/status/2028056149912629399",
-      "like_count": 1607,
-      "bookmark_count": 100,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCQgKliaQAAAVz0.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2027537304319914483",
-      "text": "Never let them know ur next move https://t.co/o7X69d6foX",
-      "author_name": "lemón",
-      "author_handle": "@cigarettesummer",
-      "created_at": "2026-02-28T00:12:17.000Z",
-      "url": "https://twitter.com/i/web/status/2027537304319914483",
-      "like_count": 1597,
-      "bookmark_count": 89,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCNCbjYWYAITq1R.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2028086852482138352",
-      "text": "never be fat https://t.co/ggFWgDM9ts",
-      "author_name": "Gentlemen's Aesthetics",
-      "author_handle": "@Gmen_Aesthetics",
-      "created_at": "2026-03-01T12:36:00.000Z",
-      "url": "https://twitter.com/i/web/status/2028086852482138352",
-      "like_count": 1508,
-      "bookmark_count": 109,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCTWKJYbEAIDcKj.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2026156573936976082",
-      "text": "Never met a single interesting person who had any sort of “balance” in their life. Tip the scale. All the way. Throw caution to the wind. Sink or swim. Take massive swings. Leap into the abyss. Stay up nights. If you’re going to “fail” then fail miserably and spectacularly. Get up and try again. See how far you can go. Go even further. Give them something to talk about. Give yourself something to talk about. Give a damn. Make it worth your while. \n\nLife really is all or nothing.",
-      "author_name": "rachel",
-      "author_handle": "@rachcorrine",
-      "created_at": "2026-02-24T04:45:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026156573936976082",
-      "like_count": 1424,
-      "bookmark_count": 447,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2025768860805476412",
-      "text": "How much do you need to make to live an \"upper middle class\" lifestyle in a major city?\n\nIndia: ₹1.9-4.1cr/yr ($210k-$450k/yr)\nUS: $670k-$1.4M/yr\n\nThe bar has never been higher.\n\nAssumes:\n–Household income\n–Own a 4bed house\n–2 kids + private school + US college\n–1 intl trip/yr https://t.co/od3V9bTE8n",
-      "author_name": "Deedy",
-      "author_handle": "@deedydas",
-      "created_at": "2026-02-23T03:05:08.000Z",
-      "url": "https://twitter.com/i/web/status/2025768860805476412",
-      "like_count": 1207,
-      "bookmark_count": 1193,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBz6CvSaUAAWt21.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2028171638249001397",
-      "text": "Rate this Setup https://t.co/z7kGJCeTVd",
-      "author_name": "Minimaldex",
-      "author_handle": "@Minimaldex",
-      "created_at": "2026-03-01T18:12:54.000Z",
-      "url": "https://twitter.com/i/web/status/2028171638249001397",
-      "like_count": 1126,
-      "bookmark_count": 153,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCWDW2ebQAEXdNt.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2028096920246177928",
-      "text": "part of my soul longs for this aesthetic https://t.co/7gjfRt59hJ",
-      "author_name": "𝓟𝓻𝓪𝓲𝓼𝓮 🕷️",
-      "author_handle": "@tufpraise",
-      "created_at": "2026-03-01T13:16:00.000Z",
-      "url": "https://twitter.com/i/web/status/2028096920246177928",
-      "like_count": 1036,
-      "bookmark_count": 230,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCU_X0ZWwAA_UPH.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCU_X00XYAESqme.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCU_X02WEAApAK-.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCU_X0aWYAEXrcG.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2080743664070861212",
-      "text": "does he pull off the receding hairline because he's blonde? how does he do it? https://t.co/RKAe0L8Hty",
-      "author_name": "henry",
-      "author_handle": "@trappedkrinkle",
-      "created_at": "2026-07-24T19:55:22.000Z",
-      "url": "https://twitter.com/i/web/status/2080743664070861212",
-      "like_count": 1026,
-      "bookmark_count": 148,
-      "images": [],
-      "_date": "2026-07-24"
-    },
-    {
-      "id": "2027690763799130389",
-      "text": "\"Parisian rooftops and wine-stained conversations” https://t.co/INwyUsSOga",
-      "author_name": "Gitana",
-      "author_handle": "@Gitana1369877",
-      "created_at": "2026-02-28T10:22:05.000Z",
-      "url": "https://twitter.com/i/web/status/2027690763799130389",
-      "like_count": 796,
-      "bookmark_count": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCPOAKoXcAA1zZh.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2028090447915089970",
-      "text": "https://t.co/WTh05JlqGc",
-      "author_name": "𝒆𝒍𝒚𝒓𝒂",
-      "author_handle": "@elyradream",
-      "created_at": "2026-03-01T12:50:17.000Z",
-      "url": "https://twitter.com/i/web/status/2028090447915089970",
-      "like_count": 499,
-      "bookmark_count": 46,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2028090419058180096/pu/img/Ek8EaisAYNFT7-zf.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/ext_tw_video/2028090419058180096/pu/vid/avc1/720x1278/SBv2IdiqtFZv3RRj.mp4"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2028010551394373821",
-      "text": "March📅\n#desksetup https://t.co/02DrAxBU2p",
-      "author_name": "たついち| ミニメモ！",
-      "author_handle": "@4YIns",
-      "created_at": "2026-03-01T07:32:48.000Z",
-      "url": "https://twitter.com/i/web/status/2028010551394373821",
-      "like_count": 376,
-      "bookmark_count": 74,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCTwsYwbEAMdbpe.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCTwsY1boAA2jLZ.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCTwsY4bEAUgxqr.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCTwsY2bsAAHK4s.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026973227155919191",
-      "text": "Your highest creative expression is a dance between concentrated focus and expanded consciousness.\n\nGo to a rave solo. Smoke a joint. Let yourself get loose and dance for hours. New ideas and downloads will come through from the expanded state. Write these down. You’ll use the later.\n\nThen, go to the completely opposite end of the spectrum. Sit down at your computer the next day and organize everything that came through. Send the messages. Finish the article. Bring the project to completion. \n\nYou turn ideas into finished products by sitting down, narrowing your consciousness, and doing the work.\n\nMost people exist in only one of these two camps. \n\nSome only smoke weed, go to raves, or get downloads in meditation. But they never bring anything into material reality because they won’t narrow their consciousness into linear work.\n\nOthers only sit at the computer for 12 hours a day and never expand their mind or access new frequencies with seemingly strange or unproductive activities - and so their ideas stall out and they never create anything new.\n\nYou will be most creative in expanded states of consciousness. You will be most productive in narrowed states of consciousness. If you want to maximize your creative potential, you need both.\n\nLet loose yourself get loose. Then, sit down and do the work. \n\nAnd most importantly, whatever you do, do it fully.",
-      "author_name": "Jack Moses",
-      "author_handle": "@jackmoses0",
-      "created_at": "2026-02-26T10:50:51.000Z",
-      "url": "https://twitter.com/i/web/status/2026973227155919191",
-      "like_count": 272,
-      "bookmark_count": 146,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2028073502830645348",
-      "text": "Orange Lamps🧡\n#desksetup https://t.co/BjI4ARRQqE",
-      "author_name": "ぶらっく",
-      "author_handle": "@XxCode_BlackxX",
-      "created_at": "2026-03-01T11:42:57.000Z",
-      "url": "https://twitter.com/i/web/status/2028073502830645348",
-      "like_count": 254,
-      "bookmark_count": 17,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCUpwr6b0AAsWBp.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2028263013032345868",
-      "text": "https://t.co/hcO3VkEXPv",
-      "author_name": "Spacesthetic",
-      "author_handle": "@interiorsuckerr",
-      "created_at": "2026-03-02T00:16:00.000Z",
-      "url": "https://twitter.com/i/web/status/2028263013032345868",
-      "like_count": 219,
-      "bookmark_count": 43,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB7sGn0bMAAU7mF.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB7sHjjagAAewON.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB7sIC3aYAAkfUL.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB7sIf8bEAAsb4n.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2025913540746330545",
-      "text": "8. The Therapist's Final Prescription: Reverse the Shifts Intentionally.\n\nShe said the couples who stay passionate are the ones who consciously reverse these shifts. They keep pursuing. They keep growing so they remain interesting. \n\nThey protect time for lover conversations, not just logistics. They stay vulnerable. They practice daily gratitude. They maintain their polarities. They put the screens down and actually look at each other. Passion is not a mystery. It is a practice. \n\nThe couples who stay passionate are not luckier. They are more intentional.",
-      "author_name": "Helen Casanova | Seduction Palace",
-      "author_handle": "@HelenCasanova_",
-      "created_at": "2026-02-23T12:40:02.000Z",
-      "url": "https://twitter.com/i/web/status/2025913540746330545",
-      "like_count": 188,
-      "bookmark_count": 171,
-      "images": [],
-      "_date": "2026-02-23"
-    }
-  ],
   "Movies": [
     {
       "id": "2080073426283237886",
@@ -2427,7 +1653,718 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-07-22"
     }
   ],
+  "Lifestyle & Culture": [
+    {
+      "id": "2081545881828905325",
+      "text": "https://t.co/USbw4qwlav https://t.co/gcZwM2vLxr",
+      "author_name": "Rune",
+      "author_handle": "@RuneCrypto_",
+      "created_at": "2026-07-27T01:03:06.000Z",
+      "url": "https://twitter.com/i/web/status/2081545881828905325",
+      "like_count": 68880,
+      "bookmark_count": 4606,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O0WYAAKacb.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O0WMAIo22c.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O1WEAEqXLR.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HOMi8O3WkAAcXdl.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2080045751741137069",
+      "text": "Subway https://t.co/zmh78nCzsd",
+      "author_name": "Gitana",
+      "author_handle": "@Gitana1369877",
+      "created_at": "2026-07-22T21:42:07.000Z",
+      "url": "https://twitter.com/i/web/status/2080045751741137069",
+      "like_count": 62952,
+      "bookmark_count": 2084,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN3OleWWgAEUIF_.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2080330498401055027",
+      "text": "https://t.co/HJlalRdpAO",
+      "author_name": "Cine Vichaar",
+      "author_handle": "@Cine_vichaar",
+      "created_at": "2026-07-23T16:33:36.000Z",
+      "url": "https://twitter.com/i/web/status/2080330498401055027",
+      "like_count": 46569,
+      "bookmark_count": 5207,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN7RjXpbMAQIsgU.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2081838991028924876",
+      "text": "I’ve always maintained that this is genuinely a sign of intelligence, if not genius https://t.co/6TJVFkCDuP",
+      "author_name": "Grace Cathedral Park",
+      "author_handle": "@gracecthdralprk",
+      "created_at": "2026-07-27T20:27:48.000Z",
+      "url": "https://twitter.com/i/web/status/2081838991028924876",
+      "like_count": 43728,
+      "bookmark_count": 3581,
+      "images": [],
+      "_date": "2026-07-27"
+    },
+    {
+      "id": "2080036080590397857",
+      "text": "words can’t describe how much i love this video https://t.co/htrWponHpn https://t.co/ApjKgSEWik",
+      "author_name": "Hammillionaire",
+      "author_handle": "@Hammilionaire",
+      "created_at": "2026-07-22T21:03:41.000Z",
+      "url": "https://twitter.com/i/web/status/2080036080590397857",
+      "like_count": 42265,
+      "bookmark_count": 13621,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2079565704937021440/img/Erz5PnUOA-JEE7EL.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2079565704937021440/vid/avc1/576x1024/XhdJtB-32QGWNraH.mp4"
+        }
+      ],
+      "_date": "2026-07-22"
+    },
+    {
+      "id": "2081103509743686092",
+      "text": "Hava bir anda şundan oldu https://t.co/fps3ItOVZS",
+      "author_name": "ömer",
+      "author_handle": "@feanoroglu",
+      "created_at": "2026-07-25T19:45:16.000Z",
+      "url": "https://twitter.com/i/web/status/2081103509743686092",
+      "like_count": 31855,
+      "bookmark_count": 7556,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081103490433044480/img/QvsAe5fyhu4m36Rb.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081103490433044480/vid/avc1/952x718/7bmOxt3xCAdlNAap.mp4"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2081029985893052425",
+      "text": "Major cheat code for life: Always assume things will work out, then do the work to make it true. It’s a mindset of active optimism. Earned faith. It creates a quiet confidence that allows you to tolerate the uncertainty of life better than anything else.",
+      "author_name": "Sahil Bloom",
+      "author_handle": "@SahilBloom",
+      "created_at": "2026-07-25T14:53:06.000Z",
+      "url": "https://twitter.com/i/web/status/2081029985893052425",
+      "like_count": 27559,
+      "bookmark_count": 7101,
+      "images": [],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2026449047163179449",
+      "text": "This is why shy introverts &amp; low agency people have worse outcomes in life. So simple, yet most wouldn’t do this bc they’d have talked themselves out of asking &amp; made up reasons why it wouldn’t work.\n\nAudacity compounds like this in so many invisible ways. Most rules are illusory https://t.co/0igIOZIaJb",
+      "author_name": "BONESAW 🕊️",
+      "author_handle": "@BonesawMD",
+      "created_at": "2026-02-25T00:07:57.000Z",
+      "url": "https://twitter.com/i/web/status/2026449047163179449",
+      "like_count": 16493,
+      "bookmark_count": 5766,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2027713819267551402",
+      "text": "\"The art of doing absolutely nothing, together.\" https://t.co/xSrCHVuKs5",
+      "author_name": "𝓅𝑜𝓋𝓂𝑒𝓂𝑜𝓇𝓎",
+      "author_handle": "@povmemory",
+      "created_at": "2026-02-28T11:53:42.000Z",
+      "url": "https://twitter.com/i/web/status/2027713819267551402",
+      "like_count": 15308,
+      "bookmark_count": 1035,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPi-JUXwAApFf8.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2025620859315237319",
+      "text": "This is why American is different. No disrespect to anybody else or other countries. Just speaking to and about middle class America. You can believe all you want about the power of the elite class riding around on yachts, private country club memberships, politicians using their platforms to divide and to enrich themselves and think they are better than everybody else. \n\nWhen you get into the heart of America. This is what you get. This picture symbolizes America.  There are still badasses by the C130 loads in this country. Don't let social media fool you. Please don't. Those boot wearing, blood spitting, potato eating SOB's are the silent majority I promise you. When it's time to kick ass and take names. They will be there. They won't be recording with their Iphones, driving Lexus SUVs.  They won't be wearing Gucci shoes and Peter Millar golf shirts, Smathers and Branson belts but you'll know they are there. You won't hear them. You will see them. This picture symbolizes this country. Its toughness has never wavered from it's founding to modern day. It doesn't give up. It's gets knocked down, gets up and fights.  So when you see that man with dirty hands, dirty boots, torn jeans missing a tooth, calluses on his hands and two toddlers hanging off his arm after a 14hr work day. Just know...that is America. That is the United States of America. That is the majority.  Judge them how you want but never under estimate their resolve when their back is against the wall.",
+      "author_name": "Jim",
+      "author_handle": "@Cackalacman",
+      "created_at": "2026-02-22T17:17:01.000Z",
+      "url": "https://twitter.com/i/web/status/2025620859315237319",
+      "like_count": 14151,
+      "bookmark_count": 1632,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2080681902688678398",
+      "text": "Top 5 most American photo of all time. https://t.co/GFio5f61RX https://t.co/BTdf8VxA47",
+      "author_name": "YIMBYLAND",
+      "author_handle": "@YIMBYLAND",
+      "created_at": "2026-07-24T15:49:57.000Z",
+      "url": "https://twitter.com/i/web/status/2080681902688678398",
+      "like_count": 12752,
+      "bookmark_count": 1121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOARKeFXcAA-qSK.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2025484522352156812",
+      "text": "hostel mate's 48 LPA boyfriend travels every weekend just to meet her and sure, love is poetry but it thrives best on the playground of financial stability",
+      "author_name": "Ananya",
+      "author_handle": "@uff_meri_adaa",
+      "created_at": "2026-02-22T08:15:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025484522352156812",
+      "like_count": 11754,
+      "bookmark_count": 1238,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2080303525674795203",
+      "text": "He’s the perfect distillation of all Zoomer foid’s desires: Tall, handsome, Ivy League educated, works in finance, non-problematically ethnically ambiguous but still white-presenting, and from old family money (“Croonenberghs” mhm, dropped your Von a few generations ago pal). https://t.co/vJn4qDDsHW",
+      "author_name": "Shrimp Billionaire",
+      "author_handle": "@fentanylbrownie",
+      "created_at": "2026-07-23T14:46:25.000Z",
+      "url": "https://twitter.com/i/web/status/2080303525674795203",
+      "like_count": 10081,
+      "bookmark_count": 2239,
+      "images": [],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2026125293149163694",
+      "text": "https://t.co/BH00Vpy4WF",
+      "author_name": "The Kobeissi Letter",
+      "author_handle": "@KobeissiLetter",
+      "created_at": "2026-02-24T02:41:28.000Z",
+      "url": "https://twitter.com/i/web/status/2026125293149163694",
+      "like_count": 8899,
+      "bookmark_count": 18283,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2081466061010898976",
+      "text": "Cooking for yourself is where you find out if you actually give a shit about your own life. because nobody is watching, nobody will know, nobody will thank you, and it still takes time and attention. and if you cannot do this one small thing for yourself, then everything else you claim is probably a lie",
+      "author_name": "🕊️",
+      "author_handle": "@lichthauch",
+      "created_at": "2026-07-26T19:45:55.000Z",
+      "url": "https://twitter.com/i/web/status/2081466061010898976",
+      "like_count": 8664,
+      "bookmark_count": 1551,
+      "images": [],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2028026419603796311",
+      "text": "The dream &gt;&gt;&gt; https://t.co/yJyHdnFHYI",
+      "author_name": "femmenotes",
+      "author_handle": "@femmenote",
+      "created_at": "2026-03-01T08:35:51.000Z",
+      "url": "https://twitter.com/i/web/status/2028026419603796311",
+      "like_count": 7986,
+      "bookmark_count": 458,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCT_Ro8WYAAAaJA.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2025542084443382191",
+      "text": "Slowmaxxing is my new favorite thing to think about\n\n- Read a physical book\n- Go for a walk w/o listening to a podcast\n- Eat food w/o watching a tv show\n- Write using a pen and paper\n- Get a pot plant or 10; tend to a garden\n- Work hard on a single task\n- Watch a movie w/o looking at your phone\n\n2026 is the year of being slow",
+      "author_name": "Your Best Version",
+      "author_handle": "@YourPrimePath",
+      "created_at": "2026-02-22T12:04:00.000Z",
+      "url": "https://twitter.com/i/web/status/2025542084443382191",
+      "like_count": 6694,
+      "bookmark_count": 2086,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2025799591199969635",
+      "text": "Most people will read this and think optimists live longer because they eat better and exercise more. The study says something wilder.\n\nLee et al. controlled for smoking, diet, exercise, alcohol, depression, BMI, and socioeconomic status. The longevity effect still held. The most optimistic quartile lived 11 to 15% longer and had 1.5 to 1.7x odds of reaching 85 even after removing every behavioral difference.\n\nWhich means something is happening at the level of biology, not just habits.\n\nRozanski’s meta-analysis across 229,391 participants found optimists carry 35% lower cardiovascular event risk. Blackburn’s Nobel Prize-winning lab at UCSF found pessimistic attitudes are associated with accelerated telomere shortening. Cortisol suppresses telomerase, the enzyme that rebuilds the protective caps on your chromosomes. So chronic negative expectation literally erodes the structures that keep your cells from aging.\n\nThe loop runs: pessimistic cognitive style → sustained HPA axis activation → elevated cortisol → telomere degradation → accelerated cellular senescence. Optimists interrupt that loop at the top. They show less emotional reactivity to stressors, faster recovery from acute stress, and they default to reframing threats as challenges rather than catastrophizing.\n\nThe part nobody talks about from this paper: the authors explicitly state optimism is modifiable. This isn’t a personality trait you’re born with. Cognitive reappraisal training, morning sunlight for cortisol rhythm regulation, deliberate breathing protocols for vagal tone, structured gratitude practices. All of these shift the prefrontal cortex patterns that determine where you sit on the optimism spectrum.\n\nA 35% reduction in cardiac events from a trainable psychological variable is a bigger effect size than most supplements on the market. That’s the real story buried in this abstract.",
+      "author_name": "Aakash Gupta",
+      "author_handle": "@aakashgupta",
+      "created_at": "2026-02-23T05:07:14.000Z",
+      "url": "https://twitter.com/i/web/status/2025799591199969635",
+      "like_count": 6550,
+      "bookmark_count": 5510,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2027892491522134053",
+      "text": "as it was foretold https://t.co/ROFdZomBxL https://t.co/tDacnuCqLZ",
+      "author_name": "Visakan Veerasamy",
+      "author_handle": "@visakanv",
+      "created_at": "2026-02-28T23:43:41.000Z",
+      "url": "https://twitter.com/i/web/status/2027892491522134053",
+      "like_count": 6106,
+      "bookmark_count": 1214,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCSFLokbAAAHuqw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028118798893486192",
+      "text": "Act accordingly this summer https://t.co/XVaZyoQYK5",
+      "author_name": "Nationalist",
+      "author_handle": "@euronationalizt",
+      "created_at": "2026-03-01T14:42:56.000Z",
+      "url": "https://twitter.com/i/web/status/2028118798893486192",
+      "like_count": 5842,
+      "bookmark_count": 1391,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCVTTA0XgAIAJWq.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027997679012217151",
+      "text": "Goals https://t.co/frtzdDlVS4",
+      "author_name": "𝐒𝐜𝐫𝐨𝐥𝐥 𝐩𝐢𝐜𝐬",
+      "author_handle": "@scrollpics",
+      "created_at": "2026-03-01T06:41:39.000Z",
+      "url": "https://twitter.com/i/web/status/2027997679012217151",
+      "like_count": 5818,
+      "bookmark_count": 444,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTlJE4W4AAHuah.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026563128373494268",
+      "text": "This is probably one of the most painful truths I've learned in life.\n\nFor probably a decade I thought my lack of discipline and focus was something innate—bad wiring, bad genes, \"ADHD\", etc. and that I would never achieve my goals because I was \"broken\".\n\nBut then for whatever reason I just decided to try getting better at them. Do the thing I don't want to do, keep working on the thing when I want to stop, etc. Not all the time. Not burning myself out. just making the slightly less pleasant choice a few times per day. \n\nI \"magically\" went from 20th percentile levels of discipline and focus to at least 80th percentile. Turns out it's just a skill like everything else and all I needed was a little practice.",
+      "author_name": "Max",
+      "author_handle": "@minordissent",
+      "created_at": "2026-02-25T07:41:16.000Z",
+      "url": "https://twitter.com/i/web/status/2026563128373494268",
+      "like_count": 5652,
+      "bookmark_count": 3164,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026308962715660400",
+      "text": "When I was growing up in the 1980s,  If an American-born-and-raised athlete had taken millions of dollars to compete for the Soviet Union in the Olympics, there would have been no question of numerous media puff-pieces like this-- the only question would be whether he/she could walk down the street safely.   And we'd be planning to strip their citizenship and deport that person ASAP.\n\nNow, Eileen Gu does this for our greatest geopolitical rival (China) and the media acts like this is somehow normal. \n\nLook, I'd never, ever do it, but there are edge cases where someone who could never compete for the U.S. team competes for somewhere else where they may be eligible for citizenship.   Or an athlete who might be able to compete for the U.S. competes for another country that is not OUR BIGGEST GEOPOLITICAL RIVAL. I can wrap my head around that, even if I strongly disagree with it.\n\nBut this is someone born, raised and trained in America, who could have competed for America, instead choosing to take millions of $ to give honor and glory to our authoritarian rival.  It's an unthinkable betrayal of our country, and the fact that so much of our media has normalized it is a sign of major decline and decadence, at least among our \"elites.\"",
+      "author_name": "Jeremy Carl",
+      "author_handle": "@realJeremyCarl",
+      "created_at": "2026-02-24T14:51:18.000Z",
+      "url": "https://twitter.com/i/web/status/2026308962715660400",
+      "like_count": 5388,
+      "bookmark_count": 625,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2081088258306392239",
+      "text": "My final dating take is you either marry your college sweetheart and ride off into the sunset or you spend your 20s searching for the perfect puzzle piece that fits you and hopefully you get lucky.",
+      "author_name": "saila",
+      "author_handle": "@sailaunderscore",
+      "created_at": "2026-07-25T18:44:40.000Z",
+      "url": "https://twitter.com/i/web/status/2081088258306392239",
+      "like_count": 4625,
+      "bookmark_count": 495,
+      "images": [],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2025924270673592406",
+      "text": "the normie mind cannot comprehend the fulfillment of a life characterized by long, intense bursts of hard work under the influence of obscure stimulants followed by a few unplanned weeks of leisure beyond their wildest imaginations. lukewarm is comfort, but intensity feeds the soul",
+      "author_name": "BasedBiohacker",
+      "author_handle": "@BasedBiohacker",
+      "created_at": "2026-02-23T13:22:40.000Z",
+      "url": "https://twitter.com/i/web/status/2025924270673592406",
+      "like_count": 2809,
+      "bookmark_count": 1038,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB2HFF_WIAALrP_.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB2HPqRWwAAEW5F.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025495168351441382",
+      "text": "When we endure long periods of inactivity, the experienced time is heavy, slow, and boring. But because nothing novel or meaningful occurs, our brain records no new data. Therefore, the remembered time shrinks to almost nothing. We lived through a massive stretch of time, but retrospectively, it vanishes. Each individual moment of waiting or doing nothing may have felt like a drag, but the problem is that such larger extents of time are almost reduced to nothing when we introspect. The time was spent, but we have nothing to show for it. \n\nConversely, when we are active and enjoying ourselves, the experienced time flies by. Yet, because we are laying down a dense track of new memories, the remembered time expands. Looking back, that brief, fast period feels rich, substantial, and long.\n\nUltimately, our perception of how much time we have lived is at the mercy of our memory. If nothing happens, the time essentially did not exist.\n\nThomas Mann discusses this phenomenon in depth in his book, The Magic Mountain. One of my favorite passages from the book:\n\n\"Vacuity, monotony, have, indeed, the property of lingering out  the moment and the hour and of making them tiresome. But they  are capable of contracting and dissipating the larger, the very large \ntime-units, to the point of reducing them to nothing at all. And  conversely, a full and interesting content can put wings to the  hour and the day; yet it will lend to the general passage of time a  weightiness, a breadth and solidity which cause the eventful years  to flow far more slowly than those poor, bare, empty ones over \nwhich the wind passes and they are gone. \n\nThus what we call tedium is rather an abnormal shortening of the time consequent  upon monotony. Great spaces of time passed in unbroken uniformity tend to shrink together in a way to make the heart stop beating for fear; when one day is like all the others, then they are \nall like one; complete uniformity would make the longest life seem short, and as though it had stolen away from us unawares.\"",
+      "author_name": "PS",
+      "author_handle": "@dostoevesque",
+      "created_at": "2026-02-22T08:57:34.000Z",
+      "url": "https://twitter.com/i/web/status/2025495168351441382",
+      "like_count": 2324,
+      "bookmark_count": 1435,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2081401438547382765",
+      "text": "The Canteloupe rule https://t.co/M02EzHg8Xh",
+      "author_name": "HANS LOREI",
+      "author_handle": "@hanslorei",
+      "created_at": "2026-07-26T15:29:08.000Z",
+      "url": "https://twitter.com/i/web/status/2081401438547382765",
+      "like_count": 2123,
+      "bookmark_count": 1540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2081401386064035840/img/xlGLJclYjaxwC-xH.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2081401386064035840/vid/avc1/1080x1920/I208wQDpXuwo-4UW.mp4"
+        }
+      ],
+      "_date": "2026-07-26"
+    },
+    {
+      "id": "2028100594750165212",
+      "text": "https://t.co/wn7k7WpgUR",
+      "author_name": "Artzchillect",
+      "author_handle": "@Artzchillect",
+      "created_at": "2026-03-01T13:30:36.000Z",
+      "url": "https://twitter.com/i/web/status/2028100594750165212",
+      "like_count": 1660,
+      "bookmark_count": 77,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCVCvXxboAAi3lv.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028056149912629399",
+      "text": "https://t.co/txcYholE9j",
+      "author_name": "Ayesha",
+      "author_handle": "@ayeshatravel",
+      "created_at": "2026-03-01T10:34:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028056149912629399",
+      "like_count": 1607,
+      "bookmark_count": 100,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQgKliaQAAAVz0.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027537304319914483",
+      "text": "Never let them know ur next move https://t.co/o7X69d6foX",
+      "author_name": "lemón",
+      "author_handle": "@cigarettesummer",
+      "created_at": "2026-02-28T00:12:17.000Z",
+      "url": "https://twitter.com/i/web/status/2027537304319914483",
+      "like_count": 1597,
+      "bookmark_count": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCNCbjYWYAITq1R.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028086852482138352",
+      "text": "never be fat https://t.co/ggFWgDM9ts",
+      "author_name": "Gentlemen's Aesthetics",
+      "author_handle": "@Gmen_Aesthetics",
+      "created_at": "2026-03-01T12:36:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028086852482138352",
+      "like_count": 1508,
+      "bookmark_count": 109,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTWKJYbEAIDcKj.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2026156573936976082",
+      "text": "Never met a single interesting person who had any sort of “balance” in their life. Tip the scale. All the way. Throw caution to the wind. Sink or swim. Take massive swings. Leap into the abyss. Stay up nights. If you’re going to “fail” then fail miserably and spectacularly. Get up and try again. See how far you can go. Go even further. Give them something to talk about. Give yourself something to talk about. Give a damn. Make it worth your while. \n\nLife really is all or nothing.",
+      "author_name": "rachel",
+      "author_handle": "@rachcorrine",
+      "created_at": "2026-02-24T04:45:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026156573936976082",
+      "like_count": 1424,
+      "bookmark_count": 447,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2025768860805476412",
+      "text": "How much do you need to make to live an \"upper middle class\" lifestyle in a major city?\n\nIndia: ₹1.9-4.1cr/yr ($210k-$450k/yr)\nUS: $670k-$1.4M/yr\n\nThe bar has never been higher.\n\nAssumes:\n–Household income\n–Own a 4bed house\n–2 kids + private school + US college\n–1 intl trip/yr https://t.co/od3V9bTE8n",
+      "author_name": "Deedy",
+      "author_handle": "@deedydas",
+      "created_at": "2026-02-23T03:05:08.000Z",
+      "url": "https://twitter.com/i/web/status/2025768860805476412",
+      "like_count": 1207,
+      "bookmark_count": 1193,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBz6CvSaUAAWt21.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2028171638249001397",
+      "text": "Rate this Setup https://t.co/z7kGJCeTVd",
+      "author_name": "Minimaldex",
+      "author_handle": "@Minimaldex",
+      "created_at": "2026-03-01T18:12:54.000Z",
+      "url": "https://twitter.com/i/web/status/2028171638249001397",
+      "like_count": 1126,
+      "bookmark_count": 153,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCWDW2ebQAEXdNt.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028096920246177928",
+      "text": "part of my soul longs for this aesthetic https://t.co/7gjfRt59hJ",
+      "author_name": "𝓟𝓻𝓪𝓲𝓼𝓮 🕷️",
+      "author_handle": "@tufpraise",
+      "created_at": "2026-03-01T13:16:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028096920246177928",
+      "like_count": 1036,
+      "bookmark_count": 230,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X0ZWwAA_UPH.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X00XYAESqme.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X02WEAApAK-.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCU_X0aWYAEXrcG.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2080743664070861212",
+      "text": "does he pull off the receding hairline because he's blonde? how does he do it? https://t.co/RKAe0L8Hty",
+      "author_name": "henry",
+      "author_handle": "@trappedkrinkle",
+      "created_at": "2026-07-24T19:55:22.000Z",
+      "url": "https://twitter.com/i/web/status/2080743664070861212",
+      "like_count": 1026,
+      "bookmark_count": 148,
+      "images": [],
+      "_date": "2026-07-24"
+    },
+    {
+      "id": "2027690763799130389",
+      "text": "\"Parisian rooftops and wine-stained conversations” https://t.co/INwyUsSOga",
+      "author_name": "Gitana",
+      "author_handle": "@Gitana1369877",
+      "created_at": "2026-02-28T10:22:05.000Z",
+      "url": "https://twitter.com/i/web/status/2027690763799130389",
+      "like_count": 796,
+      "bookmark_count": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPOAKoXcAA1zZh.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2028090447915089970",
+      "text": "https://t.co/WTh05JlqGc",
+      "author_name": "𝒆𝒍𝒚𝒓𝒂",
+      "author_handle": "@elyradream",
+      "created_at": "2026-03-01T12:50:17.000Z",
+      "url": "https://twitter.com/i/web/status/2028090447915089970",
+      "like_count": 499,
+      "bookmark_count": 46,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2028090419058180096/pu/img/Ek8EaisAYNFT7-zf.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2028090419058180096/pu/vid/avc1/720x1278/SBv2IdiqtFZv3RRj.mp4"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028010551394373821",
+      "text": "March📅\n#desksetup https://t.co/02DrAxBU2p",
+      "author_name": "たついち| ミニメモ！",
+      "author_handle": "@4YIns",
+      "created_at": "2026-03-01T07:32:48.000Z",
+      "url": "https://twitter.com/i/web/status/2028010551394373821",
+      "like_count": 376,
+      "bookmark_count": 74,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsYwbEAMdbpe.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsY1boAA2jLZ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsY4bEAUgxqr.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCTwsY2bsAAHK4s.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026973227155919191",
+      "text": "Your highest creative expression is a dance between concentrated focus and expanded consciousness.\n\nGo to a rave solo. Smoke a joint. Let yourself get loose and dance for hours. New ideas and downloads will come through from the expanded state. Write these down. You’ll use the later.\n\nThen, go to the completely opposite end of the spectrum. Sit down at your computer the next day and organize everything that came through. Send the messages. Finish the article. Bring the project to completion. \n\nYou turn ideas into finished products by sitting down, narrowing your consciousness, and doing the work.\n\nMost people exist in only one of these two camps. \n\nSome only smoke weed, go to raves, or get downloads in meditation. But they never bring anything into material reality because they won’t narrow their consciousness into linear work.\n\nOthers only sit at the computer for 12 hours a day and never expand their mind or access new frequencies with seemingly strange or unproductive activities - and so their ideas stall out and they never create anything new.\n\nYou will be most creative in expanded states of consciousness. You will be most productive in narrowed states of consciousness. If you want to maximize your creative potential, you need both.\n\nLet loose yourself get loose. Then, sit down and do the work. \n\nAnd most importantly, whatever you do, do it fully.",
+      "author_name": "Jack Moses",
+      "author_handle": "@jackmoses0",
+      "created_at": "2026-02-26T10:50:51.000Z",
+      "url": "https://twitter.com/i/web/status/2026973227155919191",
+      "like_count": 272,
+      "bookmark_count": 146,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2028073502830645348",
+      "text": "Orange Lamps🧡\n#desksetup https://t.co/BjI4ARRQqE",
+      "author_name": "ぶらっく",
+      "author_handle": "@XxCode_BlackxX",
+      "created_at": "2026-03-01T11:42:57.000Z",
+      "url": "https://twitter.com/i/web/status/2028073502830645348",
+      "like_count": 254,
+      "bookmark_count": 17,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCUpwr6b0AAsWBp.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2028263013032345868",
+      "text": "https://t.co/hcO3VkEXPv",
+      "author_name": "Spacesthetic",
+      "author_handle": "@interiorsuckerr",
+      "created_at": "2026-03-02T00:16:00.000Z",
+      "url": "https://twitter.com/i/web/status/2028263013032345868",
+      "like_count": 219,
+      "bookmark_count": 43,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB7sGn0bMAAU7mF.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB7sHjjagAAewON.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB7sIC3aYAAkfUL.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB7sIf8bEAAsb4n.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2025913540746330545",
+      "text": "8. The Therapist's Final Prescription: Reverse the Shifts Intentionally.\n\nShe said the couples who stay passionate are the ones who consciously reverse these shifts. They keep pursuing. They keep growing so they remain interesting. \n\nThey protect time for lover conversations, not just logistics. They stay vulnerable. They practice daily gratitude. They maintain their polarities. They put the screens down and actually look at each other. Passion is not a mystery. It is a practice. \n\nThe couples who stay passionate are not luckier. They are more intentional.",
+      "author_name": "Helen Casanova | Seduction Palace",
+      "author_handle": "@HelenCasanova_",
+      "created_at": "2026-02-23T12:40:02.000Z",
+      "url": "https://twitter.com/i/web/status/2025913540746330545",
+      "like_count": 188,
+      "bookmark_count": 171,
+      "images": [],
+      "_date": "2026-02-23"
+    }
+  ],
   "Art & Culture": [
+    {
+      "id": "2080002820040696171",
+      "text": "If we were two little snails I would reach over from my cherry to your cherry just to give you a kiss https://t.co/Xt38WavuVg",
+      "author_name": "mia",
+      "author_handle": "@httpsosweet",
+      "created_at": "2026-07-22T18:51:31.000Z",
+      "url": "https://twitter.com/i/web/status/2080002820040696171",
+      "like_count": 265595,
+      "bookmark_count": 17451,
+      "images": [],
+      "_date": "2026-07-22"
+    },
     {
       "id": "2026358864137032071",
       "text": "I think about this image like constantly https://t.co/9HCnK2Nn7J",
@@ -2684,6 +2621,23 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-28"
+    },
+    {
+      "id": "2079950908478075387",
+      "text": "https://t.co/XsrolqcaLK",
+      "author_name": "Hellenic History",
+      "author_handle": "@HellenicHist0ry",
+      "created_at": "2026-07-22T15:25:14.000Z",
+      "url": "https://twitter.com/i/web/status/2079950908478075387",
+      "like_count": 5409,
+      "bookmark_count": 297,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN14U8RXcAANnKW.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-22"
     },
     {
       "id": "2027806229003678034",
@@ -4694,7 +4648,24 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
-  "News": [
+  "Current Events": [
+    {
+      "id": "2081740718393983405",
+      "text": "He’s not even lying 😭 https://t.co/KC4TUkCFo1 https://t.co/7FdBZR8RU8",
+      "author_name": "𝐄𝐑",
+      "author_handle": "@ErlingRoIe",
+      "created_at": "2026-07-27T13:57:18.000Z",
+      "url": "https://twitter.com/i/web/status/2081740718393983405",
+      "like_count": 197199,
+      "bookmark_count": 8285,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOPUJgyXMAAwIKL.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-27"
+    },
     {
       "id": "2025800996744794380",
       "text": "Did not expect a question that starts out 'Do you think before you speak?' to go so well. A+ question from Charlotte Harpur A++ response from Eileen Gu. https://t.co/cvNJ6rSwl3",
@@ -4712,6 +4683,18 @@ window.BOOKMARK_CATEGORIES = {
         }
       ],
       "_date": "2026-02-23"
+    },
+    {
+      "id": "2080677090744266770",
+      "text": "out. This is my last decision. I’m not going for money. I’m not going for family. What am I really playing for at this point? \n\nI still want to sacrifice. I still want to work. I still want to grind. I still want to compete, to win and to have a chance at the feeling of winning",
+      "author_name": "LeBron James",
+      "author_handle": "@KingJames",
+      "created_at": "2026-07-24T15:30:50.000Z",
+      "url": "https://twitter.com/i/web/status/2080677090744266770",
+      "like_count": 107136,
+      "bookmark_count": 1854,
+      "images": [],
+      "_date": "2026-07-24"
     },
     {
       "id": "2027836899260498270",
@@ -4784,6 +4767,23 @@ window.BOOKMARK_CATEGORIES = {
       "bookmark_count": 5945,
       "images": [],
       "_date": "2026-02-23"
+    },
+    {
+      "id": "2080190890476486751",
+      "text": "🤣🤣🤣 https://t.co/4qSRMREVI2",
+      "author_name": "అతడు",
+      "author_handle": "@vinays_369",
+      "created_at": "2026-07-23T07:18:51.000Z",
+      "url": "https://twitter.com/i/web/status/2080190890476486751",
+      "like_count": 6270,
+      "bookmark_count": 546,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN5SlOObAAA7uML.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
     },
     {
       "id": "2026136687731228679",
