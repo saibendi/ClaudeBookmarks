@@ -13,9 +13,11 @@
       <div class="calendar-face" id="calendarFace"></div>
     </div>
     <div class="month-nav">
+      <button id="prevYearBtn" aria-label="Previous year">&#171;</button>
       <button id="prevBtn" aria-label="Previous month">&#8592;</button>
       <span id="navLabel"></span>
       <button id="nextBtn" aria-label="Next month">&#8594;</button>
+      <button id="nextYearBtn" aria-label="Next year">&#187;</button>
     </div>
     <a class="categories-portal" href="categories.html">&#128193; Categories</a>
   </div>
@@ -35,7 +37,6 @@
     }
 
     // ── Constants ─────────────────────────────────────────────────────────────
-    const YEAR = 2026;
     const MONTH_NAMES = [
       "January","February","March","April","May","June",
       "July","August","September","October","November","December"
@@ -46,8 +47,9 @@
     const today = new Date();
     const todayStr = formatDate(today.getFullYear(), today.getMonth() + 1, today.getDate());
 
-    // Current month: default to today's month if same year, else January
-    let currentMonth = (today.getFullYear() === YEAR) ? today.getMonth() : 0;
+    // Current view: defaults to this month/year, navigable in both directions
+    let currentYear = today.getFullYear();
+    let currentMonth = today.getMonth();
 
     // ── Helper: zero-pad to 2 digits ──────────────────────────────────────────
     function pad2(n) { return String(n).padStart(2, '0'); }
@@ -228,18 +230,32 @@
     function render() {
       const face = document.getElementById("calendarFace");
       face.innerHTML = "";
-      face.appendChild(buildMonthCard(YEAR, currentMonth));
+      face.appendChild(buildMonthCard(currentYear, currentMonth));
       document.getElementById("navLabel").textContent =
-        `${MONTH_NAMES[currentMonth]} ${YEAR}`;
+        `${MONTH_NAMES[currentMonth]} ${currentYear}`;
     }
 
     function changeMonth(delta) {
-      currentMonth = Math.max(0, Math.min(11, currentMonth + delta));
+      currentMonth += delta;
+      if (currentMonth > 11) {
+        currentMonth = 0;
+        currentYear++;
+      } else if (currentMonth < 0) {
+        currentMonth = 11;
+        currentYear--;
+      }
+      render();
+    }
+
+    function changeYear(delta) {
+      currentYear += delta;
       render();
     }
 
     document.getElementById("prevBtn").addEventListener("click", () => changeMonth(-1));
     document.getElementById("nextBtn").addEventListener("click", () => changeMonth(1));
+    document.getElementById("prevYearBtn").addEventListener("click", () => changeYear(-1));
+    document.getElementById("nextYearBtn").addEventListener("click", () => changeYear(1));
 
     render();
   </script>

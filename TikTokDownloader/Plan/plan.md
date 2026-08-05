@@ -96,6 +96,25 @@ Local media paths and filenames (Decision #5) keep using the **raw**, unprefixed
 - **Batches, not bulk**: process roughly 10-20 TikToks/day over the next several days rather than one run against the full backlog. Lower rate-limit risk by construction, and lets edge cases get shaken out incrementally while the pipeline is still new, instead of needing heavy retry/backoff infrastructure built up front for a single big run.
 - **Ongoing capture = manual**: new TikToks get added to `urls.md` by hand as they're bookmarked, same as today. No better mechanism (periodic export, browser scraping, etc.) is being built right now — this stays the capture method until/unless a real need for something more automated shows up.
 
+### #8 — index.html was single-year-only; added real year navigation before writing more TikTok data
+
+**Question:** `urls.md`'s TikTok backlog spans back to ~2022-2023, well before this project existed. Would those older items actually be reachable through the app once `data_tiktok.js` existed? Checking `index.html` revealed `const YEAR = 2026` hardcoded at module scope, with `changeMonth()` clamping `currentMonth` to `[0,11]` and never touching year — so the calendar was not just defaulting to 2026, it was physically incapable of ever showing another year without editing source and reloading. `categories.html` and `stats.html` weren't affected (category drawers aren't calendar-based; `stats.html` reads a `?weekStart=` param with no year check), but the calendar — the primary way into `day.html` — was the one real chokepoint.
+
+**Decision:** Fix `index.html` before writing any more TikTok integration code, since shipping a backfill mostly invisible in the main view would be a worse outcome than a short pause. Turned out to be a small, contained change (not a rewrite): `buildMonthCard(year, monthIndex)` already took `year` as a parameter and never hardcoded it internally, so the only edits needed were replacing the `YEAR` constant with a mutable `currentYear`, and adding month-rollover math to `changeMonth()`:
+
+```js
+function changeMonth(delta) {
+  currentMonth += delta;
+  if (currentMonth > 11) { currentMonth = 0; currentYear++; }
+  else if (currentMonth < 0) { currentMonth = 11; currentYear--; }
+  render();
+}
+```
+
+Also simplified the initial view to always default to today's actual year/month (`today.getFullYear()`/`today.getMonth()`), removing the old `(today.getFullYear() === YEAR) ? ... : 0` conditional that only worked because YEAR happened to match the current year. Verified by serving the folder over a temporary local HTTP server (browser automation can't reach `file://` pages directly) and clicking through August 2026 → January 2026 → December 2025 → back to January 2026 — rolled correctly in both directions.
+
+**Follow-up — year-jump buttons:** month-by-month was still the only way to move between years (e.g. 12+ clicks to go from 2026 back to 2023), so added a second pair of nav buttons (`«`/`»`) that call a new `changeYear(delta)` — increments/decrements `currentYear` only, `currentMonth` untouched, so you land on the same month one year over/under instead of walking through all twelve. Reused the existing `.month-nav button` CSS as-is, no new styles needed. Verified: 3 clicks on `«` from August 2026 landed on August 2023 exactly, month held fixed throughout.
+
 ## Arch
 
 Here's the architecture, grouped by role:
