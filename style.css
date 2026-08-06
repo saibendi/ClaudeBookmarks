@@ -563,6 +563,18 @@ body.day-view {
   max-height: 280px;
   overflow: hidden;
   background-color: var(--bg-page);
+  cursor: zoom-in;
+}
+
+/* Double-click toggles this — shows the whole image/video un-cropped instead
+   of filling the frame. Letterbox gaps show the wrapper's own background. */
+.tweet-image-wrapper--contain {
+  cursor: zoom-out;
+}
+
+.tweet-image-wrapper--contain .tweet-image,
+.tweet-image-wrapper--contain .tweet-video {
+  object-fit: contain;
 }
 
 /* Single image: full width */

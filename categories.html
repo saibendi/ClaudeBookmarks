@@ -226,6 +226,25 @@
                 video.autoplay  = true;
                 video.addEventListener("mouseenter", () => { video.muted = false; });
                 video.addEventListener("mouseleave", () => { video.muted = true; });
+
+                // Click to pause/resume (from wherever it left off — native
+                // video behavior). Debounced so a double-click (which fires two
+                // click events first) doesn't toggle play/pause on its way to
+                // the wrapper's dblclick cover/contain toggle below.
+                let clickTimer = null;
+                video.addEventListener("click", (e) => {
+                  e.stopPropagation();
+                  if (clickTimer) {
+                    clearTimeout(clickTimer);
+                    clickTimer = null;
+                    return;
+                  }
+                  clickTimer = setTimeout(() => {
+                    clickTimer = null;
+                    if (video.paused) video.play(); else video.pause();
+                  }, 250);
+                });
+
                 wrapper.appendChild(video);
 
                 const hint = document.createElement("div");

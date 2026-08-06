@@ -155,6 +155,22 @@
             videoEl.addEventListener("mouseleave", () => {
               videoEl.muted = true;
             });
+            // Debounced so a double-click (which fires two click events first)
+            // doesn't toggle play/pause on its way to the wrapper's dblclick
+            // cover/contain toggle below.
+            let clickTimer = null;
+            videoEl.addEventListener("click", (e) => {
+              e.stopPropagation();
+              if (clickTimer) {
+                clearTimeout(clickTimer);
+                clickTimer = null;
+                return;
+              }
+              clickTimer = setTimeout(() => {
+                clickTimer = null;
+                if (videoEl.paused) videoEl.play(); else videoEl.pause();
+              }, 250);
+            });
             wrapper.appendChild(videoEl);
 
             const hint = document.createElement("div");
@@ -177,6 +193,12 @@
               wrapper.appendChild(label);
             }
           }
+
+          // Double-click to see the whole image/video un-cropped (object-fit:
+          // contain) instead of filling the frame (object-fit: cover, default).
+          wrapper.addEventListener("dblclick", () => {
+            wrapper.classList.toggle("tweet-image-wrapper--contain");
+          });
 
           return wrapper;
         }
