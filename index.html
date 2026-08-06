@@ -40,6 +40,12 @@
     const _snap = JSON.parse(localStorage.getItem('bookmark_snapshot') || '{}');
     const NEW_COUNTS = {};
     for (const [date, count] of Object.entries(BOOKMARK_DATA)) {
+      // TEMPORARY (added 2026-08-06, revert once the TikTok urls.md backfill
+      // is done): suppress new-item badges for any date outside 2026 — the
+      // backfill adds hundreds of pre-2026 dates we're not reviewing day by
+      // day right now, just categorizing. Remove this "if" to restore normal
+      // notifications for every date.
+      if (!date.startsWith('2026-')) continue;
       const prev = _snap[date] || 0;
       if (count > prev) NEW_COUNTS[date] = count - prev;
     }
@@ -55,9 +61,11 @@
     const today = new Date();
     const todayStr = formatDate(today.getFullYear(), today.getMonth() + 1, today.getDate());
 
-    // Current view: defaults to this month/year, navigable in both directions
-    let currentYear = today.getFullYear();
-    let currentMonth = today.getMonth();
+    // Current view: restores wherever you last left it (e.g. before clicking
+    // into a day), falls back to this month/year on first-ever visit.
+    const _lastView = JSON.parse(localStorage.getItem('calendar_last_view') || 'null');
+    let currentYear  = _lastView ? _lastView.year  : today.getFullYear();
+    let currentMonth = _lastView ? _lastView.month : today.getMonth();
 
     // ── Helper: zero-pad to 2 digits ──────────────────────────────────────────
     function pad2(n) { return String(n).padStart(2, '0'); }
@@ -242,6 +250,7 @@
       face.appendChild(buildMonthCard(currentYear, currentMonth));
       document.getElementById("navLabel").textContent =
         `${MONTH_NAMES[currentMonth]} ${currentYear}`;
+      localStorage.setItem('calendar_last_view', JSON.stringify({ year: currentYear, month: currentMonth }));
     }
 
     function changeMonth(delta) {

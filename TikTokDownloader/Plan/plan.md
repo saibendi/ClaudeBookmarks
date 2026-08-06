@@ -127,6 +127,21 @@ Also simplified the initial view to always default to today's actual year/month 
 
 **Decision:** Don't stamp `added_at` for TikToks at all — rely on the existing fallback to `created_at` (the real post date, already captured accurately from metadata), same treatment as tweets that predate the `added_at` field. Simpler than deriving a synthetic recency signal from `urls.md` position (the more "correct" fix, but needed an interpolation scheme and still wouldn't be exact), and per-item accuracy loss (bookmark time vs. post time can differ by days/weeks) is an acceptable tradeoff for not having batch-order artifacts silently invert the sort. Removed the stamp from `fetch_tiktoks.py`'s `build_item()` going forward, and retroactively stripped `added_at` from the 8 already-fetched items in both `data_tiktok.js` and their copies in `categories.js`, then re-sorted — verified they now rank by their real `created_at` (Dec 30-31, 2025) among the rest of their category instead of being artificially pinned to the top.
 
+## Known Limitations
+
+### Some videos download with no audio track — TikTok serves them as separate DASH streams
+
+**What happens:** For a minority of videos (2 of 28 fetched so far, ~7%), the downloaded `.mp4` has a video stream but zero audio streams — confirmed via `ffprobe`. In `categories.html`/`day.html` these play silently even after hovering (there's no audio track to unmute). First noticed on two videos in the "Relationship" category (`@sedoxo`, `@catspanti`).
+
+**Root cause:** for these specific videos, TikTok doesn't offer a single combined (progressive-download) audio+video file — only DASH-split components (separate video-only and audio-only streams, each with their own signed CDN URL). `gallery-dl`'s TikTok extractor (`_extract_video_urls`) sorts all available `bitrateInfo` variants purely by resolution and picks the highest one — for these two, that's the video-only DASH component (`adapt_lowest_1080_1`-style), not the combined stream. gallery-dl has no config option to prefer a combined/non-DASH variant, and its audio-fetch logic (`_extract_audio`) only ever runs for photo posts, never video posts.
+
+**Confirmed this isn't a quick fix:**
+- Directly fetching the separate audio DASH stream's URL (present in the metadata JSON's `video.bitrateAudioInfo`) → `403 Access Denied` from TikTok's Akamai CDN. These signed URLs need session/cookie auth that only a downloader's own internal HTTP client provides, not a bare request.
+- Directly fetching the alternate combined-stream URL (`normal_540_0` in `bitrateInfo`, identifiable by having ~2.5x the file size of other same-resolution entries — the telltale sign of included audio) → also `403 Access Denied`, same reason.
+- Tried `yt-dlp` as a fallback on the theory that its DASH-merging (normally strong, e.g. on YouTube) might handle this better — it picked the **byte-identical** video-only asset gallery-dl did (verified: same file size, same missing audio). Both tools have the identical gap for TikTok specifically, so this isn't a "switch tools" fix.
+
+**Status:** accepted as a known limitation, not fixed. Would need real DASH-manifest-aware downloading + muxing (neither `gallery-dl` nor `yt-dlp` implements this for TikTok) or reverse-engineering TikTok's CDN session auth well enough to fetch the alternate streams directly — meaningfully more work than the rate at which this occurs currently justifies. If it turns out to affect a lot more of the backlog once the full `urls.md` finishes processing, revisit.
+
 ## Arch
 
 Here's the architecture, grouped by role:
