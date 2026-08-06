@@ -1204,6 +1204,7 @@ body.categories-view {
   position: relative;
   border-radius: 3px;
   background: var(--bg-page);
+  cursor: zoom-in;
 }
 
 .cat-card-media-wrapper img,
@@ -1212,6 +1213,17 @@ body.categories-view {
   height: 100%;
   object-fit: cover;
   display: block;
+}
+
+/* Double-click toggles this — shows the whole image/video un-cropped instead
+   of filling the frame. Letterbox gaps show the wrapper's own background. */
+.cat-card-media-wrapper--contain {
+  cursor: zoom-out;
+}
+
+.cat-card-media-wrapper--contain img,
+.cat-card-media-wrapper--contain video {
+  object-fit: contain;
 }
 
 .cat-card-video-hint {

@@ -242,6 +242,12 @@
                 wrapper.appendChild(imgEl);
               }
 
+              // Double-click to see the whole image/video un-cropped (object-fit:
+              // contain) instead of filling the frame (object-fit: cover, default).
+              wrapper.addEventListener("dblclick", () => {
+                wrapper.classList.toggle("cat-card-media-wrapper--contain");
+              });
+
               return wrapper;
             }
 
