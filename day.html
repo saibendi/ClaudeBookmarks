@@ -34,8 +34,10 @@
   </div>
 
   <script src="data.js"></script>
+  <script src="data_tiktok.js" onerror="window.TIKTOK_DATES = null; window.TIKTOK_VIDEOS = null;"></script>
   <script>
-    const TWEETS = window.BOOKMARK_TWEETS || {};
+    const TWEETS  = window.BOOKMARK_TWEETS || {};
+    const TIKTOKS = window.TIKTOK_VIDEOS || {};
 
     // ── Helpers ───────────────────────────────────────────────────────────────
     function formatTweetTime(isoStr) {
@@ -57,7 +59,7 @@
     const dateStr = params.get("date");
     if (dateStr) document.title = `Bookmarks \u2014 ${dateStr}`;
 
-    const rawTweets = (dateStr && TWEETS[dateStr]) ? TWEETS[dateStr] : [];
+    const rawTweets = dateStr ? [...(TWEETS[dateStr] || []), ...(TIKTOKS[dateStr] || [])] : [];
     const tweets    = [...rawTweets].sort((a, b) => (b.like_count || 0) - (a.like_count || 0));
 
     // ── New-tweet tinting: compare against day_tweet_snapshot ────────────────
@@ -193,7 +195,7 @@
       link.href = tweet.url;
       link.target = "_blank";
       link.rel = "noopener noreferrer";
-      link.textContent = "View on X \u2192";
+      link.textContent = "View Original \u2192";
 
       footer.appendChild(stats);
       footer.appendChild(link);

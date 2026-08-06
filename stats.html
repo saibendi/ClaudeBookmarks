@@ -56,6 +56,7 @@
   </div>
 
   <script src="data.js"></script>
+  <script src="data_tiktok.js" onerror="window.TIKTOK_DATES = null; window.TIKTOK_VIDEOS = null;"></script>
   <script src="categories.js" onerror="window.BOOKMARK_CATEGORIES = null;"></script>
   <script>
     // ── Parse query params ────────────────────────────────────────────────────
@@ -112,17 +113,24 @@
       document.getElementById('weekLabel').textContent =
         `${fmtShort(weekStart)} \u2013 ${fmtShort(lastDate)}, ${lastYear}`;
 
-      // ── Collect all tweets for this week ───────────────────────────────────
-      const TWEETS = window.BOOKMARK_TWEETS || {};
-      const DATES  = window.BOOKMARK_DATES  || {};
+      // ── Collect all tweets + TikToks for this week ─────────────────────────
+      const TWEETS  = window.BOOKMARK_TWEETS || {};
+      const TIKTOKS = window.TIKTOK_VIDEOS || {};
+
+      // Merge tweet + TikTok counts into one date → count map for the daily chart.
+      const DATES = {};
+      for (const [date, count] of Object.entries(window.BOOKMARK_DATES || {})) {
+        DATES[date] = (DATES[date] || 0) + count;
+      }
+      for (const [date, count] of Object.entries(window.TIKTOK_DATES || {})) {
+        DATES[date] = (DATES[date] || 0) + count;
+      }
 
       const weekSet = new Set(weekDates);
       const allTweets = [];
       for (const date of weekDates) {
-        if (TWEETS[date]) {
-          for (const t of TWEETS[date]) {
-            allTweets.push({ ...t, _date: date });
-          }
+        for (const t of [...(TWEETS[date] || []), ...(TIKTOKS[date] || [])]) {
+          allTweets.push({ ...t, _date: date });
         }
       }
 
@@ -298,7 +306,7 @@
             <div class="stats-best-text">${escapedText}</div>
             <div class="stats-best-footer">
               <span>\u2665 ${formatNum(best.like_count || 0)}&nbsp;&nbsp;&#128278; ${formatNum(best.bookmark_count || 0)}</span>
-              <a class="stats-best-link" href="${best.url || '#'}" target="_blank" rel="noopener">View on X &rarr;</a>
+              <a class="stats-best-link" href="${best.url || '#'}" target="_blank" rel="noopener">View Original &rarr;</a>
             </div>
           </div>`;
       }

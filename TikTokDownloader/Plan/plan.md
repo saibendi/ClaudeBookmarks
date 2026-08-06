@@ -54,6 +54,8 @@ I read `write_data_js` in `fetch_bookmarks.py` — there's no read-existing-file
 
 **Decision:** Use **gallery-dl exclusively** — one tool for both post types, simpler pipeline. For video posts, the missing thumbnail is recovered as a cheap extra step rather than a yt-dlp fallback: gallery-dl's own metadata JSON already contains the cover URL (`video.originCover`, same field yt-dlp uses internally) — just fetch that URL directly (plain HTTP GET, no extra tool) and save it as `<id>_thumb.jpg`. Verified working end-to-end in testing (960×540 JPEG, matches yt-dlp's thumbnail size).
 
+**Follow-up — HEVC codec, another extra step:** after the first real live-fetch batch (8 items), videos played audio but showed no picture in Chrome. Root cause: gallery-dl just grabs the highest-bitrate URL from TikTok's `bitrateInfo`, no codec preference, and TikTok's CDN is currently serving that as HEVC — confirmed via the raw `hvc1` fourcc in the downloaded bytes, despite gallery-dl's own `codecType` metadata field claiming "h264" (that field turned out to be unreliable, not ground truth). Chrome/Firefox generally have no HEVC decoder at all; Safari on macOS does (native hardware support), so this wasn't universal, but H.264 plays everywhere so fixing at the source beats working around it per-browser. Confirmed yt-dlp isn't an escape hatch either — it hit the identical HEVC stream for this same video back in Decision #3's original test. Same "recover via a cheap extra step" pattern as the thumbnail fix: `fetch_tiktoks.py` now probes the actual codec with `ffprobe` after download and re-encodes to H.264 (`ffmpeg`, `libx264`/`aac`) only when it isn't already, wired into the main fetch loop so this is automatic for every future video, not just a one-off patch.
+
 ### #4 — Photo posts: keep background music, no thumbnail step, needs a manual slideshow
 
 **Question:** TikTok photo posts (slideshow-style, multiple images + a looping background audio track) downloaded via gallery-dl produce N numbered images + one mp3, all sharing the same post metadata (`stats`, `author`, `desc`). Do we keep the background music? Do photo posts need the same cover-thumbnail step as videos? And how should multiple images per post actually render?
@@ -79,6 +81,8 @@ media/tiktok/<id>/
 ```
 
 ID-keyed matches how `data_tiktok.js` looks items up (same ID space used for dedup/reconcile), avoids collisions that creator- or date-based nesting would risk, and stays flat enough to `ls`/grep at scale.
+
+**Correction caught during `fetch_tiktoks.py` implementation:** `media/tiktok/<id>/...` is relative to the `ClaudeBookmarks` project root, not to `TikTokDownloader/` where the script and `urls.md` actually live. The script's first draft got this wrong — it derived `MEDIA_DIR`/`DATA_TIKTOK_JS` from its own folder (`Path(__file__).parent`), which would have put `data_tiktok.js` and all downloaded media one level too deep. `index.html`/`day.html`/etc. live at the project root and resolve `<script src="...">` and every path stored inside it against *their own* location, same as `data.js` — so `data_tiktok.js` and `media/` both have to sit at the root too. Fixed before any real download ran: `PROJECT_ROOT = Path(__file__).parent.parent` in `fetch_tiktoks.py`, only `urls.md` stays resolved against the script's own folder.
 
 ### #6 — ID namespacing: prefix TikTok IDs at write time, leave tweet IDs untouched
 

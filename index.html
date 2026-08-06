@@ -23,8 +23,16 @@
   </div>
 
   <script src="data.js"></script>
+  <script src="data_tiktok.js" onerror="window.TIKTOK_DATES = null; window.TIKTOK_VIDEOS = null;"></script>
   <script>
-    const BOOKMARK_DATA = window.BOOKMARK_DATES || {};
+    // Merge tweet + TikTok counts into one date → count map for the calendar.
+    const BOOKMARK_DATA = {};
+    for (const [date, count] of Object.entries(window.BOOKMARK_DATES || {})) {
+      BOOKMARK_DATA[date] = (BOOKMARK_DATA[date] || 0) + count;
+    }
+    for (const [date, count] of Object.entries(window.TIKTOK_DATES || {})) {
+      BOOKMARK_DATA[date] = (BOOKMARK_DATA[date] || 0) + count;
+    }
 
     // ── Notification snapshot (localStorage diff) ─────────────────────────────
     // NEW_COUNTS[date] = how many new bookmarks since the snapshot was saved.
@@ -194,10 +202,11 @@
                 localStorage.setItem('bookmark_snapshot', JSON.stringify(snap));
                 tile.classList.remove("tile-new");
 
-                // Save current tweet IDs so day.html can diff for new-tweet tinting
-                const TWEETS = window.BOOKMARK_TWEETS || {};
+                // Save current tweet + TikTok IDs so day.html can diff for new-item tinting
+                const TWEETS  = window.BOOKMARK_TWEETS || {};
+                const TIKTOKS = window.TIKTOK_VIDEOS || {};
                 const daySnap = JSON.parse(localStorage.getItem('day_tweet_snapshot') || '{}');
-                daySnap[dateStr] = (TWEETS[dateStr] || []).map(t => t.id);
+                daySnap[dateStr] = [...(TWEETS[dateStr] || []), ...(TIKTOKS[dateStr] || [])].map(t => t.id);
                 localStorage.setItem('day_tweet_snapshot', JSON.stringify(daySnap));
               });
             }
