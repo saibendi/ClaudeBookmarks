@@ -256,6 +256,98 @@ def ensure_h264(path):
     return True
 
 
+# ── Missing audio fallback (Known Limitations — some videos are DASH-split) ──
+# For a minority of videos, TikTok only serves the video as a DASH-split
+# stream with no fetchable combined audio+video URL — gallery-dl (and yt-dlp)
+# silently end up with video-only files. The metadata's music.playUrl (the
+# reusable "sound" object, a different TikTok subsystem from the raw video
+# CDN) is fetchable with a plain request where the DASH audio stream and the
+# alternate combined-stream URL both 403. Confirmed via manual test: fetched
+# cleanly, duration matched the video to within 16ms for an "original sound"
+# post (music.duration IS the video's own audio track length in that case).
+# For posts using a trending/licensed song, music.duration will usually be
+# longer than the video with no offset exposed in metadata to know which
+# segment plays — -shortest below trims to match, real audio but not
+# guaranteed to start at the exact right point in the song for that case.
+
+def has_audio_stream(path):
+    """Return True if path has at least one audio stream. Fails open (True)
+    on a probe error so a broken ffprobe call never blocks the pipeline."""
+    try:
+        result = subprocess.run(
+            ["ffprobe", "-v", "error", "-select_streams", "a",
+             "-show_entries", "stream=codec_type", "-of", "csv=p=0", str(path)],
+            capture_output=True, text=True, timeout=30,
+        )
+    except (subprocess.TimeoutExpired, FileNotFoundError):
+        return True
+    return bool(result.stdout.strip())
+
+
+def fetch_music_track(metadata, dest_dir, tiktok_id):
+    """Fetch metadata's music.playUrl (the full sound-object track, not
+    trimmed to this specific video). Returns the downloaded path, or None if
+    there's no music info or the fetch fails."""
+    music = (metadata or {}).get("music") or {}
+    url = music.get("playUrl")
+    if not url:
+        return None
+    try:
+        resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        print(f"    ! music track fetch failed: {exc}")
+        return None
+    dst = dest_dir / f"{tiktok_id}_music_tmp.mp3"
+    dst.write_bytes(resp.content)
+    return dst
+
+
+def mux_audio(video_path, audio_path):
+    """Mux a separately-fetched audio track into video_path in place (temp
+    file + atomic rename). Video stream is copied untouched (already H.264 by
+    this point in the pipeline); -shortest trims audio to the video's length.
+    Returns True on success."""
+    tmp = video_path.with_suffix(".muxed.mp4")
+    try:
+        result = subprocess.run(
+            ["ffmpeg", "-y", "-i", str(video_path), "-i", str(audio_path),
+             "-c:v", "copy", "-c:a", "aac", "-b:a", "128k",
+             "-map", "0:v:0", "-map", "1:a:0", "-shortest",
+             "-movflags", "+faststart",
+             str(tmp)],
+            capture_output=True, text=True, timeout=180,
+        )
+    except (subprocess.TimeoutExpired, FileNotFoundError):
+        tmp.unlink(missing_ok=True)
+        return False
+
+    if result.returncode != 0 or not tmp.exists():
+        tmp.unlink(missing_ok=True)
+        return False
+
+    tmp.replace(video_path)
+    return True
+
+
+def ensure_audio(video_path, metadata, dest_dir, tiktok_id):
+    """Check for a missing audio stream and fetch+mux music.playUrl as a
+    fallback if so. Returns True if a fix was applied."""
+    if has_audio_stream(video_path):
+        return False
+    print("    ! no audio stream detected, fetching original sound as a fallback…")
+    music_path = fetch_music_track(metadata, dest_dir, tiktok_id)
+    if music_path is None:
+        print("    ! no music.playUrl available — leaving video silent")
+        return False
+    fixed = mux_audio(video_path, music_path)
+    music_path.unlink(missing_ok=True)
+    if not fixed:
+        print("    ! audio mux failed — leaving video silent")
+        return False
+    return True
+
+
 # ── Build the data_tiktok.js item shape ───────────────────────────────────────
 
 def rel_path(p):
@@ -414,7 +506,8 @@ def main():
     parser.add_argument(
         "--reencode-existing", action="store_true",
         help="Maintenance mode: scan already-downloaded media/tiktok/*/*.mp4 for "
-             "non-H.264 video and re-encode in place. Doesn't touch urls.md or fetch anything new."
+             "non-H.264 video (re-encode in place) and missing audio (fetch + mux "
+             "music.playUrl as a fallback). Doesn't touch urls.md or fetch anything new."
     )
     args = parser.parse_args()
 
@@ -423,12 +516,19 @@ def main():
 
     if args.reencode_existing:
         videos = sorted(MEDIA_DIR.glob("*/*.mp4"))
-        print(f"Checking {len(videos)} downloaded video(s) for non-H.264 codecs…\n")
-        fixed = 0
+        print(f"Checking {len(videos)} downloaded video(s) for non-H.264 codecs and missing audio…\n")
+        fixed_codec = 0
+        fixed_audio = 0
         for path in videos:
             if ensure_h264(path):
-                fixed += 1
-        print(f"\n{fixed} re-encoded, {len(videos) - fixed} already fine (or failed to probe).")
+                fixed_codec += 1
+            tiktok_id = path.stem
+            json_path = path.parent / f"{tiktok_id}.json"
+            metadata = json.loads(json_path.read_text(encoding="utf-8")) if json_path.exists() else None
+            if ensure_audio(path, metadata, path.parent, tiktok_id):
+                fixed_audio += 1
+        print(f"\n{fixed_codec} re-encoded for codec, {fixed_audio} fixed for missing audio, "
+              f"{len(videos) - fixed_codec - fixed_audio} untouched.")
         return
 
     if not args.urls_file.exists():
@@ -474,6 +574,7 @@ def main():
         if files["type"] == "video":
             files["thumb"] = fetch_thumbnail(files["metadata"], dest_dir, tiktok_id)
             ensure_h264(files["video"])
+            ensure_audio(files["video"], files["metadata"], dest_dir, tiktok_id)
 
         built = build_item(files, tiktok_id, url)
         if built is None:
