@@ -2,13 +2,7 @@
 
 Not yet implemented — planning/backlog only.
 
-## 1. Category drawer: sort by newest → oldest, not most-liked → least-liked
-
-Currently, opening a category drawer in `categories.html` orders cards by `like_count` descending (per `CLAUDE.md`: "Card drop: splices tweet from source, inserts into target maintaining `like_count` desc order" — the initial render follows the same convention).
-
-**Change:** order cards chronologically, newest first, instead of by engagement.
-
-## 2. Reconcile removed/unbookmarked tweets within the fetch window
+## 1. Reconcile removed/unbookmarked tweets within the fetch window
 
 `fetch_bookmarks.py`'s merge (`merge_tweets_by_date`) is currently purely additive — it never removes a tweet from `data.js`, even if it's been unbookmarked on Twitter and no longer appears in the fresh API response.
 

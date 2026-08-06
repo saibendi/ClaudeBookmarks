@@ -434,15 +434,27 @@ def merge_tweets_by_date(old_by_date, new_by_date):
     """Merge newly-fetched tweets into existing tweets_by_date, deduping by tweet id.
     New data wins on id conflicts (fresher like/bookmark counts). Existing tweets
     outside the current fetch window are preserved rather than dropped.
+
+    added_at is stamped with "now" only the first time a tweet is ever seen —
+    it tracks when *we* pulled it in, not created_at (when the tweet was
+    originally posted). Preserved across re-fetches of already-known tweets so
+    a like-count refresh doesn't reset it. Tweets that predate this field stay
+    without one; sort/display code falls back to created_at for those.
+
     Returns (merged_tweets_by_date, count_of_newly_added_tweets)."""
     merged = {date: {t["id"]: t for t in tweets} for date, tweets in old_by_date.items()}
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     added = 0
     for date, tweets in new_by_date.items():
         bucket = merged.setdefault(date, {})
         for t in tweets:
-            if t["id"] not in bucket:
+            existing = bucket.get(t["id"])
+            if existing is None:
+                t["added_at"] = now_iso
                 added += 1
+            elif "added_at" in existing:
+                t["added_at"] = existing["added_at"]
             bucket[t["id"]] = t
 
     return {date: list(id_map.values()) for date, id_map in merged.items()}, added

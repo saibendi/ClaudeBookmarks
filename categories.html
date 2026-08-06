@@ -201,17 +201,18 @@
           card.appendChild(author);
 
           // Tweet text
+          const hasMedia = tweet.images && tweet.images.length > 0;
           const text = document.createElement("div");
-          text.className = "cat-card-text";
+          text.className = hasMedia ? "cat-card-text" : "cat-card-text cat-card-text--full";
           text.textContent = tweet.text;
           card.appendChild(text);
 
           // Media (images / videos / GIFs)
-          if (tweet.images && tweet.images.length > 0) {
+          if (hasMedia) {
             const mediaDiv = document.createElement("div");
             mediaDiv.className = "cat-card-images";
 
-            tweet.images.slice(0, 2).forEach(img => {
+            function buildMediaWrapper(img) {
               const wrapper = document.createElement("div");
               wrapper.className = "cat-card-media-wrapper";
 
@@ -241,8 +242,67 @@
                 wrapper.appendChild(imgEl);
               }
 
-              mediaDiv.appendChild(wrapper);
-            });
+              return wrapper;
+            }
+
+            if (tweet.images.length <= 2) {
+              // Few enough to show side by side, unchanged from before.
+              tweet.images.forEach(img => mediaDiv.appendChild(buildMediaWrapper(img)));
+            } else {
+              // TikTok photo posts (and any 3+ image post) \u2014 page through one at a
+              // time instead of silently dropping everything past the 2nd image.
+              let mediaIdx = 0;
+
+              function renderMedia() {
+                mediaDiv.innerHTML = "";
+                const wrapper = buildMediaWrapper(tweet.images[mediaIdx]);
+
+                if (tweet.audio_url) {
+                  const audio = document.createElement("audio");
+                  audio.src      = tweet.audio_url;
+                  audio.muted    = true;
+                  audio.loop     = true;
+                  audio.autoplay = true;
+                  wrapper.addEventListener("mouseenter", () => { audio.muted = false; });
+                  wrapper.addEventListener("mouseleave", () => { audio.muted = true; });
+                  wrapper.appendChild(audio);
+
+                  const audioHint = document.createElement("div");
+                  audioHint.className   = "cat-card-video-hint";
+                  audioHint.textContent = "\u266A hover for audio";
+                  wrapper.appendChild(audioHint);
+                }
+
+                const prevBtn = document.createElement("button");
+                prevBtn.className = "cat-card-media-nav cat-card-media-prev";
+                prevBtn.textContent = "\u2039";
+                prevBtn.addEventListener("click", (e) => {
+                  e.stopPropagation();
+                  mediaIdx = (mediaIdx - 1 + tweet.images.length) % tweet.images.length;
+                  renderMedia();
+                });
+
+                const nextBtn = document.createElement("button");
+                nextBtn.className = "cat-card-media-nav cat-card-media-next";
+                nextBtn.textContent = "\u203A";
+                nextBtn.addEventListener("click", (e) => {
+                  e.stopPropagation();
+                  mediaIdx = (mediaIdx + 1) % tweet.images.length;
+                  renderMedia();
+                });
+
+                const counter = document.createElement("div");
+                counter.className   = "cat-card-media-counter";
+                counter.textContent = `${mediaIdx + 1} / ${tweet.images.length}`;
+
+                wrapper.appendChild(prevBtn);
+                wrapper.appendChild(nextBtn);
+                wrapper.appendChild(counter);
+                mediaDiv.appendChild(wrapper);
+              }
+
+              renderMedia();
+            }
 
             card.appendChild(mediaDiv);
           }
@@ -463,7 +523,7 @@
             const src = dragState.sourceCategory;
 
             CATS[targetCat].push(...CATS[src]);
-            CATS[targetCat].sort((a, b) => (b.like_count || 0) - (a.like_count || 0));
+            CATS[targetCat].sort((a, b) => recencyKey(b).localeCompare(recencyKey(a)));
             delete CATS[src];
 
             // Sync localStorage: source entry deleted; recompute target's new-tweet count
@@ -506,7 +566,7 @@
           if (srcIdx === -1) return;
           const [tweet] = CATS[sourceCategory].splice(srcIdx, 1);
 
-          const insertIdx = CATS[targetCat].findIndex(t => (t.like_count || 0) < (tweet.like_count || 0));
+          const insertIdx = CATS[targetCat].findIndex(t => recencyKey(t) < recencyKey(tweet));
           if (insertIdx === -1) {
             CATS[targetCat].push(tweet);
           } else {
@@ -664,6 +724,12 @@
       return new Date(y, m - 1, d).toLocaleDateString("en-US", {
         month: "short", day: "numeric", year: "numeric"
       });
+    }
+
+    // added_at (when we fetched it) if present, else created_at (when it was
+    // originally posted) — same fallback convention as categorize_*.py's sort.
+    function recencyKey(t) {
+      return t.added_at || t.created_at || "";
     }
   </script>
 

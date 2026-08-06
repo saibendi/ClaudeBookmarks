@@ -249,9 +249,11 @@ for tweet_id, cat in id_to_cat.items():
         categories[cat] = []
     categories[cat].append(tweet)
 
-# Re-sort every category's tweets by like_count descending
+# Re-sort every category's tweets by recency descending. added_at (when we
+# fetched it) if present, else created_at (when it was originally posted) —
+# tweets predating the added_at field fall back to created_at automatically.
 for cat in categories:
-    categories[cat].sort(key=lambda t: t.get("like_count", 0), reverse=True)
+    categories[cat].sort(key=lambda t: t.get("added_at") or t.get("created_at", ""), reverse=True)
 
 # Sort categories by tweet count descending
 categories = dict(sorted(categories.items(), key=lambda x: len(x[1]), reverse=True))

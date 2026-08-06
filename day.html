@@ -134,7 +134,8 @@
       if (tweet.images && tweet.images.length > 0) {
         const imgGrid = document.createElement("div");
         imgGrid.className = "tweet-images";
-        tweet.images.forEach(img => {
+
+        function buildImageWrapper(img) {
           const wrapper = document.createElement("div");
           wrapper.className = "tweet-image-wrapper";
 
@@ -177,8 +178,68 @@
             }
           }
 
-          imgGrid.appendChild(wrapper);
-        });
+          return wrapper;
+        }
+
+        if (tweet.images.length <= 2) {
+          // Few enough to show side by side, unchanged from before.
+          tweet.images.forEach(img => imgGrid.appendChild(buildImageWrapper(img)));
+        } else {
+          // TikTok photo posts (and any 3+ image post) — page through one at a
+          // time instead of cramming everything into one wrapping grid.
+          let mediaIdx = 0;
+
+          function renderMedia() {
+            imgGrid.innerHTML = "";
+            const wrapper = buildImageWrapper(tweet.images[mediaIdx]);
+
+            if (tweet.audio_url) {
+              const audio = document.createElement("audio");
+              audio.src      = tweet.audio_url;
+              audio.muted    = true;
+              audio.loop     = true;
+              audio.autoplay = true;
+              wrapper.addEventListener("mouseenter", () => { audio.muted = false; });
+              wrapper.addEventListener("mouseleave", () => { audio.muted = true; });
+              wrapper.appendChild(audio);
+
+              const audioHint = document.createElement("div");
+              audioHint.className   = "tweet-video-hint";
+              audioHint.textContent = "\u266A  hover for audio";
+              wrapper.appendChild(audioHint);
+            }
+
+            const prevBtn = document.createElement("button");
+            prevBtn.className = "tweet-media-nav tweet-media-prev";
+            prevBtn.textContent = "\u2039";
+            prevBtn.addEventListener("click", (e) => {
+              e.stopPropagation();
+              mediaIdx = (mediaIdx - 1 + tweet.images.length) % tweet.images.length;
+              renderMedia();
+            });
+
+            const nextBtn = document.createElement("button");
+            nextBtn.className = "tweet-media-nav tweet-media-next";
+            nextBtn.textContent = "\u203a";
+            nextBtn.addEventListener("click", (e) => {
+              e.stopPropagation();
+              mediaIdx = (mediaIdx + 1) % tweet.images.length;
+              renderMedia();
+            });
+
+            const counter = document.createElement("div");
+            counter.className   = "tweet-media-counter";
+            counter.textContent = `${mediaIdx + 1} / ${tweet.images.length}`;
+
+            wrapper.appendChild(prevBtn);
+            wrapper.appendChild(nextBtn);
+            wrapper.appendChild(counter);
+            imgGrid.appendChild(wrapper);
+          }
+
+          renderMedia();
+        }
+
         pageFront.appendChild(imgGrid);
       }
 
