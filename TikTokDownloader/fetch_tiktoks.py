@@ -292,9 +292,13 @@ def build_item(files, tiktok_id, permalink):
         "author_name":    name,
         "author_handle":  f"@{handle}",
         "created_at":     created_at,
-        # When *we* fetched it, not when the TikTok was originally posted —
-        # this is what recency sort in categorize_*.py actually uses.
-        "added_at":       datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        # No added_at here on purpose — unlike fetch_bookmarks.py's live weekly
+        # poll (where "when the script saw it" tracks bookmark time closely),
+        # this is a one-time backfill through urls.md processed in whatever
+        # order batches happen to run, not urls.md's own rough chronology.
+        # Stamping wall-clock fetch time would make recency sort backwards for
+        # exactly the newest content. created_at (real post date) is close
+        # enough — recency sort's fallback already uses it when added_at is absent.
         # Decision #1: permalink kept as citation only, never as playback source.
         "url":            permalink,
         "like_count":     stats.get("diggCount", 0),

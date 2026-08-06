@@ -2,6 +2,14 @@
 
 Running log of changes/decisions to this project, newest first — for picking back up later.
 
+## 2026-08-06
+
+**Changed:**
+- Fixed a real flaw in the `added_at` recency field caught before it caused visible damage: `fetch_tiktoks.py` was stamping wall-clock fetch time, which works for `fetch_bookmarks.py`'s live weekly poll but not for TikTok's one-time backfill through `urls.md` — batches run in whatever order they happen to, not in the file's own rough chronological structure (oldest sections at top, newest "2026" section at bottom). Caught in practice: the "2026" section was fetched first as the initial test batch, so those 8 items — the newest content in the whole backlog — got the *earliest* `added_at` of the entire eventual backfill; every subsequent (older) batch would get a later stamp, inverting the real chronology exactly where it matters.
+- Fix: stopped stamping `added_at` for TikToks entirely — they now rely on the existing `added_at or created_at` fallback, same as tweets that predate the field. Simpler than deriving a synthetic recency signal from `urls.md` position (the more "correct" fix, needs an interpolation scheme, still wouldn't be exact); per-item accuracy loss (bookmark time vs. post time can differ) is an acceptable tradeoff for not having batch-order artifacts silently invert the sort.
+- Retroactively stripped `added_at` from the 8 already-fetched TikToks in both `data_tiktok.js` and their copies in `categories.js`, re-sorted. Verified: Fashion drawer's two TikToks now rank by their real `created_at` (Dec 30-31, 2025) among the surrounding tweets instead of being artificially pinned above everything.
+- `fetch_bookmarks.py`'s `added_at` stamping is untouched — that use case doesn't have this problem.
+
 ## 2026-08-05
 
 **Changed:**
