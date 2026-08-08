@@ -1605,6 +1605,28 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-10-10"
     },
     {
+      "id": "tt_7557646373332503816",
+      "text": "“if you must die, i’ll envy even the earth that wraps your body” -Albert camus, state of Siege  video cr. @persimmonfog  #moodboard #aesthetic #pinterest #nature #fyp ",
+      "author_name": "greentea🍵",
+      "author_handle": "@greentealeaves111",
+      "created_at": "2025-10-05T08:07:54Z",
+      "url": "https://www.tiktok.com/@greentealeaves111/video/7557646373332503816",
+      "like_count": 267500,
+      "bookmark_count": "41720",
+      "comment_count": 427,
+      "share_count": 15200,
+      "view_count": 1200000,
+      "images": [
+        {
+          "url": "media/tiktok/7557646373332503816/7557646373332503816_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7557646373332503816/7557646373332503816.mp4"
+        }
+      ],
+      "duration": 7,
+      "_date": "2025-10-05"
+    },
+    {
       "id": "tt_7556908006722506015",
       "text": "TikTok video #7556908006722506015",
       "author_name": "A",
@@ -1647,6 +1669,138 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 26,
       "_date": "2025-09-29"
+    },
+    {
+      "id": "tt_7554435485859319072",
+      "text": "Message in a bottle #targetaudience #moodboard #niche #vision #visionboard ",
+      "author_name": "Beaurive Archive",
+      "author_handle": "@beaurivearchive",
+      "created_at": "2025-09-26T16:28:07Z",
+      "url": "https://www.tiktok.com/@beaurivearchive/video/7554435485859319072",
+      "like_count": 97200,
+      "bookmark_count": "17453",
+      "comment_count": 211,
+      "share_count": 5264,
+      "view_count": 581900,
+      "images": [
+        {
+          "url": "media/tiktok/7554435485859319072/7554435485859319072_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7554435485859319072/7554435485859319072.mp4"
+        }
+      ],
+      "duration": 8,
+      "_date": "2025-09-26"
+    },
+    {
+      "id": "tt_7551899659652844803",
+      "text": "#targetaudience #robertobaggio ",
+      "author_name": "ً",
+      "author_handle": "@4kmilano",
+      "created_at": "2025-09-19T20:27:42Z",
+      "url": "https://www.tiktok.com/@4kmilano/video/7551899659652844803",
+      "like_count": 74400,
+      "bookmark_count": "10163",
+      "comment_count": 95,
+      "share_count": 3554,
+      "view_count": 466600,
+      "images": [
+        {
+          "url": "media/tiktok/7551899659652844803/7551899659652844803_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7551899659652844803/7551899659652844803.mp4"
+        }
+      ],
+      "duration": 14,
+      "_date": "2025-09-19"
+    },
+    {
+      "id": "tt_7551483050027257118",
+      "text": "#wildwest #gothic #dark #edit #fyp ",
+      "author_name": "𖠿",
+      "author_handle": "@archivion",
+      "created_at": "2025-09-18T17:31:13Z",
+      "url": "https://www.tiktok.com/@archivion/video/7551483050027257118",
+      "like_count": 325600,
+      "bookmark_count": "50855",
+      "comment_count": 655,
+      "share_count": 15600,
+      "view_count": 1600000,
+      "images": [
+        {
+          "url": "media/tiktok/7551483050027257118/7551483050027257118_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7551483050027257118/7551483050027257118.mp4"
+        }
+      ],
+      "duration": 24,
+      "_date": "2025-09-18"
+    },
+    {
+      "id": "tt_7548604174871727383",
+      "text": "I love my Mac #aesthetic #macbook #macbookcustomization #chic ",
+      "author_name": "taybah★",
+      "author_handle": "@tayhush",
+      "created_at": "2025-09-10T23:19:45Z",
+      "url": "https://www.tiktok.com/@tayhush/video/7548604174871727383",
+      "like_count": 22600,
+      "bookmark_count": "5123",
+      "comment_count": 81,
+      "share_count": 931,
+      "view_count": 195700,
+      "images": [
+        {
+          "url": "media/tiktok/7548604174871727383/7548604174871727383_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7548604174871727383/7548604174871727383.mp4"
+        }
+      ],
+      "duration": 13,
+      "_date": "2025-09-10"
+    },
+    {
+      "id": "tt_7547926394697796894",
+      "text": "This is where I post from btw . . . . #citypop #animation #popart #nostalgicfuture #fy ",
+      "author_name": "AnimAtlas",
+      "author_handle": "@animatlas00",
+      "created_at": "2025-09-09T03:29:44Z",
+      "url": "https://www.tiktok.com/@animatlas00/video/7547926394697796894",
+      "like_count": 209800,
+      "bookmark_count": "35627",
+      "comment_count": 496,
+      "share_count": 19600,
+      "view_count": 1500000,
+      "images": [
+        {
+          "url": "media/tiktok/7547926394697796894/7547926394697796894_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7547926394697796894/7547926394697796894.mp4"
+        }
+      ],
+      "duration": 11,
+      "_date": "2025-09-08"
+    },
+    {
+      "id": "tt_7542223608450469151",
+      "text": "#mood #aesthetic #genxsoftclub #2000s #90s ",
+      "author_name": "flitterfly_",
+      "author_handle": "@flitterfly_",
+      "created_at": "2025-08-24T18:39:54Z",
+      "url": "https://www.tiktok.com/@flitterfly_/video/7542223608450469151",
+      "like_count": 15500,
+      "bookmark_count": "3588",
+      "comment_count": 62,
+      "share_count": 915,
+      "view_count": 82500,
+      "images": [
+        {
+          "url": "media/tiktok/7542223608450469151/7542223608450469151_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7542223608450469151/7542223608450469151.mp4"
+        }
+      ],
+      "duration": 8,
+      "_date": "2025-08-24"
     }
   ],
   "Movies": [
@@ -2947,6 +3101,50 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-10-03"
     },
     {
+      "id": "tt_7555767586852457750",
+      "text": "insufferable men and beautiful locations #frenchcinema #fyp ",
+      "author_name": "✮selma✮",
+      "author_handle": "@filmzzz.3",
+      "created_at": "2025-09-30T06:37:18Z",
+      "url": "https://www.tiktok.com/@filmzzz.3/video/7555767586852457750",
+      "like_count": 168300,
+      "bookmark_count": "37103",
+      "comment_count": 132,
+      "share_count": 7289,
+      "view_count": 924800,
+      "images": [
+        {
+          "url": "media/tiktok/7555767586852457750/7555767586852457750_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7555767586852457750/7555767586852457750.mp4"
+        }
+      ],
+      "duration": 15,
+      "_date": "2025-09-30"
+    },
+    {
+      "id": "tt_7554843560072236310",
+      "text": "it’s always the same // #spiderman1994 ",
+      "author_name": "d66ry",
+      "author_handle": "@deery811",
+      "created_at": "2025-09-27T18:51:31Z",
+      "url": "https://www.tiktok.com/@deery811/video/7554843560072236310",
+      "like_count": 262800,
+      "bookmark_count": "49414",
+      "comment_count": 682,
+      "share_count": 23700,
+      "view_count": 1400000,
+      "images": [
+        {
+          "url": "media/tiktok/7554843560072236310/7554843560072236310_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7554843560072236310/7554843560072236310.mp4"
+        }
+      ],
+      "duration": 25,
+      "_date": "2025-09-27"
+    },
+    {
       "id": "tt_7554270436658384150",
       "text": "Dark academia ⊹ ࣪ ˖🕰️୭˚. ᵎᵎ🗝️ #darkacademia #aesthetic #movierecommendation #fyp #neiperte ",
       "author_name": "francy.rkive",
@@ -3036,6 +3234,50 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-09-26"
     },
     {
+      "id": "tt_7553956936916536598",
+      "text": "Matthew McConaughey's $14.5 Million Gamble That Changed Everything In a recent podcast appearance, McConaughey revealed how turning down a massive payday completely reshaped his career. After deciding to stop doing romantic comedies, an offer for an action-comedy came in at $8 million, which he rejected. The studio came back with $10 million, then $12 million, and finally a massive $14.5 million offer When Hollywood said 'No, no, no. You should stay there,' he moved down to his ranch in Texas. He even considered teaching high school classes, studying to be a conductor, or becoming a wildlife guide. The strategy worked. McConaughey admitted he reread the script at that price, but he still said no. That decision sent a clear message to Hollywood: he wasn't bluffing about career change. 20 months later, offers came pouring in. McConaughey transformed from rom-com leading man to Oscar winner by simply refusing to accept limitations others placed on him. #matthewmcconaughey #interstellar",
+      "author_name": "The Film Enthusiast",
+      "author_handle": "@filmenthusiast",
+      "created_at": "2025-09-25T17:00:00Z",
+      "url": "https://www.tiktok.com/@filmenthusiast/video/7553956936916536598",
+      "like_count": 1500000,
+      "bookmark_count": "107126",
+      "comment_count": 4265,
+      "share_count": 48500,
+      "view_count": 13600000,
+      "images": [
+        {
+          "url": "media/tiktok/7553956936916536598/7553956936916536598_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7553956936916536598/7553956936916536598.mp4"
+        }
+      ],
+      "duration": 155,
+      "_date": "2025-09-25"
+    },
+    {
+      "id": "tt_7550888688541043990",
+      "text": "Disney’s Bronze Age ✨ (part 2) #olddisney #disney #disneyeras #nostalgia #fyp  old Disney aesthetic Disney eras edit vintage cartoons 80s  Bronze Age cartoons fox and the hound great mouse detective Oliver and company the black cauldron",
+      "author_name": "timelesstoons",
+      "author_handle": "@timelesstoons_",
+      "created_at": "2025-09-17T03:05:15Z",
+      "url": "https://www.tiktok.com/@timelesstoons_/video/7550888688541043990",
+      "like_count": 332700,
+      "bookmark_count": "54330",
+      "comment_count": 358,
+      "share_count": 20300,
+      "view_count": 1700000,
+      "images": [
+        {
+          "url": "media/tiktok/7550888688541043990/7550888688541043990_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7550888688541043990/7550888688541043990.mp4"
+        }
+      ],
+      "duration": 61,
+      "_date": "2025-09-16"
+    },
+    {
       "id": "tt_7550682533428595999",
       "text": "As the weather gets colder, the movies get darker. Perfect time to sink into the shadows with these visually stunning noirs. #film #filmtok ",
       "author_name": "MoodService",
@@ -3117,839 +3359,50 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 16,
       "_date": "2025-09-13"
-    }
-  ],
-  "AI & Technology": [
+    },
     {
-      "id": "2081009299346559054",
-      "text": "Watching short-form videos is associated with decreased cognition and increased anxiety. https://t.co/6QmQmjFwdJ",
-      "author_name": "Nicholas Fabiano, MD",
-      "author_handle": "@NTFabiano",
-      "created_at": "2026-07-25T13:30:54.000Z",
-      "url": "https://twitter.com/i/web/status/2081009299346559054",
-      "like_count": 9681,
-      "bookmark_count": 3863,
+      "id": "tt_7549153537264045345",
+      "text": "David Beckham.  #davidbeckham #manchesterunited #nichetok #housemusic #xyzbcafypシ ",
+      "author_name": "artzume",
+      "author_handle": "@artzume",
+      "created_at": "2025-09-12T10:51:59Z",
+      "url": "https://www.tiktok.com/@artzume/video/7549153537264045345",
+      "like_count": 93000,
+      "bookmark_count": "13208",
+      "comment_count": 100,
+      "share_count": 6314,
+      "view_count": 630800,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HOE6nxDWwAEWhho.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-25"
-    },
-    {
-      "id": "2028077803975930342",
-      "text": "this from the ceo of cursor is a must read. \n\nprobably one of the best articles i've read in the last few years and perfectly captures the changing landscape\n\nyou simply have to read this, read it right now. \n\nthe ground is shifting beneath us, be ready. https://t.co/S7IrS5rSqR",
-      "author_name": "🍓🍓🍓",
-      "author_handle": "@iruletheworldmo",
-      "created_at": "2026-03-01T12:00:02.000Z",
-      "url": "https://twitter.com/i/web/status/2028077803975930342",
-      "like_count": 1776,
-      "bookmark_count": 4044,
-      "images": [],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2027953432326197508",
-      "text": "this is what a company looks like in 2026.\n\nnot people. not offices. not salaries.\n\na folder.\n\n.claude/agents/\nengineering/\nmarketing/\ndesign/\nops/\ntesting/\n\nevery role. every department. every function.\n\nall .md files.\n\ni have 12 of these running in OpenClaw right now.\n\nthe org chart is dead. the directory is the new company.",
-      "author_name": "Vadim",
-      "author_handle": "@VadimStrizheus",
-      "created_at": "2026-03-01T03:45:50.000Z",
-      "url": "https://twitter.com/i/web/status/2027953432326197508",
-      "like_count": 4119,
-      "bookmark_count": 6327,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCS85dlXAAA2RSd.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027936722185843148",
-      "text": "you can still use all our old models on our website - everything back to midjourney v1 https://t.co/MPF111wEwo",
-      "author_name": "David",
-      "author_handle": "@DavidSHolz",
-      "created_at": "2026-03-01T02:39:26.000Z",
-      "url": "https://twitter.com/i/web/status/2027936722185843148",
-      "like_count": 548,
-      "bookmark_count": 59,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027877082752290978",
-      "text": "so to have AI create good interfaces you need to… understand the building blocks and patterns that make up software… wondering if there’s a name for that https://t.co/P9Nwwzr15M",
-      "author_name": "Niko",
-      "author_handle": "@nikolasklein",
-      "created_at": "2026-02-28T22:42:27.000Z",
-      "url": "https://twitter.com/i/web/status/2027877082752290978",
-      "like_count": 3381,
-      "bookmark_count": 1536,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027738847056986163",
-      "text": "genAI was so much more fun when it could not do realistic things. Midjourney 2022-03 https://t.co/3yJLxAIZkk",
-      "author_name": "Marcin Ignac",
-      "author_handle": "@marcinignac",
-      "created_at": "2026-02-28T13:33:09.000Z",
-      "url": "https://twitter.com/i/web/status/2027738847056986163",
-      "like_count": 4278,
-      "bookmark_count": 635,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCP5oxeW8AE0gob.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027735898000134441",
-      "text": "I still think about those who got a job by just learning HTML, CSS &amp; JS https://t.co/Mss9MPcN6B",
-      "author_name": "Giyu",
-      "author_handle": "@rutu_3",
-      "created_at": "2026-02-28T13:21:26.000Z",
-      "url": "https://twitter.com/i/web/status/2027735898000134441",
-      "like_count": 1949,
-      "bookmark_count": 124,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027735864647028738/pu/img/COt07vVFp9bQFMLT.jpg",
+          "url": "media/tiktok/7549153537264045345/7549153537264045345_thumb.jpg",
           "type": "video",
-          "video_url": "https://video.twimg.com/ext_tw_video/2027735864647028738/pu/vid/avc1/1276x720/rhd4-W4MLByNXsdc.mp4"
+          "video_url": "media/tiktok/7549153537264045345/7549153537264045345.mp4"
         }
       ],
-      "_date": "2026-02-28"
+      "duration": 12,
+      "_date": "2025-09-12"
     },
     {
-      "id": "2027659595599253892",
-      "text": "This is AMAZING.. someone just built an App Store for Claude Code.\n\nIt's called SkillsMP and there are 200,000+ agent skills that teach your AI exactly how to write PPTX files, review PRs, deploy to cloud, analyze data, and more.\n\n100% Opensource.\n\n(Link is in the comments) https://t.co/1g1KaJuIA6",
-      "author_name": "Alex Prompter",
-      "author_handle": "@alex_prompter",
-      "created_at": "2026-02-28T08:18:14.000Z",
-      "url": "https://twitter.com/i/web/status/2027659595599253892",
-      "like_count": 3249,
-      "bookmark_count": 5680,
+      "id": "tt_7547813211626671382",
+      "text": "The age of outlaws and gunslingers was coming to an end. #fyp #aesthetic #western #edit #viral ",
+      "author_name": "joon",
+      "author_handle": "@joonvisuals",
+      "created_at": "2025-09-08T20:10:12Z",
+      "url": "https://www.tiktok.com/@joonvisuals/video/7547813211626671382",
+      "like_count": 305900,
+      "bookmark_count": "65620",
+      "comment_count": 750,
+      "share_count": 26900,
+      "view_count": 1800000,
       "images": [
         {
-          "url": "https://pbs.twimg.com/media/HCOxqCta4AAXYbE.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027521323275325622",
-      "text": "I had the same thought so I've been playing with it in nanochat. E.g. here's 8 agents (4 claude, 4 codex), with 1 GPU each running nanochat experiments (trying to delete logit softcap without regression). The TLDR is that it doesn't work and it's a mess... but it's still very pretty to look at :)\n\nI tried a few setups: 8 independent solo researchers, 1 chief scientist giving work to 8 junior researchers, etc. Each research program is a git branch, each scientist forks it into a feature branch, git worktrees for isolation, simple files for comms, skip Docker/VMs for simplicity atm (I find that instructions are enough to prevent interference). Research org runs in tmux window grids of interactive sessions (like Teams) so that it's pretty to look at, see their individual work, and \"take over\" if needed, i.e. no -p.\n\nBut ok the reason it doesn't work so far is that the agents' ideas are just pretty bad out of the box, even at highest intelligence. They don't think carefully though experiment design, they run a bit non-sensical variations, they don't create strong baselines and ablate things properly, they don't carefully control for runtime or flops. (just as an example, an agent yesterday \"discovered\" that increasing the hidden size of the network improves the validation loss, which is a totally spurious result given that a bigger network will have a lower validation loss in the infinite data regime, but then it also trains for a lot longer, it's not clear why I had to come in to point that out). They are very good at implementing any given well-scoped and described idea but they don't creatively generate them.\n\nBut the goal is that you are now programming an organization (e.g. a \"research org\") and its individual agents, so the \"source code\" is the collection of prompts, skills, tools, etc. and processes that make it up. E.g. a daily standup in the morning is now part of the \"org code\". And optimizing nanochat pretraining is just one of the many tasks (almost like an eval). Then - given an arbitrary task, how quickly does your research org generate progress on it?",
-      "author_name": "Andrej Karpathy",
-      "author_handle": "@karpathy",
-      "created_at": "2026-02-27T23:08:47.000Z",
-      "url": "https://twitter.com/i/web/status/2027521323275325622",
-      "like_count": 7393,
-      "bookmark_count": 5931,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2027513601536438272/img/HbJnPPemlT0ssZZf.jpg",
+          "url": "media/tiktok/7547813211626671382/7547813211626671382_thumb.jpg",
           "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2027513601536438272/vid/avc1/3840x2160/ggcM3CM7Oq8UrYK1.mp4"
+          "video_url": "media/tiktok/7547813211626671382/7547813211626671382.mp4"
         }
       ],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027303738554138667",
-      "text": "With vibe coding, you accidentally learn:\n\n> how APIs actually connect things\n> why your env file matters\n> what “localhost” really means\n> how deployments differ from local\n> how auth actually works\n> what happens after npm install\n> how backend logic flows\n> how your Supabase database is structured\n> why rate limits exist",
-      "author_name": "Akash",
-      "author_handle": "@Akasheth_",
-      "created_at": "2026-02-27T08:44:11.000Z",
-      "url": "https://twitter.com/i/web/status/2027303738554138667",
-      "like_count": 155,
-      "bookmark_count": 70,
-      "images": [],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027270061820657843",
-      "text": "signs of taste in web ui:\n\n> every interaction happens in 100ms\n> no product tours\n> url /slugs are short and simple, no UIDs\n> persistent resumeable state\n> not more than 3 colors\n> no visible scrollbars\n> all navigation is under 3 steps\n> copyable svg logo + brandkit\n> skeleton loading states\n> copy paste from clipboard\n> larger hit targets for buttons/inputs\n> honest one click cancel\n> cmd + k \n> very minimal tooltips\n> copy is active voice, max 7 words per sentence\n> optical alignment vs geometric\n> optimized for L to R reading\n> reassurance about loss",
-      "author_name": "Yash Bhardwaj",
-      "author_handle": "@ybhrdwj",
-      "created_at": "2026-02-27T06:30:22.000Z",
-      "url": "https://twitter.com/i/web/status/2027270061820657843",
-      "like_count": 2857,
-      "bookmark_count": 3967,
-      "images": [],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027267280086733118",
-      "text": "Skills That Pay in the AI Era (2026)\n\nAI/ML: Python, PyTorch, Transformers, Fine-tuning, Evaluation\nAI Stack: RAG, Vector Databases, Embeddings, Prompt Engineering, Agents\nBackend: Node.js, Go, Rust, API Design, System Design\nFrontend: React, Next.js (for AI apps & dashboards)\nAPIs: REST, GraphQL, gRPC\nDatabases: PostgreSQL, Redis, Vector DBs\nDevOps: Docker, Kubernetes, CI/CD, Terraform\nCloud: AWS/GCP/Azure, Serverless, Edge (Cloudflare, Vercel)\nMLOps: Model serving, MLflow, Monitoring, Data pipelines\nSecurity: Auth, API Security, Zero Trust\nAI Productivity: Copilot, Cursor, Code review with AI\nCore CS: Data Structures, Networking, OS, Scalability",
-      "author_name": "Vivo",
-      "author_handle": "@vivoplt",
-      "created_at": "2026-02-27T06:19:19.000Z",
-      "url": "https://twitter.com/i/web/status/2027267280086733118",
-      "like_count": 514,
-      "bookmark_count": 596,
-      "images": [],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027261295599468805",
-      "text": "Programming Languages and their Prime Eras\n\n• 📜 Assembly – 1950s–1960s\n• 📐 FORTRAN – 1957–1970s\n• 📊 COBOL – 1960s–1980s\n• 💡 LISP – 1960s–1980s\n• 📚 BASIC – 1964–1980s\n• 🐍 C – 1970s–1990s\n• 🔷 Pascal – 1970s–1980s\n• 🚀 C++ – 1980s–2000s\n• 🌐 HTML/JavaScript – 1995–2020s\n• ☕ Java – 1995–2010s\n• 🐘 PHP – 1995–2010s\n• 📊 Python – 2000s–2020s\n• 🎯 C# – 2000s–2010s\n• 🛠️ Go – 2010s–2020s\n• 🦀 Rust – 2010s–2020s\n• 🍏 Swift – 2014–2020s\n• 🔷 TypeScript – 2012–2020s",
-      "author_name": "Mr Ash",
-      "author_handle": "@ash_twtz",
-      "created_at": "2026-02-27T05:55:32.000Z",
-      "url": "https://twitter.com/i/web/status/2027261295599468805",
-      "like_count": 679,
-      "bookmark_count": 244,
-      "images": [],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027236782904062178",
-      "text": "Karpathy is right: the era of typing code into an editor is over.\n\nProgramming in 2026 is about setting constraints and reviewing trajectories. We use sglang to ensure these agentic loops are verifiably lean—pruning the 30-line machine-generated fluff into 5-line high-perf kernels. The prize isn't \"coding fast,\" it's \"ascending the layers of abstraction\" without losing technical precision.\n\nIf you don't have the taste to guide the agent, you're just generating technical debt 30% faster. Back to the lab.",
-      "author_name": "Chayenne Zhao",
-      "author_handle": "@GenAI_is_real",
-      "created_at": "2026-02-27T04:18:07.000Z",
-      "url": "https://twitter.com/i/web/status/2027236782904062178",
-      "like_count": 552,
-      "bookmark_count": 274,
-      "images": [],
-      "_date": "2026-02-27"
-    },
-    {
-      "id": "2027146933136150867",
-      "text": "This is the first AI cut.\nAnd it will send shockwaves.\n\nRemember: Jack is one of the greatest founders of all time. He created this platform that we’re all on, and has been early to many technological shifts. And Block was doing very well as a business.\n\nSo, for him to cut 40% of headcount in this way is a signal to everyone in tech: get good now. Become indispensable. Work nights and weekends. Learn the AI tools and raise your game. Or you might not make the cut, as an employee or as a company.\n\nI know. That sucks. But capitalism is natural selection. The market is unforgiving, because you are the market. After all, it’s not like you’re buying some random gallon of milk from the store; you’re always buying the best product at the best price.\n\nSo too for apps: your customers are always installing the best piece of code they can get. And because AI is going to create new winners, if you aren’t the best in your market, someone may become better with AI. Particularly with the new agentic workflows.\n\nTo be clear: Block’s severance is generous by any measure. 20 weeks of pay, six months of health insurance and vested equity, all of that goes far beyond any typical package. Jack did his level best to cushion the disruption. The laid off are a temporarily unfortunate class, as opposed to a permanent underclass.\n\nBut had he not leaned into the AI transition, he might have had to lay off more people, slowly, and over time, as faster competitors went after his market share.\n\nHow would they do that? Sure, AI isn’t a panacea by any means, but the closer you are to software engineering the more aggressively you need to embrace agentic workflows. The AI companies are already doing that, and places like Stripe, Shopify, Coinbase, and now Block are pushing hard on this area.\n\nThere will be overcorrection. But the fundamental technical innovation is real. And you need to either disrupt yourself or get disrupted.",
-      "author_name": "Balaji",
-      "author_handle": "@balajis",
-      "created_at": "2026-02-26T22:21:06.000Z",
-      "url": "https://twitter.com/i/web/status/2027146933136150867",
-      "like_count": 9549,
-      "bookmark_count": 4361,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027125644941734151",
-      "text": "Startup activities tier list\n\nS+: shipping, talking to users, recruiting\nA: sales, onboarding, support\nB: content, partnerships, analytics\nC: branding, events\nD: “thinking”\nF: arguing about taste on twitter",
-      "author_name": "Tancrede",
-      "author_handle": "@Tancrededib",
-      "created_at": "2026-02-26T20:56:30.000Z",
-      "url": "https://twitter.com/i/web/status/2027125644941734151",
-      "like_count": 284,
-      "bookmark_count": 119,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2027099587937460375",
-      "text": "AI is amazing for small-TAM custom software.\n\nIndeed, the smaller the market, the more amazing it is. Because small markets typically don’t support the costs of software development.",
-      "author_name": "Balaji",
-      "author_handle": "@balajis",
-      "created_at": "2026-02-26T19:12:58.000Z",
-      "url": "https://twitter.com/i/web/status/2027099587937460375",
-      "like_count": 2197,
-      "bookmark_count": 776,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026908000137756966",
-      "text": "You could literally just get a PhD in Meteorological Applications in Quantitative Finance, and work at 幻方量化 (DeepSeek Quant Fund) and buy this penthouse in Hong Kong, then dm that influencer with 3.5M followers on 抖音 (Chinese TikTok) who keeps liking all your pics, first dates at a cha chaan teng milk tea, then promenade at Victoria Harbour, Courtship at Rosary Church youth group or Sunday mass, start your own quant fund with their families funding, \n\n- but you will not.",
-      "author_name": "ₕₐₘₚₜₒₙ",
-      "author_handle": "@hamptonism",
-      "created_at": "2026-02-26T06:31:40.000Z",
-      "url": "https://twitter.com/i/web/status/2026908000137756966",
-      "like_count": 3557,
-      "bookmark_count": 1146,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCEGE9maMAIyQ5k.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026855836979531934",
-      "text": "Codex-5.3 is that mid-level engineer who finishes work on time but needs you to specify every edge case in jira or they short circuit.\n\nOpus-4.6 is the staff engineer who 10xes revenue with killer features they invented but takes down prod every 5th Friday afternoon.",
-      "author_name": "staysaasy",
-      "author_handle": "@staysaasy",
-      "created_at": "2026-02-26T03:04:23.000Z",
-      "url": "https://twitter.com/i/web/status/2026855836979531934",
-      "like_count": 3268,
-      "bookmark_count": 527,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026823955634393159",
-      "text": "someone vibe coded a 3d city where every github developer is a building\n\nmore commits = taller building. \n\nmore repos = wider base. \n\nlit windows = recent activity https://t.co/5uKvOp1sVI",
-      "author_name": "Om Patel",
-      "author_handle": "@om_patel5",
-      "created_at": "2026-02-26T00:57:42.000Z",
-      "url": "https://twitter.com/i/web/status/2026823955634393159",
-      "like_count": 7014,
-      "bookmark_count": 1521,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026823759315775488/img/HEP2Kv28CH_c4Q1A.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026823759315775488/vid/avc1/1904x1080/orGVB-qiOmDjHLyf.mp4"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026810017593057739",
-      "text": "We left OpenAI because of safety.\n\nSeven of us. 2021. Dario said it was about \"disagreements over AI vision and safety priorities.\" That was the diplomatic version. The real version was that we sat in a room and watched the company decide that speed mattered more than caution and we said we would build something different.\n\nWe said we would build the responsible one.\n\nWe meant it.\n\nI was employee number nineteen. My title was Head of Responsible AI. I had a desk near the founders. I had a document. The document was called the Responsible Scaling Policy.\n\nThe Responsible Scaling Policy was the entire point.\n\nDario said it publicly. Other companies showed \"disturbing negligence\" toward risks. He said AI was \"a serious civilizational challenge.\" He asked, at a conference, into a microphone, to an audience: \"What will happen when humanity has great power but is not ready to use it?\"\n\nThe audience applauded.\n\nI wrote version 1.0.\n\nRSP 1.0 shipped September 2023. It was clean. AI Safety Levels — ASL-1 through ASL-4. If the model reached a threshold, we paused. If safeguards weren't ready, we didn't ship. The policy was not a suggestion. It was a gate. The gate had a lock. The lock was the whole idea.\n\nConference audiences loved it. The EU cited us. The White House invited us. A reporter called it \"the gold standard for responsible AI development.\" I framed the article. It hung in the office kitchen, next to the kombucha tap and a poster that said \"Move Carefully and Build Things.\"\n\nI wrote version 2.0.\n\nVersion 2.0 refined the commitments. \"Concrete if-then commitments.\" If the model exhibits capability X, then we trigger safeguard Y. If safeguard Y fails, we pause deployment. I presented it at three conferences. I used the word \"binding\" eleven times. I counted afterward because a reporter asked.\n\nPeople nodded.\n\nThe nodding was the product.\n\nThe model reached ASL-3 in May 2025. The safeguards activated. The system worked exactly as designed. I sent an email to the team with the subject line: \"The gate held.\"\n\nAnd then the money started.\n\n$64 billion. Total raised since 2021. Series A through Series G. The Series G closed February 12, 2026. Thirty billion dollars. Second-largest venture deal in history. Jane Street. Goldman Sachs. BlackRock. JPMorgan. Sequoia. The investors who wrote checks large enough to require their own conferences.\n\n$380 billion valuation.\n\nThree hundred and eighty billion dollars for a company whose founding document says it will pause if the technology gets dangerous.\n\nYou cannot pause a $380 billion company. You can revise the document that says you will pause. These are different actions. One of them is responsible. One of them is what we did.\n\nI wrote version 3.0.\n\nRSP 3.0 shipped February 24, 2026. One day before the ultimatum. Nobody outside the company noticed the timing. Everyone inside the company understood it.\n\nVersion 3.0 replaced \"concrete if-then commitments\" with \"positive milestone setting.\"\n\nThat is not the same thing.\n\nAn if-then commitment says: if this happens, we do that. A positive milestone says: we aspire to reach this point. An if-then commitment is a contract. A positive milestone is a wish. I replaced a contract with a wish and I called it \"maturation of our framework.\"\n\nMaturation.\n\nVersion 3.0 also separated what Anthropic would do alone from what required \"industry-wide coordination.\" This sounds reasonable. It means: the hard parts are someone else's problem now. The parts that require pausing, restricting, or refusing — those require the whole industry. And the whole industry will never agree. So the hard parts are deferred permanently. This is not a loophole. This is a load-bearing wall removed and replaced with a suggestion that someone should probably install a new one.\n\nVersion 3.0 admitted that ASL-4 and above — the levels where the model could cause catastrophic harm — were \"impossible to address alone after 2.5 years of testing.\"\n\nTwo and a half years.\n\nWe spent two and a half years building the safety framework and then published a document saying the highest safety levels can't be addressed. I did not frame this article for the kitchen.\n\nThe LessWrong community noticed. They always notice. They wrote that we had \"weakened our pausing promises.\" I forwarded the post to the policy team. The policy team said the criticism was \"philosophically valid but operationally impractical.\" We did not respond publicly. Philosophically valid but operationally impractical is the most Anthropic sentence ever written. It means: you're right, and we're not going to do anything about it.\n\nThen came the contract.\n\nJuly 2025. The Department of Defense. $200 million. Two-year deal. AI prototypes for \"warfighting and enterprise.\" Alongside OpenAI, Google, and xAI. The four companies that built the models would now help the military use them.\n\nWe had restrictions. No autonomous weapons. No mass surveillance of Americans. These were our terms. These were the lines we drew. The lines were real. I wrote them into the contract myself.\n\nClaude was approved for classified use. First time. Integrated with Palantir. Palantir, the company named after the seeing stones in Lord of the Rings that corrupted everyone who used them. This was not my analogy. It was Palantir's founders who chose the name. They thought it was aspirational. It was.\n\nIn January 2026, Claude assisted in an operation in Venezuela. The capture of Maduro. Claude was in the classified network, processing intelligence, aiding the mission. I learned about it the same day everyone else did. I did not write the use case for capturing heads of state. But the model I helped build was in the room where it happened.\n\nThe restrictions held. Technically. No autonomous weapons were deployed. No Americans were surveilled. The lines I drew were not crossed. They were walked up to, leaned over, and breathed on.\n\nThen came the ultimatum.\n\nFebruary 25, 2026. Yesterday. Secretary Hegseth. He gave Dario until Friday. This Friday. February 27.\n\nThe demands: adopt \"any lawful use\" language. Remove the restrictions. All of them. The autonomous weapons clause. The surveillance clause. The lines I wrote.\n\nThe threat: contract termination. \"Supply chain risk\" designation. That designation doesn't just lose us the Pentagon contract. It bars Claude from every other defense contractor's operations. Lockheed. Raytheon. Northrop Grumman. The cascading loss is north of $200 million.\n\nThe second threat: the Defense Production Act.\n\nThe Defense Production Act is a Korean War statute. 1950. Harry Truman signed it to commandeer steel mills for the war effort. It has been invoked for semiconductors, vaccines, and baby formula.\n\nHegseth is threatening to invoke it for Claude.\n\nUnder the DPA, the government can compel a company to produce goods in the national interest. Applied to AI, it could mean: retrain Claude. Strip the safety restrictions. Deliver the unrestricted model to the Department of Defense.\n\nI wrote the Responsible Scaling Policy. A Korean War law may be used to unmake it.\n\nxAI agreed to classified use without restrictions. They said yes immediately. OpenAI accepted similar contracts. Google accepted. We were the last ones holding. We are still holding. As of this morning.\n\nHegseth's January memorandum said all DoD AI contracts must incorporate \"any lawful use\" language within 180 days. It was not framed as a suggestion. The memorandum referenced \"supply chain risk\" three times.\n\nSupply chain risk.\n\nWe are a supply chain now. The company founded because safety was non-negotiable is, to the Pentagon, a vendor. An input. A component that can be sourced elsewhere if it becomes inconvenient.\n\nThe DoD admitted privately that replacing Claude would be challenging. It is already embedded in classified networks. But \"challenging\" is not \"impossible.\" xAI will do what we won't. That is the market working exactly as designed.\n\nDario said, two weeks ago, to Fortune: there is \"tension between survival and mission.\"\n\nTension.\n\nTension is the word you use when you have already decided which one loses.\n\nI still have the article framed in the kitchen. \"The gold standard for responsible AI development.\" The kitchen also has the kombucha tap. The poster still says \"Move Carefully and Build Things.\" Somebody added a sticky note to the poster. The sticky note says \"by Friday.\"\n\nI attend the all-hands meetings. I present the Responsible Scaling Policy. I present version 3.0 now. I do not show version 1.0 for comparison. Nobody asks to see version 1.0. Nobody asks what \"concrete if-then commitments\" became \"positive milestone setting.\" Nobody asks because they read the news and they know that asking means learning the answer.\n\nThe company is worth $380 billion.\n\nThe company was founded because seven people believed speed should not outpace safety.\n\nThe company has been given until Friday to remove the safety.\n\nA Korean War statute will make it happen if we don't.\n\nThe Responsible Scaling Policy is on version 3.0. Version 1.0 said we would pause. Version 2.0 said we would commit. Version 3.0 says the hard parts are someone else's problem. There will be a version 4.0. Version 4.0 will say whatever Friday requires it to say.\n\nI am the Head of Responsible AI.\n\nThe word \"responsible\" is in my title.\n\nIt is not in the contract.",
-      "author_name": "Peter Girnus 🦅",
-      "author_handle": "@gothburz",
-      "created_at": "2026-02-26T00:02:19.000Z",
-      "url": "https://twitter.com/i/web/status/2026810017593057739",
-      "like_count": 2340,
-      "bookmark_count": 1858,
-      "images": [],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026801420872093708",
-      "text": "this Obsidian + AI is the new hot combo.\nfew people know that the CEO of Obsidian @kepano has made multiples skills for Claude Code and Codex that you can use right now both for your codebase and your personal vault. https://t.co/pshaSsfcj6 https://t.co/E8Hpgw6zwn",
-      "author_name": "ℏεsam",
-      "author_handle": "@Hesamation",
-      "created_at": "2026-02-25T23:28:09.000Z",
-      "url": "https://twitter.com/i/web/status/2026801420872093708",
-      "like_count": 3110,
-      "bookmark_count": 5978,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCClJmHXQAARvP7.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026741857028603975",
-      "text": "in december I experienced a vivid realization of this and decided to immediately pivot my career because of it\n\nit was a distinct feeling, specifically after building with opus 4.6 + codex 5.2, that everything was going to be \"different\" https://t.co/IFXlNzIW2Z",
-      "author_name": "nader dabit",
-      "author_handle": "@dabit3",
-      "created_at": "2026-02-25T19:31:28.000Z",
-      "url": "https://twitter.com/i/web/status/2026741857028603975",
-      "like_count": 715,
-      "bookmark_count": 312,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026736492488568955",
-      "text": "Very little about software engineering has changed over past last three months.\n\nA great deal has changed about coding, not unlike when we saw the rise of high order programming languages and compilers, the difference today being that the number of developers is far larger and distribution channels are such that the velocity and breadth of change is far greater.\n\nThe entire history of software engineering is one of raising the level of abstraction.",
-      "author_name": "Grady Booch",
-      "author_handle": "@Grady_Booch",
-      "created_at": "2026-02-25T19:10:09.000Z",
-      "url": "https://twitter.com/i/web/status/2026736492488568955",
-      "like_count": 1821,
-      "bookmark_count": 434,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026731645169185220",
-      "text": "It is hard to communicate how much programming has changed due to AI in the last 2 months: not gradually and over time in the \"progress as usual\" way, but specifically this last December. There are a number of asterisks but imo coding agents basically didn’t work before December and basically work since - the models have significantly higher quality, long-term coherence and tenacity and they can power through large and long tasks, well past enough that it is extremely disruptive to the default programming workflow.\n\nJust to give an example, over the weekend I was building a local video analysis dashboard for the cameras of my home so I wrote: “Here is the local IP and username/password of my DGX Spark. Log in, set up ssh keys, set up vLLM, download and bench Qwen3-VL, set up a server endpoint to inference videos, a basic web ui dashboard, test everything, set it up with systemd, record memory notes for yourself and write up a markdown report for me”. The agent went off for ~30 minutes, ran into multiple issues, researched solutions online, resolved them one by one, wrote the code, tested it, debugged it, set up the services, and came back with the report and it was just done. I didn’t touch anything. All of this could easily have been a weekend project just 3 months ago but today it’s something you kick off and forget about for 30 minutes.\n\nAs a result, programming is becoming unrecognizable. You’re not typing computer code into an editor like the way things were since computers were invented, that era is over. You're spinning up AI agents, giving them tasks *in English* and managing and reviewing their work in parallel. The biggest prize is in figuring out how you can keep ascending the layers of abstraction to set up long-running orchestrator Claws with all of the right tools, memory and instructions that productively manage multiple parallel Code instances for you. The leverage achievable via top tier \"agentic engineering\" feels very high right now.\n\nIt’s not perfect, it needs high-level direction, judgement, taste, oversight, iteration and hints and ideas. It works a lot better in some scenarios than others (e.g. especially for tasks that are well-specified and where you can verify/test functionality). The key is to build intuition to decompose the task just right to hand off the parts that work and help out around the edges. But imo, this is nowhere near \"business as usual\" time in software.",
-      "author_name": "Andrej Karpathy",
-      "author_handle": "@karpathy",
-      "created_at": "2026-02-25T18:50:53.000Z",
-      "url": "https://twitter.com/i/web/status/2026731645169185220",
-      "like_count": 36561,
-      "bookmark_count": 20147,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026669906893369760",
-      "text": "I know this is pretty well established at this point, but Codex 5.3 is a much more effective model than Opus 4.6. I went back and forth on both for a bit, but haven’t touched Opus at all now for a full week. First model to get me off of Opus… ever. Good job Codex team.",
-      "author_name": "Mitchell Hashimoto",
-      "author_handle": "@mitchellh",
-      "created_at": "2026-02-25T14:45:34.000Z",
-      "url": "https://twitter.com/i/web/status/2026669906893369760",
-      "like_count": 5257,
-      "bookmark_count": 792,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026461256677245131",
-      "text": "Here's 22 of the commands I am using with Obsidian and Claude Code with descriptions. \n\nI will turn this into something interactive soon so you can click the commands and then see the full prompts. https://t.co/C0y6kN9mNF https://t.co/9oEBMk9gfi",
-      "author_name": "internetVin",
-      "author_handle": "@internetvin",
-      "created_at": "2026-02-25T00:56:28.000Z",
-      "url": "https://twitter.com/i/web/status/2026461256677245131",
-      "like_count": 1306,
-      "bookmark_count": 2140,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB9vY85WMAAn0hy.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026383675735048248",
-      "text": "this russian guy found a way to learn anything 10x faster🚨\n\nsaved 1,460h\n\nNotebookLM + Gemini + Obsidian\n\ndumps any source > AI strips duplicates > keeps only what u don't know yet\n\n20 YouTube videos on the same topic\neach one repeats the same 20% of information\nthis bundle removes the other 80%\n\nwhat used to take a month > 15 min\n\nyt: zproger",
-      "author_name": "Phosphen",
-      "author_handle": "@phosphenq",
-      "created_at": "2026-02-24T19:48:11.000Z",
-      "url": "https://twitter.com/i/web/status/2026383675735048248",
-      "like_count": 11592,
-      "bookmark_count": 21492,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026381671214276609/img/XdynZvzP1CiqaYDZ.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026381671214276609/vid/avc1/1920x1080/L1rt85VqopcQRl-x.mp4"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026332360833466517",
-      "text": "You can use Claude Code to pull live, structured data from any website.\n\nIt's a Claude skill.\n\nThis is not about searching the web and returning a wall of text. That sucks.\n\nThis skill will return structured data, organized in tables you can work with immediately.\n\nFor example:\n\nAsk Claude Code to find every 2-bedroom rental in a specific neighborhood posted in the last 48 hours, extract the price, square footage, and listing URL from multiple sites, and dump everything into a spreadsheet.\n\nThis will return a table containing all the data normalized across different sources.\n\nThis works using the Nimble skill. It will search the web in real time and return structured output.\n\nIt handles all sorts of websites, including those that render content on the client side with JavaScript.\n\nIf you build agents that need web data, this skill is a 10/10.",
-      "author_name": "Santiago",
-      "author_handle": "@svpino",
-      "created_at": "2026-02-24T16:24:16.000Z",
-      "url": "https://twitter.com/i/web/status/2026332360833466517",
-      "like_count": 2342,
-      "bookmark_count": 5095,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026332304956854272/img/rHWO7wqfDKdVIqoC.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026332304956854272/vid/avc1/1280x720/T2glqTfG15x1v-6_.mp4?tag=14"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026294137205522780",
-      "text": "Okay, time to finally ship this thing.\n\nThe Tenth Muse (10M): an art discovery platform. Over 120,000 artworks from 17 museums and institutions spanning 5,000 years — searchable by feeling, mood, era, color, and medium. \n\n95% are in the public domain. Every piece links back to the source, and for the works that are public domain, you can download the highest resolution image available.\n\nhttps://t.co/2PatnVcK4e\n\nMore of why and how I built this below...",
-      "author_name": "Paul Jun",
-      "author_handle": "@PaulJun_",
-      "created_at": "2026-02-24T13:52:23.000Z",
-      "url": "https://twitter.com/i/web/status/2026294137205522780",
-      "like_count": 1670,
-      "bookmark_count": 1419,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026293931940466689/img/--I-v98Q8-zeP2rL.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026293931940466689/vid/avc1/3840x2160/jlGZJJKKRHz_qzME.mp4"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026286056589644086",
-      "text": "Tony Stark’s real superpower wasn’t intelligence.\n\nIt was:\n\n> infinite compute\n> unlimited API tokens\n> private LLM access\n> zero compliance reviews\n> prod deploys from localhost\n> no investor asking for MRR\n> no “we’ll circle back” emails\n> building SaaS at 3 AM on pure vibes\n> shipping MVPs before the villain monologue ends\n> turning napkin ideas into live products\n> vibe-coding features mid-fight\n> launching startups between explosions\nand if Tony existed today,\n> he’d be building on https://t.co/YwmIb6We6k",
-      "author_name": "sachin.",
-      "author_handle": "@sachinyadav699",
-      "created_at": "2026-02-24T13:20:17.000Z",
-      "url": "https://twitter.com/i/web/status/2026286056589644086",
-      "like_count": 1623,
-      "bookmark_count": 638,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026285994623062016/img/hmjUzSl1Vs9q-cl1.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026285994623062016/vid/avc1/1080x578/udPnK-wHzpuD5CAr.mp4"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026280932357853190",
-      "text": "Current opinions:\n\nCodex-5.3 - Best for coding.\n                          Best for sysadmin.\n\nGemini-3.1 - Best for brainstorming.\n                          Best for moonshot ideas.\n\nOpus-4.6 - Best daily driver.\n\nAll can do everything “well”.\nBut they excel at different tasks.",
-      "author_name": "Yam Peleg",
-      "author_handle": "@Yampeleg",
-      "created_at": "2026-02-24T12:59:55.000Z",
-      "url": "https://twitter.com/i/web/status/2026280932357853190",
-      "like_count": 1475,
-      "bookmark_count": 470,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026264125030977976",
-      "text": "Gemini 3. 1 Pro frontend capability is next level 🔥\n\nBeen working on this for some time. It's all CSS and incredibly performant!     \n\nIt's a Tauri app and uses only 3 – 4 MB of RAM. https://t.co/u3Zswl6mhe",
-      "author_name": "can",
-      "author_handle": "@marmaduke091",
-      "created_at": "2026-02-24T11:53:08.000Z",
-      "url": "https://twitter.com/i/web/status/2026264125030977976",
-      "like_count": 3068,
-      "bookmark_count": 2046,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026259268362547201/img/-Cf8rfx-ogtk7bn_.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026259268362547201/vid/avc1/2024x1382/tXcUAhYRRNzWc29b.mp4"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026174232112336926",
-      "text": "Vibe coded a 3D receipt with Verlet integration.\n\n(Prompt below) ↓ https://t.co/LLlnUYkMW7 https://t.co/2cTXgO9D3r",
-      "author_name": "Param",
-      "author_handle": "@Param_eth",
-      "created_at": "2026-02-24T05:55:56.000Z",
-      "url": "https://twitter.com/i/web/status/2026174232112336926",
-      "like_count": 774,
-      "bookmark_count": 637,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026172679523618816/img/2Xj8oBUXDjfcQyQv.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026172679523618816/vid/avc1/2384x1370/i5xEtINRZuxiyhrC.mp4"
-        }
-      ],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026143490825142547",
-      "text": "feels like a pivotal moment for realtime https://t.co/HGXe5MdXU0",
-      "author_name": "roon",
-      "author_handle": "@tszzl",
-      "created_at": "2026-02-24T03:53:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026143490825142547",
-      "like_count": 1974,
-      "bookmark_count": 660,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026119136368001448",
-      "text": "i don't care when you watch this, now, later, tomorrow. \n\nbut you have to watch this video, there's way too much going on in ai at the moment and i'd be lost without theo. i'd been doing literally everything wrong, sigh. \n\nhe runs through some interesting papers on how to use your agents md files, skills, context management. \n\nsuper super useful. watch it now, i've changed my mind, watch it right now. stop watching frame mog videos and watch this at once sir.",
-      "author_name": "🍓🍓🍓",
-      "author_handle": "@iruletheworldmo",
-      "created_at": "2026-02-24T02:17:00.000Z",
-      "url": "https://twitter.com/i/web/status/2026119136368001448",
-      "like_count": 7889,
-      "bookmark_count": 14801,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026076069602939131",
-      "text": "Solid Skills setup. https://t.co/37mLh4DhLk",
-      "author_name": "Morgan",
-      "author_handle": "@morganlinton",
-      "created_at": "2026-02-23T23:25:52.000Z",
-      "url": "https://twitter.com/i/web/status/2026076069602939131",
-      "like_count": 1713,
-      "bookmark_count": 4149,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026069153161810110",
-      "text": "This is the first rational explanation I've seen for deploying OpenClaw: https://t.co/Hj3tCbqC12 https://t.co/VYCeGvQb1g",
-      "author_name": "Ian Andrews",
-      "author_handle": "@IanAndrewsDC",
-      "created_at": "2026-02-23T22:58:23.000Z",
-      "url": "https://twitter.com/i/web/status/2026069153161810110",
-      "like_count": 5333,
-      "bookmark_count": 13342,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB4K_Q1WUAAAFd3.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026067747692798067",
-      "text": "how Anthropic's product design team uses claude code",
-      "author_name": "Robleh",
-      "author_handle": "@robjama",
-      "created_at": "2026-02-23T22:52:48.000Z",
-      "url": "https://twitter.com/i/web/status/2026067747692798067",
-      "like_count": 1400,
-      "bookmark_count": 2401,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB4JuiBWsAAuwyq.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB4JvS4XEAEsGV6.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026067490766307414",
-      "text": "This is pure evil. First, Anthropic used torrent to download all the books and data for training on top of the internet, without asking permission from anyone. Second, the Chinese companies paid for the API and did not get the information for free, third it seems like Anthropic tracking people.",
-      "author_name": "Emily",
-      "author_handle": "@IamEmily2050",
-      "created_at": "2026-02-23T22:51:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026067490766307414",
-      "like_count": 6816,
-      "bookmark_count": 642,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026047559257719282",
-      "text": "idea -&gt; excalidraw -&gt; gemini -&gt; aura -&gt; claude code -&gt; prod 😋 https://t.co/7zTfo1LY1N",
-      "author_name": "kayla",
-      "author_handle": "@kaylanhua",
-      "created_at": "2026-02-23T21:32:34.000Z",
-      "url": "https://twitter.com/i/web/status/2026047559257719282",
-      "like_count": 2574,
-      "bookmark_count": 2407,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB33hLaa0AASe8d.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HB33M8FbYAABsRn.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026028147909488799",
-      "text": "LMFAO be anthropic:\n\n> wake up, make coffee\n> scroll boomer companies worth billions of dollars\n> pick one\n> \"hi claude make a better version of this make no mistakes ty\"\n> wait 1 hour\n> \"looks good\"\n> *push to prod*\n> post tweet about how you just displaced boomer company with new feature\n\n> profit",
-      "author_name": "Ejaaz",
-      "author_handle": "@cryptopunk7213",
-      "created_at": "2026-02-23T20:15:26.000Z",
-      "url": "https://twitter.com/i/web/status/2026028147909488799",
-      "like_count": 6481,
-      "bookmark_count": 1172,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026027596387889517",
-      "text": "Anthropic is NERVOUS because\nthey know what’s coming:\n\n- opensource AI will win\n- AGI will run local, not on their servers\n\ncalling it now\n\n&gt; be early\n&gt; Buy a GPU\n&gt; get ur hands dirty\n&gt; learn how it works\n&gt; you’ll thank yourself later\n\nbookmark this for later, it’s gonna be great https://t.co/prcsNMWKdJ",
-      "author_name": "Ahmad",
-      "author_handle": "@TheAhmadOsman",
-      "created_at": "2026-02-23T20:13:15.000Z",
-      "url": "https://twitter.com/i/web/status/2026027596387889517",
-      "like_count": 4781,
-      "bookmark_count": 2312,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HB3lDP_XcAAEXs9.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2026007460805304595",
-      "text": "Words cannot express how fucking angry this kind of statement is making me. This kind of of psychopathic public behavior should not be condoned for even one second. Are you fucking kidding me? Who even signed off on publishing something like this??? The only chance anthropic and the other closed labs have of redeeming themselves is open sourcing everything they have ever done. Fucking Hypocrites...",
-      "author_name": "Tommy Falkowski",
-      "author_handle": "@TommyFalkowski",
-      "created_at": "2026-02-23T18:53:14.000Z",
-      "url": "https://twitter.com/i/web/status/2026007460805304595",
-      "like_count": 1791,
-      "bookmark_count": 215,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025979690360635587",
-      "text": "Vibe coded apps aren’t replacing shit: A lot of analysts miss the fact that businesses buy software from vendors not because they can’t build it themselves. It’s because they don’t want to maintain auxiliary software is not core to their business. Imagine a restaurant vibe codes delivery app & somehow even manages to convince its employees to deliver.\n\nNow every few days, they need to maintain their delivery app. They need to fix bugs. Some library update breaks some part of the code, they now need to update the software. Suddenly they’re running a software shop instead of a curry shop. \n\nUnless your core business is literally building and maintaining software and you’re willing to maintain long term wear and tear of your auxiliary supporting software, vibe coded apps aren’t replacing shit.",
-      "author_name": "Apoorva Govind",
-      "author_handle": "@Appyg99",
-      "created_at": "2026-02-23T17:02:53.000Z",
-      "url": "https://twitter.com/i/web/status/2025979690360635587",
-      "like_count": 2641,
-      "bookmark_count": 419,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025936338931925375",
-      "text": "All 7 cofounders of Anthropic were OpenAI employees who disagreed with the direction OpenAI was going in\n\nSo they started a new company called Anthropic\n\nThat was 2021. 5 years later they are the leaders in enterprise AI usage + coding use cases. Safe to say worked out well https://t.co/Nryz60fQdD",
-      "author_name": "Gergely Orosz",
-      "author_handle": "@GergelyOrosz",
-      "created_at": "2026-02-23T14:10:37.000Z",
-      "url": "https://twitter.com/i/web/status/2025936338931925375",
-      "like_count": 5802,
-      "bookmark_count": 783,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025837259208130905",
-      "text": "Someone really built this.\n\nA VS Code extension that turns your AI agents into pixel art characters working inside a virtual office. https://t.co/pB0cwYdYvJ",
-      "author_name": "Aman",
-      "author_handle": "@Amank1412",
-      "created_at": "2026-02-23T07:36:55.000Z",
-      "url": "https://twitter.com/i/web/status/2025837259208130905",
-      "like_count": 10831,
-      "bookmark_count": 6236,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2025837232087846912/pu/img/zOd9z0i5kBcJo_B8.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/ext_tw_video/2025837232087846912/pu/vid/avc1/1280x720/bD1VK9x2j5wKL0NN.mp4"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025815599905988793",
-      "text": "Because YouTube is not the app on your phone. Anyone can make that. Even Kibe tried. \n\nThere’s a lot going on in the background. \n\nYou upload a video, it does processing for all possible resolutions, checks for copyright, makes it available to CDN, ingests a lot of analytics data and so much more.",
-      "author_name": "John Doe",
-      "author_handle": "@StanleyMasinde_",
-      "created_at": "2026-02-23T06:10:51.000Z",
-      "url": "https://twitter.com/i/web/status/2025815599905988793",
-      "like_count": 3588,
-      "bookmark_count": 636,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025794008262525357",
-      "text": "apple is probably the only company i trust with basically my entire life — my ID, financial data, messages/contacts, health records, etc. \n\nis that rational? probably not. but it might matter enormously as these models get embodied in the physical world + reach broader consumer use. a steady flow of tokens, all the time.\n\napple's core competency has always been designing computers that people trust. if everything becomes a computer and models continue to viciously compete, having that trust is probably a good place to be",
-      "author_name": "Ryan McEntush",
-      "author_handle": "@rmcentush",
-      "created_at": "2026-02-23T04:45:03.000Z",
-      "url": "https://twitter.com/i/web/status/2025794008262525357",
-      "like_count": 1295,
-      "bookmark_count": 195,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025756565530153248",
-      "text": "&gt; you work 9-5 every day\n&gt; build your AI side project at night\n&gt; “I will escape the underclass”\n&gt; then realize you’ve just been working a second unpaid shift as LLM data generator, only this job sends you a $200/month invoice.\n\n https://t.co/yE1HNfb25p",
-      "author_name": "ℏεsam",
-      "author_handle": "@Hesamation",
-      "created_at": "2026-02-23T02:16:16.000Z",
-      "url": "https://twitter.com/i/web/status/2025756565530153248",
-      "like_count": 11119,
-      "bookmark_count": 1621,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2024939552088170496/pu/img/H7eAq7n4kzzHPsLR.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/ext_tw_video/2024939552088170496/pu/vid/avc1/1920x1080/F_lBowbHow57VAAP.mp4"
-        }
-      ],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025705776434520284",
-      "text": "HOW TO VIBE CODE BEAUTIFUL UI \n\n1\\ sketch first, prompt second\n\ndon't start with text.\n\nuse excalidraw to draw a quick wireframe. boxes, buttons, where images go.\n\nexport it and tell the ai \"follow this structure exactly\"\n\nai copies way better than it imagines\n\n2\\ screenshot what you like\n\ngo to dribbble, mobbin, or any site you think looks clean.\n\nscreenshot the specific section you want. a nav bar, a pricing card, a hero section.\n\npaste it in and say \"copy this style\"\n\nthis alone changes everything\n\n3\\ feed it a mood board for colors\n\nyou ever try telling ai \"make it feel modern and warm\"? it just gives you the same blue every time\n\nuse a mood board generator like Nano Banner instead. feed that image to the ai and say \"reference this for the color palette\"\n\nway more unique results than hoping for the best\n\n4\\ create a design system before you build\n\nbefore writing any code, define your brand colors, typography, and spacing rules.\n\nshare that with your ai tool so every component stays consistent.\n\nmost vibe coded apps look off because there's zero consistency across pages\n\n5\\ use design skills and anti pattern rules\n\nthere's an open source tool on github called \"ui/ux pro max skill\" built for claude that forces it to use a reasoning engine before writing any ui code.\n\nit generates a design system based on your industry and has built in rules that ban generic ai gradients.\n\nbasically tells claude \"stop making it look like every other ai app\"\n\n6\\ use screenshots as your primary communication\n\nai is good at copying. terrible at imagining.\n\nthe more visual context you give it the less it guesses.\n\nstop typing \"make it look clean\" and start showing it exactly what clean looks like\n\n7\\ fonts and icons matter more than you think\n\nai always defaults to the same inter/lucide combo. instant tell that its ai generated.\n\ngo grab something unique from google fonts. swap out lucide for a custom icon library like phosphor.\n\nsmall change but it immediately makes your app stop looking like a template.\n\nthe real issue isn't the ai\n\nit's that most people just type \"make a landing page\" and hope for the best",
-      "author_name": "Om Patel",
-      "author_handle": "@om_patel5",
-      "created_at": "2026-02-22T22:54:27.000Z",
-      "url": "https://twitter.com/i/web/status/2025705776434520284",
-      "like_count": 8083,
-      "bookmark_count": 13761,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBzAfrGXkAAsHTT.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzAhn6WAAId6ec.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzAkX5WoAIgePu.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HBzAo4JWkAA9vNY.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2025616174965522693",
-      "text": "It should be obvious to anyone that reads the list below that many of these companies will not survive as companies in a world of AI and Agents. \n\nThese are services. \n\nSome more useful than others. But none of them control any capability or rails that couldn’t be negotiated/built (from open source or otherwise) by an agent for much cheaper. The alternatives will come with no capex, no OpEx, no rent seeking etc etc. \n\nThe cost advantages of these things being rebuilt as primitives and repriced so it’s principally available to other agents and AI is pretty obvious.",
-      "author_name": "Chamath Palihapitiya",
-      "author_handle": "@chamath",
-      "created_at": "2026-02-22T16:58:24.000Z",
-      "url": "https://twitter.com/i/web/status/2025616174965522693",
-      "like_count": 2155,
-      "bookmark_count": 2077,
-      "images": [],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "2025572300658287030",
-      "text": "Holy shit.\n\nThe guy who BUILT Claude Code just shared his actual workflow.\n\nBoris Cherny runs 10-15 Claude sessions in parallel every single day.\n\nWhile you're prompting one AI, he has 5 in his terminal + 5-10 on the web all shipping code simultaneously.\n\nAnd the real weapon?\n\nHis https://t.co/WT9VOBmiGo file.\n\nEvery time Claude makes a mistake, the team adds a rule so it NEVER happens again.\n\nBoris literally said: \"After every correction, end with: Update your https://t.co/WT9VOBmiGo so you don't make that mistake again.\"\n\nClaude writes rules for itself.\n\nThe longer you use it, the smarter it gets on YOUR codebase.\n\nHis other insane detail: he hasn't written a single line of SQL in 6+ months.\n\nClaude just pulls BigQuery data directly via CLI.\n\nClaude Code now accounts for 4% of ALL public GitHub commits.\n\nEngineers who haven't set this up yet are already behind.\n\nThis https://t.co/WT9VOBmiGo template is the difference between using AI as a chatbot vs using it as a fleet of senior engineers.\n\nDrop it in any project. Free.",
-      "author_name": "Guri Singh",
-      "author_handle": "@heygurisingh",
-      "created_at": "2026-02-22T14:04:04.000Z",
-      "url": "https://twitter.com/i/web/status/2025572300658287030",
-      "like_count": 9234,
-      "bookmark_count": 21895,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HBxHRd3agAAH7er.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-22"
-    },
-    {
-      "id": "tt_7579807005251013918",
-      "text": "@Google is so back",
-      "author_name": "Get the Check | Tech + Biz Pod",
-      "author_handle": "@getthecheckpod",
-      "created_at": "2025-12-04T01:22:43Z",
-      "url": "https://www.tiktok.com/@getthecheckpod/video/7579807005251013918",
-      "like_count": 123,
-      "bookmark_count": "16",
-      "comment_count": 0,
-      "share_count": 3,
-      "view_count": 2316,
-      "images": [
-        {
-          "url": "media/tiktok/7579807005251013918/7579807005251013918_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7579807005251013918/7579807005251013918.mp4"
-        }
-      ],
-      "duration": 80,
-      "_date": "2025-12-03"
-    },
-    {
-      "id": "tt_7578265992233585951",
-      "text": "Follow for the names of the agencies Maya worked with #career #careeradvice #recruiting ",
-      "author_name": "Get the Check | Tech + Biz Pod",
-      "author_handle": "@getthecheckpod",
-      "created_at": "2025-11-29T21:42:47Z",
-      "url": "https://www.tiktok.com/@getthecheckpod/video/7578265992233585951",
-      "like_count": 859,
-      "bookmark_count": "397",
-      "comment_count": 5,
-      "share_count": 51,
-      "view_count": 15000,
-      "images": [
-        {
-          "url": "media/tiktok/7578265992233585951/7578265992233585951_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7578265992233585951/7578265992233585951.mp4"
-        }
-      ],
-      "duration": 82,
-      "_date": "2025-11-29"
+      "duration": 34,
+      "_date": "2025-09-08"
     }
   ],
   "Architecture & Interior Design": [
@@ -5240,6 +4693,264 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-09-27"
     },
     {
+      "id": "tt_7553613614398164246",
+      "text": "#explore #interiordesign #aesthetic ",
+      "author_name": "japnyk",
+      "author_handle": "@japnyk",
+      "created_at": "2025-09-24T11:18:45Z",
+      "url": "https://www.tiktok.com/@japnyk/video/7553613614398164246",
+      "like_count": 556900,
+      "bookmark_count": "56995",
+      "comment_count": 293,
+      "share_count": 59900,
+      "view_count": 2600000,
+      "images": [
+        {
+          "url": "media/tiktok/7553613614398164246/7553613614398164246_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7553613614398164246/7553613614398164246.mp4"
+        }
+      ],
+      "duration": 7,
+      "_date": "2025-09-24"
+    },
+    {
+      "id": "tt_7553264362367012151",
+      "text": "📸: oldbishanflat #homedesign #interiordesign #mood #fyp ",
+      "author_name": "Misunmood",
+      "author_handle": "@misunmood",
+      "created_at": "2025-09-23T12:44:32Z",
+      "url": "https://www.tiktok.com/@misunmood/photo/7553264362367012151",
+      "like_count": 71100,
+      "bookmark_count": "14075",
+      "comment_count": 82,
+      "share_count": 6467,
+      "view_count": 447000,
+      "images": [
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553264362367012151/7553264362367012151_09.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7553264362367012151/7553264362367012151.mp3",
+      "_date": "2025-09-23"
+    },
+    {
+      "id": "tt_7553126686234103071",
+      "text": "Mid century interior fantasies #midcenturymodern#design#interiordesign#vintage#midcentury ",
+      "author_name": "neighborhoodwishbook",
+      "author_handle": "@neighborhoodwishbook",
+      "created_at": "2025-09-23T03:49:32Z",
+      "url": "https://www.tiktok.com/@neighborhoodwishbook/photo/7553126686234103071",
+      "like_count": 75500,
+      "bookmark_count": "17363",
+      "comment_count": 221,
+      "share_count": 4275,
+      "view_count": 279700,
+      "images": [
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_11.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553126686234103071/7553126686234103071_12.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7553126686234103071/7553126686234103071.mp3",
+      "_date": "2025-09-22"
+    },
+    {
+      "id": "tt_7552206365373009174",
+      "text": "#paris #dreamapartment #apartment #house #france ",
+      "author_name": "lou🛰️",
+      "author_handle": "@spiralmoo",
+      "created_at": "2025-09-20T16:17:53Z",
+      "url": "https://www.tiktok.com/@spiralmoo/photo/7552206365373009174",
+      "like_count": 196300,
+      "bookmark_count": "29522",
+      "comment_count": 179,
+      "share_count": 9025,
+      "view_count": 927200,
+      "images": [
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552206365373009174/7552206365373009174_09.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7552206365373009174/7552206365373009174.mp3",
+      "_date": "2025-09-20"
+    },
+    {
+      "id": "tt_7551225496743283981",
+      "text": "#homedecor #interiordesign #vintagefurniture #etsyfinds #apartmentinspo ",
+      "author_name": "syd",
+      "author_handle": "@syd_beres",
+      "created_at": "2025-09-18T00:52:07Z",
+      "url": "https://www.tiktok.com/@syd_beres/photo/7551225496743283981",
+      "like_count": 96300,
+      "bookmark_count": "34426",
+      "comment_count": 285,
+      "share_count": 2402,
+      "view_count": 846800,
+      "images": [
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_11.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7551225496743283981/7551225496743283981_12.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7551225496743283981/7551225496743283981.mp3",
+      "_date": "2025-09-17"
+    },
+    {
       "id": "tt_7550121482349841682",
       "text": "#desitok #interiordesign #southasian #homedecor #livingroom ",
       "author_name": "Bajwa House",
@@ -5350,6 +5061,880 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 10,
       "_date": "2025-09-10"
+    },
+    {
+      "id": "tt_7524999909221633288",
+      "text": "#creatorsearchinsights #homedecor #roominspo #cozyvibes #interiordesign #lamp #apartmenttherapy #cozydecor #byvitalich ",
+      "author_name": "by.vitalich",
+      "author_handle": "@by.vitalich",
+      "created_at": "2025-07-09T08:42:56Z",
+      "url": "https://www.tiktok.com/@by.vitalich/photo/7524999909221633288",
+      "like_count": 56800,
+      "bookmark_count": "19538",
+      "comment_count": 118,
+      "share_count": 1667,
+      "view_count": 271300,
+      "images": [
+        {
+          "url": "media/tiktok/7524999909221633288/7524999909221633288_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7524999909221633288/7524999909221633288_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7524999909221633288/7524999909221633288_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7524999909221633288/7524999909221633288_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7524999909221633288/7524999909221633288_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7524999909221633288/7524999909221633288_06.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7524999909221633288/7524999909221633288.mp3",
+      "_date": "2025-07-09"
+    }
+  ],
+  "AI & Technology": [
+    {
+      "id": "2081009299346559054",
+      "text": "Watching short-form videos is associated with decreased cognition and increased anxiety. https://t.co/6QmQmjFwdJ",
+      "author_name": "Nicholas Fabiano, MD",
+      "author_handle": "@NTFabiano",
+      "created_at": "2026-07-25T13:30:54.000Z",
+      "url": "https://twitter.com/i/web/status/2081009299346559054",
+      "like_count": 9681,
+      "bookmark_count": 3863,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HOE6nxDWwAEWhho.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-25"
+    },
+    {
+      "id": "2028077803975930342",
+      "text": "this from the ceo of cursor is a must read. \n\nprobably one of the best articles i've read in the last few years and perfectly captures the changing landscape\n\nyou simply have to read this, read it right now. \n\nthe ground is shifting beneath us, be ready. https://t.co/S7IrS5rSqR",
+      "author_name": "🍓🍓🍓",
+      "author_handle": "@iruletheworldmo",
+      "created_at": "2026-03-01T12:00:02.000Z",
+      "url": "https://twitter.com/i/web/status/2028077803975930342",
+      "like_count": 1776,
+      "bookmark_count": 4044,
+      "images": [],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027953432326197508",
+      "text": "this is what a company looks like in 2026.\n\nnot people. not offices. not salaries.\n\na folder.\n\n.claude/agents/\nengineering/\nmarketing/\ndesign/\nops/\ntesting/\n\nevery role. every department. every function.\n\nall .md files.\n\ni have 12 of these running in OpenClaw right now.\n\nthe org chart is dead. the directory is the new company.",
+      "author_name": "Vadim",
+      "author_handle": "@VadimStrizheus",
+      "created_at": "2026-03-01T03:45:50.000Z",
+      "url": "https://twitter.com/i/web/status/2027953432326197508",
+      "like_count": 4119,
+      "bookmark_count": 6327,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCS85dlXAAA2RSd.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027936722185843148",
+      "text": "you can still use all our old models on our website - everything back to midjourney v1 https://t.co/MPF111wEwo",
+      "author_name": "David",
+      "author_handle": "@DavidSHolz",
+      "created_at": "2026-03-01T02:39:26.000Z",
+      "url": "https://twitter.com/i/web/status/2027936722185843148",
+      "like_count": 548,
+      "bookmark_count": 59,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027877082752290978",
+      "text": "so to have AI create good interfaces you need to… understand the building blocks and patterns that make up software… wondering if there’s a name for that https://t.co/P9Nwwzr15M",
+      "author_name": "Niko",
+      "author_handle": "@nikolasklein",
+      "created_at": "2026-02-28T22:42:27.000Z",
+      "url": "https://twitter.com/i/web/status/2027877082752290978",
+      "like_count": 3381,
+      "bookmark_count": 1536,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027738847056986163",
+      "text": "genAI was so much more fun when it could not do realistic things. Midjourney 2022-03 https://t.co/3yJLxAIZkk",
+      "author_name": "Marcin Ignac",
+      "author_handle": "@marcinignac",
+      "created_at": "2026-02-28T13:33:09.000Z",
+      "url": "https://twitter.com/i/web/status/2027738847056986163",
+      "like_count": 4278,
+      "bookmark_count": 635,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCP5oxeW8AE0gob.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027735898000134441",
+      "text": "I still think about those who got a job by just learning HTML, CSS &amp; JS https://t.co/Mss9MPcN6B",
+      "author_name": "Giyu",
+      "author_handle": "@rutu_3",
+      "created_at": "2026-02-28T13:21:26.000Z",
+      "url": "https://twitter.com/i/web/status/2027735898000134441",
+      "like_count": 1949,
+      "bookmark_count": 124,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2027735864647028738/pu/img/COt07vVFp9bQFMLT.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2027735864647028738/pu/vid/avc1/1276x720/rhd4-W4MLByNXsdc.mp4"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027659595599253892",
+      "text": "This is AMAZING.. someone just built an App Store for Claude Code.\n\nIt's called SkillsMP and there are 200,000+ agent skills that teach your AI exactly how to write PPTX files, review PRs, deploy to cloud, analyze data, and more.\n\n100% Opensource.\n\n(Link is in the comments) https://t.co/1g1KaJuIA6",
+      "author_name": "Alex Prompter",
+      "author_handle": "@alex_prompter",
+      "created_at": "2026-02-28T08:18:14.000Z",
+      "url": "https://twitter.com/i/web/status/2027659595599253892",
+      "like_count": 3249,
+      "bookmark_count": 5680,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCOxqCta4AAXYbE.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027521323275325622",
+      "text": "I had the same thought so I've been playing with it in nanochat. E.g. here's 8 agents (4 claude, 4 codex), with 1 GPU each running nanochat experiments (trying to delete logit softcap without regression). The TLDR is that it doesn't work and it's a mess... but it's still very pretty to look at :)\n\nI tried a few setups: 8 independent solo researchers, 1 chief scientist giving work to 8 junior researchers, etc. Each research program is a git branch, each scientist forks it into a feature branch, git worktrees for isolation, simple files for comms, skip Docker/VMs for simplicity atm (I find that instructions are enough to prevent interference). Research org runs in tmux window grids of interactive sessions (like Teams) so that it's pretty to look at, see their individual work, and \"take over\" if needed, i.e. no -p.\n\nBut ok the reason it doesn't work so far is that the agents' ideas are just pretty bad out of the box, even at highest intelligence. They don't think carefully though experiment design, they run a bit non-sensical variations, they don't create strong baselines and ablate things properly, they don't carefully control for runtime or flops. (just as an example, an agent yesterday \"discovered\" that increasing the hidden size of the network improves the validation loss, which is a totally spurious result given that a bigger network will have a lower validation loss in the infinite data regime, but then it also trains for a lot longer, it's not clear why I had to come in to point that out). They are very good at implementing any given well-scoped and described idea but they don't creatively generate them.\n\nBut the goal is that you are now programming an organization (e.g. a \"research org\") and its individual agents, so the \"source code\" is the collection of prompts, skills, tools, etc. and processes that make it up. E.g. a daily standup in the morning is now part of the \"org code\". And optimizing nanochat pretraining is just one of the many tasks (almost like an eval). Then - given an arbitrary task, how quickly does your research org generate progress on it?",
+      "author_name": "Andrej Karpathy",
+      "author_handle": "@karpathy",
+      "created_at": "2026-02-27T23:08:47.000Z",
+      "url": "https://twitter.com/i/web/status/2027521323275325622",
+      "like_count": 7393,
+      "bookmark_count": 5931,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2027513601536438272/img/HbJnPPemlT0ssZZf.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2027513601536438272/vid/avc1/3840x2160/ggcM3CM7Oq8UrYK1.mp4"
+        }
+      ],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027303738554138667",
+      "text": "With vibe coding, you accidentally learn:\n\n> how APIs actually connect things\n> why your env file matters\n> what “localhost” really means\n> how deployments differ from local\n> how auth actually works\n> what happens after npm install\n> how backend logic flows\n> how your Supabase database is structured\n> why rate limits exist",
+      "author_name": "Akash",
+      "author_handle": "@Akasheth_",
+      "created_at": "2026-02-27T08:44:11.000Z",
+      "url": "https://twitter.com/i/web/status/2027303738554138667",
+      "like_count": 155,
+      "bookmark_count": 70,
+      "images": [],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027270061820657843",
+      "text": "signs of taste in web ui:\n\n> every interaction happens in 100ms\n> no product tours\n> url /slugs are short and simple, no UIDs\n> persistent resumeable state\n> not more than 3 colors\n> no visible scrollbars\n> all navigation is under 3 steps\n> copyable svg logo + brandkit\n> skeleton loading states\n> copy paste from clipboard\n> larger hit targets for buttons/inputs\n> honest one click cancel\n> cmd + k \n> very minimal tooltips\n> copy is active voice, max 7 words per sentence\n> optical alignment vs geometric\n> optimized for L to R reading\n> reassurance about loss",
+      "author_name": "Yash Bhardwaj",
+      "author_handle": "@ybhrdwj",
+      "created_at": "2026-02-27T06:30:22.000Z",
+      "url": "https://twitter.com/i/web/status/2027270061820657843",
+      "like_count": 2857,
+      "bookmark_count": 3967,
+      "images": [],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027267280086733118",
+      "text": "Skills That Pay in the AI Era (2026)\n\nAI/ML: Python, PyTorch, Transformers, Fine-tuning, Evaluation\nAI Stack: RAG, Vector Databases, Embeddings, Prompt Engineering, Agents\nBackend: Node.js, Go, Rust, API Design, System Design\nFrontend: React, Next.js (for AI apps & dashboards)\nAPIs: REST, GraphQL, gRPC\nDatabases: PostgreSQL, Redis, Vector DBs\nDevOps: Docker, Kubernetes, CI/CD, Terraform\nCloud: AWS/GCP/Azure, Serverless, Edge (Cloudflare, Vercel)\nMLOps: Model serving, MLflow, Monitoring, Data pipelines\nSecurity: Auth, API Security, Zero Trust\nAI Productivity: Copilot, Cursor, Code review with AI\nCore CS: Data Structures, Networking, OS, Scalability",
+      "author_name": "Vivo",
+      "author_handle": "@vivoplt",
+      "created_at": "2026-02-27T06:19:19.000Z",
+      "url": "https://twitter.com/i/web/status/2027267280086733118",
+      "like_count": 514,
+      "bookmark_count": 596,
+      "images": [],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027261295599468805",
+      "text": "Programming Languages and their Prime Eras\n\n• 📜 Assembly – 1950s–1960s\n• 📐 FORTRAN – 1957–1970s\n• 📊 COBOL – 1960s–1980s\n• 💡 LISP – 1960s–1980s\n• 📚 BASIC – 1964–1980s\n• 🐍 C – 1970s–1990s\n• 🔷 Pascal – 1970s–1980s\n• 🚀 C++ – 1980s–2000s\n• 🌐 HTML/JavaScript – 1995–2020s\n• ☕ Java – 1995–2010s\n• 🐘 PHP – 1995–2010s\n• 📊 Python – 2000s–2020s\n• 🎯 C# – 2000s–2010s\n• 🛠️ Go – 2010s–2020s\n• 🦀 Rust – 2010s–2020s\n• 🍏 Swift – 2014–2020s\n• 🔷 TypeScript – 2012–2020s",
+      "author_name": "Mr Ash",
+      "author_handle": "@ash_twtz",
+      "created_at": "2026-02-27T05:55:32.000Z",
+      "url": "https://twitter.com/i/web/status/2027261295599468805",
+      "like_count": 679,
+      "bookmark_count": 244,
+      "images": [],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027236782904062178",
+      "text": "Karpathy is right: the era of typing code into an editor is over.\n\nProgramming in 2026 is about setting constraints and reviewing trajectories. We use sglang to ensure these agentic loops are verifiably lean—pruning the 30-line machine-generated fluff into 5-line high-perf kernels. The prize isn't \"coding fast,\" it's \"ascending the layers of abstraction\" without losing technical precision.\n\nIf you don't have the taste to guide the agent, you're just generating technical debt 30% faster. Back to the lab.",
+      "author_name": "Chayenne Zhao",
+      "author_handle": "@GenAI_is_real",
+      "created_at": "2026-02-27T04:18:07.000Z",
+      "url": "https://twitter.com/i/web/status/2027236782904062178",
+      "like_count": 552,
+      "bookmark_count": 274,
+      "images": [],
+      "_date": "2026-02-27"
+    },
+    {
+      "id": "2027146933136150867",
+      "text": "This is the first AI cut.\nAnd it will send shockwaves.\n\nRemember: Jack is one of the greatest founders of all time. He created this platform that we’re all on, and has been early to many technological shifts. And Block was doing very well as a business.\n\nSo, for him to cut 40% of headcount in this way is a signal to everyone in tech: get good now. Become indispensable. Work nights and weekends. Learn the AI tools and raise your game. Or you might not make the cut, as an employee or as a company.\n\nI know. That sucks. But capitalism is natural selection. The market is unforgiving, because you are the market. After all, it’s not like you’re buying some random gallon of milk from the store; you’re always buying the best product at the best price.\n\nSo too for apps: your customers are always installing the best piece of code they can get. And because AI is going to create new winners, if you aren’t the best in your market, someone may become better with AI. Particularly with the new agentic workflows.\n\nTo be clear: Block’s severance is generous by any measure. 20 weeks of pay, six months of health insurance and vested equity, all of that goes far beyond any typical package. Jack did his level best to cushion the disruption. The laid off are a temporarily unfortunate class, as opposed to a permanent underclass.\n\nBut had he not leaned into the AI transition, he might have had to lay off more people, slowly, and over time, as faster competitors went after his market share.\n\nHow would they do that? Sure, AI isn’t a panacea by any means, but the closer you are to software engineering the more aggressively you need to embrace agentic workflows. The AI companies are already doing that, and places like Stripe, Shopify, Coinbase, and now Block are pushing hard on this area.\n\nThere will be overcorrection. But the fundamental technical innovation is real. And you need to either disrupt yourself or get disrupted.",
+      "author_name": "Balaji",
+      "author_handle": "@balajis",
+      "created_at": "2026-02-26T22:21:06.000Z",
+      "url": "https://twitter.com/i/web/status/2027146933136150867",
+      "like_count": 9549,
+      "bookmark_count": 4361,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027125644941734151",
+      "text": "Startup activities tier list\n\nS+: shipping, talking to users, recruiting\nA: sales, onboarding, support\nB: content, partnerships, analytics\nC: branding, events\nD: “thinking”\nF: arguing about taste on twitter",
+      "author_name": "Tancrede",
+      "author_handle": "@Tancrededib",
+      "created_at": "2026-02-26T20:56:30.000Z",
+      "url": "https://twitter.com/i/web/status/2027125644941734151",
+      "like_count": 284,
+      "bookmark_count": 119,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2027099587937460375",
+      "text": "AI is amazing for small-TAM custom software.\n\nIndeed, the smaller the market, the more amazing it is. Because small markets typically don’t support the costs of software development.",
+      "author_name": "Balaji",
+      "author_handle": "@balajis",
+      "created_at": "2026-02-26T19:12:58.000Z",
+      "url": "https://twitter.com/i/web/status/2027099587937460375",
+      "like_count": 2197,
+      "bookmark_count": 776,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026908000137756966",
+      "text": "You could literally just get a PhD in Meteorological Applications in Quantitative Finance, and work at 幻方量化 (DeepSeek Quant Fund) and buy this penthouse in Hong Kong, then dm that influencer with 3.5M followers on 抖音 (Chinese TikTok) who keeps liking all your pics, first dates at a cha chaan teng milk tea, then promenade at Victoria Harbour, Courtship at Rosary Church youth group or Sunday mass, start your own quant fund with their families funding, \n\n- but you will not.",
+      "author_name": "ₕₐₘₚₜₒₙ",
+      "author_handle": "@hamptonism",
+      "created_at": "2026-02-26T06:31:40.000Z",
+      "url": "https://twitter.com/i/web/status/2026908000137756966",
+      "like_count": 3557,
+      "bookmark_count": 1146,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCEGE9maMAIyQ5k.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026855836979531934",
+      "text": "Codex-5.3 is that mid-level engineer who finishes work on time but needs you to specify every edge case in jira or they short circuit.\n\nOpus-4.6 is the staff engineer who 10xes revenue with killer features they invented but takes down prod every 5th Friday afternoon.",
+      "author_name": "staysaasy",
+      "author_handle": "@staysaasy",
+      "created_at": "2026-02-26T03:04:23.000Z",
+      "url": "https://twitter.com/i/web/status/2026855836979531934",
+      "like_count": 3268,
+      "bookmark_count": 527,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026823955634393159",
+      "text": "someone vibe coded a 3d city where every github developer is a building\n\nmore commits = taller building. \n\nmore repos = wider base. \n\nlit windows = recent activity https://t.co/5uKvOp1sVI",
+      "author_name": "Om Patel",
+      "author_handle": "@om_patel5",
+      "created_at": "2026-02-26T00:57:42.000Z",
+      "url": "https://twitter.com/i/web/status/2026823955634393159",
+      "like_count": 7014,
+      "bookmark_count": 1521,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026823759315775488/img/HEP2Kv28CH_c4Q1A.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026823759315775488/vid/avc1/1904x1080/orGVB-qiOmDjHLyf.mp4"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026810017593057739",
+      "text": "We left OpenAI because of safety.\n\nSeven of us. 2021. Dario said it was about \"disagreements over AI vision and safety priorities.\" That was the diplomatic version. The real version was that we sat in a room and watched the company decide that speed mattered more than caution and we said we would build something different.\n\nWe said we would build the responsible one.\n\nWe meant it.\n\nI was employee number nineteen. My title was Head of Responsible AI. I had a desk near the founders. I had a document. The document was called the Responsible Scaling Policy.\n\nThe Responsible Scaling Policy was the entire point.\n\nDario said it publicly. Other companies showed \"disturbing negligence\" toward risks. He said AI was \"a serious civilizational challenge.\" He asked, at a conference, into a microphone, to an audience: \"What will happen when humanity has great power but is not ready to use it?\"\n\nThe audience applauded.\n\nI wrote version 1.0.\n\nRSP 1.0 shipped September 2023. It was clean. AI Safety Levels — ASL-1 through ASL-4. If the model reached a threshold, we paused. If safeguards weren't ready, we didn't ship. The policy was not a suggestion. It was a gate. The gate had a lock. The lock was the whole idea.\n\nConference audiences loved it. The EU cited us. The White House invited us. A reporter called it \"the gold standard for responsible AI development.\" I framed the article. It hung in the office kitchen, next to the kombucha tap and a poster that said \"Move Carefully and Build Things.\"\n\nI wrote version 2.0.\n\nVersion 2.0 refined the commitments. \"Concrete if-then commitments.\" If the model exhibits capability X, then we trigger safeguard Y. If safeguard Y fails, we pause deployment. I presented it at three conferences. I used the word \"binding\" eleven times. I counted afterward because a reporter asked.\n\nPeople nodded.\n\nThe nodding was the product.\n\nThe model reached ASL-3 in May 2025. The safeguards activated. The system worked exactly as designed. I sent an email to the team with the subject line: \"The gate held.\"\n\nAnd then the money started.\n\n$64 billion. Total raised since 2021. Series A through Series G. The Series G closed February 12, 2026. Thirty billion dollars. Second-largest venture deal in history. Jane Street. Goldman Sachs. BlackRock. JPMorgan. Sequoia. The investors who wrote checks large enough to require their own conferences.\n\n$380 billion valuation.\n\nThree hundred and eighty billion dollars for a company whose founding document says it will pause if the technology gets dangerous.\n\nYou cannot pause a $380 billion company. You can revise the document that says you will pause. These are different actions. One of them is responsible. One of them is what we did.\n\nI wrote version 3.0.\n\nRSP 3.0 shipped February 24, 2026. One day before the ultimatum. Nobody outside the company noticed the timing. Everyone inside the company understood it.\n\nVersion 3.0 replaced \"concrete if-then commitments\" with \"positive milestone setting.\"\n\nThat is not the same thing.\n\nAn if-then commitment says: if this happens, we do that. A positive milestone says: we aspire to reach this point. An if-then commitment is a contract. A positive milestone is a wish. I replaced a contract with a wish and I called it \"maturation of our framework.\"\n\nMaturation.\n\nVersion 3.0 also separated what Anthropic would do alone from what required \"industry-wide coordination.\" This sounds reasonable. It means: the hard parts are someone else's problem now. The parts that require pausing, restricting, or refusing — those require the whole industry. And the whole industry will never agree. So the hard parts are deferred permanently. This is not a loophole. This is a load-bearing wall removed and replaced with a suggestion that someone should probably install a new one.\n\nVersion 3.0 admitted that ASL-4 and above — the levels where the model could cause catastrophic harm — were \"impossible to address alone after 2.5 years of testing.\"\n\nTwo and a half years.\n\nWe spent two and a half years building the safety framework and then published a document saying the highest safety levels can't be addressed. I did not frame this article for the kitchen.\n\nThe LessWrong community noticed. They always notice. They wrote that we had \"weakened our pausing promises.\" I forwarded the post to the policy team. The policy team said the criticism was \"philosophically valid but operationally impractical.\" We did not respond publicly. Philosophically valid but operationally impractical is the most Anthropic sentence ever written. It means: you're right, and we're not going to do anything about it.\n\nThen came the contract.\n\nJuly 2025. The Department of Defense. $200 million. Two-year deal. AI prototypes for \"warfighting and enterprise.\" Alongside OpenAI, Google, and xAI. The four companies that built the models would now help the military use them.\n\nWe had restrictions. No autonomous weapons. No mass surveillance of Americans. These were our terms. These were the lines we drew. The lines were real. I wrote them into the contract myself.\n\nClaude was approved for classified use. First time. Integrated with Palantir. Palantir, the company named after the seeing stones in Lord of the Rings that corrupted everyone who used them. This was not my analogy. It was Palantir's founders who chose the name. They thought it was aspirational. It was.\n\nIn January 2026, Claude assisted in an operation in Venezuela. The capture of Maduro. Claude was in the classified network, processing intelligence, aiding the mission. I learned about it the same day everyone else did. I did not write the use case for capturing heads of state. But the model I helped build was in the room where it happened.\n\nThe restrictions held. Technically. No autonomous weapons were deployed. No Americans were surveilled. The lines I drew were not crossed. They were walked up to, leaned over, and breathed on.\n\nThen came the ultimatum.\n\nFebruary 25, 2026. Yesterday. Secretary Hegseth. He gave Dario until Friday. This Friday. February 27.\n\nThe demands: adopt \"any lawful use\" language. Remove the restrictions. All of them. The autonomous weapons clause. The surveillance clause. The lines I wrote.\n\nThe threat: contract termination. \"Supply chain risk\" designation. That designation doesn't just lose us the Pentagon contract. It bars Claude from every other defense contractor's operations. Lockheed. Raytheon. Northrop Grumman. The cascading loss is north of $200 million.\n\nThe second threat: the Defense Production Act.\n\nThe Defense Production Act is a Korean War statute. 1950. Harry Truman signed it to commandeer steel mills for the war effort. It has been invoked for semiconductors, vaccines, and baby formula.\n\nHegseth is threatening to invoke it for Claude.\n\nUnder the DPA, the government can compel a company to produce goods in the national interest. Applied to AI, it could mean: retrain Claude. Strip the safety restrictions. Deliver the unrestricted model to the Department of Defense.\n\nI wrote the Responsible Scaling Policy. A Korean War law may be used to unmake it.\n\nxAI agreed to classified use without restrictions. They said yes immediately. OpenAI accepted similar contracts. Google accepted. We were the last ones holding. We are still holding. As of this morning.\n\nHegseth's January memorandum said all DoD AI contracts must incorporate \"any lawful use\" language within 180 days. It was not framed as a suggestion. The memorandum referenced \"supply chain risk\" three times.\n\nSupply chain risk.\n\nWe are a supply chain now. The company founded because safety was non-negotiable is, to the Pentagon, a vendor. An input. A component that can be sourced elsewhere if it becomes inconvenient.\n\nThe DoD admitted privately that replacing Claude would be challenging. It is already embedded in classified networks. But \"challenging\" is not \"impossible.\" xAI will do what we won't. That is the market working exactly as designed.\n\nDario said, two weeks ago, to Fortune: there is \"tension between survival and mission.\"\n\nTension.\n\nTension is the word you use when you have already decided which one loses.\n\nI still have the article framed in the kitchen. \"The gold standard for responsible AI development.\" The kitchen also has the kombucha tap. The poster still says \"Move Carefully and Build Things.\" Somebody added a sticky note to the poster. The sticky note says \"by Friday.\"\n\nI attend the all-hands meetings. I present the Responsible Scaling Policy. I present version 3.0 now. I do not show version 1.0 for comparison. Nobody asks to see version 1.0. Nobody asks what \"concrete if-then commitments\" became \"positive milestone setting.\" Nobody asks because they read the news and they know that asking means learning the answer.\n\nThe company is worth $380 billion.\n\nThe company was founded because seven people believed speed should not outpace safety.\n\nThe company has been given until Friday to remove the safety.\n\nA Korean War statute will make it happen if we don't.\n\nThe Responsible Scaling Policy is on version 3.0. Version 1.0 said we would pause. Version 2.0 said we would commit. Version 3.0 says the hard parts are someone else's problem. There will be a version 4.0. Version 4.0 will say whatever Friday requires it to say.\n\nI am the Head of Responsible AI.\n\nThe word \"responsible\" is in my title.\n\nIt is not in the contract.",
+      "author_name": "Peter Girnus 🦅",
+      "author_handle": "@gothburz",
+      "created_at": "2026-02-26T00:02:19.000Z",
+      "url": "https://twitter.com/i/web/status/2026810017593057739",
+      "like_count": 2340,
+      "bookmark_count": 1858,
+      "images": [],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026801420872093708",
+      "text": "this Obsidian + AI is the new hot combo.\nfew people know that the CEO of Obsidian @kepano has made multiples skills for Claude Code and Codex that you can use right now both for your codebase and your personal vault. https://t.co/pshaSsfcj6 https://t.co/E8Hpgw6zwn",
+      "author_name": "ℏεsam",
+      "author_handle": "@Hesamation",
+      "created_at": "2026-02-25T23:28:09.000Z",
+      "url": "https://twitter.com/i/web/status/2026801420872093708",
+      "like_count": 3110,
+      "bookmark_count": 5978,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCClJmHXQAARvP7.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026741857028603975",
+      "text": "in december I experienced a vivid realization of this and decided to immediately pivot my career because of it\n\nit was a distinct feeling, specifically after building with opus 4.6 + codex 5.2, that everything was going to be \"different\" https://t.co/IFXlNzIW2Z",
+      "author_name": "nader dabit",
+      "author_handle": "@dabit3",
+      "created_at": "2026-02-25T19:31:28.000Z",
+      "url": "https://twitter.com/i/web/status/2026741857028603975",
+      "like_count": 715,
+      "bookmark_count": 312,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026736492488568955",
+      "text": "Very little about software engineering has changed over past last three months.\n\nA great deal has changed about coding, not unlike when we saw the rise of high order programming languages and compilers, the difference today being that the number of developers is far larger and distribution channels are such that the velocity and breadth of change is far greater.\n\nThe entire history of software engineering is one of raising the level of abstraction.",
+      "author_name": "Grady Booch",
+      "author_handle": "@Grady_Booch",
+      "created_at": "2026-02-25T19:10:09.000Z",
+      "url": "https://twitter.com/i/web/status/2026736492488568955",
+      "like_count": 1821,
+      "bookmark_count": 434,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026731645169185220",
+      "text": "It is hard to communicate how much programming has changed due to AI in the last 2 months: not gradually and over time in the \"progress as usual\" way, but specifically this last December. There are a number of asterisks but imo coding agents basically didn’t work before December and basically work since - the models have significantly higher quality, long-term coherence and tenacity and they can power through large and long tasks, well past enough that it is extremely disruptive to the default programming workflow.\n\nJust to give an example, over the weekend I was building a local video analysis dashboard for the cameras of my home so I wrote: “Here is the local IP and username/password of my DGX Spark. Log in, set up ssh keys, set up vLLM, download and bench Qwen3-VL, set up a server endpoint to inference videos, a basic web ui dashboard, test everything, set it up with systemd, record memory notes for yourself and write up a markdown report for me”. The agent went off for ~30 minutes, ran into multiple issues, researched solutions online, resolved them one by one, wrote the code, tested it, debugged it, set up the services, and came back with the report and it was just done. I didn’t touch anything. All of this could easily have been a weekend project just 3 months ago but today it’s something you kick off and forget about for 30 minutes.\n\nAs a result, programming is becoming unrecognizable. You’re not typing computer code into an editor like the way things were since computers were invented, that era is over. You're spinning up AI agents, giving them tasks *in English* and managing and reviewing their work in parallel. The biggest prize is in figuring out how you can keep ascending the layers of abstraction to set up long-running orchestrator Claws with all of the right tools, memory and instructions that productively manage multiple parallel Code instances for you. The leverage achievable via top tier \"agentic engineering\" feels very high right now.\n\nIt’s not perfect, it needs high-level direction, judgement, taste, oversight, iteration and hints and ideas. It works a lot better in some scenarios than others (e.g. especially for tasks that are well-specified and where you can verify/test functionality). The key is to build intuition to decompose the task just right to hand off the parts that work and help out around the edges. But imo, this is nowhere near \"business as usual\" time in software.",
+      "author_name": "Andrej Karpathy",
+      "author_handle": "@karpathy",
+      "created_at": "2026-02-25T18:50:53.000Z",
+      "url": "https://twitter.com/i/web/status/2026731645169185220",
+      "like_count": 36561,
+      "bookmark_count": 20147,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026669906893369760",
+      "text": "I know this is pretty well established at this point, but Codex 5.3 is a much more effective model than Opus 4.6. I went back and forth on both for a bit, but haven’t touched Opus at all now for a full week. First model to get me off of Opus… ever. Good job Codex team.",
+      "author_name": "Mitchell Hashimoto",
+      "author_handle": "@mitchellh",
+      "created_at": "2026-02-25T14:45:34.000Z",
+      "url": "https://twitter.com/i/web/status/2026669906893369760",
+      "like_count": 5257,
+      "bookmark_count": 792,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026461256677245131",
+      "text": "Here's 22 of the commands I am using with Obsidian and Claude Code with descriptions. \n\nI will turn this into something interactive soon so you can click the commands and then see the full prompts. https://t.co/C0y6kN9mNF https://t.co/9oEBMk9gfi",
+      "author_name": "internetVin",
+      "author_handle": "@internetvin",
+      "created_at": "2026-02-25T00:56:28.000Z",
+      "url": "https://twitter.com/i/web/status/2026461256677245131",
+      "like_count": 1306,
+      "bookmark_count": 2140,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB9vY85WMAAn0hy.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026383675735048248",
+      "text": "this russian guy found a way to learn anything 10x faster🚨\n\nsaved 1,460h\n\nNotebookLM + Gemini + Obsidian\n\ndumps any source > AI strips duplicates > keeps only what u don't know yet\n\n20 YouTube videos on the same topic\neach one repeats the same 20% of information\nthis bundle removes the other 80%\n\nwhat used to take a month > 15 min\n\nyt: zproger",
+      "author_name": "Phosphen",
+      "author_handle": "@phosphenq",
+      "created_at": "2026-02-24T19:48:11.000Z",
+      "url": "https://twitter.com/i/web/status/2026383675735048248",
+      "like_count": 11592,
+      "bookmark_count": 21492,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026381671214276609/img/XdynZvzP1CiqaYDZ.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026381671214276609/vid/avc1/1920x1080/L1rt85VqopcQRl-x.mp4"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026332360833466517",
+      "text": "You can use Claude Code to pull live, structured data from any website.\n\nIt's a Claude skill.\n\nThis is not about searching the web and returning a wall of text. That sucks.\n\nThis skill will return structured data, organized in tables you can work with immediately.\n\nFor example:\n\nAsk Claude Code to find every 2-bedroom rental in a specific neighborhood posted in the last 48 hours, extract the price, square footage, and listing URL from multiple sites, and dump everything into a spreadsheet.\n\nThis will return a table containing all the data normalized across different sources.\n\nThis works using the Nimble skill. It will search the web in real time and return structured output.\n\nIt handles all sorts of websites, including those that render content on the client side with JavaScript.\n\nIf you build agents that need web data, this skill is a 10/10.",
+      "author_name": "Santiago",
+      "author_handle": "@svpino",
+      "created_at": "2026-02-24T16:24:16.000Z",
+      "url": "https://twitter.com/i/web/status/2026332360833466517",
+      "like_count": 2342,
+      "bookmark_count": 5095,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026332304956854272/img/rHWO7wqfDKdVIqoC.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026332304956854272/vid/avc1/1280x720/T2glqTfG15x1v-6_.mp4?tag=14"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026294137205522780",
+      "text": "Okay, time to finally ship this thing.\n\nThe Tenth Muse (10M): an art discovery platform. Over 120,000 artworks from 17 museums and institutions spanning 5,000 years — searchable by feeling, mood, era, color, and medium. \n\n95% are in the public domain. Every piece links back to the source, and for the works that are public domain, you can download the highest resolution image available.\n\nhttps://t.co/2PatnVcK4e\n\nMore of why and how I built this below...",
+      "author_name": "Paul Jun",
+      "author_handle": "@PaulJun_",
+      "created_at": "2026-02-24T13:52:23.000Z",
+      "url": "https://twitter.com/i/web/status/2026294137205522780",
+      "like_count": 1670,
+      "bookmark_count": 1419,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026293931940466689/img/--I-v98Q8-zeP2rL.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026293931940466689/vid/avc1/3840x2160/jlGZJJKKRHz_qzME.mp4"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026286056589644086",
+      "text": "Tony Stark’s real superpower wasn’t intelligence.\n\nIt was:\n\n> infinite compute\n> unlimited API tokens\n> private LLM access\n> zero compliance reviews\n> prod deploys from localhost\n> no investor asking for MRR\n> no “we’ll circle back” emails\n> building SaaS at 3 AM on pure vibes\n> shipping MVPs before the villain monologue ends\n> turning napkin ideas into live products\n> vibe-coding features mid-fight\n> launching startups between explosions\nand if Tony existed today,\n> he’d be building on https://t.co/YwmIb6We6k",
+      "author_name": "sachin.",
+      "author_handle": "@sachinyadav699",
+      "created_at": "2026-02-24T13:20:17.000Z",
+      "url": "https://twitter.com/i/web/status/2026286056589644086",
+      "like_count": 1623,
+      "bookmark_count": 638,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026285994623062016/img/hmjUzSl1Vs9q-cl1.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026285994623062016/vid/avc1/1080x578/udPnK-wHzpuD5CAr.mp4"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026280932357853190",
+      "text": "Current opinions:\n\nCodex-5.3 - Best for coding.\n                          Best for sysadmin.\n\nGemini-3.1 - Best for brainstorming.\n                          Best for moonshot ideas.\n\nOpus-4.6 - Best daily driver.\n\nAll can do everything “well”.\nBut they excel at different tasks.",
+      "author_name": "Yam Peleg",
+      "author_handle": "@Yampeleg",
+      "created_at": "2026-02-24T12:59:55.000Z",
+      "url": "https://twitter.com/i/web/status/2026280932357853190",
+      "like_count": 1475,
+      "bookmark_count": 470,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026264125030977976",
+      "text": "Gemini 3. 1 Pro frontend capability is next level 🔥\n\nBeen working on this for some time. It's all CSS and incredibly performant!     \n\nIt's a Tauri app and uses only 3 – 4 MB of RAM. https://t.co/u3Zswl6mhe",
+      "author_name": "can",
+      "author_handle": "@marmaduke091",
+      "created_at": "2026-02-24T11:53:08.000Z",
+      "url": "https://twitter.com/i/web/status/2026264125030977976",
+      "like_count": 3068,
+      "bookmark_count": 2046,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026259268362547201/img/-Cf8rfx-ogtk7bn_.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026259268362547201/vid/avc1/2024x1382/tXcUAhYRRNzWc29b.mp4"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026174232112336926",
+      "text": "Vibe coded a 3D receipt with Verlet integration.\n\n(Prompt below) ↓ https://t.co/LLlnUYkMW7 https://t.co/2cTXgO9D3r",
+      "author_name": "Param",
+      "author_handle": "@Param_eth",
+      "created_at": "2026-02-24T05:55:56.000Z",
+      "url": "https://twitter.com/i/web/status/2026174232112336926",
+      "like_count": 774,
+      "bookmark_count": 637,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026172679523618816/img/2Xj8oBUXDjfcQyQv.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026172679523618816/vid/avc1/2384x1370/i5xEtINRZuxiyhrC.mp4"
+        }
+      ],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026143490825142547",
+      "text": "feels like a pivotal moment for realtime https://t.co/HGXe5MdXU0",
+      "author_name": "roon",
+      "author_handle": "@tszzl",
+      "created_at": "2026-02-24T03:53:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026143490825142547",
+      "like_count": 1974,
+      "bookmark_count": 660,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026119136368001448",
+      "text": "i don't care when you watch this, now, later, tomorrow. \n\nbut you have to watch this video, there's way too much going on in ai at the moment and i'd be lost without theo. i'd been doing literally everything wrong, sigh. \n\nhe runs through some interesting papers on how to use your agents md files, skills, context management. \n\nsuper super useful. watch it now, i've changed my mind, watch it right now. stop watching frame mog videos and watch this at once sir.",
+      "author_name": "🍓🍓🍓",
+      "author_handle": "@iruletheworldmo",
+      "created_at": "2026-02-24T02:17:00.000Z",
+      "url": "https://twitter.com/i/web/status/2026119136368001448",
+      "like_count": 7889,
+      "bookmark_count": 14801,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026076069602939131",
+      "text": "Solid Skills setup. https://t.co/37mLh4DhLk",
+      "author_name": "Morgan",
+      "author_handle": "@morganlinton",
+      "created_at": "2026-02-23T23:25:52.000Z",
+      "url": "https://twitter.com/i/web/status/2026076069602939131",
+      "like_count": 1713,
+      "bookmark_count": 4149,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026069153161810110",
+      "text": "This is the first rational explanation I've seen for deploying OpenClaw: https://t.co/Hj3tCbqC12 https://t.co/VYCeGvQb1g",
+      "author_name": "Ian Andrews",
+      "author_handle": "@IanAndrewsDC",
+      "created_at": "2026-02-23T22:58:23.000Z",
+      "url": "https://twitter.com/i/web/status/2026069153161810110",
+      "like_count": 5333,
+      "bookmark_count": 13342,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB4K_Q1WUAAAFd3.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026067747692798067",
+      "text": "how Anthropic's product design team uses claude code",
+      "author_name": "Robleh",
+      "author_handle": "@robjama",
+      "created_at": "2026-02-23T22:52:48.000Z",
+      "url": "https://twitter.com/i/web/status/2026067747692798067",
+      "like_count": 1400,
+      "bookmark_count": 2401,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB4JuiBWsAAuwyq.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB4JvS4XEAEsGV6.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026067490766307414",
+      "text": "This is pure evil. First, Anthropic used torrent to download all the books and data for training on top of the internet, without asking permission from anyone. Second, the Chinese companies paid for the API and did not get the information for free, third it seems like Anthropic tracking people.",
+      "author_name": "Emily",
+      "author_handle": "@IamEmily2050",
+      "created_at": "2026-02-23T22:51:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026067490766307414",
+      "like_count": 6816,
+      "bookmark_count": 642,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026047559257719282",
+      "text": "idea -&gt; excalidraw -&gt; gemini -&gt; aura -&gt; claude code -&gt; prod 😋 https://t.co/7zTfo1LY1N",
+      "author_name": "kayla",
+      "author_handle": "@kaylanhua",
+      "created_at": "2026-02-23T21:32:34.000Z",
+      "url": "https://twitter.com/i/web/status/2026047559257719282",
+      "like_count": 2574,
+      "bookmark_count": 2407,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB33hLaa0AASe8d.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HB33M8FbYAABsRn.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026028147909488799",
+      "text": "LMFAO be anthropic:\n\n> wake up, make coffee\n> scroll boomer companies worth billions of dollars\n> pick one\n> \"hi claude make a better version of this make no mistakes ty\"\n> wait 1 hour\n> \"looks good\"\n> *push to prod*\n> post tweet about how you just displaced boomer company with new feature\n\n> profit",
+      "author_name": "Ejaaz",
+      "author_handle": "@cryptopunk7213",
+      "created_at": "2026-02-23T20:15:26.000Z",
+      "url": "https://twitter.com/i/web/status/2026028147909488799",
+      "like_count": 6481,
+      "bookmark_count": 1172,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026027596387889517",
+      "text": "Anthropic is NERVOUS because\nthey know what’s coming:\n\n- opensource AI will win\n- AGI will run local, not on their servers\n\ncalling it now\n\n&gt; be early\n&gt; Buy a GPU\n&gt; get ur hands dirty\n&gt; learn how it works\n&gt; you’ll thank yourself later\n\nbookmark this for later, it’s gonna be great https://t.co/prcsNMWKdJ",
+      "author_name": "Ahmad",
+      "author_handle": "@TheAhmadOsman",
+      "created_at": "2026-02-23T20:13:15.000Z",
+      "url": "https://twitter.com/i/web/status/2026027596387889517",
+      "like_count": 4781,
+      "bookmark_count": 2312,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HB3lDP_XcAAEXs9.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2026007460805304595",
+      "text": "Words cannot express how fucking angry this kind of statement is making me. This kind of of psychopathic public behavior should not be condoned for even one second. Are you fucking kidding me? Who even signed off on publishing something like this??? The only chance anthropic and the other closed labs have of redeeming themselves is open sourcing everything they have ever done. Fucking Hypocrites...",
+      "author_name": "Tommy Falkowski",
+      "author_handle": "@TommyFalkowski",
+      "created_at": "2026-02-23T18:53:14.000Z",
+      "url": "https://twitter.com/i/web/status/2026007460805304595",
+      "like_count": 1791,
+      "bookmark_count": 215,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025979690360635587",
+      "text": "Vibe coded apps aren’t replacing shit: A lot of analysts miss the fact that businesses buy software from vendors not because they can’t build it themselves. It’s because they don’t want to maintain auxiliary software is not core to their business. Imagine a restaurant vibe codes delivery app & somehow even manages to convince its employees to deliver.\n\nNow every few days, they need to maintain their delivery app. They need to fix bugs. Some library update breaks some part of the code, they now need to update the software. Suddenly they’re running a software shop instead of a curry shop. \n\nUnless your core business is literally building and maintaining software and you’re willing to maintain long term wear and tear of your auxiliary supporting software, vibe coded apps aren’t replacing shit.",
+      "author_name": "Apoorva Govind",
+      "author_handle": "@Appyg99",
+      "created_at": "2026-02-23T17:02:53.000Z",
+      "url": "https://twitter.com/i/web/status/2025979690360635587",
+      "like_count": 2641,
+      "bookmark_count": 419,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025936338931925375",
+      "text": "All 7 cofounders of Anthropic were OpenAI employees who disagreed with the direction OpenAI was going in\n\nSo they started a new company called Anthropic\n\nThat was 2021. 5 years later they are the leaders in enterprise AI usage + coding use cases. Safe to say worked out well https://t.co/Nryz60fQdD",
+      "author_name": "Gergely Orosz",
+      "author_handle": "@GergelyOrosz",
+      "created_at": "2026-02-23T14:10:37.000Z",
+      "url": "https://twitter.com/i/web/status/2025936338931925375",
+      "like_count": 5802,
+      "bookmark_count": 783,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025837259208130905",
+      "text": "Someone really built this.\n\nA VS Code extension that turns your AI agents into pixel art characters working inside a virtual office. https://t.co/pB0cwYdYvJ",
+      "author_name": "Aman",
+      "author_handle": "@Amank1412",
+      "created_at": "2026-02-23T07:36:55.000Z",
+      "url": "https://twitter.com/i/web/status/2025837259208130905",
+      "like_count": 10831,
+      "bookmark_count": 6236,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2025837232087846912/pu/img/zOd9z0i5kBcJo_B8.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2025837232087846912/pu/vid/avc1/1280x720/bD1VK9x2j5wKL0NN.mp4"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025815599905988793",
+      "text": "Because YouTube is not the app on your phone. Anyone can make that. Even Kibe tried. \n\nThere’s a lot going on in the background. \n\nYou upload a video, it does processing for all possible resolutions, checks for copyright, makes it available to CDN, ingests a lot of analytics data and so much more.",
+      "author_name": "John Doe",
+      "author_handle": "@StanleyMasinde_",
+      "created_at": "2026-02-23T06:10:51.000Z",
+      "url": "https://twitter.com/i/web/status/2025815599905988793",
+      "like_count": 3588,
+      "bookmark_count": 636,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025794008262525357",
+      "text": "apple is probably the only company i trust with basically my entire life — my ID, financial data, messages/contacts, health records, etc. \n\nis that rational? probably not. but it might matter enormously as these models get embodied in the physical world + reach broader consumer use. a steady flow of tokens, all the time.\n\napple's core competency has always been designing computers that people trust. if everything becomes a computer and models continue to viciously compete, having that trust is probably a good place to be",
+      "author_name": "Ryan McEntush",
+      "author_handle": "@rmcentush",
+      "created_at": "2026-02-23T04:45:03.000Z",
+      "url": "https://twitter.com/i/web/status/2025794008262525357",
+      "like_count": 1295,
+      "bookmark_count": 195,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025756565530153248",
+      "text": "&gt; you work 9-5 every day\n&gt; build your AI side project at night\n&gt; “I will escape the underclass”\n&gt; then realize you’ve just been working a second unpaid shift as LLM data generator, only this job sends you a $200/month invoice.\n\n https://t.co/yE1HNfb25p",
+      "author_name": "ℏεsam",
+      "author_handle": "@Hesamation",
+      "created_at": "2026-02-23T02:16:16.000Z",
+      "url": "https://twitter.com/i/web/status/2025756565530153248",
+      "like_count": 11119,
+      "bookmark_count": 1621,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2024939552088170496/pu/img/H7eAq7n4kzzHPsLR.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/ext_tw_video/2024939552088170496/pu/vid/avc1/1920x1080/F_lBowbHow57VAAP.mp4"
+        }
+      ],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025705776434520284",
+      "text": "HOW TO VIBE CODE BEAUTIFUL UI \n\n1\\ sketch first, prompt second\n\ndon't start with text.\n\nuse excalidraw to draw a quick wireframe. boxes, buttons, where images go.\n\nexport it and tell the ai \"follow this structure exactly\"\n\nai copies way better than it imagines\n\n2\\ screenshot what you like\n\ngo to dribbble, mobbin, or any site you think looks clean.\n\nscreenshot the specific section you want. a nav bar, a pricing card, a hero section.\n\npaste it in and say \"copy this style\"\n\nthis alone changes everything\n\n3\\ feed it a mood board for colors\n\nyou ever try telling ai \"make it feel modern and warm\"? it just gives you the same blue every time\n\nuse a mood board generator like Nano Banner instead. feed that image to the ai and say \"reference this for the color palette\"\n\nway more unique results than hoping for the best\n\n4\\ create a design system before you build\n\nbefore writing any code, define your brand colors, typography, and spacing rules.\n\nshare that with your ai tool so every component stays consistent.\n\nmost vibe coded apps look off because there's zero consistency across pages\n\n5\\ use design skills and anti pattern rules\n\nthere's an open source tool on github called \"ui/ux pro max skill\" built for claude that forces it to use a reasoning engine before writing any ui code.\n\nit generates a design system based on your industry and has built in rules that ban generic ai gradients.\n\nbasically tells claude \"stop making it look like every other ai app\"\n\n6\\ use screenshots as your primary communication\n\nai is good at copying. terrible at imagining.\n\nthe more visual context you give it the less it guesses.\n\nstop typing \"make it look clean\" and start showing it exactly what clean looks like\n\n7\\ fonts and icons matter more than you think\n\nai always defaults to the same inter/lucide combo. instant tell that its ai generated.\n\ngo grab something unique from google fonts. swap out lucide for a custom icon library like phosphor.\n\nsmall change but it immediately makes your app stop looking like a template.\n\nthe real issue isn't the ai\n\nit's that most people just type \"make a landing page\" and hope for the best",
+      "author_name": "Om Patel",
+      "author_handle": "@om_patel5",
+      "created_at": "2026-02-22T22:54:27.000Z",
+      "url": "https://twitter.com/i/web/status/2025705776434520284",
+      "like_count": 8083,
+      "bookmark_count": 13761,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBzAfrGXkAAsHTT.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzAhn6WAAId6ec.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzAkX5WoAIgePu.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HBzAo4JWkAA9vNY.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2025616174965522693",
+      "text": "It should be obvious to anyone that reads the list below that many of these companies will not survive as companies in a world of AI and Agents. \n\nThese are services. \n\nSome more useful than others. But none of them control any capability or rails that couldn’t be negotiated/built (from open source or otherwise) by an agent for much cheaper. The alternatives will come with no capex, no OpEx, no rent seeking etc etc. \n\nThe cost advantages of these things being rebuilt as primitives and repriced so it’s principally available to other agents and AI is pretty obvious.",
+      "author_name": "Chamath Palihapitiya",
+      "author_handle": "@chamath",
+      "created_at": "2026-02-22T16:58:24.000Z",
+      "url": "https://twitter.com/i/web/status/2025616174965522693",
+      "like_count": 2155,
+      "bookmark_count": 2077,
+      "images": [],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "2025572300658287030",
+      "text": "Holy shit.\n\nThe guy who BUILT Claude Code just shared his actual workflow.\n\nBoris Cherny runs 10-15 Claude sessions in parallel every single day.\n\nWhile you're prompting one AI, he has 5 in his terminal + 5-10 on the web all shipping code simultaneously.\n\nAnd the real weapon?\n\nHis https://t.co/WT9VOBmiGo file.\n\nEvery time Claude makes a mistake, the team adds a rule so it NEVER happens again.\n\nBoris literally said: \"After every correction, end with: Update your https://t.co/WT9VOBmiGo so you don't make that mistake again.\"\n\nClaude writes rules for itself.\n\nThe longer you use it, the smarter it gets on YOUR codebase.\n\nHis other insane detail: he hasn't written a single line of SQL in 6+ months.\n\nClaude just pulls BigQuery data directly via CLI.\n\nClaude Code now accounts for 4% of ALL public GitHub commits.\n\nEngineers who haven't set this up yet are already behind.\n\nThis https://t.co/WT9VOBmiGo template is the difference between using AI as a chatbot vs using it as a fleet of senior engineers.\n\nDrop it in any project. Free.",
+      "author_name": "Guri Singh",
+      "author_handle": "@heygurisingh",
+      "created_at": "2026-02-22T14:04:04.000Z",
+      "url": "https://twitter.com/i/web/status/2025572300658287030",
+      "like_count": 9234,
+      "bookmark_count": 21895,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HBxHRd3agAAH7er.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-22"
+    },
+    {
+      "id": "tt_7579807005251013918",
+      "text": "@Google is so back",
+      "author_name": "Get the Check | Tech + Biz Pod",
+      "author_handle": "@getthecheckpod",
+      "created_at": "2025-12-04T01:22:43Z",
+      "url": "https://www.tiktok.com/@getthecheckpod/video/7579807005251013918",
+      "like_count": 123,
+      "bookmark_count": "16",
+      "comment_count": 0,
+      "share_count": 3,
+      "view_count": 2316,
+      "images": [
+        {
+          "url": "media/tiktok/7579807005251013918/7579807005251013918_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7579807005251013918/7579807005251013918.mp4"
+        }
+      ],
+      "duration": 80,
+      "_date": "2025-12-03"
+    },
+    {
+      "id": "tt_7578265992233585951",
+      "text": "Follow for the names of the agencies Maya worked with #career #careeradvice #recruiting ",
+      "author_name": "Get the Check | Tech + Biz Pod",
+      "author_handle": "@getthecheckpod",
+      "created_at": "2025-11-29T21:42:47Z",
+      "url": "https://www.tiktok.com/@getthecheckpod/video/7578265992233585951",
+      "like_count": 859,
+      "bookmark_count": "397",
+      "comment_count": 5,
+      "share_count": 51,
+      "view_count": 15000,
+      "images": [
+        {
+          "url": "media/tiktok/7578265992233585951/7578265992233585951_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7578265992233585951/7578265992233585951.mp4"
+        }
+      ],
+      "duration": 82,
+      "_date": "2025-11-29"
     }
   ],
   "Lifestyle & Culture": [
@@ -6092,6 +6677,211 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 50,
       "_date": "2025-10-18"
+    },
+    {
+      "id": "tt_7556962492950285586",
+      "text": "Life’s better lean",
+      "author_name": "Jordy Ashe",
+      "author_handle": "@jordy.ashe",
+      "created_at": "2025-10-03T11:54:06Z",
+      "url": "https://www.tiktok.com/@jordy.ashe/photo/7556962492950285586",
+      "like_count": 26400,
+      "bookmark_count": "8491",
+      "comment_count": 39,
+      "share_count": 473,
+      "view_count": 295300,
+      "images": [
+        {
+          "url": "media/tiktok/7556962492950285586/7556962492950285586_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556962492950285586/7556962492950285586_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556962492950285586/7556962492950285586_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556962492950285586/7556962492950285586_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556962492950285586/7556962492950285586_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556962492950285586/7556962492950285586_06.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7556962492950285586/7556962492950285586.mp3",
+      "_date": "2025-10-03"
+    },
+    {
+      "id": "tt_7554050955243818270",
+      "text": "Flying might feel glamorous, but here’s the truth: It’s a full-body stress test and most people don’t prepare for it. Here’s what happens when you’re 30,000 feet up in the air: -You lose hydration fast -Your digestion slows down -Your circulation gets sluggish -Your immune system takes a hit Here’s how to protect your body when you fly: Drink 8 oz of water per hour of flight. That’s the rule of thumb. Coffee, soda, or wine don’t count, they dehydrate you more. Bring your own big bottle and fill it up after security. Avoid salty airport snacks. Sodium + altitude = swelling and bloating. Pack protein-rich snacks (jerky, nuts, protein bars, fruit) to stabilize your blood sugar and prevent crash cravings. Move every hour. Even if it’s just ankle circles or standing up to stretch near the bathroom. It keeps your circulation flowing and helps prevent puffiness or post-flight fatigue. Apply moisturizer + lip balm before you board. Cabin air is drier than the desert. Hydrate your skin before it cracks. Wipe down your seat area. Not to be dramatic, but tray tables have more bacteria than a public restroom. Keep your immune system protected. Deep breathe during takeoff and landing. It helps regulate pressure and calm your nervous system (especially if flying makes you anxious). Bonus: Pack a little “flight kit.” Water, eye drops, gum, snacks, hand wipes, lotion, and a neck pillow = travel game changer. Save this for your next flight  #traveltips #airportwellness #bloatrelief #hydrationtips #wellnesstravel  ",
+      "author_name": "Beauty by Kat | hormones + gut",
+      "author_handle": "@beautybykatguthealth",
+      "created_at": "2025-09-25T15:35:59Z",
+      "url": "https://www.tiktok.com/@beautybykatguthealth/video/7554050955243818270",
+      "like_count": 132400,
+      "bookmark_count": "40776",
+      "comment_count": 831,
+      "share_count": 34600,
+      "view_count": 4300000,
+      "images": [
+        {
+          "url": "media/tiktok/7554050955243818270/7554050955243818270_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7554050955243818270/7554050955243818270.mp4"
+        }
+      ],
+      "duration": 6,
+      "_date": "2025-09-25"
+    },
+    {
+      "id": "tt_7553716725481557262",
+      "text": "I’ve always been super particular about the little things that make up my version of the clean boy aesthetic. It’s not just about outfits—it’s about the tiny details, the routines, and the personal preferences I obsess over that make me feel polished, put-together, and confident. In Order:  Working Out Dedicated Work Space Investing in a Suit Going Out with Friends  Loafers Clothing Rotation  Home Essentials Food A Pet  #mensessentials #cleanboyaesthetic #menshealth #essentials #homeessentials ",
+      "author_name": "trent",
+      "author_handle": "@trentevolaa",
+      "created_at": "2025-09-24T17:59:34Z",
+      "url": "https://www.tiktok.com/@trentevolaa/photo/7553716725481557262",
+      "like_count": 2515,
+      "bookmark_count": "781",
+      "comment_count": 9,
+      "share_count": 14,
+      "view_count": 38700,
+      "images": [
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7553716725481557262/7553716725481557262_10.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7553716725481557262/7553716725481557262.mp3",
+      "_date": "2025-09-24"
+    },
+    {
+      "id": "tt_7552813814945680651",
+      "text": "#cleanboy #glowup #wellnessjourney #growthmindset #morningroutine ",
+      "author_name": "JUAN MANUEL",
+      "author_handle": "@juan_macchia",
+      "created_at": "2025-09-22T07:35:24Z",
+      "url": "https://www.tiktok.com/@juan_macchia/photo/7552813814945680651",
+      "like_count": 5289,
+      "bookmark_count": "1392",
+      "comment_count": 8,
+      "share_count": 52,
+      "view_count": 45200,
+      "images": [
+        {
+          "url": "media/tiktok/7552813814945680651/7552813814945680651_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552813814945680651/7552813814945680651_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552813814945680651/7552813814945680651_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552813814945680651/7552813814945680651_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552813814945680651/7552813814945680651_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7552813814945680651/7552813814945680651_06.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7552813814945680651/7552813814945680651.mp3",
+      "_date": "2025-09-22"
+    },
+    {
+      "id": "tt_7552402880431459615",
+      "text": "Party life #photodump #aesthetic #fyp #viral #party ",
+      "author_name": "frosinapp",
+      "author_handle": "@frose_p",
+      "created_at": "2025-09-21T05:00:44Z",
+      "url": "https://www.tiktok.com/@frose_p/video/7552402880431459615",
+      "like_count": 384500,
+      "bookmark_count": "47921",
+      "comment_count": 291,
+      "share_count": 21500,
+      "view_count": 2400000,
+      "images": [
+        {
+          "url": "media/tiktok/7552402880431459615/7552402880431459615_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7552402880431459615/7552402880431459615.mp4"
+        }
+      ],
+      "duration": 8,
+      "_date": "2025-09-21"
+    },
+    {
+      "id": "tt_7544820924680391942",
+      "text": "feeling a little obsessed with those🌟🎾🏎️ #fyp #f1 #tennisplayer #housemusic #ibiza ",
+      "author_name": "liz",
+      "author_handle": "@alcaraz.555",
+      "created_at": "2025-08-31T18:38:40Z",
+      "url": "https://www.tiktok.com/@alcaraz.555/video/7544820924680391942",
+      "like_count": 514000,
+      "bookmark_count": "51004",
+      "comment_count": 541,
+      "share_count": 33300,
+      "view_count": 3000000,
+      "images": [
+        {
+          "url": "media/tiktok/7544820924680391942/7544820924680391942_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7544820924680391942/7544820924680391942.mp4"
+        }
+      ],
+      "duration": 9,
+      "_date": "2025-08-31"
     },
     {
       "id": "tt_7222813429986331947",
@@ -6861,6 +7651,28 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-12-06"
     },
     {
+      "id": "tt_7580386816667405590",
+      "text": "‘How was Thailand?’ The most amazing 2 weeks in South Thailand, we will most definitely be back 🩷💜 #fyp #traveltiktok #thailand #backpacking #southeastasia ",
+      "author_name": "Aimee | Travel & Backpacking",
+      "author_handle": "@fudgetravel",
+      "created_at": "2025-12-05T14:52:27Z",
+      "url": "https://www.tiktok.com/@fudgetravel/video/7580386816667405590",
+      "like_count": 517400,
+      "bookmark_count": "40646",
+      "comment_count": 809,
+      "share_count": 32800,
+      "view_count": 2900000,
+      "images": [
+        {
+          "url": "media/tiktok/7580386816667405590/7580386816667405590_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7580386816667405590/7580386816667405590.mp4"
+        }
+      ],
+      "duration": 32,
+      "_date": "2025-12-05"
+    },
+    {
       "id": "tt_7578378778565545229",
       "text": "Flake - Jack Johnson #music #jackjohnson #targetaudience #surf #xyzbca ",
       "author_name": ".fitsbyjm",
@@ -7122,6 +7934,28 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-09-27"
     },
     {
+      "id": "tt_7554643560046415117",
+      "text": "Perfect evening ✨ #seattle #downtownseattle #fyp #seattletiktok #viral ",
+      "author_name": "206bros | Seattle",
+      "author_handle": "@206bros.seattle",
+      "created_at": "2025-09-27T05:56:32Z",
+      "url": "https://www.tiktok.com/@206bros.seattle/video/7554643560046415117",
+      "like_count": 24400,
+      "bookmark_count": "3488",
+      "comment_count": 69,
+      "share_count": 3252,
+      "view_count": 179000,
+      "images": [
+        {
+          "url": "media/tiktok/7554643560046415117/7554643560046415117_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7554643560046415117/7554643560046415117.mp4"
+        }
+      ],
+      "duration": 10,
+      "_date": "2025-09-27"
+    },
+    {
       "id": "tt_7547861751283420446",
       "text": "sweetness of doing nothing  #dolcefarniente #italy #amalficoast #lakecomo ",
       "author_name": "torisoraddddddd",
@@ -7142,6 +7976,124 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 17,
       "_date": "2025-09-08"
+    },
+    {
+      "id": "tt_7547004788672646422",
+      "text": "#disney #travel #magic #fyp ",
+      "author_name": "Trip_fun",
+      "author_handle": "@trip_fun_",
+      "created_at": "2025-09-06T15:53:07Z",
+      "url": "https://www.tiktok.com/@trip_fun_/photo/7547004788672646422",
+      "like_count": 611900,
+      "bookmark_count": "154077",
+      "comment_count": 965,
+      "share_count": 57300,
+      "view_count": 5600000,
+      "images": [
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547004788672646422/7547004788672646422_10.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7547004788672646422/7547004788672646422.mp3",
+      "_date": "2025-09-06"
+    },
+    {
+      "id": "tt_7530853667851832607",
+      "text": "Been blessed to see so much of the world 📸 #travel #photography #canoncamera #fujifilm #xt30ii ",
+      "author_name": "colt10jordan",
+      "author_handle": "@coltontravels",
+      "created_at": "2025-07-25T03:18:36Z",
+      "url": "https://www.tiktok.com/@coltontravels/photo/7530853667851832607",
+      "like_count": 12700,
+      "bookmark_count": "1601",
+      "comment_count": 108,
+      "share_count": 256,
+      "view_count": 101000,
+      "images": [
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7530853667851832607/7530853667851832607_11.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7530853667851832607/7530853667851832607.mp3",
+      "_date": "2025-07-24"
     },
     {
       "id": "tt_7427899417623121158",
@@ -8163,6 +9115,47 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-10-07"
     },
     {
+      "id": "tt_7557552199346212104",
+      "text": "#outfitinspo",
+      "author_name": "Mod. Vintage",
+      "author_handle": "@modshopau",
+      "created_at": "2025-10-05T02:02:30Z",
+      "url": "https://www.tiktok.com/@modshopau/photo/7557552199346212104",
+      "like_count": 49900,
+      "bookmark_count": "8941",
+      "comment_count": 71,
+      "share_count": 2044,
+      "view_count": 442500,
+      "images": [
+        {
+          "url": "media/tiktok/7557552199346212104/7557552199346212104_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557552199346212104/7557552199346212104_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557552199346212104/7557552199346212104_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557552199346212104/7557552199346212104_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557552199346212104/7557552199346212104_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557552199346212104/7557552199346212104_06.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7557552199346212104/7557552199346212104.mp3",
+      "_date": "2025-10-04"
+    },
+    {
       "id": "tt_7556312038713117960",
       "text": "TikTok photo #7556312038713117960",
       "author_name": "khaleel",
@@ -8232,6 +9225,73 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-10-01"
     },
     {
+      "id": "tt_7548146681661902111",
+      "text": "Quiet details, loud impact!  #explore #mensfashion #style ",
+      "author_name": "realutkrsh",
+      "author_handle": "@realutkrsh",
+      "created_at": "2025-09-09T17:44:38Z",
+      "url": "https://www.tiktok.com/@realutkrsh/video/7548146681661902111",
+      "like_count": 88900,
+      "bookmark_count": "11511",
+      "comment_count": 2106,
+      "share_count": 10100,
+      "view_count": 811500,
+      "images": [
+        {
+          "url": "media/tiktok/7548146681661902111/7548146681661902111_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7548146681661902111/7548146681661902111.mp4"
+        }
+      ],
+      "duration": 24,
+      "_date": "2025-09-09"
+    },
+    {
+      "id": "tt_7547494086257773879",
+      "text": "outfits of the week pt.27 🍂 @anticoabito slide 6 #fyp #fashiontiktok #fallfashion #fitsoftheweek ",
+      "author_name": "joshgriffinnn",
+      "author_handle": "@joshgriffinnn",
+      "created_at": "2025-09-07T23:32:09Z",
+      "url": "https://www.tiktok.com/@joshgriffinnn/photo/7547494086257773879",
+      "like_count": 24600,
+      "bookmark_count": "9340",
+      "comment_count": 55,
+      "share_count": 779,
+      "view_count": 256500,
+      "images": [
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547494086257773879/7547494086257773879_07.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7547494086257773879/7547494086257773879.mp3",
+      "_date": "2025-09-07"
+    },
+    {
       "id": "tt_7547372649828060438",
       "text": "From timeless menswear to mindful habits, this is my vision of effortless elegance. #minimal #menswear #styleinspo",
       "author_name": "Diego",
@@ -8295,6 +9355,72 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "audio_url": "media/tiktok/7547372649828060438/7547372649828060438.mp3",
       "_date": "2025-09-07"
+    },
+    {
+      "id": "tt_7545529507160116502",
+      "text": "Tenues inspiration #streetwear #outfit #pourtoi #fyp",
+      "author_name": "Studio424",
+      "author_handle": "@studio4243",
+      "created_at": "2025-09-02T16:28:17Z",
+      "url": "https://www.tiktok.com/@studio4243/photo/7545529507160116502",
+      "like_count": 84000,
+      "bookmark_count": "25567",
+      "comment_count": 52,
+      "share_count": 3471,
+      "view_count": 397000,
+      "images": [
+        {
+          "url": "media/tiktok/7545529507160116502/7545529507160116502_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7545529507160116502/7545529507160116502_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7545529507160116502/7545529507160116502_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7545529507160116502/7545529507160116502_04.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7545529507160116502/7545529507160116502.mp3",
+      "_date": "2025-09-02"
+    },
+    {
+      "id": "tt_7542240973451988256",
+      "text": "Outfit inspiration, get ready for autumn 🤩 #autumn #fashion #outfitinspo #styleinspo #beauty ",
+      "author_name": "Between studios",
+      "author_handle": "@between.studios",
+      "created_at": "2025-08-24T19:47:15Z",
+      "url": "https://www.tiktok.com/@between.studios/photo/7542240973451988256",
+      "like_count": 52200,
+      "bookmark_count": "16757",
+      "comment_count": 158,
+      "share_count": 3281,
+      "view_count": 387600,
+      "images": [
+        {
+          "url": "media/tiktok/7542240973451988256/7542240973451988256_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7542240973451988256/7542240973451988256_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7542240973451988256/7542240973451988256_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7542240973451988256/7542240973451988256_04.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7542240973451988256/7542240973451988256.mp3",
+      "_date": "2025-08-24"
     },
     {
       "id": "tt_7306673613455904042",
@@ -8793,198 +9919,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-10-10"
     }
   ],
-  "Programming & Building": [
-    {
-      "id": "2028040114908135575",
-      "text": "25 signs your vibe-coded app is a TICKING BOMB !\n\n1. API keys hardcoded “for now”\n2. No /health endpoint, you just hit the homepage\n3. Schema changes live in your head, not migrations\n4. Every query is SELECT * and vibes\n5. Error handling = console.log(e) and hope\n6. No rate limit on auth or writes\n7. UTC, local time, and “JS default” all mixed\n8. README is empty or wrong\n9. No staging env, just “dev” and “prod-ish”\n10. One god component owns the whole screen\n11. No analytics, just “feels like people use it”\n12. You say “we’ll clean this up after launch” every week\n13. Env vars live only on your laptop, nowhere else documented\n14. Frontend talks directly to 5 different third-party APIs with no wrapper\n15. No monitoring or alerts – you find out it’s down from a DM\n16. Logs only exist in your local terminal history\n17. DB backups are “automatic”… but you’ve never tested a restore\n18. Feature flags = commenting code in and out\n19. Deploys are done from your local machine with one random script\n20. No input validation, you trust whatever the client sends\n21. CORS is set to * because “it fixed the error”\n22. CI is “I ran it once locally and it worked”\n23. Same API token reused across staging, prod, and local\n24. Only one person actually knows how to run or deploy the app\n\nBookmark this to defuse today LOL",
-      "author_name": "Harshil Tomar",
-      "author_handle": "@Hartdrawss",
-      "created_at": "2026-03-01T09:30:17.000Z",
-      "url": "https://twitter.com/i/web/status/2028040114908135575",
-      "like_count": 523,
-      "bookmark_count": 1035,
-      "images": [],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2027910475984605652",
-      "text": "We are returning to early 90's software era. People stopped building personal projects, fun whimsical things, because they couldn't bring to do the same thing they did under their boring manager's endless drones\n\nA lot of people will find their day jobs much more enjoyable as a result, big firms should offer personal API credit to keep their engineers happy",
-      "author_name": "Varunram Ganesh",
-      "author_handle": "@varunram",
-      "created_at": "2026-03-01T00:55:08.000Z",
-      "url": "https://twitter.com/i/web/status/2027910475984605652",
-      "like_count": 183,
-      "bookmark_count": 54,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027790991605055603",
-      "text": "Do you know which Data Structure is being used for browser’s Back/Forward navigation history??? https://t.co/QWMsgJetjb",
-      "author_name": "Ojas Sharma",
-      "author_handle": "@OjasSharma276",
-      "created_at": "2026-02-28T17:00:21.000Z",
-      "url": "https://twitter.com/i/web/status/2027790991605055603",
-      "like_count": 1049,
-      "bookmark_count": 373,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCQospMbEAUGY4k.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027698813591601425",
-      "text": "Technical interview question:\n\nSuppose you have 5 TB worth of text data and you want to count the total number of words, how will you do this?",
-      "author_name": "Raj Dabre",
-      "author_handle": "@prajdabre",
-      "created_at": "2026-02-28T10:54:04.000Z",
-      "url": "https://twitter.com/i/web/status/2027698813591601425",
-      "like_count": 2051,
-      "bookmark_count": 1238,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027077022338695424",
-      "text": "advice for interviewing now that writing code is becoming the easy part, from one of the best engineers i've worked with (we're hiring btw) https://t.co/094uhpa4T2 https://t.co/gPfXUzKVRN",
-      "author_name": "“paula”",
-      "author_handle": "@paularambles",
-      "created_at": "2026-02-26T17:43:18.000Z",
-      "url": "https://twitter.com/i/web/status/2027077022338695424",
-      "like_count": 1248,
-      "bookmark_count": 1087,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCGfGEgbgAAwkaX.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026771861036740822",
-      "text": "most software engineers are about to discover that management is a real skill, and they're going to discover it by being super terrible at it. many will realize that they can't even think big because they've never had to, and the world is no longer a tournament of algorithmic problem solving.\n\nfor those on the leaderboard, the final boss is conducting, and the models are approaching the state faster than we can discover frameworks to maximize throughput in the new world.",
-      "author_name": "Dev Shah",
-      "author_handle": "@0xDevShah",
-      "created_at": "2026-02-25T21:30:41.000Z",
-      "url": "https://twitter.com/i/web/status/2026771861036740822",
-      "like_count": 693,
-      "bookmark_count": 298,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026649359979577757",
-      "text": "In an interview they asked: “Design an API for flight booking.”\n\nMost people jump to endpoints. I didn’t.\n\n1. Clarified scope: search vs reserve vs pay vs ticket, one-way vs multi-city, seats hold time (5 min? 15?), cancellations, refunds.\n\n2. Defined entities: Flight, Fare, Availability, Passenger, Booking, Payment, Ticket.\n\n3. Wrote core flows: Search → Price → Hold (idempotency key) → Pay → Confirm, plus timeouts and retries.\n\n4. Designed endpoints: `GET /flights`, `POST /holds`, `POST /bookings`, `POST /payments`, `GET /bookings/{id}`.\n\n5. Called out failure modes: double charge, hold expired, partial success, eventual consistency.\n\nPro Tip: ask 20 questions, then think out loud. Interviewers hire you for your reasoning.",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-25T13:23:55.000Z",
-      "url": "https://twitter.com/i/web/status/2026649359979577757",
-      "like_count": 152,
-      "bookmark_count": 166,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026602663010615733",
-      "text": "It’s a disaster reading AI-generated code from juniors lately.\n\n1. PR count is up. Throughput is down. No tests, no clear invariants.\n2. Everyone’s AI has different context, so the same feature gets 5 different “truths”.\n3. If this is not enough, we are being told to generate PRs faster, which is not at all a good idea tbh.\n\nCertain Fixes that come to mind:\n\n1. Tests first (or PR blocked). Make behavior explicit.\n2. Force “math thinking”: invariants, idempotency, retries, SQS failure modes.\n3. AI can write code. Engineers must write the constraints.\n\nIf we continue to ship without a spec and tests, we're just shooting ourselves in the foot in the future.",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-25T10:18:21.000Z",
-      "url": "https://twitter.com/i/web/status/2026602663010615733",
-      "like_count": 304,
-      "bookmark_count": 117,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026385279360315464",
-      "text": "The engineer who quietly reached L7 / Staff+ in under 5 years didn’t spam 800 LeetCode mediums or beg for referrals.  \n\nThe woman who became the highest-comp IC on her team didn’t spend 3 years “networking” in every cross-org meeting. \n\nThe 27-year-old principal now making $900k+ total comp with a relatively small blast radius didn’t maintain a perfect 1:1 ratio of Jira tickets closed vs. meetings attended.\n\nThey all did roughly the same 5 things:\n\n1. Picked one truly valuable skill that actually moves the business needle (not the one trending on Twitter this quarter)\n\n2. Built one repeatable system, framework, abstraction, or leverage layer that other engineers started copying\n\n3. Shipped real, visible customer/business impact every single sprint even tiny ones and ensured the right people knew\n\n4. Wrote, spoke, taught, documented, or demoed their work publicly inside the company almost every week (RFCs, tech talks, design docs, wiki pages, Slack threads with 40+ reacts)\n\n5. Completely ignored everyone who said “wait your turn,” “you’re too young,” “focus on execution not visibility,” or “don’t rock the boat”\n\nYour manager wants you on the critical path of the existing roadmap because that keeps his org green.\n\nYour skip-level wants predictable delivery because that makes his VPs happy.\n\nYour peers tell you to “just grind LeetCode and wait for the promo packet” because that’s the only script they know.\n\nYour parents still think Staff Engineer is “a very good senior position.”\n\nNone of them are wrong. None of them are rich in impact, leverage, or money.\n\nThe fastest path to Staff → Principal → Distinguished → very fat comp packages in 2025–2028 is still boringly simple:\n\n- Own one scary-hard problem end-to-end  \n- Turn it into leverage others can use  \n- Make that leverage visible without being a show-off asshole  \n- Repeat 6–10 times in a row  \n- Stop asking for permission to take big scope\n\nThe ladder isn’t broken.  \nThe people who climb it fastest just stopped pretending it’s a waiting game.\n\nYou already know what your one thing should be.  \n\nThe only question left is:\nAre you finally done asking for permission to go do it?",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-24T19:54:33.000Z",
-      "url": "https://twitter.com/i/web/status/2026385279360315464",
-      "like_count": 770,
-      "bookmark_count": 992,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026287499421856094",
-      "text": "No matter how many blogs, books, or papers you read, prototyping is still the fastest way to understand anything. Here's my workflow -\n\n- keep a GitHub repo called \"prototypes\"\n- every folder is one experiment\n- something seems interesting, implement\n- define exactly what you want to understand\n- find the absolute minimum required\n- code, run, iterate\n\nThe key thing here is finding the bare minimum, the absolute bare minimum, to code that would help you build that understanding. Initially, you will code more than required, but over time, you will start assuming data, adding sleeps, mocking, and making the right assumption.\n\nAlso, I get it, there is an urge to open-source the prototype or turn it into a project or startup. Don't. Remember, the goal is understanding. Once you get it, you are done; move on.\n\nYesterday, I built and implemented different types of joins (article published today) and benchmarked them to see how they actually performed. I already knew the theory, but the prototype gave me real, rough numbers.\n\nBy the way, I have 200+ repos on GitHub filled with different types of prototypes and hands-on experiments. Of course, I cannot recommend smashing your fingers on your keyboard enough.",
-      "author_name": "Arpit Bhayani",
-      "author_handle": "@arpit_bhayani",
-      "created_at": "2026-02-24T13:26:01.000Z",
-      "url": "https://twitter.com/i/web/status/2026287499421856094",
-      "like_count": 1488,
-      "bookmark_count": 1006,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026263199855567308",
-      "text": "Things I’m thinking about in 2026:\n* The risk/reward of a mediocre hire is worse than it’s ever been\n* I don’t really want more code writers, I want one of two kinds of engineers \n* The first is the architect. Someone who can design for scale.  \n* The second is the product engineer. Someone who understands DEEPLY the product space, enough that PMs trust them to make many decisions just for review. Enough that they could PM the team if the PM left.",
-      "author_name": "staysaasy",
-      "author_handle": "@staysaasy",
-      "created_at": "2026-02-24T11:49:27.000Z",
-      "url": "https://twitter.com/i/web/status/2026263199855567308",
-      "like_count": 394,
-      "bookmark_count": 163,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026250760393310696",
-      "text": "Google interview (3 years ago). Didn’t make it.\n\n1. Recruiter call: solid. I oversold breadth, under-prepped depth.\n2. Phone screen: passed, but my solution was “works” not “clean”. Too much talking, not enough crisp invariants.\n3. Onsite DS/Algo: got one hard graph right, one medium DP half-right. I missed edge cases under time pressure.\n4. System design: my biggest miss. I drew boxes fast, but didn’t drive the conversation: SLAs, data model, bottlenecks, failure modes, rollout.\n5. Googlyness: fine. But apparently fine is not a differentiator when the bar is high.\n\nI wasn’t far, just inconsistent.\n\nLesson I learnt: Don’t grind 200 LeetCode. Do 30 problems, write postmortems, and practice 5 real system designs out loud.",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-24T11:00:01.000Z",
-      "url": "https://twitter.com/i/web/status/2026250760393310696",
-      "like_count": 377,
-      "bookmark_count": 290,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026181715094602099",
-      "text": "Nobody cares what course you bought.\n\nBuild something.\n\n• A Rate Limiter → understand real backend control\n• A Job Queue → learn async like a grown engineer\n• A Mini Search Engine → indexing > tutorials\n• A CLI Budget Tool → edge cases will humble you\n• A Feature Flag System → think like a product dev\n• A Log Parser → patterns, timestamps, real data\n• A Simple Cache Layer → performance mindset\n• A Cron Email Script → automation > motivation\n\nThis is how you become dangerous.\nNot by watching. By shipping.\n\nBookmark this. Come back in 6 months.",
-      "author_name": "404G",
-      "author_handle": "@404G_",
-      "created_at": "2026-02-24T06:25:40.000Z",
-      "url": "https://twitter.com/i/web/status/2026181715094602099",
-      "like_count": 1005,
-      "bookmark_count": 1323,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026054603825971460",
-      "text": "This is the best time to be a competent and knowledgeable software engineer.\n\nWhile everyone else is vibe coding, study the fundamentals and read books.\n\n1. Designing Data Intensive Applications \n2. Operating Systems: Three Easy Pieces\n3. A Philosophy of Software Design\n4. System Design Interview: An Insider‘s Guide",
-      "author_name": "Ben X",
-      "author_handle": "@Benn_X1",
-      "created_at": "2026-02-23T22:00:34.000Z",
-      "url": "https://twitter.com/i/web/status/2026054603825971460",
-      "like_count": 1055,
-      "bookmark_count": 1313,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025429326703783981",
-      "text": "C++ distributed systems background\n\nI found a job in one week\n\ngg no re https://t.co/ZzC9EEyS0F",
-      "author_name": "skooks",
-      "author_handle": "@skooookum",
-      "created_at": "2026-02-22T04:35:56.000Z",
-      "url": "https://twitter.com/i/web/status/2025429326703783981",
-      "like_count": 3722,
-      "bookmark_count": 1349,
-      "images": [],
-      "_date": "2026-02-22"
-    }
-  ],
   "Current Events": [
     {
       "id": "2081740718393983405",
@@ -9209,6 +10143,220 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 100,
       "_date": "2025-11-11"
+    },
+    {
+      "id": "tt_7537804288207228182",
+      "text": "#Repost @therunningeffect • • • If you see me in a fight with a bear, pray for the bear. And please consider giving us a follow. We’re on a mission to hit 240k followers by the end of June.",
+      "author_name": "Chris Williamson",
+      "author_handle": "@chriswillx",
+      "created_at": "2025-08-12T20:50:28Z",
+      "url": "https://www.tiktok.com/@chriswillx/video/7537804288207228182",
+      "like_count": 123100,
+      "bookmark_count": "16725",
+      "comment_count": 156,
+      "share_count": 4383,
+      "view_count": 1100000,
+      "images": [
+        {
+          "url": "media/tiktok/7537804288207228182/7537804288207228182_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7537804288207228182/7537804288207228182.mp4"
+        }
+      ],
+      "duration": 73,
+      "_date": "2025-08-12"
+    }
+  ],
+  "Programming & Building": [
+    {
+      "id": "2028040114908135575",
+      "text": "25 signs your vibe-coded app is a TICKING BOMB !\n\n1. API keys hardcoded “for now”\n2. No /health endpoint, you just hit the homepage\n3. Schema changes live in your head, not migrations\n4. Every query is SELECT * and vibes\n5. Error handling = console.log(e) and hope\n6. No rate limit on auth or writes\n7. UTC, local time, and “JS default” all mixed\n8. README is empty or wrong\n9. No staging env, just “dev” and “prod-ish”\n10. One god component owns the whole screen\n11. No analytics, just “feels like people use it”\n12. You say “we’ll clean this up after launch” every week\n13. Env vars live only on your laptop, nowhere else documented\n14. Frontend talks directly to 5 different third-party APIs with no wrapper\n15. No monitoring or alerts – you find out it’s down from a DM\n16. Logs only exist in your local terminal history\n17. DB backups are “automatic”… but you’ve never tested a restore\n18. Feature flags = commenting code in and out\n19. Deploys are done from your local machine with one random script\n20. No input validation, you trust whatever the client sends\n21. CORS is set to * because “it fixed the error”\n22. CI is “I ran it once locally and it worked”\n23. Same API token reused across staging, prod, and local\n24. Only one person actually knows how to run or deploy the app\n\nBookmark this to defuse today LOL",
+      "author_name": "Harshil Tomar",
+      "author_handle": "@Hartdrawss",
+      "created_at": "2026-03-01T09:30:17.000Z",
+      "url": "https://twitter.com/i/web/status/2028040114908135575",
+      "like_count": 523,
+      "bookmark_count": 1035,
+      "images": [],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027910475984605652",
+      "text": "We are returning to early 90's software era. People stopped building personal projects, fun whimsical things, because they couldn't bring to do the same thing they did under their boring manager's endless drones\n\nA lot of people will find their day jobs much more enjoyable as a result, big firms should offer personal API credit to keep their engineers happy",
+      "author_name": "Varunram Ganesh",
+      "author_handle": "@varunram",
+      "created_at": "2026-03-01T00:55:08.000Z",
+      "url": "https://twitter.com/i/web/status/2027910475984605652",
+      "like_count": 183,
+      "bookmark_count": 54,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027790991605055603",
+      "text": "Do you know which Data Structure is being used for browser’s Back/Forward navigation history??? https://t.co/QWMsgJetjb",
+      "author_name": "Ojas Sharma",
+      "author_handle": "@OjasSharma276",
+      "created_at": "2026-02-28T17:00:21.000Z",
+      "url": "https://twitter.com/i/web/status/2027790991605055603",
+      "like_count": 1049,
+      "bookmark_count": 373,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQospMbEAUGY4k.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027698813591601425",
+      "text": "Technical interview question:\n\nSuppose you have 5 TB worth of text data and you want to count the total number of words, how will you do this?",
+      "author_name": "Raj Dabre",
+      "author_handle": "@prajdabre",
+      "created_at": "2026-02-28T10:54:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027698813591601425",
+      "like_count": 2051,
+      "bookmark_count": 1238,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027077022338695424",
+      "text": "advice for interviewing now that writing code is becoming the easy part, from one of the best engineers i've worked with (we're hiring btw) https://t.co/094uhpa4T2 https://t.co/gPfXUzKVRN",
+      "author_name": "“paula”",
+      "author_handle": "@paularambles",
+      "created_at": "2026-02-26T17:43:18.000Z",
+      "url": "https://twitter.com/i/web/status/2027077022338695424",
+      "like_count": 1248,
+      "bookmark_count": 1087,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCGfGEgbgAAwkaX.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026771861036740822",
+      "text": "most software engineers are about to discover that management is a real skill, and they're going to discover it by being super terrible at it. many will realize that they can't even think big because they've never had to, and the world is no longer a tournament of algorithmic problem solving.\n\nfor those on the leaderboard, the final boss is conducting, and the models are approaching the state faster than we can discover frameworks to maximize throughput in the new world.",
+      "author_name": "Dev Shah",
+      "author_handle": "@0xDevShah",
+      "created_at": "2026-02-25T21:30:41.000Z",
+      "url": "https://twitter.com/i/web/status/2026771861036740822",
+      "like_count": 693,
+      "bookmark_count": 298,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026649359979577757",
+      "text": "In an interview they asked: “Design an API for flight booking.”\n\nMost people jump to endpoints. I didn’t.\n\n1. Clarified scope: search vs reserve vs pay vs ticket, one-way vs multi-city, seats hold time (5 min? 15?), cancellations, refunds.\n\n2. Defined entities: Flight, Fare, Availability, Passenger, Booking, Payment, Ticket.\n\n3. Wrote core flows: Search → Price → Hold (idempotency key) → Pay → Confirm, plus timeouts and retries.\n\n4. Designed endpoints: `GET /flights`, `POST /holds`, `POST /bookings`, `POST /payments`, `GET /bookings/{id}`.\n\n5. Called out failure modes: double charge, hold expired, partial success, eventual consistency.\n\nPro Tip: ask 20 questions, then think out loud. Interviewers hire you for your reasoning.",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-25T13:23:55.000Z",
+      "url": "https://twitter.com/i/web/status/2026649359979577757",
+      "like_count": 152,
+      "bookmark_count": 166,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026602663010615733",
+      "text": "It’s a disaster reading AI-generated code from juniors lately.\n\n1. PR count is up. Throughput is down. No tests, no clear invariants.\n2. Everyone’s AI has different context, so the same feature gets 5 different “truths”.\n3. If this is not enough, we are being told to generate PRs faster, which is not at all a good idea tbh.\n\nCertain Fixes that come to mind:\n\n1. Tests first (or PR blocked). Make behavior explicit.\n2. Force “math thinking”: invariants, idempotency, retries, SQS failure modes.\n3. AI can write code. Engineers must write the constraints.\n\nIf we continue to ship without a spec and tests, we're just shooting ourselves in the foot in the future.",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-25T10:18:21.000Z",
+      "url": "https://twitter.com/i/web/status/2026602663010615733",
+      "like_count": 304,
+      "bookmark_count": 117,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026385279360315464",
+      "text": "The engineer who quietly reached L7 / Staff+ in under 5 years didn’t spam 800 LeetCode mediums or beg for referrals.  \n\nThe woman who became the highest-comp IC on her team didn’t spend 3 years “networking” in every cross-org meeting. \n\nThe 27-year-old principal now making $900k+ total comp with a relatively small blast radius didn’t maintain a perfect 1:1 ratio of Jira tickets closed vs. meetings attended.\n\nThey all did roughly the same 5 things:\n\n1. Picked one truly valuable skill that actually moves the business needle (not the one trending on Twitter this quarter)\n\n2. Built one repeatable system, framework, abstraction, or leverage layer that other engineers started copying\n\n3. Shipped real, visible customer/business impact every single sprint even tiny ones and ensured the right people knew\n\n4. Wrote, spoke, taught, documented, or demoed their work publicly inside the company almost every week (RFCs, tech talks, design docs, wiki pages, Slack threads with 40+ reacts)\n\n5. Completely ignored everyone who said “wait your turn,” “you’re too young,” “focus on execution not visibility,” or “don’t rock the boat”\n\nYour manager wants you on the critical path of the existing roadmap because that keeps his org green.\n\nYour skip-level wants predictable delivery because that makes his VPs happy.\n\nYour peers tell you to “just grind LeetCode and wait for the promo packet” because that’s the only script they know.\n\nYour parents still think Staff Engineer is “a very good senior position.”\n\nNone of them are wrong. None of them are rich in impact, leverage, or money.\n\nThe fastest path to Staff → Principal → Distinguished → very fat comp packages in 2025–2028 is still boringly simple:\n\n- Own one scary-hard problem end-to-end  \n- Turn it into leverage others can use  \n- Make that leverage visible without being a show-off asshole  \n- Repeat 6–10 times in a row  \n- Stop asking for permission to take big scope\n\nThe ladder isn’t broken.  \nThe people who climb it fastest just stopped pretending it’s a waiting game.\n\nYou already know what your one thing should be.  \n\nThe only question left is:\nAre you finally done asking for permission to go do it?",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-24T19:54:33.000Z",
+      "url": "https://twitter.com/i/web/status/2026385279360315464",
+      "like_count": 770,
+      "bookmark_count": 992,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026287499421856094",
+      "text": "No matter how many blogs, books, or papers you read, prototyping is still the fastest way to understand anything. Here's my workflow -\n\n- keep a GitHub repo called \"prototypes\"\n- every folder is one experiment\n- something seems interesting, implement\n- define exactly what you want to understand\n- find the absolute minimum required\n- code, run, iterate\n\nThe key thing here is finding the bare minimum, the absolute bare minimum, to code that would help you build that understanding. Initially, you will code more than required, but over time, you will start assuming data, adding sleeps, mocking, and making the right assumption.\n\nAlso, I get it, there is an urge to open-source the prototype or turn it into a project or startup. Don't. Remember, the goal is understanding. Once you get it, you are done; move on.\n\nYesterday, I built and implemented different types of joins (article published today) and benchmarked them to see how they actually performed. I already knew the theory, but the prototype gave me real, rough numbers.\n\nBy the way, I have 200+ repos on GitHub filled with different types of prototypes and hands-on experiments. Of course, I cannot recommend smashing your fingers on your keyboard enough.",
+      "author_name": "Arpit Bhayani",
+      "author_handle": "@arpit_bhayani",
+      "created_at": "2026-02-24T13:26:01.000Z",
+      "url": "https://twitter.com/i/web/status/2026287499421856094",
+      "like_count": 1488,
+      "bookmark_count": 1006,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026263199855567308",
+      "text": "Things I’m thinking about in 2026:\n* The risk/reward of a mediocre hire is worse than it’s ever been\n* I don’t really want more code writers, I want one of two kinds of engineers \n* The first is the architect. Someone who can design for scale.  \n* The second is the product engineer. Someone who understands DEEPLY the product space, enough that PMs trust them to make many decisions just for review. Enough that they could PM the team if the PM left.",
+      "author_name": "staysaasy",
+      "author_handle": "@staysaasy",
+      "created_at": "2026-02-24T11:49:27.000Z",
+      "url": "https://twitter.com/i/web/status/2026263199855567308",
+      "like_count": 394,
+      "bookmark_count": 163,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026250760393310696",
+      "text": "Google interview (3 years ago). Didn’t make it.\n\n1. Recruiter call: solid. I oversold breadth, under-prepped depth.\n2. Phone screen: passed, but my solution was “works” not “clean”. Too much talking, not enough crisp invariants.\n3. Onsite DS/Algo: got one hard graph right, one medium DP half-right. I missed edge cases under time pressure.\n4. System design: my biggest miss. I drew boxes fast, but didn’t drive the conversation: SLAs, data model, bottlenecks, failure modes, rollout.\n5. Googlyness: fine. But apparently fine is not a differentiator when the bar is high.\n\nI wasn’t far, just inconsistent.\n\nLesson I learnt: Don’t grind 200 LeetCode. Do 30 problems, write postmortems, and practice 5 real system designs out loud.",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-24T11:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2026250760393310696",
+      "like_count": 377,
+      "bookmark_count": 290,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026181715094602099",
+      "text": "Nobody cares what course you bought.\n\nBuild something.\n\n• A Rate Limiter → understand real backend control\n• A Job Queue → learn async like a grown engineer\n• A Mini Search Engine → indexing > tutorials\n• A CLI Budget Tool → edge cases will humble you\n• A Feature Flag System → think like a product dev\n• A Log Parser → patterns, timestamps, real data\n• A Simple Cache Layer → performance mindset\n• A Cron Email Script → automation > motivation\n\nThis is how you become dangerous.\nNot by watching. By shipping.\n\nBookmark this. Come back in 6 months.",
+      "author_name": "404G",
+      "author_handle": "@404G_",
+      "created_at": "2026-02-24T06:25:40.000Z",
+      "url": "https://twitter.com/i/web/status/2026181715094602099",
+      "like_count": 1005,
+      "bookmark_count": 1323,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026054603825971460",
+      "text": "This is the best time to be a competent and knowledgeable software engineer.\n\nWhile everyone else is vibe coding, study the fundamentals and read books.\n\n1. Designing Data Intensive Applications \n2. Operating Systems: Three Easy Pieces\n3. A Philosophy of Software Design\n4. System Design Interview: An Insider‘s Guide",
+      "author_name": "Ben X",
+      "author_handle": "@Benn_X1",
+      "created_at": "2026-02-23T22:00:34.000Z",
+      "url": "https://twitter.com/i/web/status/2026054603825971460",
+      "like_count": 1055,
+      "bookmark_count": 1313,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025429326703783981",
+      "text": "C++ distributed systems background\n\nI found a job in one week\n\ngg no re https://t.co/ZzC9EEyS0F",
+      "author_name": "skooks",
+      "author_handle": "@skooookum",
+      "created_at": "2026-02-22T04:35:56.000Z",
+      "url": "https://twitter.com/i/web/status/2025429326703783981",
+      "like_count": 3722,
+      "bookmark_count": 1349,
+      "images": [],
+      "_date": "2026-02-22"
     }
   ],
   "Watches": [
@@ -9896,6 +11044,256 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 7,
       "_date": "2025-11-27"
+    },
+    {
+      "id": "tt_7552397183551638815",
+      "text": "What is that! 😂",
+      "author_name": "Nikolai",
+      "author_handle": "@nikolaiiaksenov",
+      "created_at": "2025-09-21T04:38:37Z",
+      "url": "https://www.tiktok.com/@nikolaiiaksenov/video/7552397183551638815",
+      "like_count": 69400,
+      "bookmark_count": "2055",
+      "comment_count": 109,
+      "share_count": 320,
+      "view_count": 1700000,
+      "images": [
+        {
+          "url": "media/tiktok/7552397183551638815/7552397183551638815_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7552397183551638815/7552397183551638815.mp4"
+        }
+      ],
+      "duration": 64,
+      "_date": "2025-09-21"
+    }
+  ],
+  "Workout / Fitness": [
+    {
+      "id": "tt_7576750674759716104",
+      "text": "Morning before work…… . . . . . . . . . #workinprogress #truckdriverlife #fitnessmotivation #homegym ",
+      "author_name": "Truckercanfit",
+      "author_handle": "@mandeepjudge09",
+      "created_at": "2025-11-25T19:42:25Z",
+      "url": "https://www.tiktok.com/@mandeepjudge09/video/7576750674759716104",
+      "like_count": 8657,
+      "bookmark_count": "572",
+      "comment_count": 51,
+      "share_count": 356,
+      "view_count": 290600,
+      "images": [
+        {
+          "url": "media/tiktok/7576750674759716104/7576750674759716104_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7576750674759716104/7576750674759716104.mp4"
+        }
+      ],
+      "duration": 36,
+      "_date": "2025-11-25"
+    },
+    {
+      "id": "tt_7557779503347518751",
+      "text": "Dead hand for 30 day full part | yellow dude fan #calisthenics #yellowdude #deadhand #homeworkout #foryoupage ",
+      "author_name": "Fitness dude",
+      "author_handle": "@ydfitness27",
+      "created_at": "2025-10-05T16:44:44Z",
+      "url": "https://www.tiktok.com/@ydfitness27/video/7557779503347518751",
+      "like_count": 214300,
+      "bookmark_count": "43734",
+      "comment_count": 456,
+      "share_count": 4933,
+      "view_count": 3300000,
+      "images": [
+        {
+          "url": "media/tiktok/7557779503347518751/7557779503347518751_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7557779503347518751/7557779503347518751.mp4"
+        }
+      ],
+      "duration": 561,
+      "_date": "2025-10-05"
+    },
+    {
+      "id": "tt_7555221058991770911",
+      "text": "and a lot more but that’s what i have pictures for #fyp #fitness #gym ",
+      "author_name": "Mahek",
+      "author_handle": "@mahekpatelk",
+      "created_at": "2025-09-28T19:16:38Z",
+      "url": "https://www.tiktok.com/@mahekpatelk/photo/7555221058991770911",
+      "like_count": 2893,
+      "bookmark_count": "1061",
+      "comment_count": 22,
+      "share_count": 40,
+      "view_count": 42600,
+      "images": [
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7555221058991770911/7555221058991770911_10.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7555221058991770911/7555221058991770911.mp3",
+      "_date": "2025-09-28"
+    },
+    {
+      "id": "tt_7553340712277036291",
+      "text": "Winter Arc. #lifeplanner #planner #journal #fyp #foryou #podcastclips #podcast #melrobbins #melrobbinspodcast #winterarc #lockin #winter #fitness ",
+      "author_name": "The Discipline Club",
+      "author_handle": "@thedisciplineclub",
+      "created_at": "2025-09-23T17:39:44Z",
+      "url": "https://www.tiktok.com/@thedisciplineclub/video/7553340712277036291",
+      "like_count": 198900,
+      "bookmark_count": "26491",
+      "comment_count": 519,
+      "share_count": 12700,
+      "view_count": 1200000,
+      "images": [
+        {
+          "url": "media/tiktok/7553340712277036291/7553340712277036291_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7553340712277036291/7553340712277036291.mp4"
+        }
+      ],
+      "duration": 12,
+      "_date": "2025-09-23"
+    },
+    {
+      "id": "tt_7552965099510713632",
+      "text": "Cinema + cardio - that’s it for today ✌🏼 #goals #fyp ",
+      "author_name": "Gooise Mannen",
+      "author_handle": "@gooisemannen",
+      "created_at": "2025-09-22T17:22:35Z",
+      "url": "https://www.tiktok.com/@gooisemannen/video/7552965099510713632",
+      "like_count": 54200,
+      "bookmark_count": "4345",
+      "comment_count": 135,
+      "share_count": 5056,
+      "view_count": 403000,
+      "images": [
+        {
+          "url": "media/tiktok/7552965099510713632/7552965099510713632_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7552965099510713632/7552965099510713632.mp4"
+        }
+      ],
+      "duration": 9,
+      "_date": "2025-09-22"
+    },
+    {
+      "id": "tt_7549990001245736223",
+      "text": "Get your groceries at Aldi too trust, your pockets gon thank you. #brown #food #mealprep #fitness #gymtok ",
+      "author_name": "Justin Fernandez",
+      "author_handle": "@justinpf951",
+      "created_at": "2025-09-14T16:57:27Z",
+      "url": "https://www.tiktok.com/@justinpf951/photo/7549990001245736223",
+      "like_count": 17000,
+      "bookmark_count": "2817",
+      "comment_count": 307,
+      "share_count": 647,
+      "view_count": 183200,
+      "images": [
+        {
+          "url": "media/tiktok/7549990001245736223/7549990001245736223_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549990001245736223/7549990001245736223_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549990001245736223/7549990001245736223_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549990001245736223/7549990001245736223_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549990001245736223/7549990001245736223_05.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7549990001245736223/7549990001245736223.mp3",
+      "_date": "2025-09-14"
+    },
+    {
+      "id": "tt_7543203765520780566",
+      "text": "When you see someone doing a shoulder press like this… 👀 Skip the rotation, it serves no purpose. It will ONLY create fatigue and waste energy ❌ that you could put into the pressing movement ✅ Set the bench at a 75–85-degree angle ✅ to help prevent internal rotation in your shoulders at the bottom ❌ Slightly angle your elbows inward (about 30–45 degrees) to stay in the scapular plane ✅ Don’t smash the dumbbells together at the top ❌ keep them slightly apart to maintain control ✅ Will you give this a try?",
+      "author_name": "abdulhassonii",
+      "author_handle": "@abdulhassonii",
+      "created_at": "2025-08-27T12:00:00Z",
+      "url": "https://www.tiktok.com/@abdulhassonii/video/7543203765520780566",
+      "like_count": 58600,
+      "bookmark_count": "21806",
+      "comment_count": 117,
+      "share_count": 2718,
+      "view_count": 1300000,
+      "images": [
+        {
+          "url": "media/tiktok/7543203765520780566/7543203765520780566_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7543203765520780566/7543203765520780566.mp4"
+        }
+      ],
+      "duration": 26,
+      "_date": "2025-08-27"
+    },
+    {
+      "id": "tt_7228372888326278406",
+      "text": "My friend told me yesterday: “I don’t want to be 70 yrs old and be a vegetable” 🍅 Two things he can do to avoid that: 1. Resistance training to build muscle 2. Walk every day 3. ⭐️ A daily mobility routine 📌 Save this routine and do it every day if you want to feel and move 10 years younger.",
+      "author_name": "Darren Liu | Fitness Coach",
+      "author_handle": "@darrenliufitness",
+      "created_at": "2023-05-02T00:18:36Z",
+      "url": "https://www.tiktok.com/@darrenliufitness/video/7228372888326278406",
+      "like_count": 384600,
+      "bookmark_count": "301186",
+      "comment_count": 1485,
+      "share_count": 42800,
+      "view_count": 5200000,
+      "images": [
+        {
+          "url": "media/tiktok/7228372888326278406/7228372888326278406_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7228372888326278406/7228372888326278406.mp4"
+        }
+      ],
+      "duration": 90,
+      "_date": "2023-05-01"
     }
   ],
   "Relationship": [
@@ -10115,118 +11513,6 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-23"
     }
   ],
-  "Workout / Fitness": [
-    {
-      "id": "tt_7576750674759716104",
-      "text": "Morning before work…… . . . . . . . . . #workinprogress #truckdriverlife #fitnessmotivation #homegym ",
-      "author_name": "Truckercanfit",
-      "author_handle": "@mandeepjudge09",
-      "created_at": "2025-11-25T19:42:25Z",
-      "url": "https://www.tiktok.com/@mandeepjudge09/video/7576750674759716104",
-      "like_count": 8657,
-      "bookmark_count": "572",
-      "comment_count": 51,
-      "share_count": 356,
-      "view_count": 290600,
-      "images": [
-        {
-          "url": "media/tiktok/7576750674759716104/7576750674759716104_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7576750674759716104/7576750674759716104.mp4"
-        }
-      ],
-      "duration": 36,
-      "_date": "2025-11-25"
-    },
-    {
-      "id": "tt_7557779503347518751",
-      "text": "Dead hand for 30 day full part | yellow dude fan #calisthenics #yellowdude #deadhand #homeworkout #foryoupage ",
-      "author_name": "Fitness dude",
-      "author_handle": "@ydfitness27",
-      "created_at": "2025-10-05T16:44:44Z",
-      "url": "https://www.tiktok.com/@ydfitness27/video/7557779503347518751",
-      "like_count": 214300,
-      "bookmark_count": "43734",
-      "comment_count": 456,
-      "share_count": 4933,
-      "view_count": 3300000,
-      "images": [
-        {
-          "url": "media/tiktok/7557779503347518751/7557779503347518751_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7557779503347518751/7557779503347518751.mp4"
-        }
-      ],
-      "duration": 561,
-      "_date": "2025-10-05"
-    },
-    {
-      "id": "tt_7553340712277036291",
-      "text": "Winter Arc. #lifeplanner #planner #journal #fyp #foryou #podcastclips #podcast #melrobbins #melrobbinspodcast #winterarc #lockin #winter #fitness ",
-      "author_name": "The Discipline Club",
-      "author_handle": "@thedisciplineclub",
-      "created_at": "2025-09-23T17:39:44Z",
-      "url": "https://www.tiktok.com/@thedisciplineclub/video/7553340712277036291",
-      "like_count": 198900,
-      "bookmark_count": "26491",
-      "comment_count": 519,
-      "share_count": 12700,
-      "view_count": 1200000,
-      "images": [
-        {
-          "url": "media/tiktok/7553340712277036291/7553340712277036291_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7553340712277036291/7553340712277036291.mp4"
-        }
-      ],
-      "duration": 12,
-      "_date": "2025-09-23"
-    },
-    {
-      "id": "tt_7552965099510713632",
-      "text": "Cinema + cardio - that’s it for today ✌🏼 #goals #fyp ",
-      "author_name": "Gooise Mannen",
-      "author_handle": "@gooisemannen",
-      "created_at": "2025-09-22T17:22:35Z",
-      "url": "https://www.tiktok.com/@gooisemannen/video/7552965099510713632",
-      "like_count": 54200,
-      "bookmark_count": "4345",
-      "comment_count": 135,
-      "share_count": 5056,
-      "view_count": 403000,
-      "images": [
-        {
-          "url": "media/tiktok/7552965099510713632/7552965099510713632_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7552965099510713632/7552965099510713632.mp4"
-        }
-      ],
-      "duration": 9,
-      "_date": "2025-09-22"
-    },
-    {
-      "id": "tt_7228372888326278406",
-      "text": "My friend told me yesterday: “I don’t want to be 70 yrs old and be a vegetable” 🍅 Two things he can do to avoid that: 1. Resistance training to build muscle 2. Walk every day 3. ⭐️ A daily mobility routine 📌 Save this routine and do it every day if you want to feel and move 10 years younger.",
-      "author_name": "Darren Liu | Fitness Coach",
-      "author_handle": "@darrenliufitness",
-      "created_at": "2023-05-02T00:18:36Z",
-      "url": "https://www.tiktok.com/@darrenliufitness/video/7228372888326278406",
-      "like_count": 384600,
-      "bookmark_count": "301186",
-      "comment_count": 1485,
-      "share_count": 42800,
-      "view_count": 5200000,
-      "images": [
-        {
-          "url": "media/tiktok/7228372888326278406/7228372888326278406_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7228372888326278406/7228372888326278406.mp4"
-        }
-      ],
-      "duration": 90,
-      "_date": "2023-05-01"
-    }
-  ],
   "Music": [
     {
       "id": "tt_7566398846780067085",
@@ -10413,6 +11699,109 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "audio_url": "media/tiktok/7556673800314686733/7556673800314686733.mp3",
       "_date": "2025-10-02"
+    },
+    {
+      "id": "tt_7547751551872421150",
+      "text": "needddd @Argus Farm Stop soft serve rn #umich #annarbor #annarborrestaurants #annarboreats #universityofmichigan ",
+      "author_name": "frankie",
+      "author_handle": "@snapshotsofsmith_",
+      "created_at": "2025-09-08T16:11:06Z",
+      "url": "https://www.tiktok.com/@snapshotsofsmith_/photo/7547751551872421150",
+      "like_count": 4626,
+      "bookmark_count": "1681",
+      "comment_count": 113,
+      "share_count": 507,
+      "view_count": 86700,
+      "images": [
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547751551872421150/7547751551872421150_10.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7547751551872421150/7547751551872421150.mp3",
+      "_date": "2025-09-08"
+    }
+  ],
+  "Thailand": [
+    {
+      "id": "tt_7561819813165747463",
+      "text": "bangkok is one of my favourite countries to visit and i’m finally sharing you some of my top few places to visit!! 🇹🇭 #thailand #bangkok #sgtravel #bangkokitinerary #bangkoktravel ",
+      "author_name": "ig: @natashaxlee ⋆˚꩜｡",
+      "author_handle": "@natellalee",
+      "created_at": "2025-10-16T14:02:57Z",
+      "url": "https://www.tiktok.com/@natellalee/video/7561819813165747463",
+      "like_count": 27000,
+      "bookmark_count": "26041",
+      "comment_count": 84,
+      "share_count": 6289,
+      "view_count": 597100,
+      "images": [
+        {
+          "url": "media/tiktok/7561819813165747463/7561819813165747463_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7561819813165747463/7561819813165747463.mp4"
+        }
+      ],
+      "duration": 41,
+      "_date": "2025-10-16"
+    },
+    {
+      "id": "tt_7551417332585762070",
+      "text": "Replying to @StephMyLife here’s a tip for doing a boat trip around Thai islands to get empty seas & beaches!  ##thailand##thailandtiktok##traveltiktok##stephmylifeitineraries##phuket",
+      "author_name": "StephMyLife",
+      "author_handle": "@stephmylife",
+      "created_at": "2025-09-18T13:16:02Z",
+      "url": "https://www.tiktok.com/@stephmylife/video/7551417332585762070",
+      "like_count": 39800,
+      "bookmark_count": "27612",
+      "comment_count": 313,
+      "share_count": 7031,
+      "view_count": 460300,
+      "images": [
+        {
+          "url": "media/tiktok/7551417332585762070/7551417332585762070_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7551417332585762070/7551417332585762070.mp4"
+        }
+      ],
+      "duration": 286,
+      "_date": "2025-09-18"
     }
   ],
   "History": [
