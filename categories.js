@@ -1306,6 +1306,28 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-11-08"
     },
     {
+      "id": "tt_7570174402118110519",
+      "text": ".019 #fypp #targetaudience #fyp #viral #aesthetic ",
+      "author_name": "trace.ltd",
+      "author_handle": "@trace.ltd",
+      "created_at": "2025-11-08T02:23:21Z",
+      "url": "https://www.tiktok.com/@trace.ltd/video/7570174402118110519",
+      "like_count": 153600,
+      "bookmark_count": "20449",
+      "comment_count": 76,
+      "share_count": 6094,
+      "view_count": 810300,
+      "images": [
+        {
+          "url": "media/tiktok/7570174402118110519/7570174402118110519_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7570174402118110519/7570174402118110519.mp4"
+        }
+      ],
+      "duration": 7,
+      "_date": "2025-11-07"
+    },
+    {
       "id": "tt_7570132862930783543",
       "text": "#core #targetaudience #fyp #viral ",
       "author_name": "dk",
@@ -1581,6 +1603,50 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 9,
       "_date": "2025-10-10"
+    },
+    {
+      "id": "tt_7556908006722506015",
+      "text": "TikTok video #7556908006722506015",
+      "author_name": "A",
+      "author_handle": "@asmaaauh",
+      "created_at": "2025-10-03T08:23:53Z",
+      "url": "https://www.tiktok.com/@asmaaauh/video/7556908006722506015",
+      "like_count": 734200,
+      "bookmark_count": "82997",
+      "comment_count": 1224,
+      "share_count": 38300,
+      "view_count": 4300000,
+      "images": [
+        {
+          "url": "media/tiktok/7556908006722506015/7556908006722506015_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7556908006722506015/7556908006722506015.mp4"
+        }
+      ],
+      "duration": 17,
+      "_date": "2025-10-03"
+    },
+    {
+      "id": "tt_7555356415028759838",
+      "text": "TikTok video #7555356415028759838",
+      "author_name": "wjh",
+      "author_handle": "@wjaehy",
+      "created_at": "2025-09-29T04:01:50Z",
+      "url": "https://www.tiktok.com/@wjaehy/video/7555356415028759838",
+      "like_count": 589900,
+      "bookmark_count": "61850",
+      "comment_count": 1299,
+      "share_count": 60800,
+      "view_count": 3100000,
+      "images": [
+        {
+          "url": "media/tiktok/7555356415028759838/7555356415028759838_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7555356415028759838/7555356415028759838.mp4"
+        }
+      ],
+      "duration": 26,
+      "_date": "2025-09-29"
     }
   ],
   "Movies": [
@@ -2633,6 +2699,67 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-11-09"
     },
     {
+      "id": "tt_7562369379371879701",
+      "text": "#filmrecommendation #letterboxd #yearning ",
+      "author_name": "Laiherselff",
+      "author_handle": "@ialedits",
+      "created_at": "2025-10-18T01:35:35Z",
+      "url": "https://www.tiktok.com/@ialedits/photo/7562369379371879701",
+      "like_count": 50800,
+      "bookmark_count": "42850",
+      "comment_count": 212,
+      "share_count": 2229,
+      "view_count": 433100,
+      "images": [
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7562369379371879701/7562369379371879701_11.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7562369379371879701/7562369379371879701.mp3",
+      "_date": "2025-10-17"
+    },
+    {
       "id": "tt_7561889354621144340",
       "text": "54. ÉGUN (2015) directed Helder Quiroga. — #crtrplg ",
       "author_name": "CRTRPLG",
@@ -2653,6 +2780,343 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 59,
       "_date": "2025-10-16"
+    },
+    {
+      "id": "tt_7561056161621937429",
+      "text": "Not in order btw! #letterboxd #films #art #movies #filmtok ",
+      "author_name": "confu(sion)cius",
+      "author_handle": "@confusioncius",
+      "created_at": "2025-10-14T12:39:38Z",
+      "url": "https://www.tiktok.com/@confusioncius/photo/7561056161621937429",
+      "like_count": 16000,
+      "bookmark_count": "10692",
+      "comment_count": 118,
+      "share_count": 766,
+      "view_count": 144800,
+      "images": [
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7561056161621937429/7561056161621937429_11.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7561056161621937429/7561056161621937429.mp3",
+      "_date": "2025-10-14"
+    },
+    {
+      "id": "tt_7557493935057276182",
+      "text": "A few films to add to your watchlist for October #crimsonpeak #sleepyhollow #wutheringheights #bramstokersdracula #phantomoftheopera ",
+      "author_name": "The Film Feed",
+      "author_handle": "@thefilmfeed",
+      "created_at": "2025-10-04T22:16:22Z",
+      "url": "https://www.tiktok.com/@thefilmfeed/video/7557493935057276182",
+      "like_count": 177300,
+      "bookmark_count": "81171",
+      "comment_count": 230,
+      "share_count": 14900,
+      "view_count": 1500000,
+      "images": [
+        {
+          "url": "media/tiktok/7557493935057276182/7557493935057276182_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7557493935057276182/7557493935057276182.mp4"
+        }
+      ],
+      "duration": 60,
+      "_date": "2025-10-04"
+    },
+    {
+      "id": "tt_7557305341055192342",
+      "text": "Edward Yang's Masterpiece - Yi Yi (2000) #edit #edwardyang #yiyi #taiwanesecinema #filmtok",
+      "author_name": "Jam",
+      "author_handle": "@jamvfxx",
+      "created_at": "2025-10-04T10:04:32Z",
+      "url": "https://www.tiktok.com/@jamvfxx/video/7557305341055192342",
+      "like_count": 110900,
+      "bookmark_count": "30459",
+      "comment_count": 241,
+      "share_count": 9158,
+      "view_count": 752400,
+      "images": [
+        {
+          "url": "media/tiktok/7557305341055192342/7557305341055192342_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7557305341055192342/7557305341055192342.mp4"
+        }
+      ],
+      "duration": 28,
+      "_date": "2025-10-04"
+    },
+    {
+      "id": "tt_7557145489070705942",
+      "text": "#faded #animation #fyp #dreamworks #pixar ",
+      "author_name": "John Lowery",
+      "author_handle": "@johnloweryy",
+      "created_at": "2025-10-03T23:44:18Z",
+      "url": "https://www.tiktok.com/@johnloweryy/photo/7557145489070705942",
+      "like_count": 320800,
+      "bookmark_count": "24022",
+      "comment_count": 975,
+      "share_count": 69900,
+      "view_count": 2000000,
+      "images": [
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557145489070705942/7557145489070705942_11.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2025-10-03"
+    },
+    {
+      "id": "tt_7554270436658384150",
+      "text": "Dark academia ⊹ ࣪ ˖🕰️୭˚. ᵎᵎ🗝️ #darkacademia #aesthetic #movierecommendation #fyp #neiperte ",
+      "author_name": "francy.rkive",
+      "author_handle": "@francy.rkive",
+      "created_at": "2025-09-26T05:47:35Z",
+      "url": "https://www.tiktok.com/@francy.rkive/photo/7554270436658384150",
+      "like_count": 125800,
+      "bookmark_count": "69826",
+      "comment_count": 177,
+      "share_count": 5190,
+      "view_count": 726200,
+      "images": [
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_11.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_12.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_13.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_14.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_15.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_16.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_17.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7554270436658384150/7554270436658384150_18.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7554270436658384150/7554270436658384150.mp3",
+      "_date": "2025-09-26"
+    },
+    {
+      "id": "tt_7550682533428595999",
+      "text": "As the weather gets colder, the movies get darker. Perfect time to sink into the shadows with these visually stunning noirs. #film #filmtok ",
+      "author_name": "MoodService",
+      "author_handle": "@mood.service",
+      "created_at": "2025-09-16T13:45:00Z",
+      "url": "https://www.tiktok.com/@mood.service/photo/7550682533428595999",
+      "like_count": 1778,
+      "bookmark_count": "1225",
+      "comment_count": 38,
+      "share_count": 62,
+      "view_count": 14800,
+      "images": [
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550682533428595999/7550682533428595999_11.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7550682533428595999/7550682533428595999.mp3",
+      "_date": "2025-09-16"
+    },
+    {
+      "id": "tt_7549757226165046584",
+      "text": "#targetaudience #niche #anthonybourdain #fashion #cars  ",
+      "author_name": "8ball",
+      "author_handle": "@rrihno888",
+      "created_at": "2025-09-14T01:54:04Z",
+      "url": "https://www.tiktok.com/@rrihno888/video/7549757226165046584",
+      "like_count": 25500,
+      "bookmark_count": "3899",
+      "comment_count": 72,
+      "share_count": 2604,
+      "view_count": 118400,
+      "images": [
+        {
+          "url": "media/tiktok/7549757226165046584/7549757226165046584_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7549757226165046584/7549757226165046584.mp4"
+        }
+      ],
+      "duration": 16,
+      "_date": "2025-09-13"
     }
   ],
   "AI & Technology": [
@@ -4622,6 +5086,28 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-11-08"
     },
     {
+      "id": "tt_7570403170459913486",
+      "text": "TikTok video #7570403170459913486",
+      "author_name": "‍",
+      "author_handle": "@clean.rain",
+      "created_at": "2025-11-08T17:11:16Z",
+      "url": "https://www.tiktok.com/@clean.rain/video/7570403170459913486",
+      "like_count": 329900,
+      "bookmark_count": "24548",
+      "comment_count": 253,
+      "share_count": 18200,
+      "view_count": 1400000,
+      "images": [
+        {
+          "url": "media/tiktok/7570403170459913486/7570403170459913486_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7570403170459913486/7570403170459913486.mp4"
+        }
+      ],
+      "duration": 14,
+      "_date": "2025-11-08"
+    },
+    {
       "id": "tt_7567194081554681101",
       "text": "it’s been a minute ",
       "author_name": "viiiiics",
@@ -4642,6 +5128,228 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 20,
       "_date": "2025-10-30"
+    },
+    {
+      "id": "tt_7566415688739392781",
+      "text": "building the vision ",
+      "author_name": "stillfree",
+      "author_handle": "@stillfree.mag",
+      "created_at": "2025-10-28T23:17:48Z",
+      "url": "https://www.tiktok.com/@stillfree.mag/video/7566415688739392781",
+      "like_count": 138300,
+      "bookmark_count": "16427",
+      "comment_count": 135,
+      "share_count": 5946,
+      "view_count": 672700,
+      "images": [
+        {
+          "url": "media/tiktok/7566415688739392781/7566415688739392781_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7566415688739392781/7566415688739392781.mp4"
+        }
+      ],
+      "duration": 5,
+      "_date": "2025-10-28"
+    },
+    {
+      "id": "tt_7563122870285585695",
+      "text": "just a boy with adult money and an interior design obsession #interior #antique #thrifting #furniture #interiordesign #interiors #homedecor #pinteresthome #homestyle #vintagefurniture #interiordesigner #vintagehome #pinterestaesthetic",
+      "author_name": "clay",
+      "author_handle": "@haighthome",
+      "created_at": "2025-10-20T02:19:43Z",
+      "url": "https://www.tiktok.com/@haighthome/video/7563122870285585695",
+      "like_count": 8405,
+      "bookmark_count": "1116",
+      "comment_count": 62,
+      "share_count": 248,
+      "view_count": 43500,
+      "images": [
+        {
+          "url": "media/tiktok/7563122870285585695/7563122870285585695_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7563122870285585695/7563122870285585695.mp4"
+        }
+      ],
+      "duration": 15,
+      "_date": "2025-10-19"
+    },
+    {
+      "id": "tt_7562272746093251862",
+      "text": "TikTok video #7562272746093251862",
+      "author_name": "karim",
+      "author_handle": "@windwillcarry",
+      "created_at": "2025-10-17T19:20:34Z",
+      "url": "https://www.tiktok.com/@windwillcarry/video/7562272746093251862",
+      "like_count": 114500,
+      "bookmark_count": "16300",
+      "comment_count": 205,
+      "share_count": 6752,
+      "view_count": 610200,
+      "images": [
+        {
+          "url": "media/tiktok/7562272746093251862/7562272746093251862_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7562272746093251862/7562272746093251862.mp4"
+        }
+      ],
+      "duration": 41,
+      "_date": "2025-10-17"
+    },
+    {
+      "id": "tt_7558514200683826463",
+      "text": "waking up to this vibe every morning > #interior #antique #thrifting #furniture #interiordesign #interiors #homedecor #pinteresthome #homestyle #vintagefurniture #interiordesigner #vintagehome ",
+      "author_name": "clay",
+      "author_handle": "@haighthome",
+      "created_at": "2025-10-07T16:15:41Z",
+      "url": "https://www.tiktok.com/@haighthome/video/7558514200683826463",
+      "like_count": 83300,
+      "bookmark_count": "11914",
+      "comment_count": 243,
+      "share_count": 4496,
+      "view_count": 351300,
+      "images": [
+        {
+          "url": "media/tiktok/7558514200683826463/7558514200683826463_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7558514200683826463/7558514200683826463.mp4"
+        }
+      ],
+      "duration": 10,
+      "_date": "2025-10-07"
+    },
+    {
+      "id": "tt_7554798270686530834",
+      "text": "Wall art is often overlooked in many homes because many people are afraid of choosing one.  But I’m here to tell you that it’s easier than you think, and it goes a long way in making your space look expensive and filled with character.  #interiordesign #wallart #interiorstyle #design #lighting",
+      "author_name": "ReadySetHome - InteriorStyling",
+      "author_handle": "@readyset.home",
+      "created_at": "2025-09-27T15:55:47Z",
+      "url": "https://www.tiktok.com/@readyset.home/video/7554798270686530834",
+      "like_count": 7027,
+      "bookmark_count": "6435",
+      "comment_count": 67,
+      "share_count": 1712,
+      "view_count": 151900,
+      "images": [
+        {
+          "url": "media/tiktok/7554798270686530834/7554798270686530834_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7554798270686530834/7554798270686530834.mp4"
+        }
+      ],
+      "duration": 110,
+      "_date": "2025-09-27"
+    },
+    {
+      "id": "tt_7550121482349841682",
+      "text": "#desitok #interiordesign #southasian #homedecor #livingroom ",
+      "author_name": "Bajwa House",
+      "author_handle": "@bajwahousedecor",
+      "created_at": "2025-09-15T01:27:32Z",
+      "url": "https://www.tiktok.com/@bajwahousedecor/photo/7550121482349841682",
+      "like_count": 10100,
+      "bookmark_count": "3465",
+      "comment_count": 13,
+      "share_count": 1302,
+      "view_count": 147700,
+      "images": [
+        {
+          "url": "media/tiktok/7550121482349841682/7550121482349841682_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550121482349841682/7550121482349841682_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550121482349841682/7550121482349841682_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550121482349841682/7550121482349841682_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550121482349841682/7550121482349841682_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7550121482349841682/7550121482349841682_06.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7550121482349841682/7550121482349841682.mp3",
+      "_date": "2025-09-14"
+    },
+    {
+      "id": "tt_7549144599667789088",
+      "text": "#dreamhome #interiordesign #targetaudience ",
+      "author_name": "The Paperhaus Project",
+      "author_handle": "@thepaperhausproject",
+      "created_at": "2025-09-12T10:17:30Z",
+      "url": "https://www.tiktok.com/@thepaperhausproject/photo/7549144599667789088",
+      "like_count": 18600,
+      "bookmark_count": "6179",
+      "comment_count": 26,
+      "share_count": 701,
+      "view_count": 146100,
+      "images": [
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7549144599667789088/7549144599667789088_08.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7549144599667789088/7549144599667789088.mp3",
+      "_date": "2025-09-12"
+    },
+    {
+      "id": "tt_7548502868425264398",
+      "text": "I’ll talk this over going out any day #pinterestaesthetic #interiordesign #chic #mensessentials ",
+      "author_name": "Mark de León",
+      "author_handle": "@markdeleon__",
+      "created_at": "2025-09-10T16:47:15Z",
+      "url": "https://www.tiktok.com/@markdeleon__/video/7548502868425264398",
+      "like_count": 38600,
+      "bookmark_count": "5753",
+      "comment_count": 73,
+      "share_count": 1663,
+      "view_count": 201400,
+      "images": [
+        {
+          "url": "media/tiktok/7548502868425264398/7548502868425264398_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7548502868425264398/7548502868425264398.mp4"
+        }
+      ],
+      "duration": 10,
+      "_date": "2025-09-10"
     }
   ],
   "Lifestyle & Culture": [
@@ -5303,6 +6011,28 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 132,
       "_date": "2025-11-15"
+    },
+    {
+      "id": "tt_7568578748279459095",
+      "text": "The secret to life can be found in the smallest of margins. - #nycmarathon #marathon #newyork #tcsnycmarathon #hopecore  ",
+      "author_name": "TRACK HOUSE",
+      "author_handle": "@_trackhouse_",
+      "created_at": "2025-11-03T19:11:06Z",
+      "url": "https://www.tiktok.com/@_trackhouse_/video/7568578748279459095",
+      "like_count": 223900,
+      "bookmark_count": "31446",
+      "comment_count": 342,
+      "share_count": 14300,
+      "view_count": 1200000,
+      "images": [
+        {
+          "url": "media/tiktok/7568578748279459095/7568578748279459095_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7568578748279459095/7568578748279459095.mp4"
+        }
+      ],
+      "duration": 66,
+      "_date": "2025-11-03"
     },
     {
       "id": "tt_7568349726265969951",
@@ -6219,6 +6949,50 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-11-18"
     },
     {
+      "id": "tt_7570336841400880406",
+      "text": "this is therapy to me ",
+      "author_name": "davidkoeltgen",
+      "author_handle": "@imdavidkoe",
+      "created_at": "2025-11-08T12:53:23Z",
+      "url": "https://www.tiktok.com/@imdavidkoe/video/7570336841400880406",
+      "like_count": 316700,
+      "bookmark_count": "22553",
+      "comment_count": 296,
+      "share_count": 32500,
+      "view_count": 1600000,
+      "images": [
+        {
+          "url": "media/tiktok/7570336841400880406/7570336841400880406_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7570336841400880406/7570336841400880406.mp4"
+        }
+      ],
+      "duration": 16,
+      "_date": "2025-11-08"
+    },
+    {
+      "id": "tt_7567876780745395478",
+      "text": "‍‍‍‍‍",
+      "author_name": "ً",
+      "author_handle": "@8k.vibe",
+      "created_at": "2025-11-01T21:48:52Z",
+      "url": "https://www.tiktok.com/@8k.vibe/video/7567876780745395478",
+      "like_count": 679500,
+      "bookmark_count": "54793",
+      "comment_count": 1429,
+      "share_count": 93400,
+      "view_count": 3600000,
+      "images": [
+        {
+          "url": "media/tiktok/7567876780745395478/7567876780745395478_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7567876780745395478/7567876780745395478.mp4"
+        }
+      ],
+      "duration": 10,
+      "_date": "2025-11-01"
+    },
+    {
       "id": "tt_7565295595498294542",
       "text": "#fyp #viral #malibu #summer #surferboy",
       "author_name": "la1nstyle",
@@ -6324,6 +7098,94 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "audio_url": "media/tiktok/7558633188554214669/7558633188554214669.mp3",
       "_date": "2025-10-07"
+    },
+    {
+      "id": "tt_7554753891473050891",
+      "text": "“Move. As far as you can, as much as you can. Across the ocean, or simply across the river. Walk in someone else's shoes or at least eat their food. Open your mind, get up off the couch, move.” -Anthony Bourdain #pinterest #anthonybourdain #travel #fyp #targetaudience ",
+      "author_name": "☕️🚬",
+      "author_handle": "@kombuchhaa",
+      "created_at": "2025-09-27T13:03:35Z",
+      "url": "https://www.tiktok.com/@kombuchhaa/video/7554753891473050891",
+      "like_count": 46600,
+      "bookmark_count": "7841",
+      "comment_count": 95,
+      "share_count": 2681,
+      "view_count": 236300,
+      "images": [
+        {
+          "url": "media/tiktok/7554753891473050891/7554753891473050891_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7554753891473050891/7554753891473050891.mp4"
+        }
+      ],
+      "duration": 14,
+      "_date": "2025-09-27"
+    },
+    {
+      "id": "tt_7547861751283420446",
+      "text": "sweetness of doing nothing  #dolcefarniente #italy #amalficoast #lakecomo ",
+      "author_name": "torisoraddddddd",
+      "author_handle": "@torisoraddddddd",
+      "created_at": "2025-09-08T23:18:46Z",
+      "url": "https://www.tiktok.com/@torisoraddddddd/video/7547861751283420446",
+      "like_count": 309000,
+      "bookmark_count": "36451",
+      "comment_count": 267,
+      "share_count": 18600,
+      "view_count": 1700000,
+      "images": [
+        {
+          "url": "media/tiktok/7547861751283420446/7547861751283420446_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7547861751283420446/7547861751283420446.mp4"
+        }
+      ],
+      "duration": 17,
+      "_date": "2025-09-08"
+    },
+    {
+      "id": "tt_7427899417623121158",
+      "text": "Gastown is a great area to check out when it's raining (aka during an atmospheric river 🥲) because the rain just adds to the cobblestone charm, and most of the spots are really close together! Here are the places I mentioned: - Saunter Coffee - @One Of a Few  - Out & About - @shopsiista  - @Collective Will  - Revolver - Birds & the Beets - Neighbour Object Here are spots that you should also check out, but weren't in the video: - @Shop Muzi  - @Once Twice  - Timbertrain - @nettlestale  - Nelson the Seagull #vancouverbc #thingstodoinvancouver #vancouverguide #vancouvereats #vancouvercoffee #vancouverfoodie #vancouvercoffeeshop #vancouverlife #vancouvershopping #gastownvancouver #vancouvercafe #vancouvercoffeescene #vancouverstyle #vancouvervintage #vancouverboutique #vancouverfoodblogger #yvrcoffee #yvrfood #vancouvertourism ",
+      "author_name": "omgheysam",
+      "author_handle": "@omgheysam",
+      "created_at": "2024-10-20T16:43:34Z",
+      "url": "https://www.tiktok.com/@omgheysam/video/7427899417623121158",
+      "like_count": 1241,
+      "bookmark_count": "1051",
+      "comment_count": 21,
+      "share_count": 244,
+      "view_count": 31800,
+      "images": [
+        {
+          "url": "media/tiktok/7427899417623121158/7427899417623121158_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7427899417623121158/7427899417623121158.mp4"
+        }
+      ],
+      "duration": 44,
+      "_date": "2024-10-20"
+    },
+    {
+      "id": "tt_7345267099998227718",
+      "text": "Your guide for spending the perfect afternoon in Gastown ☕️🌀⭐️ #vancouverbc #vancouvervlog #gastownvancouver ",
+      "author_name": "emily.kierstead",
+      "author_handle": "@emily.kierstead",
+      "created_at": "2024-03-12T00:27:51Z",
+      "url": "https://www.tiktok.com/@emily.kierstead/video/7345267099998227718",
+      "like_count": 3970,
+      "bookmark_count": "3608",
+      "comment_count": 14,
+      "share_count": 735,
+      "view_count": 140000,
+      "images": [
+        {
+          "url": "media/tiktok/7345267099998227718/7345267099998227718_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7345267099998227718/7345267099998227718.mp4"
+        }
+      ],
+      "duration": 47,
+      "_date": "2024-03-11"
     }
   ],
   "Fashion": [
@@ -7125,6 +7987,28 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-10-27"
     },
     {
+      "id": "tt_7564511917495029014",
+      "text": "tokyo toni’s trucking #moodboard #targetaudience #cleanboy #moodboardaesthetic ",
+      "author_name": "ansel",
+      "author_handle": "@anspela",
+      "created_at": "2025-10-23T20:09:42Z",
+      "url": "https://www.tiktok.com/@anspela/video/7564511917495029014",
+      "like_count": 37500,
+      "bookmark_count": "7024",
+      "comment_count": 44,
+      "share_count": 1736,
+      "view_count": 197400,
+      "images": [
+        {
+          "url": "media/tiktok/7564511917495029014/7564511917495029014_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7564511917495029014/7564511917495029014.mp4"
+        }
+      ],
+      "duration": 9,
+      "_date": "2025-10-23"
+    },
+    {
       "id": "tt_7564453337735695647",
       "text": "it’s all about the details… #menswear #womenswear #stylingtips #minimalstyle #mensaccessories ",
       "author_name": "detailsbyjuju",
@@ -7145,6 +8029,272 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 103,
       "_date": "2025-10-23"
+    },
+    {
+      "id": "tt_7563800857737760031",
+      "text": "if i was in charge of dressing the men this is what they’d look like                    #mensstyle #falloutfitinspo #mensoutfitideas #fallstyle #menswear ",
+      "author_name": "casey | the no rain journal",
+      "author_handle": "@thenorainjournal",
+      "created_at": "2025-10-21T22:10:36Z",
+      "url": "https://www.tiktok.com/@thenorainjournal/photo/7563800857737760031",
+      "like_count": 6906,
+      "bookmark_count": "3625",
+      "comment_count": 5,
+      "share_count": 259,
+      "view_count": 74300,
+      "images": [
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7563800857737760031/7563800857737760031_11.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7563800857737760031/7563800857737760031.mp3",
+      "_date": "2025-10-21"
+    },
+    {
+      "id": "tt_7560650530217938209",
+      "text": "Morning ritual 🌞 #journal #journaling #sudoku #fragrance #books  @apple macbook air @Rituals perfume @kaweco.germany fountain pen @MUJI無印良品 pens and notebook @casio_watches_it watch @sissyboynl pen holder @GetMySudoku.com sudoku",
+      "author_name": "Mara",
+      "author_handle": "@themaralazar",
+      "created_at": "2025-10-13T10:26:14Z",
+      "url": "https://www.tiktok.com/@themaralazar/video/7560650530217938209",
+      "like_count": 202000,
+      "bookmark_count": "25358",
+      "comment_count": 377,
+      "share_count": 6139,
+      "view_count": 713000,
+      "images": [
+        {
+          "url": "media/tiktok/7560650530217938209/7560650530217938209_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7560650530217938209/7560650530217938209.mp4"
+        }
+      ],
+      "duration": 16,
+      "_date": "2025-10-13"
+    },
+    {
+      "id": "tt_7558563275638656278",
+      "text": "#ropadehombre #modahombre #uniqlo #fitcheck #madrid ",
+      "author_name": "Roberto Sanchez",
+      "author_handle": "@robertosanchezzc",
+      "created_at": "2025-10-07T19:25:56Z",
+      "url": "https://www.tiktok.com/@robertosanchezzc/photo/7558563275638656278",
+      "like_count": 63000,
+      "bookmark_count": "24364",
+      "comment_count": 118,
+      "share_count": 2483,
+      "view_count": 761300,
+      "images": [
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7558563275638656278/7558563275638656278_08.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7558563275638656278/7558563275638656278.mp3",
+      "_date": "2025-10-07"
+    },
+    {
+      "id": "tt_7556312038713117960",
+      "text": "TikTok photo #7556312038713117960",
+      "author_name": "khaleel",
+      "author_handle": "@bigdealkhaleel",
+      "created_at": "2025-10-01T17:50:02Z",
+      "url": "https://www.tiktok.com/@bigdealkhaleel/photo/7556312038713117960",
+      "like_count": 114200,
+      "bookmark_count": "17540",
+      "comment_count": 314,
+      "share_count": 9449,
+      "view_count": 1500000,
+      "images": [
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_11.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_12.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556312038713117960/7556312038713117960_13.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7556312038713117960/7556312038713117960.mp3",
+      "_date": "2025-10-01"
+    },
+    {
+      "id": "tt_7547372649828060438",
+      "text": "From timeless menswear to mindful habits, this is my vision of effortless elegance. #minimal #menswear #styleinspo",
+      "author_name": "Diego",
+      "author_handle": "@diegoparadela",
+      "created_at": "2025-09-07T15:40:35Z",
+      "url": "https://www.tiktok.com/@diegoparadela/photo/7547372649828060438",
+      "like_count": 36900,
+      "bookmark_count": "7757",
+      "comment_count": 60,
+      "share_count": 811,
+      "view_count": 348400,
+      "images": [
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_08.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_09.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_10.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_11.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7547372649828060438/7547372649828060438_12.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7547372649828060438/7547372649828060438.mp3",
+      "_date": "2025-09-07"
     },
     {
       "id": "tt_7306673613455904042",
@@ -7509,6 +8659,77 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-12-09"
     },
     {
+      "id": "tt_7567752474304548118",
+      "text": "These are the books that THREE-TIME Academy Award winning director Guillermo Del Toro recommends everyone in the world to read. Your new reading list just dropped!!! Listen to the full episode on the Inklings Book Club podcast 📚",
+      "author_name": "Jack Edwards",
+      "author_handle": "@jack_edwards",
+      "created_at": "2025-11-01T13:44:43Z",
+      "url": "https://www.tiktok.com/@jack_edwards/video/7567752474304548118",
+      "like_count": 443900,
+      "bookmark_count": "152759",
+      "comment_count": 2132,
+      "share_count": 21800,
+      "view_count": 3100000,
+      "images": [
+        {
+          "url": "media/tiktok/7567752474304548118/7567752474304548118_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7567752474304548118/7567752474304548118.mp4"
+        }
+      ],
+      "duration": 70,
+      "_date": "2025-11-01"
+    },
+    {
+      "id": "tt_7564099567545814294",
+      "text": "Full guide is in our bio! #substack #thoughtdaughter #learning #book #doomscrolling  ",
+      "author_name": "Thee Book Club",
+      "author_handle": "@thee.book.club",
+      "created_at": "2025-10-22T17:29:35Z",
+      "url": "https://www.tiktok.com/@thee.book.club/photo/7564099567545814294",
+      "like_count": 93200,
+      "bookmark_count": "35333",
+      "comment_count": 100,
+      "share_count": 1375,
+      "view_count": 460800,
+      "images": [
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_06.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_07.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7564099567545814294/7564099567545814294_08.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7564099567545814294/7564099567545814294.mp3",
+      "_date": "2025-10-22"
+    },
+    {
       "id": "tt_7562426325399538975",
       "text": "media i’ve been consuming recently #letterboxd #substack #mediaconsumption #musicrecs #socal ",
       "author_name": "Paige Morton",
@@ -7570,6 +8791,198 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "audio_url": "media/tiktok/7559590785415466248/7559590785415466248.mp3",
       "_date": "2025-10-10"
+    }
+  ],
+  "Programming & Building": [
+    {
+      "id": "2028040114908135575",
+      "text": "25 signs your vibe-coded app is a TICKING BOMB !\n\n1. API keys hardcoded “for now”\n2. No /health endpoint, you just hit the homepage\n3. Schema changes live in your head, not migrations\n4. Every query is SELECT * and vibes\n5. Error handling = console.log(e) and hope\n6. No rate limit on auth or writes\n7. UTC, local time, and “JS default” all mixed\n8. README is empty or wrong\n9. No staging env, just “dev” and “prod-ish”\n10. One god component owns the whole screen\n11. No analytics, just “feels like people use it”\n12. You say “we’ll clean this up after launch” every week\n13. Env vars live only on your laptop, nowhere else documented\n14. Frontend talks directly to 5 different third-party APIs with no wrapper\n15. No monitoring or alerts – you find out it’s down from a DM\n16. Logs only exist in your local terminal history\n17. DB backups are “automatic”… but you’ve never tested a restore\n18. Feature flags = commenting code in and out\n19. Deploys are done from your local machine with one random script\n20. No input validation, you trust whatever the client sends\n21. CORS is set to * because “it fixed the error”\n22. CI is “I ran it once locally and it worked”\n23. Same API token reused across staging, prod, and local\n24. Only one person actually knows how to run or deploy the app\n\nBookmark this to defuse today LOL",
+      "author_name": "Harshil Tomar",
+      "author_handle": "@Hartdrawss",
+      "created_at": "2026-03-01T09:30:17.000Z",
+      "url": "https://twitter.com/i/web/status/2028040114908135575",
+      "like_count": 523,
+      "bookmark_count": 1035,
+      "images": [],
+      "_date": "2026-03-01"
+    },
+    {
+      "id": "2027910475984605652",
+      "text": "We are returning to early 90's software era. People stopped building personal projects, fun whimsical things, because they couldn't bring to do the same thing they did under their boring manager's endless drones\n\nA lot of people will find their day jobs much more enjoyable as a result, big firms should offer personal API credit to keep their engineers happy",
+      "author_name": "Varunram Ganesh",
+      "author_handle": "@varunram",
+      "created_at": "2026-03-01T00:55:08.000Z",
+      "url": "https://twitter.com/i/web/status/2027910475984605652",
+      "like_count": 183,
+      "bookmark_count": 54,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027790991605055603",
+      "text": "Do you know which Data Structure is being used for browser’s Back/Forward navigation history??? https://t.co/QWMsgJetjb",
+      "author_name": "Ojas Sharma",
+      "author_handle": "@OjasSharma276",
+      "created_at": "2026-02-28T17:00:21.000Z",
+      "url": "https://twitter.com/i/web/status/2027790991605055603",
+      "like_count": 1049,
+      "bookmark_count": 373,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCQospMbEAUGY4k.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027698813591601425",
+      "text": "Technical interview question:\n\nSuppose you have 5 TB worth of text data and you want to count the total number of words, how will you do this?",
+      "author_name": "Raj Dabre",
+      "author_handle": "@prajdabre",
+      "created_at": "2026-02-28T10:54:04.000Z",
+      "url": "https://twitter.com/i/web/status/2027698813591601425",
+      "like_count": 2051,
+      "bookmark_count": 1238,
+      "images": [],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027077022338695424",
+      "text": "advice for interviewing now that writing code is becoming the easy part, from one of the best engineers i've worked with (we're hiring btw) https://t.co/094uhpa4T2 https://t.co/gPfXUzKVRN",
+      "author_name": "“paula”",
+      "author_handle": "@paularambles",
+      "created_at": "2026-02-26T17:43:18.000Z",
+      "url": "https://twitter.com/i/web/status/2027077022338695424",
+      "like_count": 1248,
+      "bookmark_count": 1087,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCGfGEgbgAAwkaX.png",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-26"
+    },
+    {
+      "id": "2026771861036740822",
+      "text": "most software engineers are about to discover that management is a real skill, and they're going to discover it by being super terrible at it. many will realize that they can't even think big because they've never had to, and the world is no longer a tournament of algorithmic problem solving.\n\nfor those on the leaderboard, the final boss is conducting, and the models are approaching the state faster than we can discover frameworks to maximize throughput in the new world.",
+      "author_name": "Dev Shah",
+      "author_handle": "@0xDevShah",
+      "created_at": "2026-02-25T21:30:41.000Z",
+      "url": "https://twitter.com/i/web/status/2026771861036740822",
+      "like_count": 693,
+      "bookmark_count": 298,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026649359979577757",
+      "text": "In an interview they asked: “Design an API for flight booking.”\n\nMost people jump to endpoints. I didn’t.\n\n1. Clarified scope: search vs reserve vs pay vs ticket, one-way vs multi-city, seats hold time (5 min? 15?), cancellations, refunds.\n\n2. Defined entities: Flight, Fare, Availability, Passenger, Booking, Payment, Ticket.\n\n3. Wrote core flows: Search → Price → Hold (idempotency key) → Pay → Confirm, plus timeouts and retries.\n\n4. Designed endpoints: `GET /flights`, `POST /holds`, `POST /bookings`, `POST /payments`, `GET /bookings/{id}`.\n\n5. Called out failure modes: double charge, hold expired, partial success, eventual consistency.\n\nPro Tip: ask 20 questions, then think out loud. Interviewers hire you for your reasoning.",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-25T13:23:55.000Z",
+      "url": "https://twitter.com/i/web/status/2026649359979577757",
+      "like_count": 152,
+      "bookmark_count": 166,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026602663010615733",
+      "text": "It’s a disaster reading AI-generated code from juniors lately.\n\n1. PR count is up. Throughput is down. No tests, no clear invariants.\n2. Everyone’s AI has different context, so the same feature gets 5 different “truths”.\n3. If this is not enough, we are being told to generate PRs faster, which is not at all a good idea tbh.\n\nCertain Fixes that come to mind:\n\n1. Tests first (or PR blocked). Make behavior explicit.\n2. Force “math thinking”: invariants, idempotency, retries, SQS failure modes.\n3. AI can write code. Engineers must write the constraints.\n\nIf we continue to ship without a spec and tests, we're just shooting ourselves in the foot in the future.",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-25T10:18:21.000Z",
+      "url": "https://twitter.com/i/web/status/2026602663010615733",
+      "like_count": 304,
+      "bookmark_count": 117,
+      "images": [],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026385279360315464",
+      "text": "The engineer who quietly reached L7 / Staff+ in under 5 years didn’t spam 800 LeetCode mediums or beg for referrals.  \n\nThe woman who became the highest-comp IC on her team didn’t spend 3 years “networking” in every cross-org meeting. \n\nThe 27-year-old principal now making $900k+ total comp with a relatively small blast radius didn’t maintain a perfect 1:1 ratio of Jira tickets closed vs. meetings attended.\n\nThey all did roughly the same 5 things:\n\n1. Picked one truly valuable skill that actually moves the business needle (not the one trending on Twitter this quarter)\n\n2. Built one repeatable system, framework, abstraction, or leverage layer that other engineers started copying\n\n3. Shipped real, visible customer/business impact every single sprint even tiny ones and ensured the right people knew\n\n4. Wrote, spoke, taught, documented, or demoed their work publicly inside the company almost every week (RFCs, tech talks, design docs, wiki pages, Slack threads with 40+ reacts)\n\n5. Completely ignored everyone who said “wait your turn,” “you’re too young,” “focus on execution not visibility,” or “don’t rock the boat”\n\nYour manager wants you on the critical path of the existing roadmap because that keeps his org green.\n\nYour skip-level wants predictable delivery because that makes his VPs happy.\n\nYour peers tell you to “just grind LeetCode and wait for the promo packet” because that’s the only script they know.\n\nYour parents still think Staff Engineer is “a very good senior position.”\n\nNone of them are wrong. None of them are rich in impact, leverage, or money.\n\nThe fastest path to Staff → Principal → Distinguished → very fat comp packages in 2025–2028 is still boringly simple:\n\n- Own one scary-hard problem end-to-end  \n- Turn it into leverage others can use  \n- Make that leverage visible without being a show-off asshole  \n- Repeat 6–10 times in a row  \n- Stop asking for permission to take big scope\n\nThe ladder isn’t broken.  \nThe people who climb it fastest just stopped pretending it’s a waiting game.\n\nYou already know what your one thing should be.  \n\nThe only question left is:\nAre you finally done asking for permission to go do it?",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-24T19:54:33.000Z",
+      "url": "https://twitter.com/i/web/status/2026385279360315464",
+      "like_count": 770,
+      "bookmark_count": 992,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026287499421856094",
+      "text": "No matter how many blogs, books, or papers you read, prototyping is still the fastest way to understand anything. Here's my workflow -\n\n- keep a GitHub repo called \"prototypes\"\n- every folder is one experiment\n- something seems interesting, implement\n- define exactly what you want to understand\n- find the absolute minimum required\n- code, run, iterate\n\nThe key thing here is finding the bare minimum, the absolute bare minimum, to code that would help you build that understanding. Initially, you will code more than required, but over time, you will start assuming data, adding sleeps, mocking, and making the right assumption.\n\nAlso, I get it, there is an urge to open-source the prototype or turn it into a project or startup. Don't. Remember, the goal is understanding. Once you get it, you are done; move on.\n\nYesterday, I built and implemented different types of joins (article published today) and benchmarked them to see how they actually performed. I already knew the theory, but the prototype gave me real, rough numbers.\n\nBy the way, I have 200+ repos on GitHub filled with different types of prototypes and hands-on experiments. Of course, I cannot recommend smashing your fingers on your keyboard enough.",
+      "author_name": "Arpit Bhayani",
+      "author_handle": "@arpit_bhayani",
+      "created_at": "2026-02-24T13:26:01.000Z",
+      "url": "https://twitter.com/i/web/status/2026287499421856094",
+      "like_count": 1488,
+      "bookmark_count": 1006,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026263199855567308",
+      "text": "Things I’m thinking about in 2026:\n* The risk/reward of a mediocre hire is worse than it’s ever been\n* I don’t really want more code writers, I want one of two kinds of engineers \n* The first is the architect. Someone who can design for scale.  \n* The second is the product engineer. Someone who understands DEEPLY the product space, enough that PMs trust them to make many decisions just for review. Enough that they could PM the team if the PM left.",
+      "author_name": "staysaasy",
+      "author_handle": "@staysaasy",
+      "created_at": "2026-02-24T11:49:27.000Z",
+      "url": "https://twitter.com/i/web/status/2026263199855567308",
+      "like_count": 394,
+      "bookmark_count": 163,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026250760393310696",
+      "text": "Google interview (3 years ago). Didn’t make it.\n\n1. Recruiter call: solid. I oversold breadth, under-prepped depth.\n2. Phone screen: passed, but my solution was “works” not “clean”. Too much talking, not enough crisp invariants.\n3. Onsite DS/Algo: got one hard graph right, one medium DP half-right. I missed edge cases under time pressure.\n4. System design: my biggest miss. I drew boxes fast, but didn’t drive the conversation: SLAs, data model, bottlenecks, failure modes, rollout.\n5. Googlyness: fine. But apparently fine is not a differentiator when the bar is high.\n\nI wasn’t far, just inconsistent.\n\nLesson I learnt: Don’t grind 200 LeetCode. Do 30 problems, write postmortems, and practice 5 real system designs out loud.",
+      "author_name": "Abhishek Singh",
+      "author_handle": "@0xlelouch_",
+      "created_at": "2026-02-24T11:00:01.000Z",
+      "url": "https://twitter.com/i/web/status/2026250760393310696",
+      "like_count": 377,
+      "bookmark_count": 290,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026181715094602099",
+      "text": "Nobody cares what course you bought.\n\nBuild something.\n\n• A Rate Limiter → understand real backend control\n• A Job Queue → learn async like a grown engineer\n• A Mini Search Engine → indexing > tutorials\n• A CLI Budget Tool → edge cases will humble you\n• A Feature Flag System → think like a product dev\n• A Log Parser → patterns, timestamps, real data\n• A Simple Cache Layer → performance mindset\n• A Cron Email Script → automation > motivation\n\nThis is how you become dangerous.\nNot by watching. By shipping.\n\nBookmark this. Come back in 6 months.",
+      "author_name": "404G",
+      "author_handle": "@404G_",
+      "created_at": "2026-02-24T06:25:40.000Z",
+      "url": "https://twitter.com/i/web/status/2026181715094602099",
+      "like_count": 1005,
+      "bookmark_count": 1323,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "2026054603825971460",
+      "text": "This is the best time to be a competent and knowledgeable software engineer.\n\nWhile everyone else is vibe coding, study the fundamentals and read books.\n\n1. Designing Data Intensive Applications \n2. Operating Systems: Three Easy Pieces\n3. A Philosophy of Software Design\n4. System Design Interview: An Insider‘s Guide",
+      "author_name": "Ben X",
+      "author_handle": "@Benn_X1",
+      "created_at": "2026-02-23T22:00:34.000Z",
+      "url": "https://twitter.com/i/web/status/2026054603825971460",
+      "like_count": 1055,
+      "bookmark_count": 1313,
+      "images": [],
+      "_date": "2026-02-23"
+    },
+    {
+      "id": "2025429326703783981",
+      "text": "C++ distributed systems background\n\nI found a job in one week\n\ngg no re https://t.co/ZzC9EEyS0F",
+      "author_name": "skooks",
+      "author_handle": "@skooookum",
+      "created_at": "2026-02-22T04:35:56.000Z",
+      "url": "https://twitter.com/i/web/status/2025429326703783981",
+      "like_count": 3722,
+      "bookmark_count": 1349,
+      "images": [],
+      "_date": "2026-02-22"
     }
   ],
   "Current Events": [
@@ -7796,198 +9209,6 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 100,
       "_date": "2025-11-11"
-    }
-  ],
-  "Programming & Building": [
-    {
-      "id": "2028040114908135575",
-      "text": "25 signs your vibe-coded app is a TICKING BOMB !\n\n1. API keys hardcoded “for now”\n2. No /health endpoint, you just hit the homepage\n3. Schema changes live in your head, not migrations\n4. Every query is SELECT * and vibes\n5. Error handling = console.log(e) and hope\n6. No rate limit on auth or writes\n7. UTC, local time, and “JS default” all mixed\n8. README is empty or wrong\n9. No staging env, just “dev” and “prod-ish”\n10. One god component owns the whole screen\n11. No analytics, just “feels like people use it”\n12. You say “we’ll clean this up after launch” every week\n13. Env vars live only on your laptop, nowhere else documented\n14. Frontend talks directly to 5 different third-party APIs with no wrapper\n15. No monitoring or alerts – you find out it’s down from a DM\n16. Logs only exist in your local terminal history\n17. DB backups are “automatic”… but you’ve never tested a restore\n18. Feature flags = commenting code in and out\n19. Deploys are done from your local machine with one random script\n20. No input validation, you trust whatever the client sends\n21. CORS is set to * because “it fixed the error”\n22. CI is “I ran it once locally and it worked”\n23. Same API token reused across staging, prod, and local\n24. Only one person actually knows how to run or deploy the app\n\nBookmark this to defuse today LOL",
-      "author_name": "Harshil Tomar",
-      "author_handle": "@Hartdrawss",
-      "created_at": "2026-03-01T09:30:17.000Z",
-      "url": "https://twitter.com/i/web/status/2028040114908135575",
-      "like_count": 523,
-      "bookmark_count": 1035,
-      "images": [],
-      "_date": "2026-03-01"
-    },
-    {
-      "id": "2027910475984605652",
-      "text": "We are returning to early 90's software era. People stopped building personal projects, fun whimsical things, because they couldn't bring to do the same thing they did under their boring manager's endless drones\n\nA lot of people will find their day jobs much more enjoyable as a result, big firms should offer personal API credit to keep their engineers happy",
-      "author_name": "Varunram Ganesh",
-      "author_handle": "@varunram",
-      "created_at": "2026-03-01T00:55:08.000Z",
-      "url": "https://twitter.com/i/web/status/2027910475984605652",
-      "like_count": 183,
-      "bookmark_count": 54,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027790991605055603",
-      "text": "Do you know which Data Structure is being used for browser’s Back/Forward navigation history??? https://t.co/QWMsgJetjb",
-      "author_name": "Ojas Sharma",
-      "author_handle": "@OjasSharma276",
-      "created_at": "2026-02-28T17:00:21.000Z",
-      "url": "https://twitter.com/i/web/status/2027790991605055603",
-      "like_count": 1049,
-      "bookmark_count": 373,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCQospMbEAUGY4k.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027698813591601425",
-      "text": "Technical interview question:\n\nSuppose you have 5 TB worth of text data and you want to count the total number of words, how will you do this?",
-      "author_name": "Raj Dabre",
-      "author_handle": "@prajdabre",
-      "created_at": "2026-02-28T10:54:04.000Z",
-      "url": "https://twitter.com/i/web/status/2027698813591601425",
-      "like_count": 2051,
-      "bookmark_count": 1238,
-      "images": [],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027077022338695424",
-      "text": "advice for interviewing now that writing code is becoming the easy part, from one of the best engineers i've worked with (we're hiring btw) https://t.co/094uhpa4T2 https://t.co/gPfXUzKVRN",
-      "author_name": "“paula”",
-      "author_handle": "@paularambles",
-      "created_at": "2026-02-26T17:43:18.000Z",
-      "url": "https://twitter.com/i/web/status/2027077022338695424",
-      "like_count": 1248,
-      "bookmark_count": 1087,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCGfGEgbgAAwkaX.png",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-26"
-    },
-    {
-      "id": "2026771861036740822",
-      "text": "most software engineers are about to discover that management is a real skill, and they're going to discover it by being super terrible at it. many will realize that they can't even think big because they've never had to, and the world is no longer a tournament of algorithmic problem solving.\n\nfor those on the leaderboard, the final boss is conducting, and the models are approaching the state faster than we can discover frameworks to maximize throughput in the new world.",
-      "author_name": "Dev Shah",
-      "author_handle": "@0xDevShah",
-      "created_at": "2026-02-25T21:30:41.000Z",
-      "url": "https://twitter.com/i/web/status/2026771861036740822",
-      "like_count": 693,
-      "bookmark_count": 298,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026649359979577757",
-      "text": "In an interview they asked: “Design an API for flight booking.”\n\nMost people jump to endpoints. I didn’t.\n\n1. Clarified scope: search vs reserve vs pay vs ticket, one-way vs multi-city, seats hold time (5 min? 15?), cancellations, refunds.\n\n2. Defined entities: Flight, Fare, Availability, Passenger, Booking, Payment, Ticket.\n\n3. Wrote core flows: Search → Price → Hold (idempotency key) → Pay → Confirm, plus timeouts and retries.\n\n4. Designed endpoints: `GET /flights`, `POST /holds`, `POST /bookings`, `POST /payments`, `GET /bookings/{id}`.\n\n5. Called out failure modes: double charge, hold expired, partial success, eventual consistency.\n\nPro Tip: ask 20 questions, then think out loud. Interviewers hire you for your reasoning.",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-25T13:23:55.000Z",
-      "url": "https://twitter.com/i/web/status/2026649359979577757",
-      "like_count": 152,
-      "bookmark_count": 166,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026602663010615733",
-      "text": "It’s a disaster reading AI-generated code from juniors lately.\n\n1. PR count is up. Throughput is down. No tests, no clear invariants.\n2. Everyone’s AI has different context, so the same feature gets 5 different “truths”.\n3. If this is not enough, we are being told to generate PRs faster, which is not at all a good idea tbh.\n\nCertain Fixes that come to mind:\n\n1. Tests first (or PR blocked). Make behavior explicit.\n2. Force “math thinking”: invariants, idempotency, retries, SQS failure modes.\n3. AI can write code. Engineers must write the constraints.\n\nIf we continue to ship without a spec and tests, we're just shooting ourselves in the foot in the future.",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-25T10:18:21.000Z",
-      "url": "https://twitter.com/i/web/status/2026602663010615733",
-      "like_count": 304,
-      "bookmark_count": 117,
-      "images": [],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026385279360315464",
-      "text": "The engineer who quietly reached L7 / Staff+ in under 5 years didn’t spam 800 LeetCode mediums or beg for referrals.  \n\nThe woman who became the highest-comp IC on her team didn’t spend 3 years “networking” in every cross-org meeting. \n\nThe 27-year-old principal now making $900k+ total comp with a relatively small blast radius didn’t maintain a perfect 1:1 ratio of Jira tickets closed vs. meetings attended.\n\nThey all did roughly the same 5 things:\n\n1. Picked one truly valuable skill that actually moves the business needle (not the one trending on Twitter this quarter)\n\n2. Built one repeatable system, framework, abstraction, or leverage layer that other engineers started copying\n\n3. Shipped real, visible customer/business impact every single sprint even tiny ones and ensured the right people knew\n\n4. Wrote, spoke, taught, documented, or demoed their work publicly inside the company almost every week (RFCs, tech talks, design docs, wiki pages, Slack threads with 40+ reacts)\n\n5. Completely ignored everyone who said “wait your turn,” “you’re too young,” “focus on execution not visibility,” or “don’t rock the boat”\n\nYour manager wants you on the critical path of the existing roadmap because that keeps his org green.\n\nYour skip-level wants predictable delivery because that makes his VPs happy.\n\nYour peers tell you to “just grind LeetCode and wait for the promo packet” because that’s the only script they know.\n\nYour parents still think Staff Engineer is “a very good senior position.”\n\nNone of them are wrong. None of them are rich in impact, leverage, or money.\n\nThe fastest path to Staff → Principal → Distinguished → very fat comp packages in 2025–2028 is still boringly simple:\n\n- Own one scary-hard problem end-to-end  \n- Turn it into leverage others can use  \n- Make that leverage visible without being a show-off asshole  \n- Repeat 6–10 times in a row  \n- Stop asking for permission to take big scope\n\nThe ladder isn’t broken.  \nThe people who climb it fastest just stopped pretending it’s a waiting game.\n\nYou already know what your one thing should be.  \n\nThe only question left is:\nAre you finally done asking for permission to go do it?",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-24T19:54:33.000Z",
-      "url": "https://twitter.com/i/web/status/2026385279360315464",
-      "like_count": 770,
-      "bookmark_count": 992,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026287499421856094",
-      "text": "No matter how many blogs, books, or papers you read, prototyping is still the fastest way to understand anything. Here's my workflow -\n\n- keep a GitHub repo called \"prototypes\"\n- every folder is one experiment\n- something seems interesting, implement\n- define exactly what you want to understand\n- find the absolute minimum required\n- code, run, iterate\n\nThe key thing here is finding the bare minimum, the absolute bare minimum, to code that would help you build that understanding. Initially, you will code more than required, but over time, you will start assuming data, adding sleeps, mocking, and making the right assumption.\n\nAlso, I get it, there is an urge to open-source the prototype or turn it into a project or startup. Don't. Remember, the goal is understanding. Once you get it, you are done; move on.\n\nYesterday, I built and implemented different types of joins (article published today) and benchmarked them to see how they actually performed. I already knew the theory, but the prototype gave me real, rough numbers.\n\nBy the way, I have 200+ repos on GitHub filled with different types of prototypes and hands-on experiments. Of course, I cannot recommend smashing your fingers on your keyboard enough.",
-      "author_name": "Arpit Bhayani",
-      "author_handle": "@arpit_bhayani",
-      "created_at": "2026-02-24T13:26:01.000Z",
-      "url": "https://twitter.com/i/web/status/2026287499421856094",
-      "like_count": 1488,
-      "bookmark_count": 1006,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026263199855567308",
-      "text": "Things I’m thinking about in 2026:\n* The risk/reward of a mediocre hire is worse than it’s ever been\n* I don’t really want more code writers, I want one of two kinds of engineers \n* The first is the architect. Someone who can design for scale.  \n* The second is the product engineer. Someone who understands DEEPLY the product space, enough that PMs trust them to make many decisions just for review. Enough that they could PM the team if the PM left.",
-      "author_name": "staysaasy",
-      "author_handle": "@staysaasy",
-      "created_at": "2026-02-24T11:49:27.000Z",
-      "url": "https://twitter.com/i/web/status/2026263199855567308",
-      "like_count": 394,
-      "bookmark_count": 163,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026250760393310696",
-      "text": "Google interview (3 years ago). Didn’t make it.\n\n1. Recruiter call: solid. I oversold breadth, under-prepped depth.\n2. Phone screen: passed, but my solution was “works” not “clean”. Too much talking, not enough crisp invariants.\n3. Onsite DS/Algo: got one hard graph right, one medium DP half-right. I missed edge cases under time pressure.\n4. System design: my biggest miss. I drew boxes fast, but didn’t drive the conversation: SLAs, data model, bottlenecks, failure modes, rollout.\n5. Googlyness: fine. But apparently fine is not a differentiator when the bar is high.\n\nI wasn’t far, just inconsistent.\n\nLesson I learnt: Don’t grind 200 LeetCode. Do 30 problems, write postmortems, and practice 5 real system designs out loud.",
-      "author_name": "Abhishek Singh",
-      "author_handle": "@0xlelouch_",
-      "created_at": "2026-02-24T11:00:01.000Z",
-      "url": "https://twitter.com/i/web/status/2026250760393310696",
-      "like_count": 377,
-      "bookmark_count": 290,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026181715094602099",
-      "text": "Nobody cares what course you bought.\n\nBuild something.\n\n• A Rate Limiter → understand real backend control\n• A Job Queue → learn async like a grown engineer\n• A Mini Search Engine → indexing > tutorials\n• A CLI Budget Tool → edge cases will humble you\n• A Feature Flag System → think like a product dev\n• A Log Parser → patterns, timestamps, real data\n• A Simple Cache Layer → performance mindset\n• A Cron Email Script → automation > motivation\n\nThis is how you become dangerous.\nNot by watching. By shipping.\n\nBookmark this. Come back in 6 months.",
-      "author_name": "404G",
-      "author_handle": "@404G_",
-      "created_at": "2026-02-24T06:25:40.000Z",
-      "url": "https://twitter.com/i/web/status/2026181715094602099",
-      "like_count": 1005,
-      "bookmark_count": 1323,
-      "images": [],
-      "_date": "2026-02-24"
-    },
-    {
-      "id": "2026054603825971460",
-      "text": "This is the best time to be a competent and knowledgeable software engineer.\n\nWhile everyone else is vibe coding, study the fundamentals and read books.\n\n1. Designing Data Intensive Applications \n2. Operating Systems: Three Easy Pieces\n3. A Philosophy of Software Design\n4. System Design Interview: An Insider‘s Guide",
-      "author_name": "Ben X",
-      "author_handle": "@Benn_X1",
-      "created_at": "2026-02-23T22:00:34.000Z",
-      "url": "https://twitter.com/i/web/status/2026054603825971460",
-      "like_count": 1055,
-      "bookmark_count": 1313,
-      "images": [],
-      "_date": "2026-02-23"
-    },
-    {
-      "id": "2025429326703783981",
-      "text": "C++ distributed systems background\n\nI found a job in one week\n\ngg no re https://t.co/ZzC9EEyS0F",
-      "author_name": "skooks",
-      "author_handle": "@skooookum",
-      "created_at": "2026-02-22T04:35:56.000Z",
-      "url": "https://twitter.com/i/web/status/2025429326703783981",
-      "like_count": 3722,
-      "bookmark_count": 1349,
-      "images": [],
-      "_date": "2026-02-22"
     }
   ],
   "Watches": [
@@ -8267,6 +9488,230 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2026-02-24"
     }
   ],
+  "Tollywood & Bollywood": [
+    {
+      "id": "2080190890476486751",
+      "text": "🤣🤣🤣 https://t.co/4qSRMREVI2",
+      "author_name": "అతడు",
+      "author_handle": "@vinays_369",
+      "created_at": "2026-07-23T07:18:51.000Z",
+      "url": "https://twitter.com/i/web/status/2080190890476486751",
+      "like_count": 6270,
+      "bookmark_count": 546,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HN5SlOObAAA7uML.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-07-23"
+    },
+    {
+      "id": "2027994744966811711",
+      "text": "Golden hour in the city of Ram. https://t.co/20kDHi9ZYQ",
+      "author_name": "Sidharth II सिद्धार्थ",
+      "author_handle": "@sidharthgehlot",
+      "created_at": "2026-03-01T06:30:00.000Z",
+      "url": "https://twitter.com/i/web/status/2027994744966811711",
+      "like_count": 845,
+      "bookmark_count": 38,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCLraC4aoAA9S41.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCLraCwbgAAAXiJ.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCLraCuaYAADTW4.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027723497372586030",
+      "text": "Oozing Royalty is an understatement. \n\n@iamRashmika @TheDeverakonda https://t.co/X8DrgpXENL",
+      "author_name": "Likitha.",
+      "author_handle": "@SRKTweetDiary",
+      "created_at": "2026-02-28T12:32:09.000Z",
+      "url": "https://twitter.com/i/web/status/2027723497372586030",
+      "like_count": 1383,
+      "bookmark_count": 144,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrUwasAEQIc4.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrVPbYAAQPWj.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrVdbEAQnchi.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCPrrVKbEAEGkVC.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027679650873278772",
+      "text": "https://t.co/sh09vT5O2A",
+      "author_name": "౨ৎ",
+      "author_handle": "@desimusereverie",
+      "created_at": "2026-02-28T09:37:55.000Z",
+      "url": "https://twitter.com/i/web/status/2027679650873278772",
+      "like_count": 3165,
+      "bookmark_count": 307,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCPD5aBW0AA2gb7.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2027641587061428658",
+      "text": "this frame steals it all 🥹🤚🏻 https://t.co/9KPJgcTxDu",
+      "author_name": "keerthie",
+      "author_handle": "@DeverakondaFb",
+      "created_at": "2026-02-28T07:06:40.000Z",
+      "url": "https://twitter.com/i/web/status/2027641587061428658",
+      "like_count": 2885,
+      "bookmark_count": 490,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCOhRvpa4AALQDw.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-28"
+    },
+    {
+      "id": "2026668771830804924",
+      "text": "For years our stories pushed the limits of our canvas. Today we stretch it further. \n\nExcited to launch A&M MoCap Lab, \nIndia’s largest Motion Capture facility at @AnnapurnaStudios set up in collaboration with @mihiravisualabs and @Animatrik\n\nLooking forward for storytellers to explore its limitless potential in animation, live action, gaming and more.",
+      "author_name": "rajamouli ss",
+      "author_handle": "@ssrajamouli",
+      "created_at": "2026-02-25T14:41:03.000Z",
+      "url": "https://twitter.com/i/web/status/2026668771830804924",
+      "like_count": 22987,
+      "bookmark_count": 1259,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026668186486321160/img/HySNqAQ7Hl7-dxxc.jpg",
+          "type": "video",
+          "video_url": "https://video.twimg.com/amplify_video/2026668186486321160/vid/avc1/3840x2160/FCDd7hqFAOuazwbL.mp4"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026663414311911704",
+      "text": "1978 wasn’t ready for zeenat aman. https://t.co/Llt7kiF2jF",
+      "author_name": "alina 🇪🇸",
+      "author_handle": "@90sAlinaa",
+      "created_at": "2026-02-25T14:19:46.000Z",
+      "url": "https://twitter.com/i/web/status/2026663414311911704",
+      "like_count": 16172,
+      "bookmark_count": 3136,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HCAnlNXWoAAZ4PD.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HCAnlNUWIAAcXPb.jpg",
+          "type": "photo"
+        }
+      ],
+      "_date": "2026-02-25"
+    },
+    {
+      "id": "2026291643905888564",
+      "text": "Ee photo chusthe oka fun fact gurthocchindhi\n\nStraight 4 big hits paddaka thammudu occhindhi with blockbuster response. Fattumani 15 rojullo manodu 1st movie thoney avg talk tho kukkani kottinatlu kottyadu pawalani 😍\n\ne TFI seat naadhe anukunnodni kaalla Kindha yesi nalipesadu🙏 https://t.co/U4sZEBVc6G",
+      "author_name": "BATMAN 🦇",
+      "author_handle": "@BabuAnteBabuYe",
+      "created_at": "2026-02-24T13:42:29.000Z",
+      "url": "https://twitter.com/i/web/status/2026291643905888564",
+      "like_count": 710,
+      "bookmark_count": 38,
+      "images": [],
+      "_date": "2026-02-24"
+    },
+    {
+      "id": "tt_7559861243335429390",
+      "text": "My Diwali vision coming to life 🪔 ✨🪔✨",
+      "author_name": "Sanjanaa",
+      "author_handle": "@sanjanaa_s",
+      "created_at": "2025-10-11T07:22:55Z",
+      "url": "https://www.tiktok.com/@sanjanaa_s/video/7559861243335429390",
+      "like_count": 25400,
+      "bookmark_count": "1877",
+      "comment_count": 28,
+      "share_count": 1434,
+      "view_count": 269800,
+      "images": [
+        {
+          "url": "media/tiktok/7559861243335429390/7559861243335429390_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7559861243335429390/7559861243335429390.mp4"
+        }
+      ],
+      "duration": 5,
+      "_date": "2025-10-11"
+    },
+    {
+      "id": "tt_7557986580032392479",
+      "text": "Living With A Superstar SRK - PART - 4 #srk #shahrukhkhan ",
+      "author_name": "TheKingArchives",
+      "author_handle": "@srkianunbothered",
+      "created_at": "2025-10-06T06:08:35Z",
+      "url": "https://www.tiktok.com/@srkianunbothered/video/7557986580032392479",
+      "like_count": 728,
+      "bookmark_count": "120",
+      "comment_count": 8,
+      "share_count": 42,
+      "view_count": 24600,
+      "images": [
+        {
+          "url": "media/tiktok/7557986580032392479/7557986580032392479_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7557986580032392479/7557986580032392479.mp4"
+        }
+      ],
+      "duration": 298,
+      "_date": "2025-10-06"
+    },
+    {
+      "id": "tt_7539805231815707934",
+      "text": "🫶🏽#browntiktok #fyp #browngirl #pakistani_tik_tok #viral ",
+      "author_name": "browngirlyy8",
+      "author_handle": "@browngirlyy8",
+      "created_at": "2025-08-18T06:15:43Z",
+      "url": "https://www.tiktok.com/@browngirlyy8/video/7539805231815707934",
+      "like_count": 122400,
+      "bookmark_count": "14251",
+      "comment_count": 537,
+      "share_count": 12000,
+      "view_count": 1300000,
+      "images": [
+        {
+          "url": "media/tiktok/7539805231815707934/7539805231815707934_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7539805231815707934/7539805231815707934.mp4"
+        }
+      ],
+      "duration": 9,
+      "_date": "2025-08-18"
+    }
+  ],
   "Cars": [
     {
       "id": "2028100594750165212",
@@ -8451,164 +9896,6 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 7,
       "_date": "2025-11-27"
-    }
-  ],
-  "Tollywood & Bollywood": [
-    {
-      "id": "2080190890476486751",
-      "text": "🤣🤣🤣 https://t.co/4qSRMREVI2",
-      "author_name": "అతడు",
-      "author_handle": "@vinays_369",
-      "created_at": "2026-07-23T07:18:51.000Z",
-      "url": "https://twitter.com/i/web/status/2080190890476486751",
-      "like_count": 6270,
-      "bookmark_count": 546,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HN5SlOObAAA7uML.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-07-23"
-    },
-    {
-      "id": "2027994744966811711",
-      "text": "Golden hour in the city of Ram. https://t.co/20kDHi9ZYQ",
-      "author_name": "Sidharth II सिद्धार्थ",
-      "author_handle": "@sidharthgehlot",
-      "created_at": "2026-03-01T06:30:00.000Z",
-      "url": "https://twitter.com/i/web/status/2027994744966811711",
-      "like_count": 845,
-      "bookmark_count": 38,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCLraC4aoAA9S41.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCLraCwbgAAAXiJ.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCLraCuaYAADTW4.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027723497372586030",
-      "text": "Oozing Royalty is an understatement. \n\n@iamRashmika @TheDeverakonda https://t.co/X8DrgpXENL",
-      "author_name": "Likitha.",
-      "author_handle": "@SRKTweetDiary",
-      "created_at": "2026-02-28T12:32:09.000Z",
-      "url": "https://twitter.com/i/web/status/2027723497372586030",
-      "like_count": 1383,
-      "bookmark_count": 144,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCPrrUwasAEQIc4.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCPrrVPbYAAQPWj.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCPrrVdbEAQnchi.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCPrrVKbEAEGkVC.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027679650873278772",
-      "text": "https://t.co/sh09vT5O2A",
-      "author_name": "౨ৎ",
-      "author_handle": "@desimusereverie",
-      "created_at": "2026-02-28T09:37:55.000Z",
-      "url": "https://twitter.com/i/web/status/2027679650873278772",
-      "like_count": 3165,
-      "bookmark_count": 307,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCPD5aBW0AA2gb7.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2027641587061428658",
-      "text": "this frame steals it all 🥹🤚🏻 https://t.co/9KPJgcTxDu",
-      "author_name": "keerthie",
-      "author_handle": "@DeverakondaFb",
-      "created_at": "2026-02-28T07:06:40.000Z",
-      "url": "https://twitter.com/i/web/status/2027641587061428658",
-      "like_count": 2885,
-      "bookmark_count": 490,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCOhRvpa4AALQDw.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-28"
-    },
-    {
-      "id": "2026668771830804924",
-      "text": "For years our stories pushed the limits of our canvas. Today we stretch it further. \n\nExcited to launch A&M MoCap Lab, \nIndia’s largest Motion Capture facility at @AnnapurnaStudios set up in collaboration with @mihiravisualabs and @Animatrik\n\nLooking forward for storytellers to explore its limitless potential in animation, live action, gaming and more.",
-      "author_name": "rajamouli ss",
-      "author_handle": "@ssrajamouli",
-      "created_at": "2026-02-25T14:41:03.000Z",
-      "url": "https://twitter.com/i/web/status/2026668771830804924",
-      "like_count": 22987,
-      "bookmark_count": 1259,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/amplify_video_thumb/2026668186486321160/img/HySNqAQ7Hl7-dxxc.jpg",
-          "type": "video",
-          "video_url": "https://video.twimg.com/amplify_video/2026668186486321160/vid/avc1/3840x2160/FCDd7hqFAOuazwbL.mp4"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026663414311911704",
-      "text": "1978 wasn’t ready for zeenat aman. https://t.co/Llt7kiF2jF",
-      "author_name": "alina 🇪🇸",
-      "author_handle": "@90sAlinaa",
-      "created_at": "2026-02-25T14:19:46.000Z",
-      "url": "https://twitter.com/i/web/status/2026663414311911704",
-      "like_count": 16172,
-      "bookmark_count": 3136,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HCAnlNXWoAAZ4PD.jpg",
-          "type": "photo"
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HCAnlNUWIAAcXPb.jpg",
-          "type": "photo"
-        }
-      ],
-      "_date": "2026-02-25"
-    },
-    {
-      "id": "2026291643905888564",
-      "text": "Ee photo chusthe oka fun fact gurthocchindhi\n\nStraight 4 big hits paddaka thammudu occhindhi with blockbuster response. Fattumani 15 rojullo manodu 1st movie thoney avg talk tho kukkani kottinatlu kottyadu pawalani 😍\n\ne TFI seat naadhe anukunnodni kaalla Kindha yesi nalipesadu🙏 https://t.co/U4sZEBVc6G",
-      "author_name": "BATMAN 🦇",
-      "author_handle": "@BabuAnteBabuYe",
-      "created_at": "2026-02-24T13:42:29.000Z",
-      "url": "https://twitter.com/i/web/status/2026291643905888564",
-      "like_count": 710,
-      "bookmark_count": 38,
-      "images": [],
-      "_date": "2026-02-24"
     }
   ],
   "Relationship": [
@@ -8852,6 +10139,72 @@ window.BOOKMARK_CATEGORIES = {
       "_date": "2025-11-25"
     },
     {
+      "id": "tt_7557779503347518751",
+      "text": "Dead hand for 30 day full part | yellow dude fan #calisthenics #yellowdude #deadhand #homeworkout #foryoupage ",
+      "author_name": "Fitness dude",
+      "author_handle": "@ydfitness27",
+      "created_at": "2025-10-05T16:44:44Z",
+      "url": "https://www.tiktok.com/@ydfitness27/video/7557779503347518751",
+      "like_count": 214300,
+      "bookmark_count": "43734",
+      "comment_count": 456,
+      "share_count": 4933,
+      "view_count": 3300000,
+      "images": [
+        {
+          "url": "media/tiktok/7557779503347518751/7557779503347518751_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7557779503347518751/7557779503347518751.mp4"
+        }
+      ],
+      "duration": 561,
+      "_date": "2025-10-05"
+    },
+    {
+      "id": "tt_7553340712277036291",
+      "text": "Winter Arc. #lifeplanner #planner #journal #fyp #foryou #podcastclips #podcast #melrobbins #melrobbinspodcast #winterarc #lockin #winter #fitness ",
+      "author_name": "The Discipline Club",
+      "author_handle": "@thedisciplineclub",
+      "created_at": "2025-09-23T17:39:44Z",
+      "url": "https://www.tiktok.com/@thedisciplineclub/video/7553340712277036291",
+      "like_count": 198900,
+      "bookmark_count": "26491",
+      "comment_count": 519,
+      "share_count": 12700,
+      "view_count": 1200000,
+      "images": [
+        {
+          "url": "media/tiktok/7553340712277036291/7553340712277036291_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7553340712277036291/7553340712277036291.mp4"
+        }
+      ],
+      "duration": 12,
+      "_date": "2025-09-23"
+    },
+    {
+      "id": "tt_7552965099510713632",
+      "text": "Cinema + cardio - that’s it for today ✌🏼 #goals #fyp ",
+      "author_name": "Gooise Mannen",
+      "author_handle": "@gooisemannen",
+      "created_at": "2025-09-22T17:22:35Z",
+      "url": "https://www.tiktok.com/@gooisemannen/video/7552965099510713632",
+      "like_count": 54200,
+      "bookmark_count": "4345",
+      "comment_count": 135,
+      "share_count": 5056,
+      "view_count": 403000,
+      "images": [
+        {
+          "url": "media/tiktok/7552965099510713632/7552965099510713632_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7552965099510713632/7552965099510713632.mp4"
+        }
+      ],
+      "duration": 9,
+      "_date": "2025-09-22"
+    },
+    {
       "id": "tt_7228372888326278406",
       "text": "My friend told me yesterday: “I don’t want to be 70 yrs old and be a vegetable” 🍅 Two things he can do to avoid that: 1. Resistance training to build muscle 2. Walk every day 3. ⭐️ A daily mobility routine 📌 Save this routine and do it every day if you want to feel and move 10 years younger.",
       "author_name": "Darren Liu | Fitness Coach",
@@ -8872,30 +10225,6 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 90,
       "_date": "2023-05-01"
-    }
-  ],
-  "Food Recipes": [
-    {
-      "id": "tt_7565481088072600854",
-      "text": "un dimanche soir d’automne, au fourneau ",
-      "author_name": "levetatete",
-      "author_handle": "@levetatete",
-      "created_at": "2025-10-26T10:50:36Z",
-      "url": "https://www.tiktok.com/@levetatete/video/7565481088072600854",
-      "like_count": 22300,
-      "bookmark_count": "2015",
-      "comment_count": 45,
-      "share_count": 1446,
-      "view_count": 110900,
-      "images": [
-        {
-          "url": "media/tiktok/7565481088072600854/7565481088072600854_thumb.jpg",
-          "type": "video",
-          "video_url": "media/tiktok/7565481088072600854/7565481088072600854.mp4"
-        }
-      ],
-      "duration": 59,
-      "_date": "2025-10-26"
     }
   ],
   "Music": [
@@ -8920,6 +10249,170 @@ window.BOOKMARK_CATEGORIES = {
       ],
       "duration": 17,
       "_date": "2025-10-28"
+    },
+    {
+      "id": "tt_7562020237034507534",
+      "text": "This outro thou…#fy #viral #torylanez ",
+      "author_name": "Jr",
+      "author_handle": "@fidelmar_jr11",
+      "created_at": "2025-10-17T03:01:12Z",
+      "url": "https://www.tiktok.com/@fidelmar_jr11/video/7562020237034507534",
+      "like_count": 181700,
+      "bookmark_count": "22895",
+      "comment_count": 272,
+      "share_count": 4812,
+      "view_count": 1000000,
+      "images": [
+        {
+          "url": "media/tiktok/7562020237034507534/7562020237034507534_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7562020237034507534/7562020237034507534.mp4"
+        }
+      ],
+      "duration": 25,
+      "_date": "2025-10-16"
+    },
+    {
+      "id": "tt_7561876184972184862",
+      "text": "Moon undah water #for #you #page #onefromtheheart1981 #pumablue ",
+      "author_name": "Rare",
+      "author_handle": "@rare2012",
+      "created_at": "2025-10-16T17:41:50Z",
+      "url": "https://www.tiktok.com/@rare2012/video/7561876184972184862",
+      "like_count": 48900,
+      "bookmark_count": "13149",
+      "comment_count": 331,
+      "share_count": 2456,
+      "view_count": 275200,
+      "images": [
+        {
+          "url": "media/tiktok/7561876184972184862/7561876184972184862_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7561876184972184862/7561876184972184862.mp4"
+        }
+      ],
+      "duration": 26,
+      "_date": "2025-10-16"
+    },
+    {
+      "id": "tt_7559300168470875414",
+      "text": "Only @djoonclub Paris 🔥 Throwback to the last Troy Movement party ! With  Mad L Sow , @SAM YUDAT @YugsonHawks  See you for the next one…👀  #Troymovement 16.11.25 at Djoon  📀 Auditorium by Mos Def aka @yasiinbey (feat @therulernyc )",
+      "author_name": "Djoon",
+      "author_handle": "@djoonclub",
+      "created_at": "2025-10-09T19:05:28Z",
+      "url": "https://www.tiktok.com/@djoonclub/video/7559300168470875414",
+      "like_count": 218800,
+      "bookmark_count": "35722",
+      "comment_count": 2447,
+      "share_count": 15200,
+      "view_count": 1400000,
+      "images": [
+        {
+          "url": "media/tiktok/7559300168470875414/7559300168470875414_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7559300168470875414/7559300168470875414.mp4"
+        }
+      ],
+      "duration": 19,
+      "_date": "2025-10-09"
+    }
+  ],
+  "Food Recipes": [
+    {
+      "id": "tt_7565481088072600854",
+      "text": "un dimanche soir d’automne, au fourneau ",
+      "author_name": "levetatete",
+      "author_handle": "@levetatete",
+      "created_at": "2025-10-26T10:50:36Z",
+      "url": "https://www.tiktok.com/@levetatete/video/7565481088072600854",
+      "like_count": 22300,
+      "bookmark_count": "2015",
+      "comment_count": 45,
+      "share_count": 1446,
+      "view_count": 110900,
+      "images": [
+        {
+          "url": "media/tiktok/7565481088072600854/7565481088072600854_thumb.jpg",
+          "type": "video",
+          "video_url": "media/tiktok/7565481088072600854/7565481088072600854.mp4"
+        }
+      ],
+      "duration": 59,
+      "_date": "2025-10-26"
+    },
+    {
+      "id": "tt_7557964966444223775",
+      "text": "These foods are essential if u want to get big as a vegetarian",
+      "author_name": "Cash | Vegetarian Gym Coach",
+      "author_handle": "@cashxfitness",
+      "created_at": "2025-10-06T04:44:40Z",
+      "url": "https://www.tiktok.com/@cashxfitness/photo/7557964966444223775",
+      "like_count": 3699,
+      "bookmark_count": "762",
+      "comment_count": 86,
+      "share_count": 178,
+      "view_count": 77600,
+      "images": [
+        {
+          "url": "media/tiktok/7557964966444223775/7557964966444223775_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557964966444223775/7557964966444223775_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557964966444223775/7557964966444223775_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7557964966444223775/7557964966444223775_04.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7557964966444223775/7557964966444223775.mp3",
+      "_date": "2025-10-06"
+    },
+    {
+      "id": "tt_7556673800314686733",
+      "text": "everything I eat erryday #protein #wholedayofeating ",
+      "author_name": "Dre",
+      "author_handle": "@dreiangio",
+      "created_at": "2025-10-02T17:14:39Z",
+      "url": "https://www.tiktok.com/@dreiangio/photo/7556673800314686733",
+      "like_count": 31500,
+      "bookmark_count": "8308",
+      "comment_count": 228,
+      "share_count": 293,
+      "view_count": 376700,
+      "images": [
+        {
+          "url": "media/tiktok/7556673800314686733/7556673800314686733_01.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556673800314686733/7556673800314686733_02.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556673800314686733/7556673800314686733_03.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556673800314686733/7556673800314686733_04.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556673800314686733/7556673800314686733_05.jpg",
+          "type": "photo"
+        },
+        {
+          "url": "media/tiktok/7556673800314686733/7556673800314686733_06.jpg",
+          "type": "photo"
+        }
+      ],
+      "audio_url": "media/tiktok/7556673800314686733/7556673800314686733.mp3",
+      "_date": "2025-10-02"
     }
   ],
   "History": [
